@@ -1,0 +1,998 @@
+144	36	33	73	57	a cloudy blue sky	തെളിഞ്ഞ നീലാകാശം
+202	486	266	41	50	window of a building	ഒരു കെട്ടിടത്തിന്റെ വിൻഡോ
+388	5	219	792	377	A dark grey computer desk with drawers.	ഡ്രോയറുകളുള്ള ഇരുണ്ട ചാരനിറത്തിലുള്ള കമ്പ്യൂട്ടർ ഡെസ്ക്.
+724	364	320	152	171	four legged steel chair on ground	നിലത്ത് നാല് കാലുകളുള്ള ഉരുക്ക് കസേര
+728	73	402	108	156	Man riding a bicycle down a street	തെരുവിൽ സൈക്കിൾ ചവിട്ടുന്ന മനുഷ്യൻ
+835	438	329	272	123	these cars are parked on the dirt	ഈ കാറുകൾ അഴുക്കിൽ പാർക്ക് ചെയ്തിരിക്കുന്നു
+838	180	17	309	126	white clouds in the sky	ആകാശത്ത് വെളുത്ത മേഘങ്ങൾ
+879	0	166	155	354	set of glass doors	ഗ്ലാസ് വാതിലുകളുടെ ഗണം
+914	98	22	351	51	the projector screen rolled up	പ്രൊജക്ടർ സ്ക്രീൻ ചുരുട്ടി വെച്ചിരിക്കുന്നു
+1000	643	245	105	253	man wearing a gray sweater	ചാരനിറത്തിലുള്ള സ്വെറ്റർ ധരിച്ച മനുഷ്യൻ
+1270	120	86	167	144	man wearing red shirt	ചുവന്ന ഷർട്ട് ധരിച്ച മനുഷ്യൻ
+1359	262	163	104	196	The spoon is on the table.	സ്പൂൺ മേശപ്പുറത്തുണ്ട്.
+1381	178	360	49	52	Small child sitting in a stroller.	സ്‌ട്രോളറിൽ ഇരിക്കുന്ന ചെറിയ കുട്ടി.
+1402	224	429	48	74	a hanging piece of paper	തൂക്കിയിട്ട ഒരു കടലാസ്
+1415	0	495	227	94	The shadow of the tree	മരത്തിന്റെ നിഴൽ
+1468	101	102	680	384	a black SUV	ഒരു കറുത്ത എസ്‌യുവി
+1525	591	472	52	46	a white mouse	ഒരു വെളുത്ത മൗസ്
+1728	4	169	20	32	car on the road	റോഡിൽ കാർ
+1747	377	328	362	270	man wearing blue and white striped shirt	നീലയും വെള്ളയും വരയുള്ള ഷർട്ട് ധരിച്ച മനുഷ്യൻ
+1983	2	1	595	601	white wall with wood molding	വുഡൻ മോൾഡിംഗ് ഉള്ള വെളുത്ത മതിൽ
+2087	373	66	345	420	the house is beige in color	ബീജ് നിറമുളള വീട്
+2224	170	266	74	59	wheel on the van	വാനിലെ ചക്രം
+2233	325	316	24	26	Driver side mirror of the vehicle.	വാഹനത്തിന്റെ ഡ്രൈവർ സൈഡിലുളള മിറർ.
+2554	2	90	233	491	The tan building to the left	ഇടതുവശത്തുള്ള ടാൻ കെട്ടിടം
+2654	173	127	30	27	ear of a cheetah	ഒരു ചീറ്റയുടെ ചെവി
+2997	8	79	342	477	Metal pole is arched	വളഞ്ഞു നില്ക്കുന്ന മെറ്റൽ പോൾ
+3021	358	318	180	85	a parked white car	പാർക്ക് ചെയ്ത വെളുത്ത കാർ
+3058	365	261	227	142	Advertisement on side of bus	ബസ്സിന്റെ വശത്ത് പരസ്യം
+3116	160	488	85	49	a sewer lid	ഒരു മലിനജല ലിഡ്
+3314	157	318	341	142	blue colored SUV	നീല നിറമുള്ള എസ്‌യുവി
+3322	43	194	292	253	White car on the sidewalk	ഫുട്പാത്തിൽ വെളുത്ത കാർ
+3464	58	113	29	62	window on a building	ഒരു കെട്ടിടത്തിലെ വിൻഡോ
+3469	2	286	38	26	car on the road	വർണ്ണാഭമായ സ്കാർഫ് ധരിച്ച ഒരു സ്ത്രീ
+3572	325	296	117	72	stapler on office floor	ഓഫീസ് തറയിലെ സ്റ്റാപ്ലർ
+3579	304	203	93	113	The man is in yellow shirt.	മഞ്ഞ ഷർട്ടിട്ട മനുഷ്യൻ
+3585	0	65	43	52	car parked next to sidewalk	കാർ നടപ്പാതയുടെ അരികിൽ നിർത്തി ഇട്ടിരിക്കുന്നു
+4068	179	23	47	58	A wall on the side of a building	ഒരു കെട്ടിടത്തിന്റെ വശത്ത് ഒരു മതിൽ
+4173	286	144	75	93	A wall on the side of a building	ഒരു കെട്ടിടത്തിന്റെ വശത്ത് ഒരു മതിൽ
+4201	420	289	45	61	The dirt path up the hillside	കുന്നിൻ മുകളിലേക്കുള്ള അഴുക്ക് പാത
+4266	286	30	75	93	A wall on the side of a building	ഒരു കെട്ടിടത്തിന്റെ വശത്ത് ഒരു മതിൽ
+4374	5	390	104	72	a metal picnic table bench	ഒരു മെറ്റൽ പിക്നിക് ടേബിൾ ബെഞ്ച്
+4462	189	225	34	36	white water fall on rock	പാറയിൽ പതിക്കുന്നു വെള്ളം
+4609	637	21	46	59	window on the building	കെട്ടിടത്തിലെ വിൻഡോ
+4638	117	277	40	24	a drawer on the dresser	ഡ്രെസ്സറിൽ ഒരു ഡ്രോയർ
+4821	66	22	432	331	White bowl is on the white plate.	വെളുത്ത ബൗള് വെളുത്ത പ്ലേറ്റിലാണ്.
+4876	137	100	36	44	A wall on the side of a building	ഒരു കെട്ടിടത്തിന്റെ വശത്ത് ഒരു മതിൽ
+61577	9	152	20	18	tree off in the distance behind the elephant	ആനയുടെ പുറകിലുള്ള മരം
+61598	137	169	35	48	the white bandage on the head of the man	മനുഷ്യന്റെ തലയിലെ വെളുത്ത ബാൻഡേജ്
+107907	76	470	605	46	row of many stones	നിരവധി കല്ലുകളുടെ വരി
+150334	62	177	613	845	Happy woman in a floral dress.	ഫ്ലോറൽ വസ്ത്രം ധരിച്ച സ്ത്രീ.
+150471	345	26	275	190	grey and white sky	ചാരനിറത്തിലും വെളുത്ത നിറത്തിലുമുള്ള ആകാശം
+150527	87	478	207	239	black cow standing in field	വയലിൽ നിൽക്കുന്ന കറുത്ത പശു
+150539	204	176	327	245	a double decker bus	ഒരു ഡബിൾ ഡെക്കർ ബസ്
+285708	2	0	1016	766	countertop with a granite type pattern	ഗ്രാനൈറ്റ് തരം പാറ്റേൺ ഉള്ള കൗണ്ടർടോപ്പ്
+285828	567	396	261	275	A dusty brown toilet.	പൊടി നിറഞ്ഞ തവിട്ടുനിറമുളള ടോയ്‌ലറ്റ്.
+286041	274	414	109	90	Orange carrot being peeled	ഓറഞ്ച് കാരറ്റിന്റെ തൊലി കളയുന്നു
+497993	0	176	106	245	a lady in a red shirt	ചുവന്ന ഷർട്ടിൽ ധരിച്ച ഒരു സ്ത്രീ
+498018	721	23	250	808	woman with sunglasses holding a cellphone	സെൽഫോൺ കൈവശമുള്ള സൺഗ്ലാസ്സ് ധരിച്ച സ്ത്രീ
+498052	20	560	130	175	A black trash can	ഒരു കറുത്ത ചവറ്റുകുട്ട
+498056	73	51	854	485	these are large ships	ഇവ വലിയ കപ്പലുകളാണ്
+498121	719	83	160	206	the head of a woman	ഒരു സ്ത്രീയുടെ തല
+498277	44	116	227	539	the boy swinging the racquet	ആൺകുട്ടി റാക്കറ്റ് സ്വിംഗ് ചെയ്യുന്നു
+498309	530	196	64	35	shiny black helmet with white	വെളുത്ത തിളങ്ങുന്ന കറുത്ത ഹെൽമെറ്റ്
+713264	163	510	43	75	skateboarder is standing outside	സ്കേറ്റ്ബോർഡർ പുറത്ത് നിൽക്കുന്നു
+713359	75	174	389	526	a person is sitting down	ഒരു വ്യക്തി ഇരിക്കുന്നു
+713537	477	150	248	292	monitor is on a desk	മോണിറ്റർ മേശപ്പുറത്താണ്
+713656	159	124	51	27	window is clean and clear	വിൻഡോ വൃത്തിയുള്ളതും വ്യക്തവുമാണ്
+713786	388	680	90	86	Blue coat on a person.	ഒരു വ്യക്തിയിൽ നീല കോട്ട്.
+1159389	50	0	377	681	a white Christmas tree	ഒരു വെളുത്ത ക്രിസ്മസ് ട്രീ
+1159413	179	244	785	392	a black pickup truck is parked	ഒരു കറുത്ത പിക്കപ്പ് ട്രക്ക് പാർക്ക് ചെയ്തിരിക്കുന്നു
+1159432	169	287	430	146	large yellow firetruck	വലിയ മഞ്ഞ ഫയർ‌ട്രക്ക്
+1159433	434	479	77	67	light on a truck	ഒരു ട്രക്കിന്റെ വെളിച്ചം
+1159599	243	370	355	427	a stack of suitcases	സ്യൂട്ട്കേസുകളുടെ ഒരു ശേഖരം
+1159617	108	188	193	577	a man on skis	സ്കീസിൽ ഒരു മനുഷ്യൻ
+1159633	146	330	185	84	a blue shade for the boaters	ബോട്ടറുകളുടെ ഒരു നീല നിഴൽ
+1159727	226	500	236	308	white door	വെളുത്ത വാതിൽ
+1159817	592	386	21	95	A red lightpost	ഒരു ചുവന്ന ലൈറ്റ്പോസ്റ്റ്
+1159994	297	31	114	238	a boy wearing a green shirt	പച്ച ഷർട്ട് ധരിച്ച ഒരു കുട്ടി
+1160043	52	86	933	564	this is a group of people	ഇതൊരു കൂട്ടം ആളുകളാണ്
+1160157	67	189	634	392	white and yellow old bus	വെള്ളയും മഞ്ഞയും നിറമുളള ഒരു പഴയ ബസ്
+1591917	469	408	108	163	A puppy in a kitchen	അടുക്കളയിൽ ഒരു നായ്ക്കുട്ടി
+1592060	281	497	152	201	Stuffed red and white teddy bear	ചുവപ്പും വെള്ളയും സ്റ്റഫ് ചെയ്ത ടെഡി ബിയർ
+1592270	401	136	326	361	man unwrapping a flat screen TV	ഒരു ഫ്ലാറ്റ് സ്ക്രീൻ ടിവി അഴിക്കുന്ന മനുഷ്യൻ
+1592799	316	471	20	20	a yellow tennis ball	വർണ്ണാഭമായ സ്കാർഫ് ധരിച്ച ഒരു സ്ത്രീ
+1592907	70	431	950	236	bananas are all green	വാഴപ്പഴം എല്ലാം പച്ചയാണ്
+1593090	459	238	415	526	The woman wearing red	ചുവപ്പ് ധരിച്ച സ്ത്രീ
+1593131	719	86	174	475	snow covered electric traffic signal	മഞ്ഞ് മൂടിയ ഇലക്ട്രിക് ട്രാഫിക് സിഗ്നൽ
+1593252	264	361	336	661	aqua and white sign on street	തെരുവിൽ അക്വാ, വൈറ്റ് ചിഹ്നം
+2315410	7	83	357	350	bacon and glazed donut sandwich	ബേക്കൺ, ഗ്ലേസ്ഡ് ഡോനട്ട് സാൻഡ്‌വിച്ച്
+2315885	278	161	103	236	a white surfboard	ഒരു വെളുത്ത സർഫ്ബോർഡ്
+2315913	0	2	295	428	two elephants walking through a grassy pasture	പുൽമേട്ടിലൂടെ നടക്കുന്ന രണ്ട് ആനകൾ
+2315980	36	162	51	64	Red traffic signal in the air	വായുവിൽ ചുവന്ന ട്രാഫിക് സിഗ്നൽ
+2316098	88	320	146	54	The cat has a black tail	പൂച്ചയ്ക്ക് കറുത്ത വാൽ ഉണ്ട്
+2316248	131	213	111	23	an orange cat in the window	വിൻഡോയിൽ ഒരു ഓറഞ്ച് പൂച്ച
+2316292	223	133	8	23	traffic light displaying green	ട്രാഫിക് ലൈറ്റ് പച്ച പ്രദർശിപ്പിക്കുന്നു
+2316301	344	213	122	100	Brown cat sleeping on floor.	തവിട്ടുനിറത്തിലുള്ള പൂച്ച തറയിൽ ഉറങ്ങുന്നു.
+2316384	1	211	332	251	Man sitting in a field of grass and flowers	പുല്ലും പുഷ്പങ്ങളും നിറഞ്ഞ വയലിൽ ഇരിക്കുന്ന മനുഷ്യൻ
+2316411	102	232	95	200	Boy in red helmet standing on skateboard	ചുവന്ന ഹെൽമെറ്റ് ധരിച്ച പയ്യൻ സ്കേറ്റ്ബോർഡിൽ നിൽക്കുന്നു
+2316412	1	0	485	329	A ribbon cutting event.	ഒരു റിബൺ കട്ടിംഗ് ഇവന്റ്.
+2317010	190	30	260	105	yellow flowers in vase	പൂത്തട്ടത്തിലെ മഞ്ഞ പൂക്കൾ
+2317086	36	94	167	135	elephant with a baby elephant	ആനക്കുട്ടിയുമായി ആന
+2317326	231	151	135	89	a plaid umbrella	ഒരു പ്ലെയ്ഡ് കുട
+2317334	391	220	25	38	street light under bridge	സ്ട്രീറ്റ് ലൈറ്റ് അണ്ടർ ബ്രിഡ്ജ്
+2317624	50	64	318	262	The restaurant is Tomasino's.	ടോമാസിനോയുടെയാണ് റെസ്റ്റോറന്റ്.
+2317776	107	73	375	135	two men surfing together	രണ്ടുപേർ ഒരുമിച്ച് സർഫിംഗ് ചെയ്യുന്നു
+2317915	4	44	386	455	A man drinking.	ഒരാൾ കുടിക്കുന്നു.
+2318095	130	160	226	125	a dark brown wooden bench	ഇരുണ്ട തവിട്ടുനിറത്തിലുള്ള വുഡൻ ബെഞ്ച്
+2318207	130	104	215	237	VIEW IN A VBEDROOKM	ഒരു വിബെഡ്റൂക്കിൽ നിന്നുള്ള കാഴ്ച
+2318324	276	302	71	90	blender uis white in color	വെളുത്ത നിറത്തിലുളള ബ്ലെൻഡർ
+2318347	15	157	332	297	A retro dining table set	ഒരു റെട്രോ ഡൈനിംഗ് ടേബിൾ സെറ്റ്
+2318360	2	28	311	366	statue of elephant	ആനയുടെ പ്രതിമ
+2318543	4	4	421	487	birthday cake on table	ജന്മദിന കേക്ക് മേശപ്പുറത്ത്
+2318638	42	130	264	275	the man standing on the rocks	പാറകളിൽ നിൽക്കുന്ന മനുഷ്യൻ
+2318697	128	168	92	76	Dark brown bird seated on a stone	കല്ലിൽ ഇരിക്കുന്ന ഇരുണ്ട തവിട്ട് നിറമുളള പക്ഷി
+2318905	38	93	156	121	a black laptop	ഒരു കറുത്ത ലാപ്‌ടോപ്പ്
+2318964	235	149	19	59	Tall bulding view from a clock.	ഒരു ക്ലോക്കിൽ നിന്നുള്ള ഉയർന്ന ബൾഡിംഗിന്റെ കാഴ്ച.
+2318982	80	181	73	148	his outfit is blue	അവന്റെ വസ്ത്രം നീലയാണ്
+2319037	340	28	15	22	This is a bird	ഇതൊരു പക്ഷിയാണ്
+2319080	94	32	117	115	head of a person	നിലത്ത് കറുത്ത പുള്ളി
+2319137	119	455	20	43	Two people standing in the water.	രണ്ടുപേർ വെള്ളത്തിൽ നിൽക്കുന്നു.
+2319168	175	138	123	236	woman with red hair feeding giraffes	ചുവന്ന മുടിയുള്ള സ്ത്രീ ജിറാഫുകളെ തീറ്റുന്നു
+2319194	28	196	137	100	this is a motorcycle	ഇതൊരു മോട്ടോർസൈക്കിളാണ്
+2319263	175	215	111	98	head of a sheep	ആടിന്റെ തല
+2319388	206	116	9	13	brown spot on giraffe	ജിറാഫിന്റെ തവിട്ട് പുള്ളി
+2319411	9	7	476	374	a team of hoses pulling a wagon	ഒരു വണ്ടി വലിക്കുന്ന ഹോസുകളുടെ ഒരു കൂട്ടം
+2319627	272	273	11	18	woman wearing white shirt	വെളുത്ത ഷർട്ട് ധരിച്ച സ്ത്രീ
+2319644	57	115	124	53	this is a bowl	ഇതൊരു പാത്രമാണ്
+2319721	26	53	379	295	Duck in the water	വെള്ളത്തിൽ താറാവ്
+2319741	25	183	34	23	grass on a field	വയലിൽ പുല്ല്
+2319911	228	180	48	107	woman wearing a long blue dress	നീളമുള്ള നീല വസ്ത്രം ധരിച്ച സ്ത്രീ
+2320056	348	1	70	160	a glass with beer in it	ഒരു ഗ്ലാസ് ബിയർ
+2320093	242	218	212	39	a large boat in the water	വെള്ളത്തിൽ ഒരു വലിയ ബോട്ട്
+2320179	119	276	10	14	pebbles between the tracks.	ട്രാക്കുകൾക്കിടയിൽ കല്ലുകൾ.
+2320476	248	267	17	34	ear is on dog	നായയുടെ ചെവി
+2320624	207	122	112	157	person carrying a green and blue umbrella	പച്ചയും നീലയും കുടയുള്ള വ്യക്തി
+2320649	79	128	251	104	Large group of people	വലിയൊരു കൂട്ടം ആളുകൾ
+2320967	254	105	55	172	a grey and red neck tie	ചാരനിറത്തിലും ചുവപ്പ് നിറത്തിലുള്ള ടൈ
+2321081	6	101	228	227	a pile of sliced bananas	അരിഞ്ഞ വാഴപ്പഴത്തിന്റെ കൂമ്പാരം
+2321095	240	2	30	25	a stripe on pole	പോളിൽ ഒരു വര
+2321277	24	16	328	469	cat on top of bag	ബാഗിന് മുകളിൽ പൂച്ച
+2321561	2	253	345	107	wooden fence in a lot	ധാരാളം തടി വേലി
+2321562	191	0	250	368	a boy holding his fridge door open	ഫ്രിഡ്ജ് വാതിൽ തുറന്നു പിടിച്ചിരിക്കുന്ന ഒരു കുട്ടി
+2321635	196	55	97	152	This is a person	ചാരനിറത്തിലുള്ള റോഡിന്റെ വശങ്ങളിൽ പച്ച പുല്ലിന്റെ സ്ട്രിപ്പുകൾ
+2321639	69	18	260	396	man in a ski race	ഒരു സ്കൈ ഓട്ടത്തിലെ മനുഷ്യൻ
+2321781	303	125	166	216	woman sitting on a bed	ഒരു കട്ടിലിൽ ഇരിക്കുന്ന സ്ത്രീ
+2321810	94	153	51	102	A bird is feeding on a plant.	ഒരു പക്ഷി ഒരു ചെടി തിന്നുന്നു
+2322232	0	2	372	425	man taking a picture of his food	മനുഷ്യൻ തന്റെ ഭക്ഷണത്തിന്റെ ചിത്രമെടുക്കുന്നു
+2322270	168	65	48	85	red high heeled shoe	ഉയർന്ന ഹീൽഡ് റെഡ് ഷൂ
+2322274	61	36	36	45	The helmet on the mans head.	മനുഷ്യന്റെ തലയിലെ ഹെൽമെറ്റ്.
+2322304	158	186	225	145	blue couch in the living room	സ്വീകരണമുറിയിലെ നീല കിടക്ക
+2322309	127	185	212	150	this is a computer	ഇതൊരു കമ്പ്യൂട്ടറാണ്
+2322382	56	265	71	38	a skateboard tilted up	ഒരു സ്കേറ്റ്ബോർഡ് മുകളിലേക്ക് ചരിച്ചു വച്ചിരിക്കുന്നു
+2322455	152	165	89	95	heart shaped food in middle of plate	പ്ലേറ്റിന് നടുവിൽ ഹൃദയത്തിന്റെ ആകൃതിയിലുള്ള ഭക്ഷണം
+2322672	265	267	10	43	the tail of the giraffe	ജിറാഫിന്റെ വാൽ
+2322699	136	86	43	51	tag on a cow's ear	പശുവിന്റെ ചെവിയിലെ ടാഗ്
+2322890	36	94	70	57	this is a sign	ഇത് ഒരു അടയാളമാണ്
+2322928	369	257	42	37	tire on the bus	ബസിന്റെ ടയർ
+2323313	190	81	95	26	a woman's dark brown sunglasses	ഒരു സ്ത്രീയുടെ ഇരുണ്ട ബ്രൗൺ സൺഗ്ലാസുകൾ
+2323369	74	88	386	352	a cat in the picture	ചിത്രത്തിലെ ഒരു പൂച്ച
+2323472	19	86	80	129	a light on a pole	ഒരു പോളിൽ ഒരു പ്രകാശം
+2323487	129	165	41	41	green leaf on tree	മരത്തിലെ പച്ച ഇല
+2323506	330	68	18	17	man wearing black pants	കറുത്ത പാന്റ്സ് ധരിച്ച മനുഷ്യൻ
+2323670	79	52	327	221	the cake is coverd by green vegetbles	കേക്ക് പച്ച പച്ചക്കറികളാൽ മൂടപ്പെട്ടിരിക്കുന്നു
+2323965	166	6	189	198	a bright red stop sign	ഒരു ചുവന്ന സ്റ്റോപ്പ് ചിഹ്നം
+2324069	240	95	60	25	a small orange toy kit	ഒരു ചെറിയ ഓറഞ്ച് കളിപ്പാട്ട കിറ്റ്
+2324083	185	144	198	135	Woman and dog walking on the beach	കടൽത്തീരത്ത് നടക്കുന്ന സ്ത്രീയും നായയും
+2324214	211	182	67	52	a red and white stop sign	ചുവപ്പും വെള്ളയും ഉള്ള ഒരു സ്റ്റോപ്പ് ചിഹ്നം
+2324311	68	135	246	73	a purple tooth brush	ഒരു പർപ്പിൾ ടൂത്ത് ബ്രഷ്
+2324657	132	196	20	13	woman wearing white skirt	വെളുത്ത പാവാട ധരിച്ച സ്ത്രീ
+2324812	151	151	20	47	phone in man's hand	മനുഷ്യന്റെ കയ്യിൽ ഫോൺ
+2324876	168	39	149	347	A young orange giraffe.	ഒരു യുവ ഓറഞ്ച് ജിറാഫ്.
+2324920	173	254	67	36	lemon on the plate	പ്ലേറ്റിൽ നാരങ്ങ
+2324952	98	41	107	127	skateboarder doing trick	സ്കേറ്റ്ബോർഡർ ട്രിക്ക് ചെയ്യുന്നു
+2325421	296	40	22	36	cross hanging above doorway	ക്രോസ്സ് വാതിലിനു മുകളിൽ തൂക്കിയിരിക്കുന്നു
+2325489	223	133	240	163	pizza with mushrooms and cheese	കൂൺ, ചീസ് എന്നിവ ഉള്ള പിസ്സ
+2325571	463	239	17	13	the ring on the man's finger	മനുഷ്യന്റെ വിരലിലെ മോതിരം
+2325607	145	111	288	144	man in boat	ബോട്ടിലുള്ള മനുഷ്യൻ
+2325681	11	45	322	147	red boat	ചുവന്ന ബോട്ട്
+2325953	386	175	31	17	Ripples in the water	വെള്ളത്തിലെ അലകൾ
+2326040	148	20	139	114	four people riding on the elephant	ആനയിൽ സവാരി ചെയ്യുന്ന നാലുപേർ
+2326144	35	110	185	232	a black and grey keyboard	കറുപ്പും ചാരനിറത്തിലുള്ള കീബോർഡ്
+2326307	93	103	262	163	Skier in different positions	വ്യത്യസ്ത സ്ഥാനങ്ങളിൽ സ്കീയർ
+2326380	2	55	489	102	The metal bridge.	മെറ്റൽ പാലം.
+2326588	114	110	251	80	these are the boats	ഇവ ബോട്ടുകളാണ്
+2326590	3	5	490	324	The photo is in black and white	ഫോട്ടോ ബ്ലോക്ക് ആൻഡ് വൈറ്റ് ആണ്
+2326592	343	77	15	18	red color hat of the player	കളിക്കാരന്റെ ചുവപ്പ് നിറമുള്ള തൊപ്പി
+2326644	271	107	147	235	one shiny metal toilet	ഒരു തിളങ്ങുന്ന മെറ്റൽ ടോയ്‌ലറ്റ്
+2326650	230	11	49	37	light above protesting sign	പ്രതിഷേധ ചിഹ്നത്തിന് മുകളിലുള്ള വെളിച്ചം
+2326724	40	93	41	60	Green kite over the sky	ആകാശത്ത് പച്ച കൈറ്റ്
+2326783	258	84	44	52	Large horn on animal's head.	മൃഗത്തിന്റെ തലയിൽ ഒരു വലിയ കൊമ്പ്.
+2326792	1	1	496	372	cakes are on display	കേക്കുകൾ പ്രദർശിപ്പിച്ചിരിക്കുന്നു
+2326901	121	217	13	17	The letter is white.	വെളുത്ത അക്ഷരം
+2326902	95	196	320	130	this is a pizza	ഇതൊരു പിസ്സയാണ്
+2326955	298	170	32	60	part of a loine	അരയുടെ ഭാഗം
+2326960	89	157	169	166	man is on a bike	മനുഷ്യൻ ഒരു ബൈക്കിലാണ്
+2327017	145	92	20	17	the hat is black	കറുത്ത തൊപ്പി
+2327179	345	169	12	41	yellow stripe on dress	വസ്ത്രത്തിൽ മഞ്ഞ വര
+2327244	139	154	60	49	bird walking in water	പക്ഷി വെള്ളത്തിൽ നടക്കുന്നു
+2327368	137	139	170	127	the headlights on a bike	ഒരു ബൈക്കിലെ ഹെഡ്ലൈറ്റുകൾ
+2327429	0	261	374	237	Building with a clock tower on top.	മുകളിൽ ഒരു ക്ലോക്ക് ടവർ ഉള്ള കെട്ടിടം.
+2327463	106	165	215	147	a train on train tracks	ട്രെയിൻ ട്രാക്കുകളിൽ ഒരു ട്രെയിൻ
+2327534	94	67	143	184	This is a cake	ഇതൊരു കേക്ക് ആണ്
+2327655	75	28	184	295	Tennis player	ടെന്നീസ് താരം
+2328144	131	23	204	70	Ceiling fan	സീലിംഗ് ഫാൻ
+2328169	367	14	43	47	A yellow skateboarding helmet	മഞ്ഞ സ്കേറ്റ്ബോർഡിംഗ് ഹെൽമെറ്റ്
+2328337	223	235	84	47	a person riding a bike	ബൈക്ക് ഓടിക്കുന്ന ഒരാൾ
+2328389	123	337	20	43	green bunch of bananas lying on ground	പച്ചനിറത്തിലുള്ള വാഴപ്പഴം നിലത്തു കിടക്കുന്നു
+2328539	380	41	119	58	Plane in the sky	ആകാശത്ത് വിമാനം
+2328577	188	72	127	138	man doing tricks in air	മനുഷ്യൻ വായുവിൽ തന്ത്രങ്ങൾ ചെയ്യുന്നു
+2328675	71	16	392	315	people playing a soccer match	ഒരു സോക്കർ മത്സരം കളിക്കുന്ന ആളുകൾ
+2328747	80	0	312	209	stop sign on the paper	പേപ്പറിൽ സ്റ്റോപ്പ് അടയാളം
+2328761	186	97	29	17	WOMAN WEARING SUNGLASSES	സൺഗ്ലാസുകൾ ധരിച്ച സ്ത്രീ
+2328956	117	200	102	135	a small green bush	ഒരു ചെറിയ പച്ച മുൾപടർപ്പു
+2329021	67	7	358	313	A sliced fresh orange	പുതിയ ഓറഞ്ച് അരിഞ്ഞത്
+2329098	344	316	17	54	candle on a cake	ഒരു കേക്കിൽ മെഴുകുതിരി
+2329165	157	84	20	21	the hydrant is rusty	ജലാംശം തുരുമ്പിച്ചതാണ്
+2329245	132	203	71	71	this is a plane	ഇതൊരു വിമാനമാണ്
+2329277	12	100	319	390	A group of people snowboarding.	ഒരു കൂട്ടം ആളുകൾ സ്നോബോർഡിംഗ് ചെയ്യുന്നു
+2329360	142	103	120	77	Plane in the air.	വായുവിൽ വിമാനം.
+2329367	164	236	46	30	the frisbee in front of the man	മനുഷ്യന്റെ മുന്നിലുള്ള ഫ്രിസ്ബീ
+2329800	64	19	122	194	skiers	സ്കീയർമാർ
+2329980	122	245	66	77	The person in a scooter	ഒരു സ്കൂട്ടറിലെ വ്യക്തി
+2330018	264	81	235	146	White and red model airplane	വെള്ള, ചുവപ്പ് മോഡൽ വിമാനം
+2330049	163	125	20	22	the black eye of a giraffee	ജിറാഫിന്റെ കറുത്ത കണ്ണ്
+2330084	142	135	22	32	person standing in water	വെള്ളത്തിൽ നിൽക്കുന്ന വ്യക്തി
+2330098	71	74	305	168	teenager on a surfboard	ഒരു സർഫ്ബോർഡിലെ കൗമാരക്കാരൻ
+2330107	73	283	20	20	Orange eye on a gray bird	ചാരനിറത്തിലുള്ള പക്ഷിക്ക് ഓറഞ്ച് കണ്ണ്
+2330447	95	14	384	305	this is a stop sign	ഇതൊരു സ്റ്റോപ്പ് ചിഹ്നമാണ്
+2330490	15	44	444	272	three elephants in a row	തുടർച്ചയായി മൂന്ന് ആനകൾ ഒരു വരിയിൽ
+2330573	62	81	435	236	a person in a canoe in a corn field	ഒരു കോൺ വയലിലെ കാനോയിൽ ഒരാൾ
+2331044	400	235	8	8	part of a swamp	ഒരു ചതുപ്പുനിലത്തിന്റെ ഭാഗം
+2331062	80	94	232	237	people playing baseball	ബേസ്ബോൾ കളിക്കുന്ന ആളുകൾ
+2331169	6	1	490	184	clouds in daytime sky	പകൽ ആകാശത്ത് മേഘങ്ങൾ
+2331172	194	111	207	207	a bus on the road	റോഡിൽ ഒരു ബസ്
+2331256	287	354	15	46	framed picture on wall	ചുവരിൽ ഫ്രെയിം ചെയ്ത ചിത്രം
+2331294	111	48	28	41	black lit sign	കറുത്ത ലിറ്റ് അടയാളം
+2331694	9	90	458	184	people playing tennis	ആളുകൾ ടെന്നീസ് കളിക്കുന്നു
+2331870	0	44	406	454	a slice of pizza	ഒരു കഷ്ണം പിസ്സ
+2331928	201	177	34	43	the pants are white	വെളുത്ത പാന്റ്സ് ആണ്
+2331978	44	58	153	216	this is a lady	ഇത് ഒരു സ്ത്രീയാണ്
+2332028	38	103	460	94	this is a red train	ഇതൊരു ചുവന്ന ട്രെയിനാണ്
+2332090	92	4	129	243	woman is holding frisbee	ഫ്രിസ്ബീ പിടിച്ചിരിക്കുന്ന സ്ത്രീ
+2332256	174	88	325	201	a white microwave with an open door	വാതിൽ തുറന്ന വെളുത്ത മൈക്രോവേവ്
+2332287	224	123	139	148	A red stop sign	ഒരു ചുവന്ന സ്റ്റോപ്പ് ചിഹ്നം
+2332336	121	78	228	132	person standing on a board	ഒരു ബോർഡിൽ നിൽക്കുന്ന വ്യക്തി
+2332343	60	119	70	70	this is a bird	ഇതൊരു പക്ഷിയാണ്
+2332515	247	281	108	218	a toilet in a bathroom	കുളിമുറിയിൽ ഒരു ടോയ്‌ലറ്റ്
+2332557	192	39	128	148	head of a person	ഒരു വ്യക്തിയുടെ തല
+2332769	92	182	113	165	a white wedding cake	ഒരു വെളുത്ത വിവാഹ കേക്ക്
+2333155	326	156	45	41	cow standing on beach	കടൽത്തീരത്ത് നിൽക്കുന്ന പശു
+2333296	135	86	262	167	cow in the street	തെരുവിൽ നില്ക്കുന്ന പശു
+2333560	221	352	26	16	black stripe on zebra	സീബ്രയുടെ കറുത്ത വര
+2333667	152	290	182	206	Fruit on top of a round wooden tray.	ഒരു വൃത്താകൃതിയിലുള്ള മരം ട്രേയുടെ മുകളിൽ ഇരിക്കുന്ന ഫലം.
+2333715	129	90	170	172	tee shirt is orange	ടീ ഷർട്ട് ഓറഞ്ച് ആണ്
+2333917	0	96	371	397	Two children holding tennis racquets	ടെന്നീസ് റാക്കറ്റുകൾ കൈവശമുള്ള രണ്ട് കുട്ടികൾ
+2334609	76	0	208	193	a black pair of scissors	ഒരു കറുത്ത ജോടി കത്രിക
+2335136	178	112	320	98	This is an airplane	ഇതൊരു വിമാനമാണ്
+2335306	290	266	10	4	LADY HAS ON PANTS	ലേഡി പാൻറ്റ്സ് ധരിച്ചിരിക്കുന്നു
+2335378	106	47	313	219	A black bear on white rocks	വെളുത്ത പാറകളിൽ ഒരു കറുത്ത കരടി
+2335651	131	90	67	25	one diamond ring on left ring finger	ഇടത് മോതിര വിരലിൽ ഒരു ഡയമണ്ട് മോതിരം
+2335698	239	169	122	192	Black chair at the desk	മേശപ്പുറത്ത് കറുത്ത കസേര
+2335725	15	61	460	255	two laptops sitting next to each other	രണ്ട് ലാപ്ടോപ്പുകൾ അടുത്ത് ഇരിക്കുന്നു
+2335816	159	128	65	37	A banana in a container	ഒരു പാത്രത്തിൽ ഒരു വാഴപ്പഴം
+2335841	24	160	42	85	There is a bright blue water right here	ശോഭയുള്ള നീലവെള്ളം ഇവിടെയുണ്ട്
+2335872	175	187	62	19	Centrebus on front of bus	ബസിന് മുന്നിൽ സെന്റർബ്രസ്
+2336082	89	156	130	92	People horses on beach.	കടൽത്തീരത്ത് കുതിര പുറത്ത് ആളുകൾ
+2336204	138	119	200	142	two birds are kissing	രണ്ട് പക്ഷികൾ ചുംബിക്കുന്നു
+2336292	234	277	27	12	the home plate on the baseball field	ബേസ്ബോൾ മൈതാനത്തെ ഹോം പ്ലേറ്റ്
+2336354	443	179	18	15	head of a person	നിലത്ത് കറുത്ത പുള്ളി
+2336531	98	8	395	360	This is a wine event.	ഇതൊരു വൈൻ ഇവന്റാണ്.
+2336567	322	6	79	92	An overhead hanging light fixture	ഒരു ഓവർഹെഡ് ഹാംഗിംഗ് ലൈറ്റ് ഫിക്ചർ
+2336602	60	12	372	258	a plane flying in the air	വായുവിൽ പറക്കുന്ന ഒരു വിമാനം
+2336718	223	48	24	27	the nose of a woman	ഒരു സ്ത്രീയുടെ മൂക്ക്
+2336792	326	173	135	138	little girl standing near a younger boy	ഒരു കൊച്ചു പെൺകുട്ടി ഇളയ കുട്ടിയുടെ അടുത്ത് നിൽക്കുന്നു
+2336988	190	27	207	202	person on the surfboard	സർഫ്ബോർഡിലെ വ്യക്തി
+2337042	209	218	55	47	green food in pan	ചട്ടിയിൽ പച്ച ഭക്ഷണം
+2337207	416	439	83	49	the wall behind the clock	ക്ലോക്കിന് പിന്നിലെ മതിൽ
+2337273	2	1	371	494	a considerable amount of snow has fallen	ഗണ്യമായ അളവിൽ മഞ്ഞ് വീഴുന്നു
+2337451	79	154	131	94	woman riding on a blue surfboard	നീല സർഫ്ബോർഡിൽ സവാരി ചെയ്യുന്ന സ്ത്രീ
+2337512	255	138	12	19	White smoke from the train	ട്രെയിനിൽ നിന്ന് വെളുത്ത പുക
+2337541	37	59	60	42	white clouds in blue sky	നീലാകാശത്തിൽ വെളുത്ത മേഘങ്ങൾ
+2337581	109	84	380	230	this is a cow	ചാരനിറത്തിലുള്ള റോഡിന്റെ വശങ്ങളിൽ പച്ച പുല്ലിന്റെ സ്ട്രിപ്പുകൾ
+2337687	145	152	32	34	the arrow is pointing left	അമ്പടയാളം ഇടത്തേക്ക് ചൂണ്ടുന്നു
+2337934	35	141	35	13	Small puddle of water on the pavement	നടപ്പാതയിലെ ചെറിയ വെള്ളക്കെട്ട്
+2338052	3	79	460	196	a street car	ഒരു തെരുവ് കാർ
+2338232	144	276	131	177	A cat is sitting in the grass.	ഒരു പൂച്ച പുല്ലിൽ ഇരിക്കുന്നു.
+2338342	96	128	287	80	a small airplane	ഒരു ചെറിയ വിമാനം
+2338430	97	18	175	167	large and brown elephant	വലുതും തവിട്ടുനിറത്തിലുള്ളതുമായ ആന
+2338607	366	250	104	74	a man holding a pink hat	പിങ്ക് തൊപ്പി പിടിച്ചിരിക്കുന്ന ഒരാൾ
+2338611	0	62	497	326	the train is color gray	കളർ ഗ്രേ ട്രെയിൻ
+2338625	200	188	227	113	the impalas are drinking water	ഇംപാലുകൾ വെള്ളം കുടിക്കുന്നു
+2338743	93	236	80	110	this is a person	ഇത് ഒരു വ്യക്തിയാണ്
+2338804	175	223	39	54	skier in a blue jacket from above	മുകളിൽ നിന്ന് നീല ജാക്കറ്റിൽ സ്കീയർ
+2338944	306	238	82	42	the white toilet seat	വെളുത്ത ടോയ്‌ലറ്റ് സീറ്റ്
+2339065	186	90	275	250	soap is in the bowl	സോപ്പ് പാത്രത്തിൽ ഉണ്ട്
+2339095	345	339	154	157	White cloud in sky	ആകാശത്ത് വെളുത്ത മേഘം
+2339333	8	8	480	272	a group of men riding horses	ഒരു കൂട്ടം ആളുകൾ കുതിര സവാരി ചെയ്യുന്നു
+2339391	153	48	260	160	Slices of cooked sausage	വേവിച്ച സോസേജ് കഷ്ണങ്ങൾ
+2339478	270	137	25	30	White animal walking in field.	വയലിൽ നടക്കുന്ന വെളുത്ത മൃഗം.
+2339525	182	100	118	147	a giraffe crossing a road	ഒരു ജിറാഫി റോഡ് മുറിച്ചുകടക്കുന്നു
+2339585	82	51	385	234	people playing some frisbee	കുറച്ച് ഫ്രിസ്‌ബീ കളിക്കുന്ന ആളുകൾ
+2339816	69	80	360	238	Elephant with white tusks.	വെളുത്ത കൊമ്പുകളുള്ള ആന.
+2339819	128	13	143	49	an oblong window on a train	ട്രെയിനിലെ നീളമേറിയ വിൻഡോ
+2340000	194	112	271	140	silver train	സിൽവർ ട്രെയിൻ
+2340102	1	23	418	350	Elephant eating from woman's bowl.	സ്ത്രീയുടെ പാത്രത്തിൽ നിന്ന് ആന കഴിക്കുന്നു.
+2340507	272	77	104	12	Yellow and black stick in the snow.	മഞ്ഞിൽ മഞ്ഞയും കറുപ്പും നിറമുളള വടി.
+2340544	50	54	13	23	an electrical outlet on the wall	ചുമരിൽ ഒരു വൈദ്യുത ഔട്ട്‌ലെറ്റ്
+2340649	155	199	144	100	Elephants walking toward the trees	മരങ്ങളിലേക്ക് നടക്കുന്ന ആനകൾ
+2340768	26	33	192	195	an open laptop	ഒരു തുറന്ന ലാപ്‌ടോപ്പ്
+2340795	69	18	186	233	a cross on top a tower	ഒരു ഗോപുരത്തിന് മുകളിൽ ഒരു കുരിശ്
+2340806	218	6	247	160	The sky is blue.	നീല ആകാശം
+2340930	216	132	64	52	giraffe drinking at lake edge	തടാകത്തിന്റെ അരികിൽ ജിറാഫ് വെള്ളം കുടിക്കുന്നു
+2340984	42	70	285	300	A man holding a cell phone.	ഒരു സെൽ ഫോൺ കൈവശമുള്ള ഒരാൾ.
+2341043	324	197	44	22	Silver bracelet around woman's neck.	സ്ത്രീയുടെ കഴുത്തിൽ വെള്ളി ബ്രേസ്ലറ്റ്.
+2341223	179	276	69	183	a black vase	ഒരു കറുത്ത വേസ്
+2341305	177	327	21	27	Yellow stand on top of bus stop.	ബസ് സ്റ്റോപ്പിന് മുകളിൽ ഉള്ള മഞ്ഞ സ്റ്റാൻഡ്.
+2341402	3	9	326	489	a woman preparing a meal	ഭക്ഷണം തയ്യാറാക്കുന്ന ഒരു സ്ത്രീ
+2341866	141	175	109	204	a boy sitting on a chair	ഒരു കസേരയിൽ ഇരിക്കുന്ന ഒരു കുട്ടി
+2342003	112	19	370	353	a mother and calf	ഒരു അമ്മയും കുട്ടിയും
+2342174	10	16	484	473	a plate of food	ഒരു പ്ലേറ്റ് ഭക്ഷണം
+2342228	370	218	39	156	black pole in air	കറുത്ത പോൾ വായുവിൽ
+2342231	54	33	389	265	a metal plate on a white surface	വെളുത്ത പ്രതലത്തിൽ ഒരു മെറ്റൽ പ്ലേറ്റ്
+2342266	207	8	74	309	plane's body is red	വിമാനത്തിന്റെ ബോഡി ചുവന്നതാണ്
+2342389	76	339	150	126	woman is holding a phone	സ്ത്രീ ഒരു ഫോൺ പിടിച്ചിരിക്കുന്നു
+2342540	2	258	271	235	textured tan carpeting covering floor	ടെക്സ്ചർഡ് ടാൻ പരവതാനി ഫ്ലോറിനെ കവർ ചെയ്യുന്നു
+2342810	154	25	341	215	the man is flying a kite	മനുഷ്യൻ ഒരു പട്ടം പറപ്പിക്കുന്നു
+2342932	0	25	307	348	a cat wearing a collar	കോളർ ധരിച്ച പൂച്ച
+2342948	238	59	117	171	man playing tennis	മനുഷ്യൻ ടെന്നീസ് കളിക്കുന്നു
+2342990	134	369	79	47	Man wearing shoes	ചെരുപ്പ് ധരിച്ച മനുഷ്യൻ
+2343056	135	136	195	57	red train under bridge	റെഡ് ട്രെയിൻ യൂണിർ ബ്രിഡ്ജ്
+2343446	184	144	157	127	horse on stone road	സ്റ്റോൺ റോഡിൽ കുതിര
+2343505	3	172	250	180	plastic tarp on food cart	ഫുഡ് കാർട്ടിൽ പ്ലാസ്റ്റിക് ടാർപ്പ്
+2343518	49	175	47	27	Man has brown hair.	മനുഷ്യന് തവിട്ട് നിറമുള്ള മുടിയുണ്ട്.
+2343524	350	107	100	125	empty referee chair	ശൂന്യമായ റഫറി കസേര
+2343553	156	79	127	159	dark skinned man on a surf board	കറുത്ത തൊലിയുള്ള മനുഷ്യൻ സർഫ് ബോർഡിൽ
+2343745	10	12	200	113	a bunch of apples	ഒരു കൂട്ടം ആപ്പിൾ
+2343771	352	220	95	112	this is a horse	ഇതൊരു കുതിരയാണ്
+2343812	99	261	174	235	this is a ski lodge	ഇതൊരു സ്കൈ ലോഡ്ജാണ്
+2344003	133	211	307	90	black bear in grass	കറുത്ത കരടി പുല്ലിൽ
+2344068	147	188	57	55	a man riding the horse	കുതിര സവാരി ചെയ്യുന്ന ഒരാൾ
+2344259	178	37	25	27	this is the wall	ഇതാണ് മതിൽ
+2344311	172	382	133	83	hot dog on a bun	ഹോട്ട് ഡോഗ് ഒരു ബണ്ണിൽ
+2344379	376	361	63	23	the antenna of a phone	ഒരു ഫോണിന്റെ ആന്റിന
+2344666	167	62	116	22	the word Ambulans	ആംബുലൻസ് എന്ന വാക്ക്
+2344806	92	169	49	55	Man sitting down on a step	മനുഷ്യൻ താഴെ ഒരു പടിയിൽ ഇരിക്കുന്നു
+2344950	27	72	413	179	truck in the grass	പുല്ലിൽ ട്രക്ക്
+2345256	307	365	85	51	Man on a skateboard	സ്കേറ്റ്ബോർഡിലെ മനുഷ്യൻ
+2345278	37	170	145	143	this is a motorcycle	ചാരനിറത്തിലുള്ള റോഡിന്റെ വശങ്ങളിൽ പച്ച പുല്ലിന്റെ സ്ട്രിപ്പുകൾ
+2345324	121	73	75	196	Volkswagons hanging on the wall	ചുവരിൽ തൂക്കിയിട്ടിരിക്കുന്ന ഫോക്‌സ്‌വാഗണുകൾ
+2345343	23	73	475	208	An elderly couple sitting at the table	പ്രായമായ ദമ്പതികൾ മേശപ്പുറത്ത് ഇരിക്കുന്നു
+2345373	307	188	57	25	paper on the couch	കട്ടിലിൽ കടലാസ്
+2345682	102	157	106	172	zebra sniffing the ground	നിലത്തു സ്നിഫ് ചെയ്യുന്നു സീബ്ര
+2345695	228	56	102	42	black sunglasses on man's face	മനുഷ്യന്റെ മുഖത്ത് കറുത്ത സൺഗ്ലാസുകൾ
+2345751	346	273	141	142	tire on a motorcycle	മോട്ടോർ സൈക്കിളിന്റെ ടയർ
+2345780	241	13	74	47	white clouds in blue sky	ഒരു കെട്ടിടത്തിലെ വലിയ വിൻഡോ
+2345896	28	143	339	183	pews in a place of worship	ആരാധനാലയത്തിലെ പ്യൂസ്
+2345995	1	13	61	322	wood grandfather clock	മരം മുത്തച്ഛൻ ക്ലോക്ക്
+2346010	258	117	107	110	bear with sleepy expression	ഉറക്കം വരുന്ന കരടി
+2346039	98	184	10	15	blue letter on bus	ബസിലെ നീല അക്ഷരം
+2346235	77	268	97	41	Two tubes of toothpaste.	ടൂത്ത് പേസ്റ്റിന്റെ രണ്ട് ട്യൂബുകൾ.
+2346238	93	144	45	12	macbook air logo on the laptop.	ലാപ്‌ടോപ്പിലെ \ മാക്ബുക്ക് എയർ \ ലോഗോ.
+2346250	5	3	492	95	green leaves on trees	മരങ്ങളിൽ പച്ച ഇലകൾ
+2346337	197	10	117	254	Boat sitting in the water	വെള്ളത്തിൽ ഇരിക്കുന്ന ബോട്ട്
+2346377	51	30	382	272	two girls playing frisbee	ഫ്രിസ്ബീ കളിക്കുന്ന രണ്ട് പെൺകുട്ടികൾ
+2346579	42	42	158	330	Side mirror on a bus.	ബസ്സിന്റെ സൈഡ് മിറർ.
+2346716	192	108	52	73	Propeller of an engine	ഒരു എഞ്ചിന്റെ പ്രൊപ്പല്ലർ
+2346723	265	348	60	46	slice of pizza in a box	ഒരു പെട്ടിയിൽ പിസ്സ സ്ലൈസ്
+2346774	155	26	75	32	The man is wearing sunglasses.	പുരുഷൻ സൺഗ്ലാസ് ധരിച്ചിരിക്കുന്നു.
+2346940	61	0	437	250	The screen of the monitor.	മോണിറ്ററിന്റെ സ്ക്രീൻ.
+2346998	42	89	418	190	a red and white train	ചുവപ്പും വെള്ളയും നിറമുളള ട്രെയിൻ
+2347042	87	8	273	365	Childrens standing in the carpet	പരവതാനിയിൽ നിൽക്കുന്ന കുട്ടികൾ
+2347210	28	253	50	102	Wine bottles on the counter	കൗണ്ടറിൽ വൈൻ കുപ്പികൾ
+2347275	83	85	147	105	the sky is blue in colour	ആകാശം നീല നിറത്തിലാണ്
+2347449	222	214	50	88	the man is skateboarding	മനുഷ്യൻ സ്കേറ്റ്ബോർഡിംഗ് ചെയ്യുന്നു
+2347576	265	47	49	30	a black helmet	ഒരു കറുത്ത ഹെൽമെറ്റ്
+2347802	161	133	167	157	A red and white sign	ചുവപ്പും വെള്ളയും ഉള്ള അടയാളം
+2347969	96	29	18	19	rocks on a mountain side	ഒരു പർവതഭാഗത്ത് പാറകൾ
+2347985	299	36	87	57	the sun is setting	സൂര്യൻ അസ്തമിക്കുന്നു
+2348312	133	34	268	277	Man wearing a red hoodie	ചുവന്ന ഹുഡി ധരിച്ച മനുഷ്യൻ
+2348444	6	53	245	168	A crowd of people behind the car	കാറിന്റെ പുറകിൽ ഒരു കൂട്ടം ആളുകൾ
+2348558	113	146	137	90	A man getting ready to catch a frisbee.	ഒരു ഫ്രിസ്‌ബി പിടിക്കാൻ ഒരുങ്ങുന്ന ഒരാൾ.
+2348672	258	53	53	48	A clock is displayed on a building.	കെട്ടിടത്തിൽ ഒരു ക്ലോക്ക് പ്രദർശിപ്പിച്ചിരിക്കുന്നു.
+2348827	172	140	20	85	yellow banana with brown spots	തവിട്ട് പാടുകളുള്ള മഞ്ഞ വാഴപ്പഴം
+2348859	43	7	322	281	man on skateboard squating	സ്കേറ്റ്ബോർഡ് സ്ക്വിറ്റിംഗിലെ മനുഷ്യൻ
+2348926	139	232	355	95	large crowd watching horse race	കുതിരപ്പന്തയം കാണുന്ന വലിയ ജനക്കൂട്ടം
+2348986	100	228	89	131	a verizon flip cell phone	ഒരു വെറൈസൺ ഫ്ലിപ്പ് സെൽ ഫോൺ
+2349196	53	98	334	126	plane in air	വായുവിൽ വിമാനം
+2349433	324	144	35	22	red spot on apple	ആപ്പിളിലെ ചുവന്ന പുള്ളി
+2349559	225	112	192	169	bike with orange seat	ഓറഞ്ച് സീറ്റുള്ള ബൈക്ക്
+2349566	23	26	126	199	Two black square briefcases	രണ്ട് കറുത്ത ചതുര ബ്രീഫ്കേസുകൾ
+2349604	56	263	183	167	the floor is made of tiles	തറ ടൈലുകളാൽ നിർമ്മിച്ചതാണ്
+2349634	17	0	344	335	what a healthy snack	എന്തൊരു ആരോഗ്യകരമായ ലഘുഭക്ഷണം
+2349642	245	74	135	111	blue shirt on woman	സ്ത്രീയുടെ മേൽ നീല ഷർട്ട്
+2349758	206	237	48	84	the light is green	വെളിച്ചം പച്ച നിറമാണ്
+2349783	178	238	104	116	two giraffes facing opposite directions	വിപരീത ദിശയിൽ അഭിമുഖീകരിക്കുന്ന രണ്ട് ജിറാഫുകൾ
+2349800	310	18	105	82	Truck on the road.	റോഡിൽ ട്രക്ക് ഉണ്ട്
+2349812	196	45	290	80	four clocks above doorway	വാതിലിനു മുകളിൽ നാല് ക്ലോക്കുകൾ
+2349843	366	380	7	11	part of a slipper	ഒരു സ്ലിപ്പറിന്റെ ഭാഗം
+2350274	9	3	482	307	A commuter train at a train stop.	ഒരു ട്രെയിൻ സ്റ്റോപ്പിൽ ഒരു യാത്രാ ട്രെയിൻ.
+2350277	440	232	4	18	Window on the side of a building.	ഒരു കെട്ടിടത്തിന്റെ വശത്തുള്ള വിൻഡോ.
+2350279	0	3	485	70	blue of daytime sky	പകൽ ആകാശത്തിന്റെ നിറം നീല
+2350393	72	73	275	266	the bus is green	പച്ച ബസ്സ്
+2350578	205	18	98	57	A beautiful light is fixed in the wall	ഭിത്തിയിൽ മനോഹരമായ ഒരു പ്രകാശം ഉറപ്പിച്ചിരിക്കുന്നു
+2350754	143	123	54	163	giraffe behind nature items	പ്രകൃതി ഇനങ്ങൾക്ക് പിന്നിലെ ജിറാഫ്
+2350936	1	122	272	82	A fence behind the skaters	സ്കേറ്ററുകൾക്ക് പിന്നിൽ ഒരു വേലി
+2351083	10	45	482	296	A dog is laying on the floor	തറയിൽ കിടക്കുന്ന ഒരു നായ
+2351240	83	81	202	350	the man on the court	കോർട്ടിലെ മനുഷ്യൻ
+2351335	206	240	82	55	the pink bow tie has a pattern on it	പിങ്ക് ബോ ടൈയിൽ ഒരു പാറ്റേൺ ഉണ്ട്
+2351376	5	7	317	185	the umbrella is open	തുറന്നിരിക്കുന്ന കുട
+2351431	58	11	405	315	a man holding a surfboard	സർഫ്ബോർഡ് കൈവശമുള്ള ഒരാൾ
+2351432	40	210	327	208	giraffes with their head down	തല താഴ്ത്തിയ ജിറാഫുകൾ
+2351507	160	364	28	48	a white patch on a snout	വെളുത്ത പാച്ച് ഉള്ള ഒരു സ്നട്ട്
+2351581	73	1	234	242	A large zebra statue	ഒരു വലിയ സീബ്ര പ്രതിമ
+2351731	189	95	150	140	chocolate doughnut shaped like blackface with purple heart	പർപ്പിൾ ഹൃദയമുള്ള ബ്ലാക്ക്‌ഫേസ് ആകൃതിയിലുള്ള ചോക്ലേറ്റ് ഡോണട്ട്
+2351787	6	123	245	375	This is a person	ഇത് ഒരു വ്യക്തിയാണ്
+2351925	131	55	245	136	black and blue bow tie	കറുപ്പും നീലയും ബോ ടൈ
+2352107	83	57	182	280	a giraffe with a long neck	നീളമുള്ള കഴുത്ത് ഉള്ള ജിറാഫ്
+2352148	376	262	51	90	This is a park bench	ഇതൊരു പാർക്ക് ബെഞ്ചാണ്
+2352217	0	2	140	168	a chandelier light hanging from a ceiling	സീലിങ്ങിൽ നിന്ന് തൂങ്ങിക്കിടക്കുന്ന ഒരു ചാൻഡിലിയർ ലൈറ്റ്
+2352283	194	73	47	46	Cat has tan ear.	പൂച്ചയ്ക്ക് ടാൻ നിറമുളള ചെവി ഉണ്ട്.
+2352329	97	118	141	17	four propellers on plane	വിമാനത്തിന്റെ നാല് പ്രൊപ്പല്ലറുകൾ
+2352344	407	228	27	34	part of a wave	ഒരു തരംഗത്തിന്റെ ഭാഗം
+2352419	39	27	38	34	Woman wearing white visor.	വെളുത്ത വിസർ ധരിച്ച സ്ത്രീ.
+2352508	114	39	212	292	donkey on a leash	കഴുത ഒരു ചോർച്ചയിൽ
+2352598	24	108	206	222	A clock attached to a wall	ഒരു മതിൽ ഘടിപ്പിച്ചിരിക്കുന്ന ഘടികാരം
+2352667	25	12	230	125	This is an orange	ഇതൊരു ഓറഞ്ചാണ്
+2352698	140	43	282	277	a woman snowboarding down a hill	ഒരു സ്ത്രീ കുന്നിൻ മുകളിലൂടെ സ്നോബോർഡിംഗ് ചെയ്യുന്നു
+2352764	82	52	173	406	man taking image with camera	ക്യാമറ ഉപയോഗിച്ച് മനുഷ്യൻ ചിത്രം എടുക്കുന്നു
+2352811	65	66	60	72	white tower on shower door	ഷവർ വാതിലിൽ വെളുത്ത ഗോപുരം
+2352917	19	409	45	41	light shining on building	കെട്ടിടത്തിൽ പ്രകാശം തിളങ്ങുന്നു
+2353003	163	140	31	8	woman is wearing sunglasses	സ്ത്രീ സൺഗ്ലാസ്സ് ധരിച്ചിരിക്കുന്നു
+2353033	190	107	50	40	THE MAN IS WEARING A BLACK HAT	കറുത്ത തൊപ്പി ധരിച്ച മനുഷ്യൻ
+2353318	321	202	29	22	gold hear ear rings	സ്വർണ്ണ കമ്മലുകൾ
+2353464	369	262	130	100	White car on the road	റോഡിൽ വെളുത്ത കാർ
+2353476	370	151	56	30	a Frisbee on the air	വായുവിൽ ഒരു ഫ്രിസ്‌ബീ
+2353530	224	201	39	28	The man is on a surfboard.	ആ മനുഷ്യൻ സർഫ്ബോർഡിലാണ്.
+2353575	21	152	101	66	a green plastic bat in a little boy's hand	ഒരു കൊച്ചുകുട്ടിയുടെ കയ്യിൽ ഒരു പച്ച പ്ലാസ്റ്റിക് ബാറ്റ്
+2353591	53	218	387	90	unlit banner crossing a street	തെരുവിന് കുറുകെയുളള ബാനർ
+2353606	44	404	37	17	Crack on the pavement	നടപ്പാതയിലെ വിള്ളൽ
+2353786	212	15	39	37	a white and black hat on a woman's head	സ്ത്രീയുടെ തലയിൽ ബ്ലോക്ക് ആൻഡ് വൈറ്റ് തൊപ്പി
+2353827	183	25	91	230	a little boy in overalls	ഓവർഓളിൽ ഒരു കൊച്ചുകുട്ടി
+2353980	95	48	335	122	the plane is displayed	വിമാനം പ്രദർശിപ്പിച്ചിരിക്കുന്നു
+2354066	64	459	156	23	a long ski	ഒരു നീണ്ട സ്കൈ
+2354267	183	43	284	287	woman standing outside holding camera	ക്യാമറ പിടിച്ച് പുറത്ത് നിൽക്കുന്ന സ്ത്രീ
+2354388	27	357	248	93	the shadow of a skateboarder on the road	റോഡിലെ സ്കേറ്റ്ബോർഡറുടെ നിഴൽ
+2354446	77	406	91	83	this is a toilet sink	ഇതൊരു ടോയ്‌ലറ്റ് സിങ്കാണ്
+2354453	135	39	300	308	a bear is on a log	ലോഗിലുളള ഒരു കരടി
+2354514	340	236	73	95	the racquet in the woman's hand	സ്ത്രീയുടെ കയ്യിലെ റാക്കറ്റ്
+2354714	137	37	81	47	Waters of the sea	കടലിലെ ജലം
+2354880	70	162	363	220	cat lying on ground	പൂച്ച നിലത്തു കിടക്കുന്നു
+2355013	164	0	143	47	orange bowl on counter	കൗണ്ടറിലെ ഓറഞ്ച് പാത്രം
+2355104	225	111	170	198	blue vases on rocks	പാറകളിൽ നീല നിറത്തിലുള്ള പാത്രങ്ങൾ
+2355416	244	140	82	122	a skier going downhill	താഴേക്ക് പോകുന്ന ഒരു സ്കയർ
+2355462	26	164	271	165	the surfboard is yellow	സർഫ്ബോർഡ് മഞ്ഞയാണ്
+2355748	9	16	484	310	picture taken outside	പുറത്ത് എടുത്ത ചിത്രം
+2355763	170	403	21	45	Orange cone in the snow.	മഞ്ഞിനിടയിലെ ഓറഞ്ച് കോൺ.
+2355847	47	135	190	273	a man playing tennis	ടെന്നീസ് കളിക്കുന്ന ഒരാൾ
+2355875	172	98	115	177	man on bench	ബെഞ്ചിൽ ഇരിക്കുന്ന മനുഷ്യൻ
+2355936	68	27	232	272	A white sign that says Don't Honk and $350 Penalty.	ഹോങ്ക് ചെയ്യരുത്, മുന്നൂറ്റി അമ്പത് ഡോളർ പെനാൽറ്റി എന്ന് പറയുന്ന ഒരു വെളുത്ത അടയാളം.
+2355982	7	158	78	129	Man wearing a blue jacket	നീല ജാക്കറ്റ് ധരിച്ച മനുഷ്യൻ
+2355999	0	220	197	153	the fork is silver	വെള്ളി ഫോർക്ക്
+2356066	421	86	77	96	a man in a blue shirt	നീല ഷർട്ട് ധരിച്ച ഒരാൾ
+2356069	39	175	135	182	A dog is sleeping on a couch.	ഒരു നായ കട്ടിലിൽ ഉറങ്ങുകയാണ്.
+2356071	182	94	193	168	double decker bus on the road	റോഡിൽ ഡബിൾ ഡെക്കർ ബസ്
+2356219	123	244	204	62	a bus pulled over to the side of street	ഒരു ബസ് തെരുവിന്റെ വശത്തേക്ക് വലിച്ചിഴച്ചു
+2356415	145	295	97	108	this is a toilet	ഇതൊരു ടോയ്‌ലറ്റ് ആണ്
+2356474	175	129	32	40	the soldier is wearing a hat	പട്ടാളക്കാരൻ തൊപ്പി ധരിച്ചിരിക്കുന്നു
+2356583	3	9	90	137	Brown wicker outdoor chair	ബ്രൗൺ വിക്കർ ഔട്ട്‌ഡോർ കസേര
+2356640	141	117	260	146	yellow bus parked on the street	മഞ്ഞ ബസ് തെരുവിൽ പാർക്ക് ചെയ്തിരിക്കുന്നു
+2356999	79	42	270	239	dog looking out car window	കാറിന് പുറത്തേക്ക് നോക്കുന്നു നായ
+2357429	75	72	194	328	a man holding a surfboard on the beach	കടൽത്തീരത്ത് സർഫ്ബോർഡ് പിടിച്ചിരിക്കുന്ന ഒരാൾ
+2357443	0	0	339	465	Yellow flowers in a glass vase	ഒരു ഗ്ലാസ് പാത്രത്തിൽ മഞ്ഞ പൂക്കൾ
+2357942	12	67	284	112	smoke in the sky	ആകാശത്ത് പുക
+2357946	39	53	417	251	Black and white striped zebra	കറുപ്പും വെളുപ്പും വരയുള്ള സീബ്ര
+2358072	3	43	447	285	two men smiling for picture	ചിത്രത്തിനായി പുഞ്ചിരിക്കുന്ന രണ്ടുപേർ
+2358422	111	160	252	142	a bus of two cabins	രണ്ട് ക്യാബിനുകളുളള ഒരു ബസ്
+2358458	52	224	130	101	bear laying on log	ലോഗിൽ കിടക്കുന്ന കരടി
+2358556	62	103	421	201	THE BUS IS LARGE	വലിയ ബസ്
+2358789	22	34	146	167	person has white hood	വെളുത്ത ഹുഡ് ഉള്ള വ്യക്തിക്ക്
+2359157	320	108	37	35	Duck has brown eye.	താറാവിന് തവിട്ട് നിറമുള്ള കണ്ണുണ്ട്.
+2359248	93	15	182	368	group of skate boarders skating	സ്കേറ്റിംഗ് ചെയ്യുന്ന സ്കേറ്റ് ബോർഡേഴ്സ് ഗ്രൂപ്പ്
+2359354	38	259	50	24	brown water in the river	പുഴയിലെ തവിട്ടുനിറം
+2359406	48	63	29	46	blue and orange circular logo	നീലയും, ഓറഞ്ചും ഉള്ള വൃത്താകൃതിയിലുള്ള ലോഗോ
+2359512	44	202	138	207	a blue coffee cup on a table	ഒരു മേശപ്പുറത്ത് ഒരു നീല കോഫി കപ്പ്
+2359859	14	88	208	70	bird standing near the water	വെള്ളത്തിനടുത്ത് നിൽക്കുന്ന പക്ഷി
+2359869	310	101	98	163	a set of metal framed stairs	ഒരു കൂട്ടം മെറ്റൽ ഫ്രെയിം ചെയ്ത പടികൾ
+2359905	219	133	80	29	ears of a cat	ഒരു പൂച്ചയുടെ ചെവി
+2360124	104	214	24	26	The eye of the polar bear.	പോളാർ ബിയറിന്റെ കണ്ണ്.
+2360488	320	134	143	67	white wash basin fixed in the wall	ചുവരിൽ ഉറപ്പിച്ച വൈറ്റ് വാഷ് ബേസിൻ
+2360813	205	15	165	232	four bathroom mirrors on the wall	ചുമരിൽ നാല് ബാത്ത്റൂം മിററുകൾ
+2360840	113	85	182	196	man hitting a tennis ball	ടെന്നീസ് പന്ത് തട്ടുന്ന ഒരു മനുഷ്യൻ
+2360917	157	72	167	78	water spraying in fountain	ഫൗൺറ്റേയിനിൽ നിന്ന് വെള്ളം തളിക്കുന്നു
+2361157	109	336	27	24	A spill on the ground	നിലത്ത് ഒരു ചോർച്ച
+2361220	315	181	17	10	Two people carrying a board	ഒരു ബോർഡ് ചുമക്കുന്ന രണ്ടുപേർ
+2361407	153	152	15	9	part of a stomach	ആമാശയത്തിന്റെ ഭാഗം
+2361591	76	107	244	193	an elephant is walking	ഒരു ആന നടക്കുന്നു
+2361872	180	32	137	71	blue sky behind plane	വിമാനത്തിന് പിന്നിൽ നീലാകാശം
+2361881	451	168	33	67	blue plastic spray bottle on counter	കൗണ്ടറിൽ നീല പ്ലാസ്റ്റിക് സ്പ്രേ കുപ്പി
+2362200	32	190	105	27	it is the left wing on the plane	അത് വിമാനത്തിന്റെ ഇടതുപക്ഷമാണ്
+2362356	202	129	122	124	bus is driving down the road	ബസ്സ് റോഡിലൂടെ ഓടുന്നു
+2362394	200	111	74	52	neon green frisbee with pink ring	പിങ്ക് റിംഗുള്ള നിയോൺ ഗ്രീൻ ഫ്രിസ്‌ബീ
+2362560	173	7	164	193	dog with front paws on table	മേശപ്പുറത്ത് മുൻ കൈ വെച്ചിരിക്കുന്ന നായ
+2362624	138	49	342	400	A woman playing tennis.	ടെന്നീസ് കളിക്കുന്ന ഒരു സ്ത്രീ.
+2362684	0	16	497	315	a subway train	ഒരു സബ്‌വേ ട്രെയിൻ
+2362744	214	311	51	46	The carrot is orange.	കാരറ്റിന് ഓറഞ്ച് നിറമാണ്.
+2362810	318	195	24	46	part of a shade	നിഴലിന്റെ ഒരു ഭാഗം
+2362911	12	15	487	316	square dish of food	ഭക്ഷണത്തിന്റെ ചതുര വിഭവം
+2362979	120	21	155	131	these are the traffic lights	ഇവയാണ് ട്രാഫിക് ലൈറ്റുകൾ
+2363239	271	188	56	58	a catchers glove	ഒരു ക്യാച്ചറിന്റെ കയ്യുറ
+2363461	198	52	113	90	a black flat screen tv	ഒരു കറുത്ത ഫ്ലാറ്റ് സ്ക്രീൻ ടിവി
+2363523	141	85	295	237	a man and woman playing a game	ഒരു പുരുഷനും സ്ത്രീയും ഒരു ഗെയിം കളിക്കുന്നു
+2363547	199	294	34	48	the man is talking on the phone	അയാൾ ഫോണിൽ സംസാരിക്കുന്നു
+2363591	30	226	229	102	the sneaker is black	കറുത്ത സ്‌നീക്കർ
+2363650	203	138	265	199	a cat is sleeping	ഒരു പൂച്ച ഉറങ്ങുന്നു
+2363684	1	53	260	214	wooden park bench in a park	ഒരു പാർക്കിൽ വുഡൻ പാർക്ക് ബെഞ്ച്
+2363918	132	65	65	266	the pole is gray	പോൾ ചാരനിറമാണ്
+2364038	61	69	144	216	woman carrying an open umbrella	തുറന്ന കുട പിടിച്ചിരിക്കുന്ന സ്ത്രീ
+2364041	115	71	44	196	Bottle on the sign.	ചിഹ്നത്തിൽ കുപ്പി.
+2364434	12	43	198	195	Laptop computer on table	ടേബിളിൽ ഇരിക്കുന്ന ലാപ്‌ടോപ്പ് കമ്പ്യൂട്ടർ
+2364573	160	36	133	96	a flat screen tv on the wall	ചുമരിൽ ഒരു ഫ്ലാറ്റ് സ്ക്രീൻ ടിവി
+2364675	52	49	392	220	A train in the photo	ഫോട്ടോയിലെ ഒരു ട്രെയിൻ
+2364739	40	67	431	263	A fully cooked pizza	പൂർണ്ണമായും വേവിച്ച പിസ്സ
+2364807	316	348	51	138	a long white towel	നീളമുള്ള വെളുത്ത തൂവാല
+2364866	64	10	201	289	dog catching frisbee that is thrown	എറിഞ്ഞ ഫ്രിസ്‌ബിയെ പിടിക്കുന്ന നായ
+2364989	140	22	46	40	a boy wearing a blue helmet	നീല ഹെൽമെറ്റ് ധരിച്ച ഒരു കുട്ടി
+2364999	25	55	248	248	a gray and white cat	ചാരനിറത്തിലും വെളുത്ത നിറത്തിലുമുളള പൂച്ച
+2365048	192	130	133	103	a black suit coat	ഒരു കറുത്ത സ്യൂട്ടും കോട്ടും
+2365053	215	242	243	130	piece of sandwich stuff with lot of meat	ധാരാളം മാംസം അടങ്ങിയ സാൻഡ്‌വിച്ച്
+2365074	16	8	342	280	surfer riding a round wave	ഒരു റൗണ്ട് വേവിൽ ഓടിക്കുന്ന സർഫർ
+2365220	10	52	472	264	plane flying in air	വിമാനം വായുവിൽ പറക്കുന്നു
+2365409	78	156	398	209	Two twin beds pushed together	രണ്ട് ഇരട്ട കിടക്കകൾ ഒരുമിച്ച് തള്ളി വെച്ചിരിക്കുന്നു
+2365438	72	260	246	206	a black and white cow	കറുപ്പും വെളുപ്പും നിറമുളള പശു
+2365990	246	232	39	22	two people in the pool	കുളത്തിൽ രണ്ടുപേർ
+2366060	153	25	48	56	black tipped horn on giraffe's head	ജിറാഫിന്റെ തലയിൽ കറുത്ത ടിപ്പ് ഉള്ള കൊമ്പ്
+2366170	0	88	497	241	A white tablecloth.	ഒരു വെളുത്ത മേശ വിരി.
+2366189	27	140	187	190	Baby bear standing in green grass	പച്ച പുല്ലിൽ നിൽക്കുന്ന കുഞ്ഞ് കരടി
+2366275	67	100	67	210	red and gold sign on the side of the building	കെട്ടിടത്തിന്റെ വശത്ത് ചുവപ്പും സ്വർണ്ണവും അടയാളം
+2366347	280	277	39	55	an orange cone on the ground	നിലത്ത് ഒരു ഓറഞ്ച് കോൺ
+2366373	2	0	398	330	A polar bear swimming in a lake	ഒരുപോളാർ കരടി തടാകത്തിൽ നീന്തുന്നു
+2366478	181	173	160	80	a billboard sign with a woman on it	ഒരു സ്ത്രീയുമായി ഉള്ള ഒരു പരസ്യബോർഡ് അടയാളം
+2366532	23	12	450	344	a black and white photo	ബ്ലോക്ക് ആൻഡ് വൈറ്റ് ഫോട്ടോ
+2366561	378	171	120	152	the broccoli are green in color	ബ്രൊക്കോളി പച്ച നിറത്തിലാണ്
+2366641	245	23	52	157	A person waiting for a train	ട്രെയിനിനായി കാത്തിരിക്കുന്ന ഒരാൾ
+2366715	233	260	37	105	man on bike wearing a white shirt and tie	വെളുത്ത ഷർട്ടും ടൈയും ധരിച്ച ബൈക്കിൽ ഇരിക്കുന്നു മനുഷ്യൻ
+2366719	145	34	251	207	four giraffes standing together	നാല് ജിറാഫുകൾ ഒരുമിച്ച് നിൽക്കുന്നു
+2366764	166	123	48	55	blue and white sticker	നീലയും വെള്ളയും സ്റ്റിക്കർ
+2366768	255	63	196	198	A large grey elephant to the right of another	മറ്റൊരാളുടെ വലതുവശത്ത് ഒരു വലിയ ചാരനിറത്തിലുള്ള ആന
+2366778	142	341	32	21	a white tennis shoe	ഒരു വെളുത്ത ടെന്നീസ് ഷൂ
+2366929	7	157	320	169	an airplane on a runway	റൺവേയിൽ ഒരു വിമാനം
+2366938	48	34	48	57	a red helmet	ഒരു ചുവന്ന ഹെൽമെറ്റ്
+2366974	238	59	94	319	the man standing near the motorcycle	മോട്ടോർ സൈക്കിളിനടുത്ത് നിൽക്കുന്നയാൾ
+2367012	223	157	72	40	the window is open	വിൻഡോ തുറന്നു കിടക്കുന്നു
+2367166	0	0	498	372	Hot dogs lined up	ഹോട്ട് ഡോഗുകൾ അണിനിരന്നിരിക്കുന്നു
+2367192	51	120	104	97	This is a snack	ഇതൊരു ലഘുഭക്ഷണമാണ്
+2367402	267	25	203	288	a red fire hydrant on the ground	ചുവന്ന അഗ്നി ജലാംശം
+2367554	22	265	125	100	The dirt road is brown	അഴുക്കുള്ള റോഡിന് തവിട്ടുനിറമാണ്
+2367756	286	245	80	76	a container of margarine on a metal table	ഒരു ലോഹ മേശയിൽ ഒരു പാത്രം മാർഗറിൻ
+2367904	6	16	488	305	pizzas behind glass window	ഗ്ലാസ് വിൻഡോയ്ക്ക് പിന്നിലുള്ള പിസ്സകൾ
+2367930	169	138	295	135	airplane on concrete tarmac	കോൺക്രീറ്റ് ടാർമാക്കിലെ വിമാനം
+2367952	1	150	496	217	tan sand on beach	കടൽത്തീരത്ത് ടാൻ മണൽ
+2367976	31	128	465	138	fridges in a junk yard	ഒരു ജങ്ക് യാർഡിലെ ഫ്രിഡ്ജുകൾ
+2368162	254	93	165	149	Dog on the beach.	കടൽത്തീരത്ത് നായ.
+2368211	314	163	35	87	man on an old fashioned train	പഴയ രീതിയിലുള്ള ട്രെയിനിൽ ഒരു മനുഷ്യൻ
+2368263	0	2	331	496	The snow is white.	മഞ്ഞ് വെളുത്തതാണ്.
+2368282	184	115	40	22	people sitting on park bench	പാർക്ക് ബെഞ്ചിൽ ഇരിക്കുന്ന ആളുകൾ
+2368342	367	153	108	137	Female athlete preparing to hit tennis ball with racket.	റാക്കറ്റ് ഉപയോഗിച്ച് ടെന്നീസ് പന്ത് തട്ടാൻ ഒരുങ്ങുന്ന വനിതാ അത്‌ലറ്റ്.
+2368738	371	154	9	13	edge of a boat	ഒരു ബോട്ടിന്റെ വശം
+2368870	13	130	470	200	metal bin filled with donuts	ഡോനട്ട്സ് നിറച്ച മെറ്റൽ ബിൻ
+2369321	432	135	16	76	A red and white stop sign	ചുവപ്പും വെള്ളയും ഉള്ള സ്റ്റോപ്പ് ചിഹ്നം
+2369374	165	12	47	14	the sky is gray	ആകാശം ചാരനിറമാണ്
+2369415	9	63	429	292	an unusual passenger train	അസാധാരണമായ ഒരു പാസഞ്ചർ ട്രെയിൻ
+2369482	75	158	29	25	white cap on a woman's head	സ്ത്രീയുടെ തലയിലെ വെളുത്ത തൊപ്പി
+2369904	6	63	189	288	Striped feathers in white vase	വെളുത്ത പാത്രത്തിൽ വരയുള്ള തൂവലുകൾ
+2369966	300	366	64	60	toilet paper holder on wall	ചുവരിലെ ടോയ്‌ലറ്റ് പേപ്പർ ഹോൾഡർ
+2370174	101	82	293	252	Seagull standing on dock.	സീഗൽ ഡോക്കിൽ നിൽക്കുന്നു.
+2370220	404	119	37	15	A black pair of sunglasses.	ഒരു കറുത്ത ജോഡി സൺഗ്ലാസുകൾ.
+2370360	0	20	457	305	a zebra in a pen	പേനയിൽ ഒരു സീബ്ര
+2370423	88	81	370	395	the white compartment plate	വൈറ്റ് കമ്പാർട്ട്മെന്റ് പ്ലേറ്റ്
+2370762	156	2	298	435	bear laying on the ground	കരടി നിലത്തു കിടക്കുന്നു
+2370886	68	337	162	104	A sign that says \Grand Central Terminal\	\ ഗ്രാൻഡ് സെൻട്രൽ ടെർമിനൽ എന്ന് പറയുന്ന ഒരു അടയാളം
+2371012	207	168	74	138	the boy is on the mans shoulders	ആൺകുട്ടി മനുഷ്യന്റെ ചുമലിലാണ്
+2371014	73	61	389	437	man in a suit and hat	സ്യൂട്ടും തൊപ്പിയും ധരിച്ച മനുഷ്യൻ
+2371309	5	3	487	323	calm scenery of the ocean	സമുദ്രത്തിന്റെ ശാന്തമായ ദൃശ്യം
+2371318	58	74	150	247	Catcher holding up mitt	ക്യാച്ചർ മിറ്റ് ഉയർത്തിപ്പിടിക്കുന്നു
+2371445	101	105	246	207	white sheep standing in pen	പെന്നിൽ നിൽക്കുന്ന വെളുത്ത ആടുകൾ
+2371463	288	64	140	77	He has a white hat.	അവന് ഒരു വെളുത്ത തൊപ്പിയുണ്ട്.
+2371682	182	93	133	267	Brown pants in the photo	ഫോട്ടോയിലെ തവിട്ട് പാന്റ്സ്
+2371792	309	117	137	128	Laptop computer on desk	ഡെസ്‌കിലുള്ള ലാപ്‌ടോപ്പ് കമ്പ്യൂട്ടർ
+2371805	0	0	498	374	The sky is cloudy.	ആകാശം മൂടി നിക്കുകയാണ്
+2371961	93	81	171	190	Man wearing hat	തൊപ്പി ധരിച്ച മനുഷ്യൻ
+2372047	68	170	280	104	the cows are resting	പശുക്കൾ വിശ്രമിക്കുന്നു
+2372060	336	176	26	31	the top is green	പച്ച നിറമുളള ടോപ്പ്
+2372112	35	111	362	191	Birds in the water	വെള്ളത്തിലെ പക്ഷികൾ
+2372233	149	476	36	14	A brown colored patch	തവിട്ട് നിറമുള്ള പാച്ച്
+2372278	34	229	116	260	animal looking at fake animal	വ്യാജ മൃഗത്തെ നോക്കുന്ന മൃഗം
+2372599	109	224	23	54	the two yellow flowers	രണ്ട് മഞ്ഞ പൂക്കൾ
+2372715	177	155	143	152	blue bridle on horse	കുതിരപ്പുറത്ത് നീല കടിഞ്ഞാൺ
+2372722	79	222	77	124	A smaller paper cup in a larger paper cup	ഒരു വലിയ പേപ്പർ കപ്പിൽ ഒരു ചെറിയ പേപ്പർ കപ്പ്
+2372837	31	83	247	203	boat's reflection on the water	ബോട്ടിന്റെ പ്രതിഫലനം വെള്ളത്തിൽ
+2372864	2	3	494	326	A safari scene	ഒരു സഫാരി രംഗം
+2372876	386	168	31	130	red fire hydrant on sidewalk	ഫുട്പാത്തിൽ ചുവന്ന അഗ്നി ജലാംശം
+2372911	50	85	135	294	the girl is skiing	പെൺകുട്ടി സ്കീയിംഗ് ചെയ്യുന്നു
+2373005	242	149	237	180	blue dodge truck sitting at stop light	സ്റ്റോപ്പ് ലൈറ്റിൽ ഇരിക്കുന്ന ബ്ലൂ ഡോഡ്ജ് ട്രക്ക്
+2373221	22	13	462	307	an airbridge next to a plane	വിമാനത്തിന് അടുത്തുള്ള ഒരു എയർബ്രിഡ്ജ്
+2373317	117	140	305	100	The man appears to be flying in the air	മനുഷ്യൻ വായുവിൽ പറക്കുന്നതായി തോന്നുന്നു
+2373356	1	136	195	133	this is a cow	ഇതൊരു പശുവാണ്
+2373376	290	25	171	88	open white umbrella on beach	കടൽത്തീരത്ത് തുറന്ന വെളുത്ത കുട
+2373447	26	201	325	167	Black and white cat	കറുപ്പും വെളുപ്പും നിറമുളള പൂച്ച
+2373476	352	175	45	57	part of a horse	ഒരു കുതിരയുടെ ഭാഗം
+2373569	274	218	22	41	White tube of paper towels standing in the corner on a counter top	ഒരു കൗണ്ടർ ടോപ്പിന്റെ മൂലയിൽ നിൽക്കുന്ന പേപ്പർ ടവ്വലുകളുടെ വെളുത്ത ട്യൂബ്
+2373769	30	3	291	130	A bunch of green scallions	ഒരു കൂട്ടം പച്ച സ്കല്ലിയനുകൾ
+2373775	49	13	404	319	A sandwhich on a table	മേശപ്പുറത്ത് ഒരു സാൻഡ്‌വിച്ച്
+2374014	176	79	26	25	a silhouette of a bird	ഒരു പക്ഷിയുടെ സിലൗറ്റ്
+2374351	461	164	17	39	Outdoor blue mailbox receptacle	ഔട്ട്‌ഡോർ നീല മെയിൽബോക്‌സ് റെസപ്റ്റാക്കൽ
+2374447	137	454	189	45	The floor is made of wood.	തറ മരം കൊണ്ടാണ് നിർമ്മിച്ചിരിക്കുന്നത്.
+2374471	381	102	23	40	Long bright tube of fluorescent lighting	ഫ്ലൂറസെന്റ് ലൈറ്റിംഗിന്റെ നീണ്ട ശോഭയുള്ള ട്യൂബ്
+2374639	246	70	107	223	A girls reflection in a mirror.	ഒരു കണ്ണാടിയിൽ പെൺകുട്ടികളുടെ പ്രതിഫലനം.
+2374748	257	43	88	280	baseball player	ബേസ്ബോൾ കളിക്കാരൻ
+2374926	191	155	295	100	Train no longer on track	ട്രെയിൻ ഇനി ട്രാക്കിൽ അല്ല
+2374947	222	147	271	115	A silver spatula	ഒരു വെള്ളി സ്പാറ്റുല
+2374952	43	25	222	243	this is a cake	ഇതൊരു കേക്ക് ആണ്
+2375172	5	275	148	174	White short sleeved tshirt	വെളുത്ത ഷോർട്ട് സ്ലീവ് ഷർട്ട്
+2375439	2	112	350	220	A table full of cherries and bananas	ചെറി, വാഴപ്പഴം എന്നിവ നിറഞ്ഞ ഒരു മേശ
+2375454	23	75	321	422	Several culinary dishes in bowls	പാത്രങ്ങളിൽ നിരവധി പാചക വിഭവങ്ങൾ
+2375529	112	18	38	67	a white security camera	ഒരു വെളുത്ത സുരക്ഷാ ക്യാമറ
+2375532	32	113	365	181	the big elephant has it's trunk on the small elephant	വലിയ ആനയുടെ തുമ്പിക്കൈ ചെറിയ ആനയുടെ പുറത്താണ്
+2375729	342	192	157	161	Wooden bench facing the ocean	സമുദ്രത്തിന് അഭിമുഖമായുള്ള മരം ബെഞ്ച്
+2375812	28	56	446	212	Large red and white city bus	വലിയ ചുവപ്പും വെള്ളയും നിറമുളള സിറ്റി ബസ്
+2375967	56	18	219	330	guy on snowboard	സ്നോബോർഡിലെ പയ്യൻ
+2376127	205	43	80	152	christmas tree in front of window	ജാലകത്തിന് മുന്നിൽ ഉള്ള ക്രിസ്മസ് ട്രീ
+2376150	28	25	470	304	The cage is white.	കൂട് വെളുത്തതാണ്.
+2376210	101	191	167	80	Sky is white color.	ആകാശം വെളുത്ത നിറമാണ്.
+2376258	149	86	172	246	man holding the frisbee	ഫ്രിസ്ബീ പിടിക്കുന്ന മനുഷ്യൻ
+2376277	186	110	87	26	White cloud in a blue sky	നീലാകാശത്തിൽ വെളുത്ത മേഘം
+2376566	10	166	231	143	slice of pizza ready to eat	പിസ്സ സ്ലൈസ് കഴിക്കാൻ തയ്യാറാണ്
+2376655	284	217	42	112	A leg of a person	ഒരു വ്യക്തിയുടെ കാൽ
+2376804	352	162	115	94	Boats on the water	വെള്ളത്തിലെ ബോട്ടുകൾ
+2377116	135	175	22	30	brown and black baseball glove	തവിട്ടും, കറുപ്പും ഉള്ള ബേസ്ബോൾ കയ്യുറ
+2377290	155	321	107	97	The smallest bike on the platform.	പ്ലാറ്റ്‌ഫോമിലെ ഏറ്റവും ചെറിയ ബൈക്ക്.
+2377427	54	13	390	237	Women sipping on wine.	സ്ത്രീകൾ വീഞ്ഞു കുടിക്കുന്നു.
+2377543	400	5	85	265	The window is open.	തുറന്നിട്ടിരിക്കുന്ന വിൻഡോ
+2377558	78	66	150	234	fire hydrant on the street	അഗ്നി ജലാംശം തെരുവിൽ വച്ചിരിക്കുന്നു
+2377646	54	32	355	270	people running on a green surface	പച്ച പ്രതലത്തിൽ ഓടുന്ന ആളുകൾ
+2377677	261	133	75	95	Green and yellow painting on the front of a train	ട്രെയിനിന്റെ മുൻവശത്ത് പച്ചയും മഞ്ഞയും നിറഞ്ഞ പെയിന്റിംഗ്
+2377856	129	87	196	66	green street sign for biking and walking	ബൈക്കിംഗിനും നടത്തത്തിനുമുള്ള പച്ച ചിഹ്നം തെരുവിലേക്ക്
+2377963	372	38	93	99	picture on the wall.	ചുവരിലെ ചിത്രം.
+2378280	14	364	80	125	white styrofoam container	വെളുത്ത സ്റ്റൈറോഫോം കണ്ടെയ്നർ
+2378293	382	207	87	42	a green boat	ഒരു പച്ച ബോട്ട്
+2378360	227	16	80	43	blue sky above water	വെള്ളത്തിന് മുകളിലുള്ള നീലാകാശം
+2378458	19	398	39	61	long blue plastic stick	നീളമുള്ള നീല പ്ലാസ്റ്റിക് സ്റ്റിക്ക്
+2378514	48	2	306	325	Person practicing snow boarding moves.	സ്നോ ബോർഡിംഗ് നീക്കങ്ങൾ പരിശീലിക്കുന്ന വ്യക്തി.
+2378541	14	126	394	121	Seven elephants are walking.	ഏഴു ആനകൾ നടക്കുന്നു.
+2378552	90	113	315	125	three zebras in a field	ഒരു ഫീൽഡിൽ മൂന്ന് സീബ്രകൾ
+2378650	26	15	242	478	a small girl holding a tennis racket	ഒരു ടെന്നീസ് റാക്കറ്റ് കൈവശമുള്ള ഒരു ചെറിയ പെൺകുട്ടി
+2378804	217	82	268	238	artistic stone surfer sculpture	കലാപരമായ കല്ല് കൊണ്ട് ഉണ്ടാക്കിയ സർഫർ ശില്പം
+2378859	127	158	23	31	12 on a bus.	ഒരു ബസ്സിൽ \ 12 \.
+2378873	24	388	331	111	black laminate table top	കറുത്ത ലാമിനേറ്റ് ടേബിൾ ടോപ്പ്
+2378895	82	65	136	430	Bench in front of a tree.	ഒരു മരത്തിന് മുന്നിലെ ബെഞ്ച്.
+2378992	52	28	420	254	white bus on street	തെരുവിൽ ഒരു വൈറ്റ് ബസ്
+2379402	185	194	163	182	the cow is brown	പശുവിന് തവിട്ടുനിറമാണ്
+2379413	317	337	37	117	this is a girl	ഇത് ഒരു പെൺകുട്ടിയാണ്
+2379521	149	254	20	25	a tree branch	ഒരു മരക്കൊമ്പ്
+2379645	1	84	327	264	the tree branches have snow	മരക്കൊമ്പുകളിൽ മഞ്ഞ് ഉണ്ട്
+2379910	1	66	232	244	the couch is beige	ബീജ് നിറമുളള കിടക്ക
+2380058	209	61	90	63	a kite flying in air	വായുവിൽ പറക്കുന്ന ഒരു പട്ടം
+2380156	98	127	37	46	sea bird in water	കടൽ പക്ഷി വെള്ളത്തിൽ
+2380302	0	273	95	107	Man wearing a helmet	ഹെൽമെറ്റ് ധരിച്ച മനുഷ്യൻ
+2380397	202	97	54	45	Large LG sticker on refrigerator	റഫ്രിജറേറ്ററിലെ വലിയ എൽജി സ്റ്റിക്കർ
+2380422	148	301	42	77	black pants on a man	കറുത്ത പാന്റ്സ് ഇട്ട ഒരു മനുഷ്യന്
+2380447	106	63	392	230	A streamline train	ഒരു സ്ട്രീംലൈൻ ട്രെയിൻ
+2380553	100	237	183	258	a clock	ഒരു ഘടികാരം
+2380650	2	242	332	92	eleven boats tied to wall	പതിനൊന്ന് ബോട്ടുകൾ മതിലുമായി ബന്ധിപ്പിച്ചിരിക്കുന്നു
+2380933	0	0	410	497	a black and white picture of a park scene	ഒരു പാർക്ക് രംഗത്തിന്റെ ബ്ലോക്ക് ആൻഡ് വൈറ്റ് ചിത്രം
+2380984	29	47	77	128	Hotel Harwal Sign on poles	ഹോട്ടൽ ഹർവാൾ ചിഹ്നം പോളുകളിൽ
+2380985	248	25	234	252	a man riding a skateboard	സ്കേറ്റ്ബോർഡ് ഓടിക്കുന്ന ഒരാൾ
+2381193	93	61	112	157	the sign is red	ആ ചിഹ്നം ചുവപ്പാണ്
+2381345	304	4	26	27	the clock on the wall	ചുമരിലെ ഘടികാരം
+2381361	93	200	282	174	the toilet is white	വെളുത്ത ടോയ്‌ലറ്റ്
+2381414	117	181	193	95	a group of pansies in a vase	ഒരു പൂച്ചട്ടിയിൽ ഒരു കൂട്ടം പാൻസികൾ
+2381463	9	25	152	302	man dressed in olden clothes	പഴയ വസ്ത്രം ധരിച്ച മനുഷ്യൻ
+2381492	386	247	41	30	Lemons in the bowl	പാത്രത്തിൽ നാരങ്ങകൾ
+2381668	133	0	248	218	Child with eyes half closed	കണ്ണുകൾ പകുതി അടച്ച കുട്ടി
+2381708	237	89	47	40	Blue helmet worn by batter.	ബാറ്റർ ധരിച്ചിരിക്കുന്ന നീല ഹെൽമെറ്റ്.
+2381754	286	183	55	55	a bird	ഒരു പക്ഷി
+2381839	415	175	57	102	a person in the picture	ചിത്രത്തിലെ ഒരു വ്യക്തി
+2381917	28	53	273	384	child wearing blue helmet	നീല ഹെൽമെറ്റ് ധരിച്ച കുട്ടി
+2381944	142	82	226	292	Two men dressed in sports clothing	കായിക വസ്ത്രം ധരിച്ച രണ്ടുപേർ
+2381981	133	158	75	51	Man wearing black hat.	കറുത്ത തൊപ്പി ധരിച്ച മനുഷ്യൻ.
+2382089	108	256	331	60	water in the river	നദിയിലെ വെള്ളം
+2382416	238	77	48	229	traffic signal on a pole	ഒരു പോളിലെ ട്രാഫിക് സിഗ്നൽ
+2382500	160	71	137	193	a man	ഒരു മനുഷ്യൻ
+2382514	64	359	131	135	a toilet bowl	ഒരു ടോയ്‌ലറ്റ് ബൗൾ
+2382521	291	183	125	85	red and white seat cover	ചുവപ്പും വെള്ളയും നിറമുളള സീറ്റ് കവർ
+2382600	58	108	332	74	Airplane near building	കെട്ടിടത്തിന് സമീപമുള്ള വിമാനം
+2382638	287	14	115	99	the head of a bird	പക്ഷിയുടെ തല
+2382744	231	176	117	130	Small purple sofa by wooden table	വുഡൻ മേശയ്ക്ക് അടുത്തുളള ചെറിയ പർപ്പിൾ സോഫ
+2382777	8	180	352	147	a train boarding platform	ഒരു ട്രെയിൻ ബോർഡിംഗ് പ്ലാറ്റ്ഫോം
+2383075	161	150	97	114	lifeguard sitting on a tower	ഒരു ഗോപുരത്തിലിരിക്കുന്ന ലൈഫ് ഗാർഡ്
+2383383	5	32	472	331	The platter is silver	തളിക വെള്ളിയാണ്
+2383500	1	88	291	203	A long green and white bus	നീളമുള്ള പച്ചയും വെള്ളയും നിറമുളള ഒരു ബസ്സ്
+2383516	92	247	244	247	The dog has long fur	നായയ്ക്ക് നീളമുള്ള രോമങ്ങളുണ്ട്
+2383607	208	28	21	38	This is a candle	ഇതൊരു മെഴുകുതിരിയാണ്
+2383966	2	359	367	139	footprints in the sand on the beach	കടൽത്തീരത്തെ മണലിൽ കാൽപ്പാടുകൾ
+2383984	339	80	106	95	A FLAT SCREEN TV	ഒരു ഫ്ലാറ്റ് സ്ക്രീൻ ടിവി
+2383992	156	267	68	198	clear glass with stems	തണ്ടോടുകൂടിയ വ്യക്തമായ ഗ്ലാസ്
+2384330	55	101	237	299	two giraffes beside the large rocks	വലിയ പാറകളുടെ അരികിൽ രണ്ട് ജിറാഫുകൾ
+2384363	45	58	450	310	zebra standing in grass	പുല്ലിൽ നിൽക്കുന്ന സീബ്ര
+2384428	47	11	438	298	A beautiful scene of a beach and the ocean	കടൽത്തീരത്തിന്റെയും സമുദ്രത്തിന്റെയും മനോഹരമായ ഒരു രംഗം
+2384539	167	138	57	63	A blue diamond with the number 10	പത്ത് നമ്പറുള്ള ഒരു നീല വജ്രം
+2384584	108	140	106	81	silver laptop on desk	സിൽവർ ലാപ്‌ടോപ്പ് ഡെസ്‌ക്കിൽ
+2384599	7	65	476	265	Food on a white flower edge plate	വെളുത്ത പുഷ്പത്തിന്റെ അരികുള്ള പാത്രത്തിൽ ഭക്ഷണം
+2384640	285	83	212	122	two sandwiches on a plate	ഒരു പ്ലേറ്റിൽ രണ്ട് സാൻഡ്‌വിച്ചുകൾ
+2384644	260	192	70	139	striped carpet flooring	വരയുള്ള പരവതാനി തറ
+2384690	244	82	95	231	Couple riding a motorcyle	മോട്ടോർ സൈക്കിൾ ഓടിക്കുന്ന ദമ്പതികൾ
+2384747	156	433	69	54	a van	ഒരു വാൻ
+2384797	173	35	102	128	Black helmet covering face	മുഖം മൂടുന്ന കറുത്ത ഹെൽമെറ്റ്
+2384931	212	122	111	76	Large plane in the air	വായുവിൽ വലിയ വിമാനം
+2385084	180	30	248	242	Baby playing with a phone	കുഞ്ഞ് ഫോണുമായി കളിക്കുന്നു
+2385116	350	125	125	137	a white cow eating garbage.	മാലിന്യം തിന്നുന്ന ഒരു വെളുത്ത പശു.
+2385160	110	129	245	81	two zebras walking through grass	പുല്ലിലൂടെ നടക്കുന്ന രണ്ട് സീബ്രകൾ
+2385661	47	185	406	142	a hot dog is on a plate	പ്ലേറ്റിൽ ഒരു ഹോട്ട് ഡോഗ് ഉണ്ട്
+2385755	32	76	78	92	a small yellow sunflower	ഒരു ചെറിയ മഞ്ഞ സൂര്യകാന്തി
+2385921	13	121	18	38	an overhead outdoor light	ഒരു ഓവർഹെഡ് ഔട്ട്‌ഡോർ ലൈറ്റ്
+2386334	177	47	67	49	The yellow jacket the person is wearing.	വ്യക്തി ധരിക്കുന്ന മഞ്ഞ ജാക്കറ്റ്.
+2386504	214	307	60	65	the side of a purse with a triangle pattern on it	ഒരു പേഴ്‌സിന്റെ വശത്ത് ഒരു ത്രികോണ പാറ്റേൺ
+2386527	213	13	284	300	a woman sitting at a table	ഒരു സ്ത്രീ ടേബിളിൽ ഇരിക്കുന്നു
+2386804	322	2	177	232	sprocket on motorcycle	മോട്ടോർ സൈക്കിളിൽ സ്പ്രോക്കറ്റ്
+2386867	143	125	132	285	a man standing with his hand in a pocket	ഒരാൾ പോക്കറ്റിൽ കൈ ഇട്ട് കൊണ്ട് നിൽക്കുന്നു
+2387377	302	129	64	46	surfer in black wetsuit	കറുത്ത വെറ്റ്സ്യൂട്ടിൽ സർഫർ
+2387468	82	86	372	247	MAROON STEAM LOCOTMOTIVE	മറൂൺ സ്റ്റീം ലോക്കോമോട്ടീവ്
+2387473	168	140	122	96	sign below the light	വെളിച്ചത്തിന് താഴെ ചിഹ്നം
+2387595	284	127	151	190	plenty books on shelf	അലമാരയിൽ ധാരാളം പുസ്തകങ്ങൾ
+2387626	0	0	331	499	living room with modern style	ആധുനിക ശൈലിയിലുള്ള സ്വീകരണമുറി
+2387743	24	267	127	178	a smiling man	പുഞ്ചിരിക്കുന്ന മനുഷ്യൻ
+2387751	131	44	197	222	road sign upside down	റോഡിന്റെ ചിഹ്നം തലകീഴായി
+2387850	206	66	135	122	boy on the phone	പയ്യൻ ഫോണിൽ
+2387909	39	321	23	58	gray fences are visible	ചാരനിറത്തിലുള്ള വേലികൾ കാണാം
+2387924	350	230	133	72	a red tool on the sand	മണലിൽ ഒരു ചുവന്ന ഉപകരണം
+2387941	109	124	247	84	birds perched on the back of a zebra	പക്ഷികൾ ഒരു സീബ്രയുടെ പിൻഭാഗത്തായി ഇരിക്കുന്നു
+2388052	373	3	125	256	a blue and yellow car	നീലയും മഞ്ഞയും നിറമുളള കാർ
+2388137	66	65	85	66	Words flybe painted on a planes tail	വാക്കുകൾ പറക്കുന്നു. വാലിൽ വരച്ച ഒരു വിമാനത്തിന്റെ
+2388159	116	108	53	94	Spoon in small bowl	ചെറിയ പാത്രത്തിൽ സ്പൂൺ
+2388179	251	295	32	87	horse's gold tail	കുതിരയുടെ സ്വർണ്ണ വാൽ
+2388187	292	216	110	117	bags of trash on the sidewalk	നടപ്പാതയിലെ ചവറ്റുകുട്ടകൾ
+2388316	160	64	155	237	a black and white cat	ബ്ലോക്ക് ആൻഡ് വൈറ്റ് പൂച്ച
+2388639	197	90	136	163	signal for a four way stop	നാല് വഴികൾക്കുള്ള സിഗ്നൽ
+2388658	63	55	286	191	food on the table	ഭക്ഷണം മേശപ്പുറത്ത്
+2388673	142	421	8	11	the short is brown	ഷോർട്ടിന് തവിട്ടുനിറമാണ്
+2388746	5	38	145	449	mannequin wearing shorts	ഷോർട്ട്സ് ധരിച്ച മാനെക്വിൻ
+2388747	30	34	168	229	surfer	സർഫർ
+2389268	139	270	117	209	the french fries are visible	ഫ്രഞ്ച് ഫ്രൈകൾ കാണാം
+2389310	353	296	108	60	the plate is white	പ്ലേറ്റ് വെളുത്തതാണ്
+2389327	112	35	211	144	Tile on the wall.	ചുമരിലെ ടൈൽ.
+2389362	106	432	178	57	the grass	പുല്ല്
+2389395	172	279	243	25	the sand is tan	ടാൻ നിറമുളള മണൽ
+2389481	285	39	88	120	stop sign on a green pole	പച്ച പോളിലെ നിർത്തുക എന്ന അടയാളം
+2389658	242	410	89	89	This is a face of a person	ഇത് ഒരു വ്യക്തിയുടെ മുഖമാണ്
+2389707	82	45	167	227	Instruction bulletin on glass	ഗ്ലാസിൽ നിർദ്ദേശ ബുള്ളറ്റിൻ
+2389747	207	171	46	32	younger man holds white controller	ചെറുപ്പക്കാരൻ വൈറ്റ് കൺട്രോളർ പിടിച്ചിരിക്കുന്നു
+2389812	142	38	298	335	boy with curly hair	ചുരുണ്ട മുടിയുള്ള കുട്ടി
+2389932	259	263	166	178	the skirt is black	കറുത്ത പാവാട
+2390268	259	115	212	153	the tissue is white	ടിഷ്യു വെളുത്തതാണ്
+2390279	189	43	46	46	white sticker on the door.	വാതിലിലെ വെളുത്ത സ്റ്റിക്കർ.
+2390358	1	0	372	499	the neckline of a man wearing a tie	ടൈ ധരിച്ച ഒരാളുടെ നെക്ക്ലൈൻ
+2390461	151	169	60	40	the goose has a long neck	വാത്തിന് ഒരു നീണ്ട കഴുത്ത് ഉണ്ട്
+2390561	264	4	168	300	Young man playing tennis	ടെന്നീസ് കളിക്കുന്ന ചെറുപ്പക്കാരൻ
+2390819	103	101	327	198	Car with surfboard on top	മുകളിൽ സർഫ്ബോർഡുള്ള കാർ
+2390963	292	154	72	109	a string	ഒരു സ്ട്രിംഗ്
+2391028	24	12	417	297	man skiing down a hill	ഒരു കുന്നിൽ നിന്ന് താഴേക്ക് സഞ്ചരിക്കുന്ന മനുഷ്യൻ
+2391036	190	70	60	40	the horn is curved	കൊമ്പ് വളഞ്ഞതാണ്
+2391116	120	178	263	107	these are two boats	ഇവ രണ്ട് ബോട്ടുകളാണ്
+2391147	187	432	5	1	the line is yellow	ലൈൻ മഞ്ഞയാണ്
+2391189	6	177	165	167	Black car covered in snow.	മഞ്ഞുമൂടിയ കറുത്ത കാർ.
+2391361	70	60	387	267	yummy square shape pizza	രുചികരമായ ചതുരാകൃതിയിലുള്ള പിസ്സ
+2391603	245	232	71	51	a camer in two hands	രണ്ട് കൈകളിൽ ഒരു കാമറ
+2391620	18	178	385	190	two dogs on the beach	കടൽത്തീരത്ത് രണ്ട് നായ്ക്കൾ
+2392080	6	168	45	80	The woman is walking down the sidewalk.	സ്ത്രീ നടപ്പാതയിലൂടെ നടക്കുകയാണ്.
+2392176	152	19	212	291	cat	പൂച്ച
+2392389	2	80	47	70	fork with a knife underneath	അടിയിൽ കത്തിയും ഫോർക്കും
+2392533	143	23	149	230	rocks on a hillside	ഒരു മലയോരത്തെ പാറകൾ
+2392767	160	15	338	185	The table is full of vegetables	മേശയിൽ നിറയെ പച്ചക്കറികൾ
+2392848	226	131	117	72	black and white sneaker	കറുപ്പും വെളുപ്പും ഉള്ള സ്‌നീക്കർ
+2393107	201	52	30	25	a small lamp on top	മുകളിൽ ഒരു ചെറിയ വിളക്ക്
+2393204	258	41	148	156	a young man surfing	ഒരു യുവാവ് സർഫിംഗ് ചെയ്യുന്നു
+2393478	297	73	41	21	Man wearing protective helmet	സുരക്ഷാ ഹെൽമെറ്റ് ധരിച്ച മനുഷ്യൻ
+2393786	336	248	148	207	baby giraffe licking fur	ബേബി ജിറാഫ് രോമങ്ങൾ നക്കുന്നു
+2393793	58	138	189	97	The top of the cake is white	കേക്കിന്റെ മുകൾഭാഗം വെളുത്തതാണ്
+2393996	66	247	30	80	The trunk of the elephant on the left.	ഇടതുവശത്തുള്ള ആനയുടെ തുമ്പിക്കൈ.
+2394067	206	123	175	221	A man in black	കറുത്ത നിറമുള്ള ഒരാൾ
+2394114	187	29	185	285	white cup on desktop	ഡെസ്ക്ടോപ്പിൽ ഒരു വൈറ്റ് കപ്പ്
+2394132	32	106	110	217	person laughing in kayak	കയാക്കിൽ ചിരിക്കുന്ന വ്യക്തി
+2394543	198	91	81	157	An elephant	ഒരു ആന
+2394704	12	370	169	124	pile of golden oats on the table	മേശപ്പുറത്ത് സ്വർണ്ണ നിറമുളള ഓട്‌സ് കൂമ്പാരം
+2394746	8	38	464	253	a large Thomas the Train	ഒരു വലിയ തോമസ് ദി ട്രെയിൻ
+2394769	117	220	87	94	a maroon pomegranate	ഒരു മെറൂൺ മാതളനാരകം
+2394905	130	70	265	155	A computer screen with multiple open windows	ഒന്നിലധികം ഓപ്പൺ വിൻഡോകളുള്ള ഒരു കമ്പ്യൂട്ടർ സ്‌ക്രീൻ
+2394933	244	103	65	147	gray and blue striped mens shirt	ചാര, നീല വരയുള്ള പുരുഷന്മാരുടെ ഷർട്ട്
+2394993	0	291	212	207	Three sinks on a counter	ഒരു കൗണ്ടറിൽ മൂന്ന് സിങ്കുകൾ
+2395241	323	160	95	74	man on a surf board	ഒരു സർഫ് ബോർഡിലെ മനുഷ്യൻ
+2395377	52	8	420	361	pizza in a box	ഒരു പെട്ടിയിൽ പിസ്സ
+2395387	152	173	217	160	a little girl in a pink jacket.	പിങ്ക് ജാക്കറ്റ് ഇട്ട ഒരു കൊച്ചു പെൺകുട്ടി.
+2395520	324	57	122	217	a man leaning on the bow of a small boat	ഒരു ചെറിയ വള്ളത്തിന്റെ വില്ലിൽ ചാരിയിരിക്കുന്ന ഒരാൾ
+2395700	18	241	259	248	a fried donut on a pile.	ഒരു കൂട്ടം വറുത്ത ഡോനട്ട്.
+2395701	216	148	68	183	Lamp that is turned on	ഓണാക്കിയ വിളക്ക്
+2395733	58	51	295	339	ASIAN POTTERY WITH DRAWINGS	ഡ്രോയിംഗുകളുള്ള ഏഷ്യൻ പോട്ടറി
+2395844	118	17	237	120	Steam from the funnel	ഫണലിൽ നിന്ന് നീരാവി
+2395880	0	80	148	419	Left hand of the person.	വ്യക്തിയുടെ ഇടത് കൈ.
+2395961	71	135	65	55	blue Frisbee in dog's mouth	നായയുടെ വായിൽ നീല ഫ്രിസ്ബീ
+2396137	334	43	164	235	The chopsticks on the table	മേശയിലെ ചോപ്സ്റ്റിക്കുകൾ
+2396433	0	73	185	229	an unfinished building	പൂർത്തിയാകാത്ത കെട്ടിടം
+2396495	166	52	97	62	black and white hat	കറുപ്പും വെളുപ്പും ഉള്ള തൊപ്പി
+2396617	90	149	124	167	man with long black hair	നീളമുള്ള കറുത്ത മുടിയുള്ള മനുഷ്യൻ
+2396682	63	95	257	403	tall giraffe walking on dirt path	ഉയരമുള്ള ജിറാഫ് അഴുക്ക് നിറഞ്ഞ പാതയിലൂടെ നടക്കുന്നു
+2396734	85	356	89	35	shadow of a skate board	സ്കേറ്റ് ബോർഡിന്റെ നിഴൽ
+2396975	216	185	237	82	a car loading food on a plane	ഒരു വിമാനത്തിൽ ഭക്ഷണം കയറ്റുന്ന കാർ
+2397258	7	10	418	307	woman on beach with large umbrella	വലിയ കുടയുമായി കടൽത്തീരത്ത് സ്ത്രീ
+2397344	81	19	216	412	small child on skis	സ്കീസ്സ് ധരിച്ച ചെറിയ കുട്ടി
+2397489	319	104	50	86	Person wearing red helmet.	ചുവന്ന ഹെൽമെറ്റ് ധരിച്ച വ്യക്തി.
+2397528	33	91	298	194	cow's body is brown and black	പശുവിന്റെ ശരീരം തവിട്ടും, കറുപ്പും നിറമാണ്
+2397687	163	11	237	271	a zebra walking in a field	ഒരു വയലിൽ നടക്കുന്ന സീബ്ര
+2397757	3	92	494	227	piece of cake on a plate	ഒരു പ്ലേറ്റിലെ കേക്ക് കഷണം
+2397809	71	57	55	53	A person wearing a yellow helmet.	മഞ്ഞ ഹെൽമെറ്റ് ധരിച്ച ഒരാൾ.
+2397887	184	123	36	40	long neck of giraffe	ജിറാഫിന്റെ നീണ്ട കഴുത്ത്
+2398062	334	105	160	131	a brick wall with aprapets	ആപ്രാപെറ്റുകളുള്ള ഒരു ഇഷ്ടിക മതിൽ
+2398325	44	65	85	160	base ball referee calls a play	ബേസ് ബോൾ റഫറി ഒരു നാടകം വിളിക്കുന്നു
+2398421	72	76	211	109	rainbow sprinkled donuts	റയിൻബോ തളിച്ച ഡോനട്ട്സ്
+2398453	184	169	123	50	Black and gray computer mouse	കറുപ്പും ചാരനിറത്തിലുള്ള കമ്പ്യൂട്ടർ മൗസ്
+2398728	356	294	5	12	yellow part of a road	റോഡിന്റെ മഞ്ഞ ഭാഗം
+2398742	180	93	79	81	person crouched over surboard	സർ‌ബോർ‌ഡിന് മുകളിലൂടെയുള്ള വ്യക്തി
+2398757	374	149	30	43	Cross on a plane.	വിമാനത്തിൽ ഒരു ക്രോസ്സ് ചെയ്യുക.
+2398798	6	298	82	48	white computer keyboard with cord	ചരടുള്ള വെളുത്ത കമ്പ്യൂട്ടർ കീബോർഡ്
+2399028	185	273	101	41	Leaves are green color.	ഇലകൾ പച്ച നിറമാണ്.
+2399068	33	110	97	40	small streaks on the brown wall	തവിട്ടുനിറത്തിലുള്ള ചുവരിൽ ചെറിയ വരകൾ
+2399126	57	427	128	69	The green bath rug in front of the toilet.	ടോയ്‌ലറ്റിന് മുന്നിലെ പച്ച ബാത്ത് റഗ്.
+2399200	130	175	164	180	a couple riding a bike	ബൈക്ക് ഓടിക്കുന്ന ദമ്പതികൾ
+2399256	75	162	232	215	knives in a case	ഒരു കേസിൽ കത്തികൾ
+2399268	257	97	142	142	a red apple on the board	ബോർഡിൽ ഒരു ചുവന്ന ആപ്പിൾ
+2399317	281	122	30	53	edge of a bus	ഒരു ബസിന്റെ അഗ്രം
+2399346	112	158	241	162	The shoe is black	ഷൂ കറുത്തതാണ്
+2399378	150	160	17	15	The ball in the air	വായുവിൽ നില്കുന്ന പന്ത്
+2399504	137	147	138	128	a sheep plushie on a chair	ഒരു കസേരയിൽ ഒരു ആട്
+2399598	9	98	242	200	the motorcycle is red	മോട്ടോർസൈക്കിളിന് ചുവപ്പ് നിറമാണ്
+2399618	48	153	333	210	picture of a cat on a toliet	ഒരു ടോലിയറ്റിൽ പൂച്ചയുടെ ചിത്രം
+2399726	0	16	495	244	three sheep in the grass	പുല്ലിൽ മൂന്ന് ആടുകൾ
+2399849	96	361	12	24	the engine of the plane	വിമാനത്തിന്റെ എഞ്ചിൻ
+2399850	235	289	120	60	fingers of young man	ചെറുപ്പക്കാരന്റെ വിരലുകൾ
+2399894	63	375	255	66	The woman is wearing white sneakers.	വെളുത്ത സ്‌നീക്കറുകൾ ധരിച്ച സ്ത്രീ
+2400363	351	203	27	17	Ring on woman's finger	സ്ത്രീയുടെ വിരലിലെ റിംഗ്
+2400394	162	158	35	84	Man in the mirror	കണ്ണാടിയിലെ മനുഷ്യൻ
+2400424	26	8	60	41	the horned head of a giraffe.	ജിറാഫിന്റെ കൊമ്പുള്ള തല.
+2400435	263	118	73	59	part of a surface	ഒരു ഉപരിതലത്തിന്റെ ഭാഗം
+2400632	0	0	330	498	an image of two birds on a bird feeder	ഒരു പക്ഷി തീറ്റയിൽ രണ്ട് പക്ഷികളുടെ ചിത്രം
+2400786	35	4	451	361	Vegetables arranged on a paper.	പച്ചക്കറികൾ ഒരു കടലാസിൽ ക്രമീകരിച്ചിരിക്കുന്നു.
+2400885	258	225	30	53	the hand of a man	ഒരു മനുഷ്യന്റെ കൈ
+2401234	277	273	80	67	top of a green colored vase	പച്ച നിറമുള്ള ഒരു പാത്രത്തിന്റെ മുകളിൽ
+2401608	1	0	496	330	Black and white photograph	ബ്ലാക്ക് ആൻഡ് വൈറ്റ് ഫോട്ടോ
+2402095	96	43	129	246	Little boy standing on a small skateboard	ഒരു ചെറിയ സ്കേറ്റ്ബോർഡിൽ നിൽക്കുന്ന കൊച്ചുകുട്ടി
+2402527	6	87	455	253	An Emirati airplane	ഒരു എമിറാത്തി വിമാനം
+2402659	266	197	70	135	Red and white bag in a hand	ഒരു കയ്യിൽ ചുവപ്പും വെള്ളയും നിറമുളള ബാഗ്
+2402684	244	133	46	120	a yellow french fry	ഒരു മഞ്ഞ ഫ്രഞ്ച് ഫ്രൈ
+2402778	19	2	166	209	large rectangular mirror over sink	സിങ്കിന് മുകളിലുള്ള വലിയ ചതുരാകൃതിയിലുള്ള കണ്ണാടി
+2402862	98	32	191	209	two balloon giraffes on the street	തെരുവിൽ രണ്ട് ബലൂൺ ജിറാഫുകൾ
+2402957	35	200	26	50	FRESH ORANGE CARROT STRIPS	ഫ്രഷ്‌ ഓറഞ്ച് കാരറ്റ് സ്ട്രിപ്പുകൾ
+2402977	45	41	52	102	a black and white bird perched on a bench	ഒരു കറുപ്പും വെളുപ്പും പക്ഷി ഒരു ബെഞ്ചിൽ ഇരിക്കുന്നു
+2403031	48	207	66	57	A red and white stick	ചുവപ്പും വെള്ളയും നിറമുളള വടി
+2403032	267	191	26	31	a yellow sun on the bus	ബസ്സിൽ ഒരു മഞ്ഞ സൂര്യൻ
+2403070	79	6	299	492	Person rides motorcycle	വ്യക്തി മോട്ടോർ സൈക്കിൾ ഓടിക്കുന്നു
+2403182	85	124	97	102	a black bird perched	ഒരു കറുത്ത പക്ഷി
+2403214	45	61	311	361	Man sitting on a double seat motorcycle	ഡബിൾ സീറ്റ് മോട്ടോർ സൈക്കിളിൽ ഇരിക്കുന്നു മനുഷ്യൻ
+2403368	364	110	80	47	ski lift on snowy mountain	മഞ്ഞുമലയിൽ സ്കീ ലിഫ്റ്റ്
+2403373	196	360	86	139	The white toilet with the lid down	ലിഡ് താഴ്ത്തി വെച്ച വെളുത്ത ടോയ്‌ലറ്റ്
+2403393	122	91	357	210	a black and white zebra	കറുപ്പും വെളുപ്പും നിറമുള്ള സീബ്ര
+2403469	2	24	410	101	brown trees with no leaves	ഇലകളില്ലാത്ത തവിട്ടുനിറത്തിലുള്ള മരങ്ങൾ
+2403511	209	0	31	97	a large tree trunk	ഒരു വലിയ വൃക്ഷത്തിന്റെ കൊമ്പ്
+2403610	207	144	86	66	A bird in the water	വെള്ളത്തിൽ ഒരു പക്ഷി
+2403651	427	283	13	23	leaves of a tree	ഒരു മരത്തിന്റെ ഇലകൾ
+2403723	146	181	184	169	a man in the middle of a tennis serve	ഒരു ടെന്നീസ്സ് കോർട്ടിന് നടുവിലുള്ള ഒരാൾ
+2403908	30	7	101	40	white skies overhead	വെളുത്ത ആകാശം മുകളിൽ
+2404128	296	23	185	190	the wall is brown	മതിലിന് തവിട്ടുനിറമാണ്
+2404134	56	256	71	181	A ripe banana	പഴുത്ത വാഴപ്പഴം
+2404149	125	86	269	203	The people are water skiing	ആളുകൾ വാട്ടർ സ്കീയിംഗ് ചെയ്യുന്നു
+2404191	1	51	450	227	A black and white train car	ബ്ലാക്ക് ആൻഡ് വൈറ്റ് ട്രെയിൻ കാർ
+2404356	27	341	246	107	older red Volkswagen Beetle car	പഴയ ചുവന്ന ഫോക്സ്വാഗൺ ബീറ്റിൽ കാർ
+2404381	11	89	272	278	itinerary printed on white paper	യാത്ര വിവരണം അച്ചടിച്ച വൈറ്റ് പേപ്പർ
+2404686	81	192	177	35	Chinese signage on the old building	പഴയ കെട്ടിടത്തിലെ ചൈനീസ് സൈനേജ്
+2404929	92	148	356	174	The cows are in the field	പശുക്കൾ വയലിലാണ്
+2404951	0	40	95	90	a helmet carrier on the back of the cycle	സൈക്കിളിന്റെ പിൻഭാഗത്തുള്ള ഒരു ഹെൽമെറ്റ് കാരിയർ
+2405096	201	349	47	36	part of some grass	പുല്ലിന്റെ കുറച്ച് ഭാഗം
+2405150	167	179	95	111	this is a man	ഇത് ഒരു മനുഷ്യനാണ്
+2405602	455	115	23	29	green things on boat	ബോട്ടിലെ പച്ച വസ്തുക്കൾ
+2405611	46	22	228	186	coffee cups is white	കോഫി കപ്പ് വെളുത്തതാണ്
+2405716	34	82	64	80	A kite in the air.	വായുവിൽ ഒരു കൈറ്റ്.
+2405758	83	346	291	140	fridge door is white	ഫ്രിഡ്ജ് വാതിൽ വെളുത്തതാണ്
+2405760	72	40	280	180	the cat has yellow eyes	പൂച്ചയ്ക്ക് മഞ്ഞ കണ്ണുകളുണ്ട്
+2406020	99	18	350	247	Building for a major metropolitan newspaper.	ഒരു പ്രധാന മെട്രോപൊളിറ്റൻ പത്രത്തിനായിയുള്ള കെട്ടിടം.
+2406073	24	73	466	222	the jacket is laying on the bed	ജാക്കറ്റ് കട്ടിലിൽ കിടക്കുന്നു
+2406266	75	110	385	241	an interesting boat out on the water.	മനോഹരമായ ഒരു ബോട്ട് വെള്ളത്തിൽ.
+2406537	144	34	31	29	a yellow tennis ball	ഒരു മഞ്ഞ ടെന്നീസ് ബോൾ
+2406554	87	91	310	215	three men riding horses	കുതിര സവാരി ചെയ്യുന്ന മൂന്നുപേർ
+2406601	428	144	71	117	young boy is watching baseball game	ചെറുപ്പക്കാരൻ ബേസ്ബോൾ ഗെയിം കാണുന്നു
+2406648	179	93	145	192	A LITTLE BOY SWINGING A BAT	ഒരു ചെറിയ ബോയ് ബാറ്റ് സ്വിംഗ് ചെയ്യുന്നു
+2406890	219	18	152	242	large green drapes in background	പശ്ചാത്തലത്തിൽ വലിയ പച്ച ഡ്രേപ്പുകൾ
+2407018	58	59	108	116	the sky is blue	ആകാശം നീലയാണ്
+2407106	142	6	136	317	a man standing next to an elephant	ആനയുടെ അരികിൽ നിൽക്കുന്ന ഒരാൾ
+2407189	447	138	21	19	light blue wristband	ഇളം നീല റിസ്റ്റ്ബാൻഡ്
+2407288	215	79	75	120	the doors of a bus	ഒരു ബസിന്റെ വാതിലുകൾ
+2407347	15	29	471	258	There are giraffes in the photo	ഫോട്ടോയിൽ ജിറാഫുകൾ ഉണ്ട്
+2407351	151	71	35	25	Blue Frisbee near the woman's hand.	സ്ത്രീയുടെ കൈയ്ക്കടുത്തുള്ള നീല ഫ്രിസ്ബീ.
+2407689	215	20	80	45	this is a nail	ഇതൊരു ആണിയാണ്
+2407877	158	271	31	39	a pacifier in the child's mouth	കുട്ടിയുടെ വായിൽ ഒരു പേസിഫയർ
+2407942	1	0	354	486	A bathroom.	ഒരു കുളിമുറി.
+2407954	311	298	66	42	water damage on ground	ഭൂമിയിലെ ജലനഷ്ടം
+2408129	6	135	218	356	girl upside down on a bench	പെൺകുട്ടി തലകീഴായി ഒരു ബെഞ്ചിൽ
+2408241	1	50	194	226	a motorcycle	ഒരു മോട്ടോർസൈക്കിൾ
+2408302	8	198	335	175	a plate of food on a table	ഒരു മേശപ്പുറത്ത് പ്ലേറ്റ് നിറയെ ഭക്ഷണം
+2408482	50	48	315	146	clear blue sky	തെളിഞ്ഞ നീലാകാശം
+2408588	73	22	139	258	a big gray elephant	ഒരു വലിയ ചാര നിറമുള്ള ആന
+2408699	245	2	24	10	Tennis ball in the air.	വായുവിൽ ടെന്നീസ് പന്ത്.
+2408765	150	194	35	25	red cross on sleeve	സ്ലീവിലെ ചുവന്ന ക്രോസ്സ്
+2408860	0	164	135	52	blue exhaust from plane	വിമാനത്തിൽ നിന്നുള്ള നീല എക്‌സ്‌ഹോസ്റ്റ്
+2408982	99	167	100	98	black baseball t-shirt	കറുത്ത ബേസ്ബോൾ ടി-ഷർട്ട്
+2409052	231	81	65	139	an open door way	ഒരു തുറന്ന വാതിൽ വഴി
+2409185	259	291	100	50	Light on a truck	ഒരു ട്രക്കിന്റെ ലൈറ്റ്
+2409554	145	388	29	38	a push to walk button	നടക്കാനുള്ള ബട്ടൺ
+2409576	189	303	157	191	Cat litter box.	ക്യാറ്റ് ലിറ്റർ ബോക്സ്.
+2409665	109	89	34	48	Sign resembles Mercedes emblem.	ചിഹ്നം മെഴ്‌സിഡസ് ചിഹ്നത്തിന് സമാനമാണ്.
+2409719	203	68	171	108	square purple plastic container with white cheese	വെളുത്ത ചീസ് ഉള്ള ചതുര പർപ്പിൾ പ്ലാസ്റ്റിക് പാത്രം
+2409732	40	171	142	145	the circle is orange	സർക്കിൾ ഓറഞ്ച് ആണ്
+2409812	62	90	129	38	Glasses on man's face	മനുഷ്യന്റെ മുഖത്ത് കണ്ണട
+2409864	58	130	411	240	People dressed in Santa	സാന്ത വസ്ത്രം ധരിച്ച ആളുകൾ
+2409906	356	77	27	30	a yellow bed lamp	ഒരു മഞ്ഞ ബെഡ് ലാമ്പ്
+2410034	39	113	301	358	woman seated by car window	കാറിന്റെ ജാലകത്തിൽ അടുത്ത് ഇരിക്കുന്ന സ്ത്രീ
+2410076	7	43	298	407	a girl eating a piece of pizza	ഒരു പെൺകുട്ടി പിസ്സ കഴിക്കുന്നു
+2410078	2	74	496	297	nigh baseball game	അടുത്തുള്ള ബേസ്ബോൾ ഗെയിം
+2410347	24	33	121	162	Wall is red color.	ചുവപ്പ് നിറമുളള മതിൽ .
+2410532	63	122	163	59	balsamic reduction on lettuce	ലെറ്റ്യൂസിന്റെ ബൾസാമിക് റിഡക്ഷൻ
+2410556	211	101	33	60	part of a water splash	വാട്ടർ സ്പ്ലാഷിന്റെ ഭാഗം
+2410584	6	70	413	211	white bear cubs	വെളുത്ത കരടി കുഞ്ഞുങ്ങൾ
+2410666	192	76	68	115	skier wearing a black and green jacket	കറുപ്പും പച്ചയും ജാക്കറ്റ് ധരിച്ച സ്കീയർ
+2410669	111	130	65	83	Skier going down the hill	കുന്നിറങ്ങുന്ന സ്കയർ
+2410708	249	160	46	26	green words on building	കെട്ടിടത്തിൽ പച്ച പദങ്ങൾ
+2410720	3	5	276	358	woman sitting at table	മേശയിലിരിക്കുന്ന സ്ത്രീ
+2410751	74	107	301	225	group of people dressed up	ഒരു കൂട്ടം ആളുകൾ വസ്ത്രം ധരിച്ചു
+2410959	204	40	109	116	A green star sits on the top tier of a cake	ഒരു കേക്കിന്റെ മുകളിലെ നിരയിൽ ഒരു പച്ച നക്ഷത്രം ഇരിക്കുന്നു
+2411040	66	175	296	193	Pastries over a table	ഒരു മേശപ്പുറത്ത് പേസ്ട്രികൾ
+2411116	299	81	117	177	ripe banana on table	പഴുത്ത വാഴപ്പഴം മേശപ്പുറത്ത്
+2411327	36	31	316	69	Sky is blue color.	ആകാശത്തിന് നീല നിറമാണ്.
+2411707	139	288	83	113	pot of geraniums	ജെറേനിയം കലം
+2412237	104	111	62	106	this a rainbow flaag	ഇതൊരു മഴവില്ല് ഫ്ലാഗ് ആണ്
+2412269	122	82	268	266	Man working on laptop	ലാപ്‌ടോപ്പ് പ്രവർത്തിപ്പിക്കുന്ന മനുഷ്യൻ
+2412278	208	51	40	25	Two black spaces on the back of the helmet.	ഹെൽമെറ്റിന്റെ പിൻഭാഗത്ത് രണ്ട് കറുത്ത ഇടങ്ങൾ.
+2412470	151	72	173	185	A blue and white parosel.	നീലയും വെള്ളയും പരോസെൽ.
+2412480	335	249	32	44	A child on the beach	കടൽത്തീരത്ത് ഒരു കുട്ടി
+2412644	76	18	65	68	one adjustable facial mirror	ക്രമീകരിക്കാവുന്ന ഒരു ഫേഷ്യൽ മിറർ
+2412686	354	119	110	243	Laundry facility off kitchen	അടുക്കളയിൽ അലക്കു സൗകര്യം
+2412749	4	11	490	359	the photo is clear	ഫോട്ടോ വ്യക്തമാണ്
+2412771	233	53	265	297	a batter with his eye on the ball	പന്തിൽ കണ്ണുള്ള ഒരു ബാറ്റർ
+2412903	217	262	56	36	a white tuffet on carpet	പരവതാനിയിൽ ഒരു വെളുത്ത ടഫെറ്റ്
+2413143	88	105	282	215	Food is being prepared on a table.	ഭക്ഷണം ഒരു മേശപ്പുറത്ത് തയ്യാറാക്കുന്നു.
+2413179	18	83	97	291	round clock atop long thin column	നീളമുള്ള നേർത്ത നിരയുടെ മുകളിൽ വൃത്താകൃതിയിലുള്ള ഘടികാരം
+2413317	57	100	229	385	Black and white cow	കറുപ്പും വെളുപ്പും നിറമുളള പശു
+2413577	105	285	378	80	beige carpet with white swirls	വെളുത്ത സ്വിർല്സ് ഉള്ള ബീജ് പരവതാനി
+2413735	4	4	495	137	ocean waves	സമുദ്ര തിരമാലകൾ
+2413939	255	102	181	125	black and white shoes on floor	ബ്ലോക്ക് ആൻഡ് വൈറ്റ് ഷൂസ് തറയിൽ
+2413980	386	50	66	112	Woman wearing white shirt.	വെളുത്ത ഷർട്ട് ധരിച്ച സ്ത്രീ.
+2414068	193	145	40	30	black horse standing in the mist	മൂടൽമഞ്ഞിൽ നിൽക്കുന്നു കറുത്ത കുതിര
+2414283	103	103	57	72	Glass of orange juice	ഓറഞ്ച് ജ്യൂസിന്റെ ഗ്ലാസ്
+2414392	143	136	94	166	a person with an umbrella	കുടയുള്ള ഒരു വ്യക്തി
+2414482	117	99	31	41	a clock on a stone tower	സ്റ്റോൺ ഗോപുരത്തിൽ ഒരു ഘടികാരം
+2414532	186	62	76	33	white Frisbee in flight	വൈറ്റ് ഫ്രിസ്ബീ ഫ്ലൈറ്റിൽ
+2414693	176	100	108	182	Baseball player swinging his bat	ബേസ്ബോൾ കളിക്കാരൻ തന്റെ ബാറ്റ് സ്വിംഗ് ചെയ്യുന്നു
+2414791	116	121	115	229	a young man on a skateboard	സ്കേറ്റ്ബോർഡിലെ ഒരു ചെറുപ്പക്കാരൻ
+2414901	57	4	87	156	Three white birds.	മൂന്ന് വെളുത്ത പക്ഷികൾ.
+2415084	126	73	112	132	A yellow school crossing sign.	ഒരു മഞ്ഞ സ്കൂൾ ക്രോസിംഗ് ചിഹ്നം.
+2415122	105	247	30	75	A man in a blue jacket.	നീല ജാക്കറ്റിലുള്ള ഒരാൾ.
+2415125	106	181	95	100	Cute little boy.	മനോഹരമായ കൊച്ചുകുട്ടി.
+2415207	1	58	497	241	Two blue paper trays	രണ്ട് നീല പേപ്പർ ട്രേകൾ
+2415578	274	73	125	301	a stop sign on a wooden pole	ഒരു തടി പോളിൽ ഒരു അടയാളം
+2416000	46	160	61	79	Outdoor electrical boxes near tracks.	ട്രാക്കുകൾക്ക് സമീപമുള്ള ഇലക്ട്രിക്കൽ ബോക്സുകൾ.
+2416097	410	248	33	58	A blue recycling trash can	ഒരു നീല റീസൈക്ലിംഗ് ട്രാഷ് കാൻ
+2416112	292	90	28	19	man wearing a black and white cap	കറുപ്പും വെളുപ്പും തൊപ്പി ധരിച്ച മനുഷ്യൻ
+2416277	8	113	452	135	An airplane flying through the air	വായുവിലൂടെ പറക്കുന്ന ഒരു വിമാനം
+2416281	48	114	140	135	Reflection of a photographer.	ഒരു ഫോട്ടോഗ്രാഫറുടെ പ്രതിഫലനം.
+2416284	290	105	41	46	A beverage and a plate of food sitting on a table	ഒരു പാനീയവും ഒരു പ്ലേറ്റ് ഭക്ഷണവും ഒരു മേശപ്പുറത്ത് ഇരിക്കുന്നു
+2416359	148	223	85	82	pedestrian Don't Walk signal	കാൽനടയാത്രക്കാരൻ നടക്കരുത് എന്ന സിഗ്നൽ
+2416443	302	289	172	72	a park bench on the seashore	കടൽത്തീരത്ത് ഒരു പാർക്ക് ബെഞ്ച്
+2416679	1	4	497	326	child wearing yellow sweater	മഞ്ഞ സ്വെറ്റർ ധരിച്ച കുട്ടി
+2416728	299	310	67	139	the crust of a pizza	ഒരു പിസ്സയുടെ പുറംഭാഗം
+2416767	136	158	342	170	two boats on the deck	ഡെക്കിൽ രണ്ട് ബോട്ടുകൾ
+2416822	68	137	189	346	the boy on the skateboard	സ്കേറ്റ്ബോർഡിൽ നില്ക്കുന്ന പയ്യൻ
+2416926	50	25	186	198	salads on the plates	പ്ലേറ്റുകളിൽ സലാഡുകൾ
+2417018	143	41	127	194	a skateboarder performing trick	ഒരു സ്കേറ്റ്ബോർഡർ പ്രകടനം നടത്തുന്നു
+2417196	247	85	172	216	shirtless male on a skateboard	സ്കേറ്റ്ബോർഡിൽ ഷർട്ട് ഇല്ലാത്ത പുരുഷൻ
+2417232	42	153	220	161	brown horse	തവിട്ട് കുതിര
+2417439	131	454	45	44	a card	ഒരു കാർഡ്
+2417591	30	106	445	128	bridge above the water	വെള്ളത്തിന് മുകളിലൂടെ ഉള്ള പാലം
+2417713	316	252	53	46	a chair	ഒരു കസേര
+2417865	14	339	38	156	racket held by man	റാക്കറ്റ് പിടിച്ചിരിക്കുന്ന മനുഷ്യൻ

@@ -1,0 +1,998 @@
+2341043	324	197	44	22	Silver bracelet around woman's neck.	মহিলার গলায় রৌপ্য ব্রেসলেট।
+2365053	215	242	243	130	piece of sandwich stuff with lot of meat	মাংস প্রচুর সঙ্গে স্যান্ডউইচ স্টাফ টুকরা
+2380933	0	0	410	497	a black and white picture of a park scene	পার্কের দৃশ্যের একটি কালো এবং সাদা ছবি
+2402778	19	2	166	209	large rectangular mirror over sink	ডুবির উপর বড় আয়তক্ষেত্রাকার আয়না
+2396975	216	185	237	82	a car loading food on a plane	একটি গাড়ীতে একটি গাড়ী লোড লোড
+2349604	56	263	183	167	the floor is made of tiles	মেঝে টাইলস দিয়ে তৈরি
+2414791	116	121	115	229	a young man on a skateboard	একটি স্কেটবোর্ডে একটি যুবক
+2374351	461	164	17	39	Outdoor blue mailbox receptacle	আউটডোর নীল মেলবক্স অভ্যর্থনা
+498018	721	23	250	808	woman with sunglasses holding a cellphone	সানগ্লাসযুক্ত মহিলা একটি সেলফোন হাতে রয়েছে
+2392176	152	19	212	291	cat	বিড়াল
+2346998	42	89	418	190	a red and white train	একটি লাল এবং সাদা ট্রেন
+2388639	197	90	136	163	signal for a four way stop	চার পথে থামার জন্য সিগন্যাল
+2382514	64	359	131	135	a toilet bowl	একটি টয়লেট বাটি
+2343745	10	12	200	113	a bunch of apples	একগুচ্ছ আপেল
+2405150	167	179	95	111	this is a man	এই হল একটি মানুষ
+2373005	242	149	237	180	blue dodge truck sitting at stop light	স্টপ লাইটে নীল ডজ ট্রাক বসে আছে
+2342540	2	258	271	235	textured tan carpeting covering floor	টেক্সচার্ড ট্যান কার্পেটিং মেঝে ঢাকা
+2370762	156	2	298	435	bear laying on the ground	ভালুক মাটিতে শুইয়ে দেওয়া
+2318360	2	28	311	366	statue of elephant	হাতির মূর্তি
+2409812	62	90	129	38	Glasses on man's face	মানুষের মুখে চশমা
+2345256	307	365	85	51	Man on a skateboard	একটি স্কেটবোর্ডে মানুষ
+2338342	96	128	287	80	a small airplane	একটি ছোট বিমান
+2322309	127	185	212	150	this is a computer	এটি একটি কম্পিউটার
+2378280	14	364	80	125	white styrofoam container	সাদা স্টায়ারফোম ধারক
+2379402	185	194	163	182	the cow is brown	গরুটি বাদামি
+2372112	35	111	362	191	Birds in the water	জলে পাখি
+2405760	72	40	280	180	the cat has yellow eyes	বিড়ালের চোখ হলুদ
+2376258	149	86	172	246	man holding the frisbee	ফ্রিবিবি ধরে রাখা মানুষ
+2404929	92	148	356	174	The cows are in the field	গরু মাঠে আছে
+2398453	184	169	123	50	Black and gray computer mouse	কালো এবং ধূসর কম্পিউটারের মাউস
+2366974	238	59	94	319	the man standing near the motorcycle	মোটরসাইকেলের কাছে দাঁড়িয়ে লোকটি
+2330490	15	44	444	272	three elephants in a row	পরপর তিনটি হাতি
+2383516	92	247	244	247	The dog has long fur	কুকুরটির দীর্ঘ পশম রয়েছে
+2403393	122	91	357	210	a black and white zebra	একটি কালো এবং সাদা জেব্রা
+2383607	208	28	21	38	This is a candle	এটি একটি মোমবাতি
+2387468	82	86	372	247	MAROON STEAM LOCOMOTIVE	মেরুন স্টিম লকটোমোটেভ
+2416284	290	105	41	46	A beverage and a plate of food sitting on a table	একটি পানীয় এবং টেবিলে বসে খাবারের প্লেট
+2383966	2	359	367	139	footprints in the sand on the beach	সৈকতের বালিতে পায়ের ছাপ
+2346377	51	30	382	272	two girls playing frisbee	দুই মেয়ে ফ্রিসবি খেলছে
+2384428	47	11	438	298	A beautiful scene of a beach and the ocean	সৈকত এবং সমুদ্রের একটি সুন্দর দৃশ্য
+2405758	83	346	291	140	fridge door is white	ফ্রিজের দরজা সাদা
+2407189	447	138	21	19	light blue wristband	হালকা নীল কব্জি
+2333560	221	352	26	16	black stripe on zebra	জেব্রা উপর কালো ফিতে
+4266	286	30	75	93	A wall on the side of a building	একটি ভবনের পাশে একটি প্রাচীর
+2415578	274	73	125	301	a stop sign on a wooden pole	একটি কাঠের খুঁটিতে একটি স্টপ সাইন
+2342228	370	218	39	156	black pole in air	বাতাসে কালো মেরু
+2326307	93	103	262	163	Skier in different positions	বিভিন্ন পজিশনে স্কাইয়ার
+2322699	136	86	43	51	tag on a cow's ear	একটি গরুর কানের উপর ট্যাগ
+2373569	274	218	22	41	White tube of paper towels standing in the corner on a counter top	কাউন্টারের শীর্ষে কোণে দাঁড়িয়ে কাগজের তোয়ালেগুলির সাদা টিউব
+2337451	79	154	131	94	woman riding on a blue surfboard	নীল সার্ফবোর্ডে চড়া মহিলা
+2351925	131	55	245	136	black and blue bow tie	কালো এবং নীল নম টাই
+2319411	9	7	476	374	a team of hoses pulling a wagon	পায়ের পাতার মোজাবিশেষের একটি দল একটি ওয়াগন টানছে
+2352283	194	73	47	46	Cat has tan ear.	বিড়ালের কানের কান আছে।
+2395377	52	8	420	361	pizza in a box	একটি বাক্সে পিজ্জা
+2322232	0	2	372	425	man taking a picture of his food	লোক তার খাবারের ছবি তুলছে
+2382089	108	256	331	60	water in the river	নদীতে জল
+498056	73	51	854	485	these are large ships	এই বড় জাহাজ
+2318697	128	168	92	76	Dark brown bird seated on a stone	গাঢ় বাদামী পাখি একটি পাথরে বসে আছে
+2407018	58	59	108	116	the sky is blue	আকাশ নীল
+2385160	110	129	245	81	two zebras walking through grass	ঘাসের মধ্য দিয়ে দুটি জেব্রা হাঁটছে
+2405716	34	82	64	80	A kite in the air.	বাতাসে একটি ঘুড়ি।
+2398798	6	298	82	48	white computer keyboard with cord	কর্ড সহ সাদা কম্পিউটার কীবোর্ড
+2417196	247	85	172	216	shirtless male on a skateboard	একটি স্কেটবোর্ডে শার্ট ছাড়া পুরুষ
+2386504	214	307	60	65	the side of a purse with a triangle pattern on it	এটিতে একটি ত্রিভুজ প্যাটার্নযুক্ত একটি পার্সের পাশ
+2340000	194	112	271	140	silver train	সিলভার ট্রেন
+2404134	56	256	71	181	A ripe banana	একটা পাকা কলা
+2386334	177	47	67	49	The yellow jacket the person is wearing.	ব্যক্তিটি যে হলুদ রঙের জ্যাকেট পরেছেন।
+2403070	79	6	299	492	Person rides motorcycle	ব্যক্তি মোটরসাইকেলে চড়ে
+2351431	58	11	405	315	a man holding a surfboard	একজন মানুষ একটি সার্ফবোর্ড ধারণ করছে
+2362810	318	195	24	46	part of a shade	একটি ছায়ার অংশ
+2381944	142	82	226	292	Two men dressed in sports clothing	খেলাধুলায় পোশাক পরা দুই পুরুষ
+2412480	335	249	32	44	A child on the beach	সৈকতে একটি শিশু
+2408699	245	2	24	10	Tennis ball in the air.	বাতাসে টেনিস বল।
+2321635	196	55	97	152	This is a person	এটি একজন ব্যক্তি
+2403610	207	144	86	66	A bird in the water	জলে একটি পাখি
+2363684	1	53	260	214	wooden park bench in a park	একটি পার্কে কাঠের পার্ক বেঞ্চ
+2362684	0	16	497	315	a subway train	একটি পাতাল রেল ট্রেন
+2396617	90	149	124	167	man with long black hair	লম্বা কালো চুলের মানুষ
+2348312	133	34	268	277	Man wearing a red hoodie	একটি লাল হুডি পরা মানুষ
+2317086	36	94	167	135	elephant with a baby elephant	একটি বাচ্চা হাতির সাথে হাতি
+2394132	32	106	110	217	person laughing in kayak	কায়ককে হাসতে হাসতে ব্যক্তি
+2327368	137	139	170	127	the headlights on a bike	একটি সাইকেল হেডলাইট
+2361591	76	107	244	193	an elephant is walking	একটি হাতি হাঁটছে
+2394543	198	91	81	157	An elephant	একটি হাতি
+2371012	207	168	74	138	the boy is on the mans shoulders	ছেলেটি মানুষের কাঁধে আছে
+4821	66	22	432	331	White bowl is on the white plate.	সাদা পাত্রে সাদা প্লেট রয়েছে।
+2395520	324	57	122	217	a man leaning on the bow of a small boat	একটি ছোট্ট নৌকার ধনুকের দিকে ঝুঁকে থাকা একজন মানুষ
+2365409	78	156	398	209	Two twin beds pushed together	দুটি বিছানা একসাথে ঠেলাঠেলি করে
+2350393	72	73	275	266	the bus is green	বাস সবুজ
+2327017	145	92	20	17	the hat is black	টুপিটি কালো
+2336292	234	277	27	12	the home plate on the baseball field	বেসবল মাঠে হোম প্লেট
+2346723	265	348	60	46	slice of pizza in a box	একটি বাক্সে পিজ্জার টুকরা
+2331694	9	90	458	184	people playing tennis	মানুষ টেনিস খেলছে
+2319741	25	183	34	23	grass on a field	একটি মাঠে ঘাস
+2404128	296	23	185	190	the wall is brown	প্রাচীরটি বাদামী
+2339819	128	13	143	49	an oblong window on a train	একটি ট্রেনে একটি আবদ্ধ উইন্ডো
+2362560	173	7	164	193	dog with front paws on table	টেবিলে সামনের পাঞ্জা দিয়ে কুকুর
+2348926	139	232	355	95	large crowd watching horse race	ঘোড়দৌড় দেখার জন্য বিশাল জনতা
+2339478	270	137	25	30	White animal walking in field.	মাঠে হাঁটছে সাদা প্রাণী animal
+2386804	322	2	177	232	sprocket on motorcycle	মোটরসাইকেলের স্প্রকেট
+2406890	219	18	152	242	large green drapes in background	পটভূমিতে বড় সবুজ ফালি
+2394905	130	70	265	155	A computer screen with multiple open windows	একাধিক উন্মুক্ত উইন্ডো সহ একটি কম্পিউটার স্ক্রিন
+2410347	24	33	121	162	Wall is red color.	ওয়াল লাল রঙের।
+285828	567	396	261	275	A dusty brown toilet.	ধুলাবালি বাদামী টয়লেট।
+2348827	172	140	20	85	yellow banana with brown spots	বাদামী দাগের সাথে হলুদ কলা
+2381361	93	200	282	174	the toilet is white	টয়লেট সাদা
+835	438	329	272	123	these cars are parked on the dirt	এই গাড়ী নোংরা উপর পার্ক করা হয়
+2388052	373	3	125	256	a blue and yellow car	একটি নীল এবং হলুদ গাড়ী
+2346235	77	268	97	41	Two tubes of toothpaste.	টুথপেস্ট দুটি টিউব।
+2406266	75	110	385	241	an interesting boat out on the water.	জলের উপর একটি আকর্ষণীয় নৌকা।
+2382521	291	183	125	85	red and white seat cover	লাল এবং সাদা আসন কভার
+2320649	79	128	251	104	Large group of people	বড় দল
+2414693	176	100	108	182	Baseball player swinging his bat	বেসবল খেলোয়াড় তার ব্যাটে দুলছে
+2397757	3	92	494	227	piece of cake on a plate	একটি প্লেটে পিষ্টক টুকরা
+2363547	199	294	34	48	the man is talking on the phone	লোকটি ফোনে কথা বলছে
+2357946	39	53	417	251	Black and white striped zebra	কালো এবং সাদা ডোরাকাটা জেব্রা
+2353464	369	262	130	100	White car on the road	রাস্তায় সাদা গাড়ি
+3464	58	113	29	62	window on a building	একটি বিল্ডিং উইন্ডো
+2335872	175	187	62	19	Centrebus on front of bus	বাসের সামনে সেন্ট্রেবাস
+2346716	192	108	52	73	Propeller of an engine	একটি ইঞ্জিনের চালক
+3469	2	286	38	26	car on the road	রাস্তায় গাড়ি
+2363239	271	188	56	58	a catchers glove	একটি ক্যাচারার গ্লোভ
+2324920	173	254	67	36	lemon on the plate	প্লেটে লেবু
+2377646	54	32	355	270	people running on a green surface	লোকেরা সবুজ পৃষ্ঠে ছুটে চলেছে
+2338625	200	188	227	113	the impalas are drinking water	ইমপালরা পানি পান করছে
+2337581	109	84	380	230	this is a cow	এটি একটি গরু
+2357443	0	0	339	465	Yellow flowers in a glass vase	এক গ্লাসের দানিতে হলুদ ফুল
+2396137	334	43	164	235	The chopsticks on the table	টেবিলের চপস্টিকস
+2316412	1	0	485	329	A ribbon cutting event.	একটি পটি কাটা ইভেন্ট।
+2358422	111	160	252	142	a bus of two cabins	দুটি কেবিনের একটি বাস
+2351731	189	95	150	140	chocolate doughnut shaped like blackface with purple heart	রক্তবর্ণ হৃদয় দিয়ে ব্ল্যাকফেসের মতো আকৃতির চকোলেট ডোনাট
+2353318	321	202	29	22	gold hear ear rings	সোনার কানের রিং শুনতে
+2378859	127	158	23	31	12 on a bus.	একটি বাসে 12।
+2346238	93	144	45	12	macbook air logo on the laptop.	ল্যাপটপে ম্যাকবুক এয়ার লোগো।
+2378360	227	16	80	43	blue sky above water	জলের উপরে নীল আকাশ
+2330573	62	81	435	236	a person in a canoe in a corn field	একটি ভুট্টা জমিতে একটি ক্যানো এক ব্যক্তি
+2407954	311	298	66	42	water damage on ground	জমিতে জলের ক্ষতি
+2359869	310	101	98	163	a set of metal framed stairs	ধাতু ফ্রেমযুক্ত সিঁড়ি একটি সেট
+2340930	216	132	64	52	giraffe drinking at lake edge	হ্রদের প্রান্তে জিরাফ পান করছেন
+2398742	180	93	79	81	person crouched over surboard	ব্যক্তি surboard উপর ক্রাউচ
+2417713	316	252	53	46	a chair	একটি চেয়ার
+2342932	0	25	307	348	a cat wearing a collar	একটি বিড়াল কলার পরা
+2319080	94	32	117	115	head of a person	একজন ব্যক্তির প্রধান
+2399618	48	153	333	210	picture of a cat on a toliet	টোলিটের উপর একটি বিড়ালের ছবি
+2375967	56	18	219	330	guy on snowboard	স্নোবোর্ডে লোক
+2384363	45	58	450	310	zebra standing in grass	ঘাসে দাঁড়িয়ে জেব্রা
+2087	373	66	345	420	the house is beige in color	বাড়ি রঙে বেইজ হয়
+2349812	196	45	290	80	four clocks above doorway	দরজার উপরে চারটি ঘড়ি
+2233	325	316	24	26	Driver side mirror of the vehicle.	গাড়ির সাইড মিরর।
+2406648	179	93	145	192	A LITTLE BOY SWINGING A BAT	একটি ছোট ছেলে একটি ব্যাট সুইং করছে
+2398757	374	149	30	43	Cross on a plane.	একটি বিমানে ক্রস।
+2330107	73	283	20	20	Orange eye on a gray bird	ধূসর পাখির উপর কমলা চোখ
+2318324	276	302	71	90	blender uis white in color	ব্লেন্ডার ইউইস সাদা রঙের
+2375532	32	113	365	181	the big elephant has it's trunk on the small elephant	বড় হাতির এটি ছোট হাতির উপরে ট্রাঙ্ক রয়েছে
+2401234	277	273	80	67	top of a green colored vase	একটি সবুজ রঙিন দানি শীর্ষ
+2384797	173	35	102	128	Black helmet covering face	কালো হেলমেট ঢাকা মুখ
+2396433	0	73	185	229	an unfinished building	একটি অসম্পূর্ণ বিল্ডিং
+2348672	258	53	53	48	A clock is displayed on a building.	একটি বিল্ডিংয়ে একটি ঘড়ি প্রদর্শিত হয়।
+2371318	58	74	150	247	Catcher holding up mitt	ক্যাটার চেপে ধরে মিট
+2328577	188	72	127	138	man doing tricks in air	মানুষ বাতাসে কৌশল করছে
+2331172	194	111	207	207	a bus on the road	রাস্তায় একটি বাস
+2329367	164	236	46	30	the frisbee in front of the man	লোকটির সামনে ফ্রিসবি
+2366060	153	25	48	56	black tipped horn on giraffe's head	জিরাফের মাথায় কালো রঙের শিঙা
+2388137	66	65	85	66	Words flybe painted on a planes tail	শব্দগুলি ফ্লাইবে একটি প্লেনের লেজে আঁকা
+2319388	206	116	9	13	brown spot on giraffe	জিরাফে ব্রাউন স্পট
+2374748	257	43	88	280	baseball player	বেসবল প্লেয়ার
+2373476	352	175	45	57	part of a horse	একটি ঘোড়ার অংশ
+2374952	43	25	222	243	this is a cake	এটি একটি পিষ্টক
+2377116	135	175	22	30	brown and black baseball glove	বাদামী এবং কালো বেসবল গ্লোভ
+2382638	287	14	115	99	the head of a bird	পাখির মাথা
+2414068	193	145	40	30	black horse standing in the mist	কালো ঘোড়া কুয়াশা দাঁড়িয়ে
+2384640	285	83	212	122	two sandwiches on a plate	একটি প্লেটে দুটি স্যান্ডউইচ
+2325489	223	133	240	163	pizza with mushrooms and cheese	মাশরুম এবং পনির সঙ্গে পিজা
+150539	204	176	327	245	a double decker bus	একটি ডাবল ডেকার বাস
+2407689	215	20	80	45	this is a nail	এটি একটি পেরেক
+2375172	5	275	148	174	White short sleeved tshirt	সাদা শর্ট স্লিভ টিশার্ট
+2339065	186	90	275	250	soap is in the bowl	সাবান বাটিতে রয়েছে
+2354714	137	37	81	47	Waters of the sea	সমুদ্রের জল
+2341223	179	276	69	183	a black vase	একটি কালো দানি
+2325681	11	45	322	147	red boat	লাল নৌকা
+2322455	152	165	89	95	heart shaped food in middle of plate	প্লেটের মাঝখানে হার্টের আকারের খাবার
+2374947	222	147	271	115	A silver spatula	একটি রৌপ্য চেপ্টা চামচ
+2333917	0	96	371	397	Two children holding tennis racquets	টেনিস র‌্যাকেট ধরে দুই শিশু
+2353530	224	201	39	28	The man is on a surfboard.	লোকটি সার্ফবোর্ডে আছে।
+2405602	455	115	23	29	green things on boat	নৌকায় সবুজ জিনিস
+2351507	160	364	28	48	a white patch on a snout	একটি সাদা প্যাচ একটি স্নুট উপর
+2398728	356	294	5	12	yellow part of a road	একটি রাস্তার হলুদ অংশ
+2377543	400	5	85	265	The window is open.	জানালাটি খোলা.
+2322304	158	186	225	145	blue couch in the living room	বসার ঘরে নীল পালঙ্ক
+3579	304	203	93	113	The man is in yellow shirt.	লোকটি হলুদ শার্টে আছে।
+2333155	326	156	45	41	cow standing on beach	গরু সৈকতে দাঁড়িয়ে
+2374014	176	79	26	25	a silhouette of a bird	পাখির সিলুয়েট
+1159633	146	330	185	84	a blue shade for the boaters	নৌকা বাইচ জন্য একটি নীল ছায়া
+2354446	77	406	91	83	this is a toilet sink	এটি একটি টয়লেট ডোবা
+2387473	168	140	122	96	sign below the light	আলোর নীচে সাইন করুন
+2408482	50	48	315	146	clear blue sky	পরিষ্কার নীল আকাশ
+2392848	226	131	117	72	black and white sneaker	কালো এবং সাদা স্নিকার
+2371682	182	93	133	267	Brown pants in the photo	ফটোতে ব্রাউন প্যান্ট
+2398421	72	76	211	109	rainbow sprinkled donuts	রংধনু ছিটানো ডোনাটস
+1983	2	1	595	601	white wall with wood molding	কাঠের ছাঁচনির্মাণের সাথে সাদা দেয়াল
+2417018	143	41	127	194	a skateboarder performing trick	একটি স্কেটবোর্ডার কৌশল
+1159413	179	244	785	392	a black pickup truck is parked	একটি কালো পিকআপ ট্রাক দাঁড়িয়ে আছে
+2406554	87	91	310	215	three men riding horses	ঘোড়ায় চড়ে তিন জন
+2367904	6	16	488	305	pizzas behind glass window	কাঁচের জানালার পিছনে পিজ্জা
+2362356	202	129	122	124	bus is driving down the road	বাস রাস্তায় নামছে
+1592907	70	431	950	236	bananas are all green	কলা সবুজ সবুজ
+2382416	238	77	48	229	traffic signal on a pole	একটি মেরুতে ট্র্যাফিক সিগন্যাল
+2382500	160	71	137	193	a man	একজন মানুষ
+2338611	0	62	497	326	the train is color gray	ট্রেনটি বর্ণ ধূসর
+2321095	240	2	30	25	a stripe on pole	মেরু উপর একটি স্ট্রাইপ
+2414283	103	103	57	72	Glass of orange juice	কমলা রসের গ্লাস
+2393478	297	73	41	21	Man wearing protective helmet	প্রতিরক্ষামূলক হেলমেট পরা মানুষ
+1593131	719	86	174	475	snow covered electric traffic signal	তুষার ঢাকা বৈদ্যুতিন ট্র্যাফিক সংকেত
+2366938	48	34	48	57	a red helmet	একটি লাল শিরস্ত্রাণ
+2406073	24	73	466	222	the jacket is laying on the bed	জ্যাকেট বিছানায় শুয়ে আছে
+2320093	242	218	212	39	a large boat in the water	জলে একটি বড় নৌকা
+2380985	248	25	234	252	a man riding a skateboard	স্কেটবোর্ডে চড়ে একজন
+2385116	350	125	125	137	a white cow eating garbage.	একটি সাদা গরু আবর্জনা খাচ্ছে।
+2366719	145	34	251	207	four giraffes standing together	চার জিরাফ একসাথে দাঁড়িয়ে
+2332336	121	78	228	132	person standing on a board	একটি বোর্ডে দাঁড়িয়ে ব্যক্তি
+2381193	93	61	112	157	the sign is red	চিহ্নটি লাল
+3322	43	194	292	253	White car on the sidewalk	ফুটপাতে সাদা গাড়ি
+2353575	21	152	101	66	a green plastic bat in a little boy's hand	একটি ছোট ছেলের হাতে একটি সবুজ প্লাস্টিকের ব্যাট
+2351432	40	210	327	208	giraffes with their head down	মাথা নিচে জিরাফ
+2351083	10	45	482	296	A dog is laying on the floor	একটা কুকুর মেঝেতে শুয়ে আছে
+2344666	167	62	116	22	the word Ambulans	শব্দটি অ্যাম্বুলানস
+2407877	158	271	31	39	a pacifier in the child's mouth	সন্তানের মুখে একটি প্রশান্তকারী
+2352107	83	57	182	280	a giraffe with a long neck	একটি দীর্ঘ ঘাড় সঙ্গে একটি জিরাফ
+2318347	15	157	332	297	A retro dining table set	একটি বিপরীতমুখী ডাইনিং টেবিল সেট
+2378992	52	28	420	254	white bus on street	রাস্তায় সাদা বাস
+2368342	367	153	108	137	Female athlete preparing to hit tennis ball with racket.	র‌্যাকেট দিয়ে টেনিস বল হিট করার প্রস্তুতি নিচ্ছেন মহিলা অ্যাথলিট।
+2375529	112	18	38	67	a white security camera	একটি সাদা সুরক্ষা ক্যামেরা
+2371445	101	105	246	207	white sheep standing in pen	সাদা ভেড়া কলমে দাঁড়িয়ে
+2416926	50	25	186	198	salads on the plates	প্লেটে সালাদ
+2326724	40	93	41	60	Green kite over the sky	আকাশে সবুজ ঘুড়ি
+2384747	156	433	69	54	a van	ভ্যান
+2356474	175	129	32	40	the soldier is wearing a hat	সৈনিক একটি টুপি পরেছে
+2331169	6	1	490	184	clouds in daytime sky	দিনের আকাশে মেঘ
+2366478	181	173	160	80	a billboard sign with a woman on it	এটিতে কোনও মহিলার সাথে একটি বিলবোর্ড সাইন
+498277	44	116	227	539	the boy swinging the racquet	ছেলেটি র‌্যাকেটে দুলছে
+2342174	10	16	484	473	a plate of food	খাবারের প্লেট
+3058	365	261	227	142	Advertisement on side of bus	বাসের পাশেই বিজ্ঞাপন
+2329360	142	103	120	77	Plane in the air.	বাতাসে বিমান
+2342266	207	8	74	309	plane's body is red	প্লেনের শরীর লালচে
+2384599	7	65	476	265	Food on a white flower edge plate	সাদা ফুলের প্রান্তের প্লেটে খাবার
+2396495	166	52	97	62	black and white hat	কালো এবং সাদা টুপি
+2342810	154	25	341	215	the man is flying a kite	লোকটি একটি ঘুড়ি উড়ছে
+2324214	211	182	67	52	a red and white stop sign	একটি লাল এবং সাদা স্টপ চিহ্ন
+2385084	180	30	248	242	Baby playing with a phone	বাচ্চা ফোন নিয়ে খেলছে
+2364866	64	10	201	289	dog catching frisbee that is thrown	কুকুর ধরছে frisbee যে নিক্ষিপ্ত হয়
+2417591	30	106	445	128	bridge above the water	জলের উপরে ব্রিজ
+1381	178	360	49	52	Small child sitting in a stroller.	ছোট একটি স্ট্রোলারে বসে শিশু 
+2349566	23	26	126	199	Two black square briefcases	দুটি কালো বর্গক্ষেত্র ব্রিফকেস
+2403368	364	110	80	47	ski lift on snowy mountain	তুষারময় পর্বত উপর স্কি লিফট
+2414482	117	99	31	41	a clock on a stone tower	পাথরের টাওয়ারে একটি ঘড়ি
+2407351	151	71	35	25	Blue Frisbee near the woman's hand.	মহিলার হাতের কাছে ব্লু ফ্রিসবি।
+2368282	184	115	40	22	people sitting on park bench	পার্ক বেঞ্চে বসে মানুষ
+1270	120	86	167	144	man wearing red shirt	লাল শার্ট পরা মানুষ
+1159433	434	479	77	67	light on a truck	একটি ট্রাকের উপর হালকা
+2352917	19	409	45	41	light shining on building	বিল্ডিংয়ে আলো জ্বলছে
+2412903	217	262	56	36	a white tuffet on carpet	কার্পেটে একটি সাদা টুফেট
+2412686	354	119	110	243	Laundry facility off kitchen	রান্নাঘর বন্ধ লন্ড্রি সুবিধা
+2331256	287	354	15	46	framed picture on wall	দেয়ালে ফ্রেমযুক্ত ছবি
+2353980	95	48	335	122	the plane is displayed	বিমান প্রদর্শিত হয়
+2366170	0	88	497	241	A white tablecloth.	একটি সাদা টেবিল ক্লথ
+2403469	2	24	410	101	brown trees with no leaves	কোন পাতা নেই বাদামী গাছ
+2343771	352	220	95	112	this is a horse	এটি একটি ঘোড়া
+2355999	0	220	197	153	the fork is silver	কাঁটাচামচ রৌপ্য
+2382744	231	176	117	130	Small purple sofa by wooden table	কাঠের টেবিল দ্বারা ছোট বেগুনি সোফা
+2404951	0	40	95	90	a helmet carrier on the back of the cycle	চক্রের পিছনে একটি হেলমেট ক্যারিয়ার
+2388316	160	64	155	237	a black and white cat	একটি কালো এবং সাদা বিড়াল
+2347210	28	253	50	102	Wine bottles on the counter	কাউন্টারে ওয়াইন বোতল
+713264	163	510	43	75	skateboarder is standing outside	স্কেটবোর্ডার বাইরে দাঁড়িয়ে আছে
+1593252	264	361	336	661	aqua and white sign on street	রাস্তায় জল এবং সাদা সাইন
+2333296	135	86	262	167	cow in the street	রাস্তায় গরু
+2369482	75	158	29	25	white cap on a woman's head	একটি মহিলার মাথায় সাদা ক্যাপ
+2370174	101	82	293	252	Seagull standing on dock.	সিগল ডকে দাঁড়িয়ে আছে।
+2412237	104	111	62	106	this a rainbow flaag	এটি একটি রংধনু ফ্ল্যাগ
+2410532	63	122	163	59	balsamic reduction on lettuce	লেটুসে বালসামিক হ্রাস
+2352667	25	12	230	125	This is an orange	এটি একটি কমলা
+2332769	92	182	113	165	a white wedding cake	একটি সাদা বিবাহের পিষ্টক
+2320056	348	1	70	160	a glass with beer in it	এটিতে বিয়ারের সাথে একটি গ্লাস
+2397344	81	19	216	412	small child on skis	স্কি উপর ছোট শিশু
+2388673	142	421	8	11	the short is brown	সংক্ষিপ্তটি বাদামি
+2377963	372	38	93	99	picture on the wall.	দেয়ালে ছবি।
+2412470	151	72	173	185	A blue and white parosel.	একটি নীল এবং সাদা প্যারোসেল।
+2397809	71	57	55	53	A person wearing a yellow helmet.	হলুদ শিরস্ত্রাণ পরা ব্যক্তি।
+2327463	106	165	215	147	a train on train tracks	ট্রেন ট্র্যাক একটি ট্রেন
+2331062	80	94	232	237	people playing baseball	বেসবল খেলছে
+2338430	97	18	175	167	large and brown elephant	বড় এবং বাদামী হাতি
+2319137	119	455	20	43	Two people standing in the water.	জলে দাঁড়িয়ে দুজন।
+2399894	63	375	255	66	The woman is wearing white sneakers.	মহিলা সাদা স্নিকারস পরেছে।
+2358556	62	103	421	201	THE BUS IS LARGE	বাসটি অনেক বেশি
+2364999	25	55	248	248	a gray and white cat	একটি ধূসর এবং সাদা বিড়াল
+2385921	13	121	18	38	an overhead outdoor light	একটি ওভারহেড বহিরঙ্গন আলো
+2324083	185	144	198	135	Woman and dog walking on the beach	মহিলা এবং কুকুর সৈকতে হাঁটা
+2339333	8	8	480	272	a group of men riding horses	ঘোড়া আরোহী একদল পুরুষ
+2345278	37	170	145	143	this is a motorcycle	এটি একটি মোটরসাইকেল
+2329165	157	84	20	21	the hydrant is rusty	হাইড্র্যান্ট মরিচা হয়
+2353476	370	151	56	30	a Frisbee on the air	বাতাসে একটি ফ্রিসবি
+2331978	44	58	153	216	this is a lady	এই মহিলা
+2359354	38	259	50	24	brown water in the river	নদীতে বাদামী জল
+2327655	75	28	184	295	Tennis player	টেনিস খেলোয়াড়
+2336354	443	179	18	15	head of a person	একজন ব্যক্তির প্রধান
+2347449	222	214	50	88	the man is skateboarding	লোকটি স্কেটবোর্ডিং করছে
+2359248	93	15	182	368	group of skate boarders skating	স্কেট বোর্ডারদের স্কেটিং গ্রুপ
+2410666	192	76	68	115	skier wearing a black and green jacket	একটি কালো এবং সবুজ জ্যাকেট পরা skier
+2416359	148	223	85	82	pedestrian Don't Walk signal	পথচারী সিগন্যাল হাঁটাবেন না
+2380156	98	127	37	46	sea bird in water	জলে সমুদ্রের পাখি
+2326960	89	157	169	166	man is on a bike	মানুষ একটি বাইকে আছে
+2317010	190	30	260	105	yellow flowers in vase	ফুলদানিতে হলুদ ফুল
+2326040	148	20	139	114	four people riding on the elephant	হাতির উপর চড়ে চার জন
+2381463	9	25	152	302	man dressed in olden clothes	পুরানো পোশাক পরিহিত মানুষ
+2335306	290	266	10	4	LADY HAS ON PANTS	প্যান্ট চালু আছে
+2345896	28	143	339	183	pews in a place of worship	উপাসনা জায়গায় গির্জায় ঘেরা আসন
+1159389	50	0	377	681	a white Christmas tree	একটি সাদা ক্রিসমাস ট্রি
+2343505	3	172	250	180	plastic tarp on food cart	খাবারের গাড়িতে প্লাস্টিকের টর্প
+2414392	143	136	94	166	a person with an umbrella	ছাতাওয়ালা একজন
+2336792	326	173	135	138	little girl standing near a younger boy	ছোট্ট একটি ছোট ছেলের কাছে দাঁড়িয়ে
+4609	637	21	46	59	window on the building	বিল্ডিং উইন্ডো
+2323487	129	165	41	41	green leaf on tree	গাছে সবুজ পাতা
+2392389	2	80	47	70	fork with a knife underneath	নীচে একটি ছুরি দিয়ে কাঁটাচামচ
+2339391	153	48	260	160	Slices of cooked sausage	রান্না করা সসেজের টুকরা
+2336204	138	119	200	142	two birds are kissing	দুটি পাখি চুম্বন করছে
+2320967	254	105	55	172	a grey and red neck tie	একটি ধূসর এবং লাল ঘাড় টাই
+2394704	12	370	169	124	pile of golden oats on the table	টেবিলে সোনার ওটসের গাদা
+2350274	9	3	482	307	A commuter train at a train stop.	একটি ট্রেন স্টপে একটি যাত্রী ট্রেন।
+2373356	1	136	195	133	this is a cow	এটি একটি গরু
+2381414	117	181	193	95	a group of pansies in a vase	একটি দানি প্যানসির একটি গ্রুপ
+2381917	28	53	273	384	child wearing blue helmet	শিশু নীল হেলমেট পরা
+2362200	32	190	105	27	it is the left wing on the plane	এটি বিমানের বাম শাখা
+2340102	1	23	418	350	Elephant eating from woman's bowl.	মহিলার বাটি থেকে হাতি খাচ্ছেন।
+2331870	0	44	406	454	a slice of pizza	এক টুকরো পিজা
+2363918	132	65	65	266	the pole is gray	মেরু ধূসর
+2371805	0	0	498	374	The sky is cloudy.	আকাশ মেঘলা।
+2371792	309	117	137	128	Laptop computer on desk	ডেস্কে ল্যাপটপ কম্পিউটার
+2321561	2	253	345	107	wooden fence in a lot	অনেক কাঠের বেড়া
+4876	137	100	36	44	A wall on the side of a building	একটি ভবনের পাশে একটি প্রাচীর
+2407347	15	29	471	258	There are giraffes in the photo	ফটোতে জিরাফ রয়েছে
+2321781	303	125	166	216	woman sitting on a bed	বিছানায় বসে মহিলা
+2402095	96	43	129	246	Little boy standing on a small skateboard	ছোট্ট একটি ছোট স্কেটবোর্ডে দাঁড়িয়ে
+2406601	428	144	71	117	young boy is watching baseball game	অল্প বয়স্ক ছেলে বেসবল খেলা দেখছে
+2326650	230	11	49	37	light above protesting sign	প্রতিবাদের চিহ্ন উপরে হালকা
+2355763	170	403	21	45	Orange cone in the snow.	বরফে কমলা শঙ্কু।
+2404381	11	89	272	278	itinerary printed on white paper	ভ্রমণপথে সাদা কাগজে মুদ্রিত
+2340795	69	18	186	233	a cross on top a tower	একটি টাওয়ার উপরে ক্রস
+838	180	17	309	126	white clouds in the sky	আকাশে সাদা মেঘ
+2317624	50	64	318	262	The restaurant is Tomasino's.	রেস্তোঁরাটি টমাসিনোর।
+2374926	191	155	295	100	Train no longer on track	ট্রেন আর ট্র্যাক নেই
+2324069	240	95	60	25	a small orange toy kit	একটি ছোট কমলা খেলনা কিট
+2381839	415	175	57	102	a person in the picture	ছবিতে একজন ব্যক্তি
+2416767	136	158	342	170	two boats on the deck	ডেকে দুটি নৌকা
+2393107	201	52	30	25	a small lamp on top	উপরে একটি ছোট বাতি
+2338804	175	223	39	54	skier in a blue jacket from above	উপরে থেকে একটি নীল জ্যাকেট মধ্যে skier
+2381754	286	183	55	55	a bird	একটি পাখি
+2343812	99	261	174	235	this is a ski lodge	এটি একটি স্কি লজ
+1747	377	328	362	270	man wearing blue and white striped shirt	নীল এবং সাদা ডোরাকাটা শার্ট পরা মানুষ
+2373376	290	25	171	88	open white umbrella on beach	সৈকতে সাদা ছাতা খুলুন
+2416679	1	4	497	326	child wearing yellow sweater	হলুদ সোয়েটার পরা শিশু
+2363650	203	138	265	199	a cat is sleeping	একটি বিড়াল ঘুমাচ্ছে
+2317915	4	44	386	455	A man drinking.	একজন লোক মদ খাচ্ছে।
+2366347	280	277	39	55	an orange cone on the ground	মাটিতে কমলা শঙ্কু
+2358458	52	224	130	101	bear laying on log	ভাল্লুক লগ উপর পাড়া
+2416277	8	113	452	135	An airplane flying through the air	একটি বিমান বিমান দিয়ে উড়ছে
+2376655	284	217	42	112	A leg of a person	একটি ব্যক্তির একটি পা
+2373317	117	140	305	100	The man appears to be flying in the air	লোকটি বাতাসে উড়ছে বলে মনে হচ্ছে
+2322928	369	257	42	37	tire on the bus	বাসে টায়ার
+2401608	1	0	496	330	Black and white photograph	কালো এবং সাদা ছবি
+2331044	400	235	8	8	part of a swamp	একটি জলাবদ্ধতা অংশ
+713656	159	124	51	27	window is clean and clear	উইন্ডো পরিষ্কার এবং পরিষ্কার
+2391028	24	12	417	297	man skiing down a hill	লোকটি একটি পাহাড়ে স্কিইং করছে
+2342231	54	33	389	265	a metal plate on a white surface	একটি সাদা পৃষ্ঠের একটি ধাতব প্লেট
+2388159	116	108	53	94	Spoon in small bowl	ছোট বাটিতে চামচ
+2345780	241	13	74	47	white clouds in blue sky	নীল আকাশে সাদা মেঘ
+2343518	49	175	47	27	Man has brown hair.	মানুষের চুল বাদামি।
+2349642	245	74	135	111	blue shirt on woman	মহিলার উপর নীল শার্ট
+2403373	196	360	86	139	The white toilet with the lid down	ঢাকনা দিয়ে সাদা টয়লেট
+2335725	15	61	460	255	two laptops sitting next to each other	দুটি ল্যাপটপ একে অপরের পাশে বসে
+2353606	44	404	37	17	Crack on the pavement	ফুটপাতে ফাটল
+2366764	166	123	48	55	blue and white sticker	নীল এবং সাদা স্টিকার
+2364739	40	67	431	263	A fully cooked pizza	পুরোপুরি রান্না করা পিজ্জা
+2317776	107	73	375	135	two men surfing together	দু'জন লোক একসাথে সার্ফিং করছে
+2355462	26	164	271	165	the surfboard is yellow	সার্ফবোর্ড হলুদ
+2387924	350	230	133	72	a red tool on the sand	বালির উপরে একটি লাল সরঞ্জাম
+2315885	278	161	103	236	a white surfboard	একটি সাদা সার্ফবোর্ড
+2354267	183	43	284	287	woman standing outside holding camera	মহিলা ক্যামেরার বাইরে দাঁড়িয়ে
+2376210	101	191	167	80	Sky is white color.	আকাশ সাদা রঙের।
+2410669	111	130	65	83	Skier going down the hill	পাহাড়ে নেমে স্কাইয়ার
+1160157	67	189	634	392	white and yellow old bus	সাদা এবং হলুদ পুরানো বাস
+2345324	121	73	75	196	Volkswagons hanging on the wall	দেয়ালে ঝুলন্ত ভক্সওয়াগনস
+2384584	108	140	106	81	silver laptop on desk	ডেস্কে সিলভার ল্যাপটপ
+2343446	184	144	157	127	horse on stone road	পাথরের রাস্তায় ঘোড়া
+2348986	100	228	89	131	a verizon flip cell phone	একটি ভেরাইজন ফ্লিপ সেল ফোন
+2390461	151	169	60	40	the goose has a long neck	হংস একটি দীর্ঘ ঘাড় আছে
+2410708	249	160	46	26	green words on building	বিল্ডিং উপর সবুজ শব্দ
+2351335	206	240	82	55	the pink bow tie has a pattern on it	গোলাপী বো টাই এর একটি প্যাটার্ন রয়েছে
+2326783	258	84	44	52	Large horn on animal's head.	পশুর মাথায় বড় শিং।
+2387850	206	66	135	122	boy on the phone	ছেলে ফোনে
+2416728	299	310	67	139	the crust of a pizza	একটি পিজা এর ক্রাস্ট
+2410959	204	40	109	116	A green star sits on the top tier of a cake	একটি সবুজ তারকা একটি কেকের শীর্ষ স্তরে বসে আছে
+2410720	3	5	276	358	woman sitting at table	মহিলা টেবিলে বসে
+2358072	3	43	447	285	two men smiling for picture	দু'জন লোক ছবির জন্য হাসছে
+2389268	139	270	117	209	the french fries are visible	ফরাসি ভাজা দৃশ্যমান
+2378650	26	15	242	478	a small girl holding a tennis racket	একটি ছোট মেয়ে টেনিস র‌্যাকেট ধারণ করে
+2403031	48	207	66	57	A red and white stick	একটি লাল এবং সাদা কাঠি
+2316098	88	320	146	54	The cat has a black tail	বিড়ালের একটি কালো লেজ রয়েছে
+2316292	223	133	8	23	traffic light displaying green	ট্র্যাফিক আলো সবুজ দেখাচ্ছে
+2352698	140	43	282	277	a woman snowboarding down a hill	একজন মহিলা পাহাড়ে স্নোবোর্ডিং করছে
+2336988	190	27	207	202	person on the surfboard	সার্ফবোর্ডে থাকা ব্যক্তি
+2412269	122	82	268	266	Man working on laptop	ল্যাপটপে কাজ করছেন লোক
+2355982	7	158	78	129	Man wearing a blue jacket	নীল রঙের জ্যাকেট পরা মানুষ
+2376277	186	110	87	26	White cloud in a blue sky	নীল আকাশে সাদা মেঘ
+2361407	153	152	15	9	part of a stomach	পেটের অংশ
+2387743	24	267	127	178	a smiling man	একজন হাসিখুশি মানুষ
+2379910	1	66	232	244	the couch is beige	পালঙ্কটি বেইজ হয়
+2395961	71	135	65	55	blue Frisbee in dog's mouth	কুকুরের মুখে নীল ফ্রিসবি
+2375729	342	192	157	161	Wooden bench facing the ocean	সমুদ্রের মুখোমুখি কাঠের বেঞ্চ
+2397687	163	11	237	271	a zebra walking in a field	একটি জেব্রা একটি মাঠে হাঁটা
+2365220	10	52	472	264	plane flying in air	বাতাসে উড়ন্ত বিমান
+2362979	120	21	155	131	these are the traffic lights	এই ট্রাফিক লাইট হয়
+2413179	18	83	97	291	round clock atop long thin column	দীর্ঘ পাতলা কলামের উপরে গোলাকার ঘড়ি
+1159599	243	370	355	427	a stack of suitcases	স্যুটকেসগুলির একটি স্ট্যাক
+2364434	12	43	198	195	Laptop computer on table	টেবিলে ল্যাপটপ কম্পিউটার
+2356071	182	94	193	168	double decker bus on the road	রাস্তায় ডাবল ডেকার বাস
+4068	179	23	47	58	A wall on the side of a building	একটি ভবনের পাশে একটি প্রাচীর
+2399317	281	122	30	53	edge of a bus	একটি বাস প্রান্ত
+713537	477	150	248	292	monitor is on a desk	মনিটর একটি ডেস্ক হয়
+2416443	302	289	172	72	a park bench on the seashore	সমুদ্রের তীরে একটি পার্ক বেঞ্চ
+2360840	113	85	182	196	man hitting a tennis ball	টেনিস বল মারছে
+1000	643	245	105	253	man wearing a gray sweater	একটি ধূসর সোয়েটার পরা মানুষ
+2330049	163	125	20	22	the black eye of a giraffee	একটি জিরাফির কালো চোখ
+2411327	36	31	316	69	Sky is blue color.	আকাশ নীল রঙের।
+2378804	217	82	268	238	artistic stone surfer sculpture	শৈল্পিক পাথর সার্ফার ভাস্কর্য
+2402977	45	41	52	102	a black and white bird perched on a bench	একটি কালো এবং সাদা পাখি বেঞ্চে বসে আছে
+2375439	2	112	350	220	A table full of cherries and bananas	চেরি এবং কলা পূর্ণ একটি টেবিল
+2400363	351	203	27	17	Ring on woman's finger	মহিলার আঙুলে আংটি
+2372911	50	85	135	294	the girl is skiing	মেয়েটি স্কিইং করছে
+2383383	5	32	472	331	The platter is silver	থালা রৌপ্য
+2412644	76	18	65	68	one adjustable facial mirror	এক সামঞ্জস্যপূর্ণ মুখের আয়না
+2402957	35	200	26	50	FRESH ORANGE CARROT STRIPS	অরেঞ্জ ক্যারেট স্ট্রিপস
+2337687	145	152	32	34	the arrow is pointing left	তীরটি বাম দিকে নির্দেশ করছে
+2323670	79	52	327	221	the cake is coverd by green vegetbles	কেক সবুজ উদ্ভিজ্জ দ্বারা আচ্ছাদিত করা হয়
+2405096	201	349	47	36	part of some grass	কিছু ঘাসের অংশ
+1468	101	102	680	384	a black SUV	একটি কালো এসইউভি
+498309	530	196	64	35	shiny black helmet with white	সাদা সঙ্গে চকচকে কালো হেলমেট
+2404356	27	341	246	107	older red Volkswagen Beetle car	পুরানো লাল ভক্সওয়াগেন বিটল গাড়ি
+2337273	2	1	371	494	a considerable amount of snow has fallen	যথেষ্ট পরিমাণে তুষারপাত হয়েছে
+2381708	237	89	47	40	Blue helmet worn by batter.	বাটি দ্বারা ধৃত নীল হেলমেট।
+2326902	95	196	320	130	this is a pizza	এটি একটি পিজ্জা
+2409864	58	130	411	240	People dressed in Santa	লোকেরা সান্তায় পোশাক পরেছিল
+2337042	209	218	55	47	green food in pan	প্যানে সবুজ খাবার
+4374	5	390	104	72	a metal picnic table bench	একটি ধাতব পিকনিক টেবিল বেঞ্চ
+2356066	421	86	77	96	a man in a blue shirt	নীল শার্টের লোক
+2400632	0	0	330	498	an image of two birds on a bird feeder	একটি পাখির ফিডারে দুটি পাখির একটি চিত্র
+2384644	260	192	70	139	striped carpet flooring	স্ট্রিপ কার্পেট মেঝে
+2356069	39	175	135	182	A dog is sleeping on a couch.	একটি কুকুর একটি পালঙ্কের উপর ঘুমাচ্ছে।
+2416281	48	114	140	135	Reflection of a photographer.	একজন ফটোগ্রাফারের প্রতিচ্ছবি।
+2409719	203	68	171	108	square purple plastic container with white cheese	সাদা পনির সঙ্গে স্কোয়ার বেগুনি প্লাস্টিকের ধারক
+2380422	148	301	42	77	black pants on a man	একজন লোকের উপর কালো প্যান্ট
+2402527	6	87	455	253	An Emirati airplane	একটি এমিরতি বিমান
+2318207	130	104	215	237	VIEW IN A VBEDROOKM	একটি ভিবিড্রোকম এ দেখুন
+2325607	145	111	288	144	man in boat	নৌকায় মানুষ
+2342003	112	19	370	353	a mother and calf	একটি মা এবং বাছুর
+2380302	0	273	95	107	Man wearing a helmet	হেলমেট পরা মানুষ
+2366532	23	12	450	344	a black and white photo	একটি কালো এবং সাদা ছবি
+2318095	130	160	226	125	a dark brown wooden bench	একটি গাঢ় বাদামী কাঠের বেঞ্চ
+2338232	144	276	131	177	A cat is sitting in the grass.	একটি বিড়াল ঘাসে বসে আছে।
+2340544	50	54	13	23	an electrical outlet on the wall	দেয়ালে একটি বৈদ্যুতিক আউটলেট
+2384330	55	101	237	299	two giraffes beside the large rocks	বড় পাথরের পাশে দুটি জিরাফ
+2377427	54	13	390	237	Women sipping on wine.	মহিলারা মদের উপরে চুমুক দিচ্ছেন।
+2378293	382	207	87	42	a green boat	সবুজ নৌকা
+2327244	139	154	60	49	bird walking in water	জলে পাখি হাঁটা
+2397887	184	123	36	40	long neck of giraffe	জিরাফের দীর্ঘ গলা
+2322890	36	94	70	57	this is a sign	এটি একটি চিহ্ন
+2317334	391	220	25	38	street light under bridge	ব্রিজের নিচে স্ট্রিট লাইট
+2382777	8	180	352	147	a train boarding platform	একটি ট্রেন বোর্ডিং প্ল্যাটফর্ম
+2362394	200	111	74	52	neon green frisbee with pink ring	গোলাপী রিং সহ নিয়ন সবুজ ফ্রিসবি
+2369415	9	63	429	292	an unusual passenger train	একটি অস্বাভাবিক যাত্রীবাহী ট্রেন
+2393793	58	138	189	97	The top of the cake is white	কেকের শীর্ষটি সাদা
+2330098	71	74	305	168	teenager on a surfboard	একটি সার্ফবোর্ডে কিশোর
+61577	9	152	20	18	tree off in the distance behind the elephant	হাতির পিছনে দূরত্বে গাছ
+2365990	246	232	39	22	two people in the pool	পুলে দুই জন
+2364041	115	71	44	196	Bottle on the sign.	সাইন বোতল।
+2339095	345	339	154	157	White cloud in sky	আকাশে সাদা মেঘ
+2328956	117	200	102	135	a small green bush	একটি ছোট সবুজ গুল্ম
+2319037	340	28	15	22	This is a bird	এটি একটি পাখি
+144	36	33	73	57	a cloudy blue sky	মেঘলা নীল আকাশ
+2364989	140	22	46	40	a boy wearing a blue helmet	একটি ছেলে নীল রঙের হেলমেট পরা
+2384690	244	82	95	231	Couple riding a motorcyle	দম্পতি মোটরসাইকেলে চড়ে
+2380553	100	237	183	258	a clock	একটি ঘড়ি
+2376566	10	166	231	143	slice of pizza ready to eat	খাওয়ার জন্য প্রস্তুত পিজ্জার টুকরো
+2397489	319	104	50	86	Person wearing red helmet.	রেড হেলমেট পরা ব্যক্তি
+2356219	123	244	204	62	a bus pulled over to the side of street	একটি বাস রাস্তার পাশে টানা
+2413143	88	105	282	215	Food is being prepared on a table.	টেবিলে খাবার তৈরি হচ্ছে।
+2388658	63	55	286	191	food on the table	টেবিলে খাবার
+2367554	22	265	125	100	The dirt road is brown	ময়লা রাস্তাটি বাদামী
+2372233	149	476	36	14	A brown colored patch	একটি বাদামী রঙের প্যাচ
+2350578	205	18	98	57	A beautiful light is fixed in the wall	দেয়ালে একটি সুন্দর আলো স্থির করা হয়েছে
+4462	189	225	34	36	white water fall on rock	সাদা জল পাথর উপর পড়ে
+2413317	57	100	229	385	Black and white cow	কালো এবং সাদা গরু
+2415122	105	247	30	75	A man in a blue jacket.	নীল রঙের জ্যাকেটের এক লোক।
+2399598	9	98	242	200	the motorcycle is red	মোটরসাইকেলটি লাল
+2381345	304	4	26	27	the clock on the wall	দেয়ালে ঘড়ি
+2324876	168	39	149	347	A young orange giraffe.	একটি তরুণ কমলা জিরাফ।
+2367930	169	138	295	135	airplane on concrete tarmac	কংক্রিট টারম্যাকের বিমান
+2338052	3	79	460	196	a street car	একটি রাস্তার গাড়ি
+2403182	85	124	97	102	a black bird perched	কালো রঙের একটি পাখি
+2328761	186	97	29	17	WOMAN WEARING SUNGLASSES	মহিলাদের পোশাক পরেন
+2330447	95	14	384	305	this is a stop sign	এটি একটি স্টপ সাইন
+2339585	82	51	385	234	people playing some frisbee	লোকেরা কিছু ফ্রিসবি খেলছে
+2407942	1	0	354	486	A bathroom.	একটি স্নানঘর.
+2337541	37	59	60	42	white clouds in blue sky	নীল আকাশে সাদা মেঘ
+2381981	133	158	75	51	Man wearing black hat.	কালো টুপি পরে মানুষ।
+2654	173	127	30	27	ear of a cheetah	একটি চিতার কান
+2336082	89	156	130	92	People horses on beach.	সৈকতে লোক ঘোড়া।
+2393786	336	248	148	207	baby giraffe licking fur	শিশুর জিরাফ পরাজয়
+2387377	302	129	64	46	surfer in black wetsuit	কালো ওয়েটসুটে surfer
+2337934	35	141	35	13	Small puddle of water on the pavement	ফুটপাথের উপর জলের ছোট ছোট ডালপালা
+2329098	344	316	17	54	candle on a cake	একটি কেক উপর মোমবাতি
+1359	262	163	104	196	The spoon is on the table.	চামচ টেবিলে আছে।
+2355748	9	16	484	310	picture taken outside	বাইরে ছবি তোলা
+2321639	69	18	260	396	man in a ski race	একজন স্কি রেসে মানুষ
+724	364	320	152	171	four legged steel chair on ground	মাটিতে চার পায়ের স্টিলের চেয়ার
+2394067	206	123	175	221	A man in black	কালো লোক
+2393204	258	41	148	156	a young man surfing	একটি যুবক সার্ফিং
+2335841	24	160	42	85	There is a bright blue water right here	ঠিক এখানে একটি উজ্জ্বল নীল জল
+2399200	130	175	164	180	a couple riding a bike	একটি দম্পতি বাইক চালা
+2367192	51	120	104	97	This is a snack	এটি একটি নাস্তা
+61598	137	169	35	48	the white bandage on the head of the man	লোকটির মাথায় সাদা ব্যান্ডেজ
+2347802	161	133	167	157	A red and white sign	একটি লাল এবং সাদা চিহ্ন
+2374447	137	454	189	45	The floor is made of wood.	মেঝে কাঠের তৈরি।
+4173	286	144	75	93	A wall on the side of a building	একটি ভবনের পাশে একটি প্রাচীর
+2332515	247	281	108	218	a toilet in a bathroom	একটি বাথরুমে একটি টয়লেট
+2416112	292	90	28	19	man wearing a black and white cap	একটি কালো এবং সাদা টুপি পরা মানুষ
+2332557	192	39	128	148	head of a person	একজন ব্যক্তির প্রধান
+2353033	190	107	50	40	THE MAN IS WEARING A BLACK HAT	মানুষ একটি কালো টুপি পরা হয়
+2322672	265	267	10	43	the tail of the giraffe	জিরাফের লেজ
+2416000	46	160	61	79	Outdoor electrical boxes near tracks.	ট্র্যাকের কাছে বাইরের বৈদ্যুতিক বাক্সগুলি।
+2327429	0	261	374	237	Building with a clock tower on top.	উপরে একটি ক্লক টাওয়ার সহ বিল্ডিং।
+2408982	99	167	100	98	black baseball t-shirt	কালো বেসবল টি-শার্ট
+2343553	156	79	127	159	dark skinned man on a surf board	একটি সার্ফ বোর্ডে গাঢ় বর্ণের মানুষ
+2371309	5	3	487	323	calm scenery of the ocean	সমুদ্রের শান্ত দৃশ্যাবলী
+713359	75	174	389	526	a person is sitting down	একজন ব্যক্তি বসে আছেন
+2365074	16	8	342	280	surfer riding a round wave	সার্ফার একটি বৃত্তাকার তরঙ্গ অশ্বচালনা
+2352148	376	262	51	90	This is a park bench	এটি একটি পার্ক বেঞ্চ
+2412771	233	53	265	297	a batter with his eye on the ball	বল উপর তার চোখ দিয়ে একটি বাটা
+2330084	142	135	22	32	person standing in water	জলে দাঁড়িয়ে ব্যক্তি
+2367166	0	0	498	372	Hot dogs lined up	গরম কুকুর রেখেছে
+2415125	106	181	95	100	Cute little boy.	ছোট্ট ছেলে।
+2413980	386	50	66	112	Woman wearing white shirt.	সাদা শার্ট পরা মহিলা।
+2322274	61	36	36	45	The helmet on the mans head.	ম্যানসের মাথায় হেলমেট।
+2417439	131	454	45	44	a card	একটি কার্ড
+2367402	267	25	203	288	a red fire hydrant on the ground	মাটিতে একটি লাল আগুন জলক
+2328337	223	235	84	47	a person riding a bike	একজন ব্যক্তি বাইক চালাচ্ছেন
+2400424	26	8	60	41	the horned head of a giraffe.	একটি জিরাফ এর শিংযুক্ত মাথা
+2326644	271	107	147	235	one shiny metal toilet	একটি চকচকে ধাতব টয়লেট
+2364573	160	36	133	96	a flat screen tv on the wall	দেয়ালে একটি ফ্ল্যাট স্ক্রিন টিভি
+2316248	131	213	111	23	an orange cat in the window	উইন্ডোতে কমলা বিড়াল
+2367952	1	150	496	217	tan sand on beach	সৈকতে টান বালু
+2335651	131	90	67	25	one diamond ring on left ring finger	বাম রিং আঙুলের উপর একটি হীরার আংটি
+2319168	175	138	123	236	woman with red hair feeding giraffes	লাল চুল খাওয়ানো জিরাফ সহ মহিলা
+2339816	69	80	360	238	Elephant with white tusks.	সাদা টাস্ক সহ হাতি।
+2378873	24	388	331	111	black laminate table top	কালো স্তরিত টেবিল শীর্ষ
+2370220	404	119	37	15	A black pair of sunglasses.	সানগ্লাসের একটি কালো জুড়ি।
+2349800	310	18	105	82	Truck on the road.	রাস্তায় ট্রাক।
+2411116	299	81	117	177	ripe banana on table	টেবিলে পাকা কলা ana
+2408765	150	194	35	25	red cross on sleeve	হাতা উপর রেড ক্রস
+2375454	23	75	321	422	Several culinary dishes in bowls	বাটিতে বেশ কয়েকটি রান্নাঘর খাবার
+2349196	53	98	334	126	plane in air	বাতাসে বিমান
+2345373	307	188	57	25	paper on the couch	পালঙ্ক উপর কাগজ
+2388179	251	295	32	87	horse's gold tail	ঘোড়ার সোনার লেজ
+2316384	1	211	332	251	Man sitting in a field of grass and flowers	মানুষ ঘাস এবং ফুলের একটি জমিতে বসে
+2337512	255	138	12	19	White smoke from the train	ট্রেন থেকে সাদা ধোঁয়াশা
+2344311	172	382	133	83	hot dog on a bun	একটি বান উপর গরম কুকুর
+1593090	459	238	415	526	The woman wearing red	লাল পরা মহিলা
+2349758	206	237	48	84	the light is green	আলো সবুজ
+285708	2	0	1016	766	countertop with a granite type pattern	একটি গ্রানাইট টাইপ প্যাটার্ন সঙ্গে কাউন্টারটপ
+2391116	120	178	263	107	these are two boats	এই দুটি নৌকা
+2414901	57	4	87	156	Three white birds.	তিনটি সাদা পাখি।
+3021	358	318	180	85	a parked white car	একটি পার্কিং সাদা গাড়ি
+2355013	164	0	143	47	orange bowl on counter	কাউন্টারে কমলা বাটি
+2341305	177	327	21	27	Yellow stand on top of bus stop.	বাসস্টপের শীর্ষে হলুদ স্ট্যান্ড।
+2399068	33	110	97	40	small streaks on the brown wall	বাদামী দেয়ালে ছোট ছোট রেখাচিত্র
+497993	0	176	106	245	a lady in a red shirt	একটি লাল শার্ট একটি মহিলা
+2398325	44	65	85	160	base ball referee calls a play	বেস বল রেফারি একটি নাটক কল
+2384539	167	138	57	63	A blue diamond with the number 10	10 নম্বর সহ একটি নীল রঙের হীরা
+2341402	3	9	326	489	a woman preparing a meal	একজন মহিলা খাবার প্রস্তুত করছেন
+2349433	324	144	35	22	red spot on apple	আপেল উপর লাল দাগ
+2318905	38	93	156	121	a black laptop	একটি কালো ল্যাপটপ
+2387626	0	0	331	499	living room with modern style	আধুনিক শৈলী সহ বসার ঘর
+2317326	231	151	135	89	a plaid umbrella	একটি প্লেড ছাতা
+2378458	19	398	39	61	long blue plastic stick	লম্বা নীল প্লাস্টিকের কাঠি
+2355875	172	98	115	177	man on bench	বেঞ্চে মানুষ
+2405611	46	22	228	186	coffee cups is white	কফি কাপ সাদা
+2395880	0	80	148	419	Left hand of the person.	ব্যক্তির বাম হাত।
+2388187	292	216	110	117	bags of trash on the sidewalk	ফুটপাতে ট্র্যাশের ব্যাগ
+2354388	27	357	248	93	the shadow of a skateboarder on the road	রাস্তায় স্কেটবোর্ডারের ছায়া
+2400435	263	118	73	59	part of a surface	একটি পৃষ্ঠের অংশ
+2377290	155	321	107	97	The smallest bike on the platform.	প্ল্যাটফর্মের সবচেয়ে ছোট বাইক।
+2323506	330	68	18	17	man wearing black pants	কালো প্যান্ট পরা মানুষ
+1159617	108	188	193	577	a man on skis	একজন লোক
+2362624	138	49	342	400	A woman playing tennis.	টেনিস খেলছেন এক মহিলা।
+2379413	317	337	37	117	this is a girl	এটি একটি মেয়ে
+2368211	314	163	35	87	man on an old fashioned train	একটি পুরানো ফ্যাশন ট্রেনে মানুষ
+2414532	186	62	76	33	white Frisbee in flight	ফ্লাইট সাদা সাদা
+2321562	191	0	250	368	a boy holding his fridge door open	একটি ছেলে তার ফ্রিজের দরজা উন্মুক্ত
+2396734	85	356	89	35	shadow of a skate board	একটি স্কেট বোর্ডের ছায়া
+2363523	141	85	295	237	a man and woman playing a game	একজন পুরুষ এবং মহিলা একটি খেলা খেলছেন
+3572	325	296	117	72	stapler on office floor	অফিস মেঝে উপর stapler
+2335136	178	112	320	98	This is an airplane	এটি একটি বিমান
+2326792	1	1	496	372	cakes are on display	কেক প্রদর্শন করা হয়
+2389310	353	296	108	60	the plate is white	প্লেট সাদা
+2376804	352	162	115	94	Boats on the water	জলের উপর নৌকা
+2387595	284	127	151	190	plenty books on shelf	বালুচর প্রচুর বই
+2413577	105	285	378	80	beige carpet with white swirls	সাদা ঘূর্ণি দিয়ে বেইজ গালিচা
+2318543	4	4	421	487	birthday cake on table	টেবিলে জন্মদিনের পিষ্টক
+1160043	52	86	933	564	this is a group of people	এটি একদল লোক
+2391147	187	432	5	1	the line is yellow	লাইনটি হলুদ
+2325421	296	40	22	36	cross hanging above doorway	দ্বারের উপরে ঝুলন্ত ক্রস
+2344068	147	188	57	55	a man riding the horse	ঘোড়া আরোহী একজন
+2322382	56	265	71	38	a skateboard tilted up	একটি স্কেটবোর্ড কাতানো
+2377558	78	66	150	234	fire hydrant on the street	রাস্তায় ফায়ার হাইড্র্যান্ট
+2316411	102	232	95	200	Boy in red helmet standing on skateboard	স্কেটবোর্ডে দাঁড়িয়ে লাল হেলমেটে ছেলে Boy
+2344259	178	37	25	27	this is the wall	এই দেয়াল
+202	486	266	41	50	window of a building	একটি বিল্ডিং এর জানালা
+2394114	187	29	185	285	white cup on desktop	ডেস্কটপে সাদা কাপ
+2327179	345	169	12	41	yellow stripe on dress	পোষাক উপর হলুদ ফালা
+2329021	67	7	358	313	A sliced fresh orange	একটি কাটা তাজা কমলা
+2346774	155	26	75	32	The man is wearing sunglasses.	লোকটি সানগ্লাস পরেছে।
+2371961	93	81	171	190	Man wearing hat	টুপি পরা মানুষ
+2404686	81	192	177	35	Chinese signage on the old building	পুরানো ভবনে চিনির চিহ্ন
+2400786	35	4	451	361	Vegetables arranged on a paper.	একটি কাগজে সাজানো সবজি।
+2410584	6	70	413	211	white bear cubs	সাদা ভালুক শাবক
+2403214	45	61	311	361	Man sitting on a double seat motorcycle	ডাবল সিটের মোটরসাইকেলে বসে থাকা মানুষ
+2323472	19	86	80	129	a light on a pole	একটি মেরু উপর একটি আলো
+2389658	242	410	89	89	This is a face of a person	এটি কোনও ব্যক্তির মুখ
+2355416	244	140	82	122	a skier going downhill	একটি স্কাইয়ার ডাউনহাইলে যাচ্ছে
+2372837	31	83	247	203	boat's reflection on the water	জলের উপর নৌকা প্রতিবিম্ব
+2352811	65	66	60	72	white tower on shower door	ঝরনা দরজা সাদা টাওয়ার
+2346250	5	3	492	95	green leaves on trees	গাছে সবুজ পাতা
+2554	2	90	233	491	The tan building to the left	বামদিকে ট্যান বিল্ডিং
+286041	274	414	109	90	Orange carrot being peeled	কমলা গাজর খোসা ছাড়ানো হচ্ছে
+2320476	248	267	17	34	ear is on dog	কান কুকুর উপর
+2390963	292	154	72	109	a string	একটি স্ট্রিং
+2394769	117	220	87	94	a maroon pomegranate	একটি মেরুন ডালিম
+2324311	68	135	246	73	a purple tooth brush	একটি বেগুনি দাঁত ব্রাশ
+2377856	129	87	196	66	green street sign for biking and walking	বাইক চালানো এবং হাঁটার জন্য সবুজ রাস্তার চিহ্ন
+2388746	5	38	145	449	mannequin wearing shorts	শর্টস পরা মূর্তি
+2352217	0	2	140	168	a chandelier light hanging from a ceiling	ছাদ থেকে ঝুলন্ত একটি ঝাড়বাতি আলো
+2367976	31	128	465	138	fridges in a junk yard	একটি জাঙ্ক ইয়ার্ডে ফ্রিজ
+2328169	367	14	43	47	A yellow skateboarding helmet	একটি হলুদ স্কেটবোর্ডিং হেলমেট
+2412749	4	11	490	359	the photo is clear	ফটো পরিষ্কার হয়
+2369321	432	135	16	76	A red and white stop sign	একটি লাল এবং সাদা স্টপ চিহ্ন
+2416097	410	248	33	58	A blue recycling trash can	একটি নীল পুনর্ব্যবহারযোগ্য ট্র্যাশ ক্যান
+2326590	3	5	490	324	The photo is in black and white	ফটো কালো এবং সাদা হয়
+2390279	189	43	46	46	white sticker on the door.	দরজার উপর সাদা স্টিকার
+2409554	145	388	29	38	a push to walk button	একটি ধাক্কা হাঁটা বোতাম
+2383500	1	88	291	203	A long green and white bus	একটি দীর্ঘ সবুজ এবং সাদা বাস
+2409052	231	81	65	139	an open door way	একটি খোলা দরজা উপায়
+2336567	322	6	79	92	An overhead hanging light fixture	একটি ওভারহেড ঝুলন্ত আলো ফিক্সিং
+2352329	97	118	141	17	four propellers on plane	বিমানে চারটি চালক
+2386867	143	125	132	285	a man standing with his hand in a pocket	একজন লোক পকেটে হাত রেখে দাঁড়িয়ে আছে
+2392533	143	23	149	230	rocks on a hillside	একটি পাহাড়ের উপর পাথর
+4201	420	289	45	61	The dirt path up the hillside	পাহাড়ের ধারে ময়লা পথ
+2315410	7	83	357	350	bacon and glazed donut sandwich	বেকন এবং গ্লাসযুক্ত ডোনাট স্যান্ডউইচ
+2366768	255	63	196	198	A large grey elephant to the right of another	অন্যের ডানদিকে একটি ধূসর ধূসর হাতি
+2323313	190	81	95	26	a woman's dark brown sunglasses	একটি মহিলার গাঢ় বাদামী সানগ্লাস
+2389932	259	263	166	178	the skirt is black	স্কার্টটি কালো
+2392080	6	168	45	80	The woman is walking down the sidewalk.	মহিলা ফুটপাতে হাঁটছেন।
+2224	170	266	74	59	wheel on the van	ভ্যানে চাকা
+2342389	76	339	150	126	woman is holding a phone	মহিলা একটি ফোন ধরে আছে
+2383992	156	267	68	198	clear glass with stems	ডাঁটা দিয়ে পরিষ্কার কাঁচ
+2410078	2	74	496	297	nigh baseball game	বেস বেসবল খেলা
+2395733	58	51	295	339	ASIAN POTTERY WITH DRAWINGS	অঙ্কনের সাথে এশিয়ান পটারি
+2406020	99	18	350	247	Building for a major metropolitan newspaper.	একটি বড় মেট্রোপলিটন সংবাদপত্রের জন্য বিল্ডিং।
+2372864	2	3	494	326	A safari scene	একটি সাফারি দৃশ্য
+2357429	75	72	194	328	a man holding a surfboard on the beach	সৈকতে একটি সার্ফবোর্ড ধরে রাখা এক ব্যক্তি
+2343524	350	107	100	125	empty referee chair	খালি রেফারি চেয়ার
+2407288	215	79	75	120	the doors of a bus	একটি বাসের দরজা
+2348558	113	146	137	90	A man getting ready to catch a frisbee.	একজন ফ্রিসবি ধরতে প্রস্তুত হচ্ছে
+2347969	96	29	18	19	rocks on a mountain side	একটি পাহাড়ের পাথর
+498052	20	560	130	175	A black trash can	একটি কালো আবর্জনা ক্যান
+2324657	132	196	20	13	woman wearing white skirt	সাদা স্কার্ট পরা মহিলা
+2393996	66	247	30	80	The trunk of the elephant on the left.	বাম দিকে হাতির কাণ্ড।
+2360813	205	15	165	232	four bathroom mirrors on the wall	দেয়ালে চারটি বাথরুমের আয়না
+2318638	42	130	264	275	the man standing on the rocks	লোকটি পাথরে দাঁড়িয়ে আছে
+2375812	28	56	446	212	Large red and white city bus	বড় লাল ও সাদা সিটি বাস
+1592060	281	497	152	201	Stuffed red and white teddy bear	স্টাফড লাল এবং সাদা টেডি বিয়ার
+2328747	80	0	312	209	stop sign on the paper	কাগজে সাইন ইন করুন
+2361872	180	32	137	71	blue sky behind plane	বিমানের পিছনে নীল আকাশ
+3116	160	488	85	49	a sewer lid	একটি নর্দমা lাকনা
+3585	0	65	43	52	car parked next to sidewalk	ফুটপাথের পাশে গাড়ি পার্ক করা
+2336718	223	48	24	27	the nose of a woman	একটি মহিলার নাক
+2997	8	79	342	477	Metal pole is arched	ধাতব মেরু খিলানযুক্ত
+2389747	207	171	46	32	younger man holds white controller	কনিষ্ঠ মানুষ সাদা নিয়ামক ধরে
+2374639	246	70	107	223	A girls reflection in a mirror.	একটি মেয়ে একটি আয়না প্রতিবিম্ব।
+2387941	109	124	247	84	birds perched on the back of a zebra	পাখিরা একটি জেব্রার পিছনে বসে আছে
+2417865	14	339	38	156	racket held by man	র‌্যাকেটটি মানুষ ধরে রেখেছে
+2402684	244	133	46	120	a yellow french fry	একটি হলুদ ফরাসি ভাজি
+2359406	48	63	29	46	blue and orange circular logo	নীল এবং কমলা বৃত্তাকার লোগো
+2335378	106	47	313	219	A black bear on white rocks	সাদা পাথরের উপর একটি কালো ভাল্লুক
+2362911	12	15	487	316	square dish of food	খাবার স্কোয়ার থালা
+2390268	259	115	212	153	the tissue is white	টিস্যু সাদা হয়
+2350936	1	122	272	82	A fence behind the skaters	স্কেটারের পিছনে একটি বেড়া
+2332287	224	123	139	148	A red stop sign	একটি লাল স্টপ চিহ্ন
+2316301	344	213	122	100	Brown cat sleeping on floor.	মেঝেতে শুয়ে ব্রাউন বিড়াল।
+2411707	139	288	83	113	pot of geraniums	geraniums পাত্র
+2410751	74	107	301	225	group of people dressed up	একদল লোক সাজে
+2346039	98	184	10	15	blue letter on bus	বাসে নীল বর্ণ
+2329277	12	100	319	390	A group of people snowboarding.	একদল লোক স্নোবোর্ডিং করছে।
+2403651	427	283	13	23	leaves of a tree	গাছের পাতা
+2340507	272	77	104	12	Yellow and black stick in the snow.	বরফে হলুদ এবং কালো কাঠি।
+2332028	38	103	460	94	this is a red train	এটি একটি লাল ট্রেন
+2347576	265	47	49	30	a black helmet	একটি কালো হেলমেট
+2403908	30	7	101	40	white skies overhead	মাথার উপরে সাদা আকাশ
+2399268	257	97	142	142	a red apple on the board	বোর্ডে একটি লাল আপেল
+2396682	63	95	257	403	tall giraffe walking on dirt path	লম্বা জিরাফ ময়লার পথে হাঁটছে
+2361157	109	336	27	24	A spill on the ground	মাটিতে এক ছিটকিনি
+2364038	61	69	144	216	woman carrying an open umbrella	খোলা ছাতা নিয়ে মহিলা
+1525	591	472	52	46	a white mouse	একটি সাদা মাউস
+2409665	109	89	34	48	Sign resembles Mercedes emblem.	সাইন মার্সিডিজ প্রতীক অনুরূপ।
+2325571	463	239	17	13	the ring on the man's finger	লোকটির আঙুলে আংটি
+2321277	24	16	328	469	cat on top of bag	ব্যাগ উপর বিড়াল
+2329245	132	203	71	71	this is a plane	এটি একটি বিমান
+2324952	98	41	107	127	skateboarder doing trick	স্কেটবোর্ডার কৌতুক করছেন
+2366275	67	100	67	210	red and gold sign on the side of the building	বিল্ডিংয়ের পাশে লাল এবং সোনার চিহ্ন
+2383075	161	150	97	114	lifeguard sitting on a tower	লাইফগার্ড একটি টাওয়ার উপর বসে
+2409906	356	77	27	30	a yellow bed lamp	একটি হলুদ বিছানা প্রদীপ
+2362744	214	311	51	46	The carrot is orange.	গাজর কমলা রঙের।
+2354514	340	236	73	95	the racquet in the woman's hand	মহিলার হাতে র‌্যাকেট
+2378552	90	113	315	125	three zebras in a field	একটি ক্ষেত্রের তিনটি জেব্রা
+2347275	83	85	147	105	the sky is blue in colour	আকাশটি নীল রঙের
+2340768	26	33	192	195	an open laptop	একটি উন্মুক্ত ল্যাপটপ
+2373775	49	13	404	319	A sandwhich on a table	একটি টেবিলের উপর একটি বালুকণি
+1159432	169	287	430	146	large yellow firetruck	বড় হলুদ ফায়ারট্রাক
+2374471	381	102	23	40	Long bright tube of fluorescent lighting	ফ্লুরোসেন্ট আলোকসজ্জার দীর্ঘ উজ্জ্বল নল
+2402659	266	197	70	135	Red and white bag in a hand	এক হাতে লাল ও সাদা ব্যাগ
+2372060	336	176	26	31	the top is green	উপরেরটি সবুজ
+2323965	166	6	189	198	a bright red stop sign	একটি উজ্জ্বল লাল স্টপ চিহ্ন
+2351787	6	123	245	375	This is a person	এটি একজন ব্যক্তি
+2328144	131	23	204	70	Ceiling fan	সিলিং ফ্যান
+2315980	36	162	51	64	Red traffic signal in the air	বাতাসে লাল ট্র্যাফিক সিগন্যাল
+2382600	58	108	332	74	Airplane near building	বিল্ডিংয়ের নিকটে বিমান
+2399378	150	160	17	15	The ball in the air	বাতাসে বল
+2326955	298	170	32	60	part of a loine	একটি কড়া অংশ
+2345343	23	73	475	208	An elderly couple sitting at the table	টেবিলে বসে এক বয়স্ক দম্পতি
+1592270	401	136	326	361	man unwrapping a flat screen TV	মানুষ একটি ফ্ল্যাট স্ক্রিন টিভি মোড়ানো
+2386527	213	13	284	300	a woman sitting at a table	একজন মহিলা টেবিলে বসে আছেন
+2329980	122	245	66	77	The person in a scooter	একটি স্কুটারে থাকা ব্যক্তি
+2366715	233	260	37	105	man on bike wearing a white shirt and tie	একটি সাদা শার্ট এবং টাই পরা বাইকে লোক
+2381668	133	0	248	218	Child with eyes half closed	অর্ধেক চোখ বন্ধ করে শিশু
+2351376	5	7	317	185	the umbrella is open	ছাতা খোলা আছে
+2319194	28	196	137	100	this is a motorcycle	এটি একটি মোটরসাইকেল
+2352598	24	108	206	222	A clock attached to a wall	একটি প্রাচীরের সাথে সংযুক্ত একটি ঘড়ি
+2378895	82	65	136	430	Bench in front of a tree.	একটি গাছের সামনে বেঞ্চ।
+2395701	216	148	68	183	Lamp that is turned on	চালু করা ল্যাম্প
+2350277	440	232	4	18	Window on the side of a building.	একটি বিল্ডিংয়ের পাশের উইন্ডো।
+150471	345	26	275	190	grey and white sky	ধূসর এবং সাদা আকাশ
+2391036	190	70	60	40	the horn is curved	শিং বাঁকা হয়
+2369374	165	12	47	14	the sky is gray	আকাশ ধূসর
+2377677	261	133	75	95	Green and yellow painting on the front of a train	একটি ট্রেনের সামনের সবুজ এবং হলুদ পেইন্টিং
+2329800	64	19	122	194	skiers	স্কিয়ার
+2354453	135	39	300	308	a bear is on a log	একটি ভালুক একটি লগ হয়
+2391620	18	178	385	190	two dogs on the beach	সৈকতে দুটি কুকুর
+2340649	155	199	144	100	Elephants walking toward the trees	গাছের দিকে হাঁটছে হাতি
+2395844	118	17	237	120	Steam from the funnel	ফানেল থেকে বাষ্প
+2363461	198	52	113	90	a black flat screen tv	একটি কালো ফ্ল্যাট স্ক্রিন টিভি
+2326380	2	55	489	102	The metal bridge.	ধাতব সেতু।
+150527	87	478	207	239	black cow standing in field	মাঠে দাঁড়িয়ে কালো গাভী
+2373447	26	201	325	167	Black and white cat	কালো এবং সাদা বিড়াল
+2332090	92	4	129	243	woman is holding frisbee	মহিলা ফ্রিসবি রাখা আছে
+2389362	106	432	178	57	the grass	ঘাস
+2399126	57	427	128	69	The green bath rug in front of the toilet.	টয়লেটের সামনে সবুজ স্নানের রাগ।
+2327534	94	67	143	184	This is a cake	এটি একটি পিষ্টক
+2411040	66	175	296	193	Pastries over a table	একটি টেবিলের উপর পেস্ট্রি
+2355104	225	111	170	198	blue vases on rocks	পাথরে নীল ফুলদানি
+2341866	141	175	109	204	a boy sitting on a chair	একটি ছেলে চেয়ারে বসে আছে
+2399504	137	147	138	128	a sheep plushie on a chair	একটি চেয়ারে একটি ভেড়া প্লিশি
+2358789	22	34	146	167	person has white hood	ব্যক্তির সাদা ফণা আছে
+1402	224	429	48	74	a hanging piece of paper	একটি ঝুলন্ত কাগজ
+2339525	182	100	118	147	a giraffe crossing a road	একটি জিরাফ রাস্তা পার হচ্ছে
+2412278	208	51	40	25	Two black spaces on the back of the helmet.	হেলমেটের পিছনে দুটি কালো স্পেস।
+2366561	378	171	120	152	the broccoli are green in color	ব্রোকলি সবুজ রঙের হয়
+2360488	320	134	143	67	white wash basin fixed in the wall	দেয়ালে সাদা ওয়াশ বেসিন স্থির
+2331294	111	48	28	41	black lit sign	কালো আলোকিত চিহ্ন
+2399849	96	361	12	24	the engine of the plane	বিমানের ইঞ্জিন
+2349559	225	112	192	169	bike with orange seat	কমলা আসন সহ বাইক
+2366189	27	140	187	190	Baby bear standing in green grass	সবুজ ঘাসে দাঁড়িয়ে শিশুর ভালুক
+2355936	68	27	232	272	A white sign that says Don't Honk and $350 Penalty.	একটি হোয়াইট সাইন যা বলে না ডান হানক এবং $ 350 পেনাল্টি।
+2389481	285	39	88	120	stop sign on a green pole	সবুজ মেরুতে থামার চিহ্ন
+2395387	152	173	217	160	a little girl in a pink jacket.	একটি গোলাপী জ্যাকেট একটি ছোট মেয়ে।
+2352344	407	228	27	34	part of a wave	একটি তরঙ্গ অংশ
+2348859	43	7	322	281	man on skateboard squating	স্কেটবোর্ডে স্কোয়াটিংয়ের লোক
+2390561	264	4	168	300	Young man playing tennis	টেনিস খেলছেন যুবক
+2356583	3	9	90	137	Brown wicker outdoor chair	ব্রাউন উইকার আউটডোর চেয়ার
+2346337	197	10	117	254	Boat sitting in the water	জলে বসে নৌকা
+2328675	71	16	392	315	people playing a soccer match	লোকেরা একটি ফুটবল ম্যাচ খেলছে
+2347985	299	36	87	57	the sun is setting	সূর্য অস্ত যাচ্ছে
+2385755	32	76	78	92	a small yellow sunflower	একটি ছোট হলুদ সূর্যমুখী
+2335698	239	169	122	192	Black chair at the desk	ডেস্কে কালো চেয়ার
+2344806	92	169	49	55	Man sitting down on a step	মানুষ একটি পদক্ষেপে বসে
+1415	0	495	227	94	The shadow of the tree	গাছের ছায়া
+2334609	76	0	208	193	a black pair of scissors	কাঁচি একটি কালো জোড়া
+2350279	0	3	485	70	blue of daytime sky	দিনের আকাশের নীল
+2395241	323	160	95	74	man on a surf board	একটি সার্ফ বোর্ডে মানুষ
+2353591	53	218	387	90	unlit banner crossing a street	রাস্তায় অলিট ব্যানার ক্রসিং
+2349783	178	238	104	116	two giraffes facing opposite directions	দুটি জিরাফ বিপরীত দিকের মুখোমুখি
+2372599	109	224	23	54	the two yellow flowers	দুটি হলুদ ফুল
+2349634	17	0	344	335	what a healthy snack	কি স্বাস্থ্যকর খাবার
+879	0	166	155	354	set of glass doors	কাচের দরজা সেট
+1592799	316	471	20	20	a yellow tennis ball	একটি হলুদ টেনিস বল
+2408588	73	22	139	258	a big gray elephant	একটি বড় ধূসর হাতি
+2399346	112	158	241	162	The shoe is black	জুতো কালো
+2354066	64	459	156	23	a long ski	একটি দীর্ঘ স্কি
+2388747	30	34	168	229	surfer	যে সার্ফিং করে
+2380397	202	97	54	45	Large LG sticker on refrigerator	ফ্রিজে বড় এলজি স্টিকার
+2356415	145	295	97	108	this is a toilet	এটি একটি টয়লেট
+2371014	73	61	389	437	man in a suit and hat	একটি মামলা এবং টুপি লোক
+2344003	133	211	307	90	black bear in grass	ঘাসে ভালুক
+388	5	219	792	377	A dark grey computer desk with drawers.	ড্রয়ার সহ একটি গাঢ় ধূসর কম্পিউটার ডেস্ক।
+2328389	123	337	20	43	green bunch of bananas lying on ground	মাটিতে শুয়ে থাকা সবুজ কলা গুচ্ছ
+2365048	192	130	133	103	a black suit coat	একটি কালো স্যুট কোট
+2336602	60	12	372	258	a plane flying in the air	বাতাসে উড়ন্ত একটি বিমান
+2398062	334	105	160	131	a brick wall with aprapets	প্যারাপেট সহ একটি ইটের প্রাচীর
+2323369	74	88	386	352	a cat in the picture	ছবিতে একটি বিড়াল
+2400394	162	158	35	84	Man in the mirror	আয়নায় মানুষ
+2408129	6	135	218	356	girl upside down on a bench	মেয়েটি উল্টে একটি বেঞ্চে
+2345695	228	56	102	42	black sunglasses on man's face	মানুষের মুখে কালো সানগ্লাস
+2318964	235	149	19	59	Tall building view from a clock.	একটি ঘড়ি থেকে লম্বা বিল্ডিং ভিউ।
+2370886	68	337	162	104	A sign that says \Grand Central Terminal\	\গ্র্যান্ড সেন্ট্রাল টার্মিনাল\ বলছে এমন একটি চিহ্ন
+2353003	163	140	31	8	woman is wearing sunglasses	মহিলা সানগ্লাস পরেছেন
+2410556	211	101	33	60	part of a water splash	একটি জল স্প্ল্যাশ অংশ
+2320179	119	276	10	14	pebbles between the tracks.	ট্র্যাকের মাঝে নুড়ি পাথর
+2352419	39	27	38	34	Woman wearing white visor.	সাদা ভিসার পরা মহিলা।
+2399726	0	16	495	244	three sheep in the grass	ঘাসে তিনটি ভেড়া
+2332343	60	119	70	70	this is a bird	এটি একটি পাখি
+2337207	416	439	83	49	the wall behind the clock	ঘড়ির পিছনে প্রাচীর
+2326588	114	110	251	80	these are the boats	এই নৌকা
+2397258	7	10	418	307	woman on beach with large umbrella	বড় ছাতা নিয়ে সৈকতে মহিলা
+2372278	34	229	116	260	animal looking at fake animal	প্রাণী নকল প্রাণীর দিকে তাকাচ্ছে
+2361881	451	168	33	67	blue plastic spray bottle on counter	কাউন্টারে নীল প্লাস্টিকের স্প্রে বোতল
+2333715	129	90	170	172	tee shirt is orange	টি শার্ট কমলা হয়
+2342948	238	59	117	171	man playing tennis	মানুষ টেনিস খেলছে
+2378514	48	2	306	325	Person practicing snow boarding moves.	স্নো বোর্ডিং চলনের অনুশীলনকারী ব্যক্তি।
+2387751	131	44	197	222	road sign upside down	উল্টোদিকে রাস্তা সাইন
+2380984	29	47	77	128	Hotel Harwal Sign on poles	হোটেল হারওয়াল খুঁটিতে সাইন ইন করুন
+2410034	39	113	301	358	woman seated by car window	মহিলা গাড়ির জানালা দিয়ে বসে আছেন
+2367012	223	157	72	40	the window is open	জানালাটি খোলা
+2402862	98	32	191	209	two balloon giraffes on the street	রাস্তায় দুটি বেলুন জিরাফ
+2360124	104	214	24	26	The eye of the polar bear.	পোলার ভাল্লুকের চোখ।
+2415207	1	58	497	241	Two blue paper trays	দুটি নীল কাগজের ট্রে
+2385661	47	185	406	142	a hot dog is on a plate	একটি গরম কুকুর একটি প্লেটে আছে
+2410076	7	43	298	407	a girl eating a piece of pizza	এক মেয়ে পিজ্জার টুকরো খাচ্ছে
+1591917	469	408	108	163	A puppy in a kitchen	একটি রান্নাঘরে একটি কুকুরছানা
+2373221	22	13	462	307	an airbridge next to a plane	একটি বিমানের পাশের একটি এয়ারব্রিজ
+2328539	380	41	119	58	Plane in the sky	আকাশে বিমান
+2351581	73	1	234	242	A large zebra statue	একটি বিশাল জেব্রা মূর্তি
+2379645	1	84	327	264	the tree branches have snow	গাছের ডালে বরফ পড়েছে
+1159727	226	500	236	308	white door	সাদা দরজা
+2387909	39	321	23	58	gray fences are visible	ধূসর বেড়া দৃশ্যমান হয়
+2389395	172	279	243	25	the sand is tan	বালি টান হয়
+2365438	72	260	246	206	a black and white cow	একটি কালো এবং সাদা গরু
+2409576	189	303	157	191	Cat litter box.	বিড়ালের লিটার বক্স।
+2348444	6	53	245	168	A crowd of people behind the car	গাড়ির পিছনে লোকের ভিড়
+2408302	8	198	335	175	a plate of food on a table	টেবিলে খাবারের প্লেট
+2368263	0	2	331	496	The snow is white.	তুষার সাদা।
+2338607	366	250	104	74	a man holding a pink hat	একজন লোক গোলাপী টুপি ধরেছে
+2319627	272	273	11	18	woman wearing white shirt	সাদা শার্ট পরা মহিলা
+2356640	141	117	260	146	yellow bus parked on the street	রাস্তায় পার্ক করা হলুদ বাস
+2331928	201	177	34	43	the pants are white	প্যান্ট সাদা
+2380058	209	61	90	63	a kite flying in air	একটি ঘুড়ি বাতাসে উড়ছে
+2390358	1	0	372	499	the neckline of a man wearing a tie	টাই পরা লোকের গলায়
+2408860	0	164	135	52	blue exhaust from plane	বিমান থেকে নীল নিষ্কাশন
+2395700	18	241	259	248	a fried donut on a pile.	একটি গাদা একটি ভাজা ডোনাট।
+2389707	82	45	167	227	Instruction bulletin on glass	কাচ উপর নির্দেশ বুলেটিন
+2372715	177	155	143	152	blue bridle on horse	ঘোড়া উপর নীল চটকদার
+2326901	121	217	13	17	The letter is white.	চিঠিটি সাদা।
+2408241	1	50	194	226	a motorcycle	একটি মোটরসাইকেল
+150334	62	177	613	845	Happy woman in a floral dress.	ফুলের পোশাকে সুখী মহিলা।
+1159994	297	31	114	238	a boy wearing a green shirt	সবুজ শার্ট পরা একটি ছেলে
+2352508	114	39	212	292	donkey on a leash	গাধা একটি জোঁক উপর
+2319721	26	53	379	295	Duck in the water	জলে হাঁস
+914	98	22	351	51	the projector screen rolled up	প্রজেক্টর পর্দা ঘূর্ণিত
+2345682	102	157	106	172	zebra sniffing the ground	জেব্রা মাটি শুকনো
+2353827	183	25	91	230	a little boy in overalls	সামগ্রিকভাবে একটি ছোট ছেলে
+107907	76	470	605	46	row of many stones	অনেক পাথরের সারি
+2370423	88	81	370	395	the white compartment plate	সাদা বগি প্লেট
+2343056	135	136	195	57	red train under bridge	ব্রিজের নিচে লাল ট্রেন
+2403511	209	0	31	97	a large tree trunk	একটি বড় গাছের ট্রাঙ্ক
+2376150	28	25	470	304	The cage is white.	খাঁচা সাদা।
+2380447	106	63	392	230	A streamline train	একটি স্ট্রিমলাইন ট্রেন
+2366778	142	341	32	21	a white tennis shoe	একটি সাদা টেনিস জুতো
+2344950	27	72	413	179	truck in the grass	ঘাসে ট্রাক
+2373769	30	3	291	130	A bunch of green scallions	একগুচ্ছ সবুজ স্ক্যালালিয়ান
+2381492	386	247	41	30	Lemons in the bowl	বাটিতে লেবু
+728	73	402	108	156	Man riding a bicycle down a street	একজন রাস্তায় সাইকেল চালাচ্ছেন লোক
+2319644	57	115	124	53	this is a bowl	এটি একটি বাটি
+2333667	152	290	182	206	Fruit on top of a round wooden tray.	গোলাকার কাঠের ট্রেয়ের উপরে ফল ruit
+2372047	68	170	280	104	the cows are resting	গরু বিশ্রাম নিচ্ছে
+2376127	205	43	80	152	christmas tree in front of window	উইন্ডোটির সামনে ক্রিসমাস ট্রি
+2342990	134	369	79	47	Man wearing shoes	জুতো পরা মানুষ
+2359157	320	108	37	35	Duck has brown eye.	হাঁসের ব্রাউন আই রয়েছে।
+2415084	126	73	112	132	A yellow school crossing sign.	একটি হলুদ স্কুল ক্রসিং সাইন।
+2326144	35	110	185	232	a black and grey keyboard	একটি কালো এবং ধূসর কীবোর্ড
+2354880	70	162	363	220	cat lying on ground	বিড়াল মাটিতে পড়ে আছে
+2399256	75	162	232	215	knives in a case	একটি ক্ষেত্রে ছুরি
+2338944	306	238	82	42	the white toilet seat	সাদা টয়লেট সিট
+2347042	87	8	273	365	Childrens standing in the carpet	বাচ্চারা গালিচায় দাঁড়িয়ে আছে
+2340984	42	70	285	300	A man holding a cell phone.	একজন লোক সেল ফোন ধরে আছেন।
+2394993	0	291	212	207	Three sinks on a counter	একটি কাউন্টারে তিনটি ডুবে গেছে
+2403723	146	181	184	169	a man in the middle of a tennis serve	টেনিসের মাঝখানে একজন লোক পরিবেশন করছে
+2389327	112	35	211	144	Tile on the wall.	দেয়ালে টালি।
+2397528	33	91	298	194	cow's body is brown and black	গরুর শরীর বাদামী এবং কালো
+2351240	83	81	202	350	the man on the court	আদালতে লোক
+1728	4	169	20	32	car on the road	রাস্তায় গাড়ি
+2372722	79	222	77	124	A smaller paper cup in a larger paper cup	একটি বৃহত কাগজের কাপে একটি ছোট পেপার কাপ cup
+2345995	1	13	61	322	wood grandfather clock	কাঠ দাদা ঘড়ি
+2321081	6	101	228	227	a pile of sliced bananas	কাটা কলা একটি গাদা
+2368738	371	154	9	13	edge of a boat	একটি নৌকা প্রান্ত
+2356999	79	42	270	239	dog looking out car window	কুকুর গাড়ির জানালা খুঁজে খুঁজছেন
+2399028	185	273	101	41	Leaves are green color.	পাতা সবুজ বর্ণের।
+2360917	157	72	167	78	water spraying in fountain	ঝর্ণায় জল স্প্রে
+2413939	255	102	181	125	black and white shoes on floor	মেঝেতে কালো এবং সাদা জুতা
+2369966	300	366	64	60	toilet paper holder on wall	দেয়ালে টয়লেট পেপার ধারক
+2379521	149	254	20	25	a tree branch	একটি গাছের ডাল
+2324812	151	151	20	47	phone in man's hand	মানুষের হাতে ফোন
+2330018	264	81	235	146	White and red model airplane	সাদা এবং লাল মডেলের বিমান
+1159817	592	386	21	95	A red lightpost	একটি লাল লাইটপোস্ট
+2335816	159	128	65	37	A banana in a container	একটি পাত্রে একটি কলা
+2364807	316	348	51	138	a long white towel	একটি দীর্ঘ সাদা তোয়ালে
+2380650	2	242	332	92	eleven boats tied to wall	দেয়ালে বাঁধা এগারোটি নৌকা
+2366929	7	157	320	169	an airplane on a runway	একটি রানওয়েতে একটি বিমান
+2394933	244	103	65	147	gray and blue striped mens shirt	ধূসর এবং নীল স্ট্রিপড মেনস শার্ট
+2338743	93	236	80	110	this is a person	এটি একজন ব্যক্তি
+713786	388	680	90	86	Blue coat on a person.	কোনও ব্যক্তির উপর নীল রঙের পোশাক।
+2364675	52	49	392	220	A train in the photo	ফটোতে একটি ট্রেন
+2336531	98	8	395	360	This is a wine event.	এটি একটি ওয়াইন ইভেন্ট।
+2369904	6	63	189	288	Striped feathers in white vase	সাদা দানিতে ডোরাকাটা পালক
+2368870	13	130	470	200	metal bin filled with donuts	ডোনাট দিয়ে ভরা ধাতব বিন
+2321810	94	153	51	102	A bird is feeding on a plant.	একটি পাখি একটি উদ্ভিদ খাওয়ানো হয়।
+2417232	42	153	220	161	brown horse	বাদামী ঘোড়া
+2350754	143	123	54	163	giraffe behind nature items	প্রকৃতির আইটেমের পিছনে জিরাফ
+2326592	343	77	15	18	red color hat of the player	প্লেয়ারের লাল রঙের টুপি
+2320624	207	122	112	157	person carrying a green and blue umbrella	সবুজ এবং নীল ছাতা বহনকারী ব্যক্তি
+2371463	288	64	140	77	He has a white hat.	তার একটি সাদা টুপি রয়েছে।
+4638	117	277	40	24	a drawer on the dresser	ড্র্রেসের উপর একটি ড্রয়ার
+2315913	0	2	295	428	two elephants walking through a grassy pasture	দুটি হাতি ঘাসের চারণভূমিতে হাঁটছে
+2366373	2	0	398	330	A polar bear swimming in a lake	একটি হ্রদে একটি মেরু ভালুক সাঁতার কাটছে
+2391189	6	177	165	167	Black car covered in snow.	কালো গাড়ি বরফে ঢাকা।
+2390819	103	101	327	198	Car with surfboard on top	উপরে সার্ফবোর্ডযুক্ত গাড়ি
+2344379	376	361	63	23	the antenna of a phone	একটি ফোনের অ্যান্টেনা
+2359859	14	88	208	70	bird standing near the water	জলের কাছে দাঁড়িয়ে পাখি
+2391361	70	60	387	267	yummy square shape pizza	মুখরোচক স্কোয়ার শেপ পিজ্জা
+2407106	142	6	136	317	a man standing next to an elephant	একজন লোক হাতির পাশে দাঁড়িয়ে আছে
+2363591	30	226	229	102	the sneaker is black	স্নিকারটি কালো
+2325953	386	175	31	17	Ripples in the water	জলে লহর
+2353786	212	15	39	37	a white and black hat on a woman's head	একটি মহিলার মাথায় একটি সাদা এবং কালো টুপি
+2346579	42	42	158	330	Side mirror on a bus.	একটি বাসে পাশের আয়না।
+2403032	267	191	26	31	a yellow sun on the bus	বাসে একটা হলুদ রোদ
+2368162	254	93	165	149	Dog on the beach.	সৈকতে কুকুর।
+2378541	14	126	394	121	Seven elephants are walking.	সাতটি হাতি হাঁটছে।
+2409185	259	291	100	50	Light on a truck	একটি ট্রাকের উপর হালকা
+2391603	245	232	71	51	a camer in two hands	দুই হাতে একটি উট
+2359905	219	133	80	29	ears of a cat	একটি বিড়াল কান
+2319911	228	180	48	107	woman wearing a long blue dress	লম্বা নীল পোশাক পরা মহিলা
+2367756	286	245	80	76	a container of margarine on a metal table	একটি ধাতব টেবিল উপর মার্জারিন একটি ধারক
+2394746	8	38	464	253	a large Thomas the Train	একটি বড় থমাস ট্রেন
+2345751	346	273	141	142	tire on a motorcycle	মোটরসাইকেলের টায়ার
+2322270	168	65	48	85	red high heeled shoe	লাল হাই হিল জুতো
+2400885	258	225	30	53	the hand of a man	একটি মানুষের হাত
+2404149	125	86	269	203	The people are water skiing	মানুষ জল স্কিইং হয়
+2318982	80	181	73	148	his outfit is blue	তার পোশাক নীল
+2346940	61	0	437	250	The screen of the monitor.	মনিটরের স্ক্রিন।
+2346010	258	117	107	110	bear with sleepy expression	নিদ্রাহীন অভিব্যক্তি সহ্য করা
+2352764	82	52	173	406	man taking image with camera	মানুষ ক্যামেরা দিয়ে ছবি তুলছে
+2389812	142	38	298	335	boy with curly hair	কোঁকড়ানো চুলের সাথে ছেলে
+2319263	175	215	111	98	head of a sheep	একটি ভেড়া মাথা
+498121	719	83	160	206	the head of a woman	একটি মহিলার মাথা
+2366641	245	23	52	157	A person waiting for a train	একজন ব্যক্তি ট্রেনের জন্য অপেক্ষা করছেন
+2349843	366	380	7	11	part of a slipper	একটি স্লিপার অংশ
+2409732	40	171	142	145	the circle is orange	বৃত্ত কমলা হয়
+2416822	68	137	189	346	the boy on the skateboard	স্কেটবোর্ডে ছেলে
+2357942	12	67	284	112	smoke in the sky	আকাশে ধোঁয়া
+2392767	160	15	338	185	The table is full of vegetables	টেবিলটি সবজিতে পূর্ণ
+2413735	4	4	495	137	ocean waves	সমুদ্রের ঢেউ
+2372876	386	168	31	130	red fire hydrant on sidewalk	ফুটপাতে লাল ফায়ার হাইড্র্যান্ট
+2361220	315	181	17	10	Two people carrying a board	একটি বোর্ড বহনকারী দু'জন
+2370360	0	20	457	305	a zebra in a pen	একটি কলমে একটি জেব্রা
+2406537	144	34	31	29	a yellow tennis ball	একটি হলুদ টেনিস বল
+2340806	218	6	247	160	The sky is blue.	আকাশ নীল.
+2399850	235	289	120	60	fingers of young man	যুবকের আঙ্গুলগুলি
+2384931	212	122	111	76	Large plane in the air	বাতাসে বড় বিমান
+2383984	339	80	106	95	A FLAT SCREEN TV	একটি ফ্ল্যাট স্ক্রিন টিভি
+2404191	1	51	450	227	A black and white train car	একটি কালো এবং সাদা ট্রেন গাড়ি
+2359512	44	202	138	207	a blue coffee cup on a table	একটি টেবিলের উপর একটি নীল কফি কাপ
+2332256	174	88	325	201	a white microwave with an open door	একটি খোলা দরজা সহ একটি সাদা মাইক্রোওয়েভ
+2355847	47	135	190	273	a man playing tennis	টেনিস খেলছে একজন
+3314	157	318	341	142	blue colored SUV	নীল রঙের এসইউভি

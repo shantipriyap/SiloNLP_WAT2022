@@ -1,0 +1,1400 @@
+34	417	32	256	96	glass block privacy wall	ഗ്ലാസ് ബ്ലോക്ക് സ്വകാര്യ മതിൽ
+82	140	268	26	68	knife block sitting on counter with knives in it	കത്തികൊണ്ട് കൗണ്ടറിൽ ഇരിക്കുന്ന കത്തി ബ്ലോക്ക്
+98	308	89	162	118	a second pizza in a pan	ചട്ടിയിൽ രണ്ടാമത്തെ പിസ്സ
+245	0	406	67	47	beige stair way going to second level	ബീജ് സ്റ്റെയർ വേ രണ്ടാം ലെവലിലേക്ക് പോകുന്നു
+311	294	51	206	235	tan house with lighter colored second floor	ടാൻ ഹൗസിലെ ഇളം നിറമുള്ള രണ്ടാം നില
+337	45	194	421	115	Balconies on the second story of the buildings	കെട്ടിടങ്ങളുടെ രണ്ടാമത്തെ നിലയിലെ ബാൽക്കണി
+492	408	135	57	113	Lamp on the night stand to the left of the bed	രാത്രി സ്റ്റാന്റിലെ വിളക്ക് കട്ടിലിന്റെ ഇടതുവശത്ത് നിൽക്കുന്നു
+511	610	419	76	61	a white alarm clock is on top of the night stand	നൈറ്റ് സ്റ്റാൻഡിന് മുകളിൽ ഒരു വെളുത്ത അലാറം ക്ലോക്ക് ഉണ്ട്
+529	465	185	112	224	a black music stand	ഒരു കറുത്ത സംഗീത സ്റ്റാൻഡ്
+772	70	322	45	100	the woman is waiting to cross the street	തെരുവ് മുറിച്ചുകടക്കാൻ കാത്തിരിക്കുന്ന സ്ത്രീ
+897	58	68	532	284	these are baseball players	ഇവർ ബേസ്ബോൾ കളിക്കാരാണ്
+912	98	370	179	124	Shadow on the court	കോർട്ടിലെ നിഴൽ
+1067	52	226	25	12	an alarm clock on the night stand	രാത്രി സ്റ്റാൻഡിൽ ഒരു അലാറം ക്ലോക്ക്
+1084	469	417	127	27	The date 01/03/2008 in yellow.	തീയതി 01/03/2008 മഞ്ഞയിൽ.
+1122	0	106	76	84	A brown stand next to a wall.	ഒരു മതിലിനടുത്ത് ഒരു ബ്രൗണ് സ്റ്റാന്റ്
+1140	92	202	101	67	Man seated at food court table	ഒരാൾ ഭക്ഷണശാല മേശയുടെ സമീപം ഇരിക്കുന്നു
+1179	456	414	144	42	date stamp of scene	സീനിന്റെ തീയതി സ്റ്റാമ്പ്
+1201	62	191	362	294	Staircase leading to the second floor	രണ്ടാം നിലയിലേക്ക് നയിക്കുന്ന ഗോവണി
+1223	181	124	107	121	a camera on a stand	സ്റ്റാൻഡിലിരിക്കുന്ന ക്യാമറ
+1234	417	242	24	36	clear plastic French press	വ്യക്തമായ പ്ലാസ്റ്റിക് ഫ്രഞ്ച് പ്രസ്സ്
+1239	167	446	37	46	people on the second level	രണ്ടാമത്തെ ലെവലിലെ ആളുകൾ
+1274	173	346	270	147	the court is made of sand	കളിസ്ഥലം മണലിൽ നിർമ്മിച്ചതാണ്
+1291	180	287	131	110	an english saddle above a saddle pad	ഒരു സാഡിൽ പാഡിന് മുകളിലുള്ള ഒരു ഇംഗ്ലീഷ് സാഡിൽ
+1450	66	28	731	293	many utility cables cross over the street	നിരവധി ഉപയോഗപ്രദമായ കേബിളുകൾ തെരുവിലൂടെ കടന്നുപോകുന്നു
+1651	665	319	114	99	Newspaper stand on the grass	ന്യൂസ്‌പേപ്പർ സ്റ്റാന്റ് പുല്ലിൽ
+1700	470	183	110	406	stand in the room	മുറിയിലെ സ്റ്റാന്റ്
+1793	94	173	382	345	a motorcycle is parked in front of the road block	റോഡ് ബ്ലോക്കിന് മുന്നിൽ ഒരു മോട്ടോർ സൈക്കിൾ പാർക്ക് ചെയ്തിരിക്കുന്നു
+1809	10	106	588	564	cross on top of church	പള്ളിയുടെ മുകളിലെ ക്രോസ്സ്
+1836	345	95	112	82	second car parked on the street	രണ്ടാമത്തെ കാർ തെരുവിൽ പാർക്ക് ചെയ്തു
+1886	3	0	364	144	sing is written in chinese and latin characters	ചൈനീസ്, ലാറ്റിൻ അക്ഷരങ്ങളിൽ സിംഗ് എഴുതിയിട്ടുണ്ട്
+1891	579	521	158	38	A red date stamp	ഒരു ചുവന്ന തീയതി സ്റ്റാമ്പ്
+1965	389	188	388	101	Railing on second floor of building	കെട്ടിടത്തിന്റെ രണ്ടാം നിലയിലെ റെയിലിംഗ്
+2008	333	427	58	37	black electric clock on night stand	രാത്രി സ്റ്റാൻഡിലെ കറുത്ത ഇലക്ട്രിക് ക്ലോക്ക്
+2010	534	426	264	169	a second daybed in room	മുറിയിലെ രണ്ടാമത്തെ ബഡ്
+2029	364	258	75	50	Paper on night stand	രാത്രി സ്റ്റാൻഡിലെ പേപ്പർ
+2037	193	273	51	32	stack of books on bed stand	ബെഡ് സ്റ്റാൻഡിൽ പുസ്തകങ്ങളുടെ ശേഖരം
+2051	50	336	50	97	the knife block is filled	കത്തി ബ്ലോക്ക് നിറഞ്ഞു
+2113	0	31	84	315	plant is on a metal stand	പ്ലാന്റ് ഒരു മെറ്റൽ സ്റ്റാൻഡിലാണ്
+2115	262	327	77	94	black metal plant stand	ബ്ലാക്ക് മെറ്റൽ പ്ലാന്റ് സ്റ്റാൻഡ്
+2151	356	335	66	53	Landline phone on the night stand	നൈറ്റ് സ്റ്റാൻഡിലെ ലാൻഡ്‌ലൈൻ ഫോൺ
+2155	466	168	106	99	wide brown night stand	വിശാലമായ തവിട്ട് നിറത്തിലെ ചെറിയ മേശ
+2199	141	325	162	114	Bizarre sculpture on a coffee stand	ഒരു കോഫി സ്റ്റാൻഡിലെ വിചിത്രമായ ശില്പം
+2325	444	265	276	308	two people waiting to cross	കടക്കാൻ കാത്തിരിക്കുന്ന രണ്ടുപേർ
+2366	340	322	40	131	sign on brass stand	പിച്ചളയിൽ പൊതിഞ്ഞ സ്റ്റാൻഡ്
+2411	165	185	45	36	neon sign in a second floor window	രണ്ടാം നിലയിലെ വിൻഡോയിൽ നിയോൺ ചിഹ്നം
+2425	650	447	24	73	green cross on top of building	കെട്ടിടത്തിന് മുകളിൽ പച്ച ക്രോസ്
+2692	90	337	96	90	date palms on the grassy field	പുല്ല് വയലിൽ ഈന്തപ്പനകൾ
+2741	246	258	305	106	Balconies on the second floor	രണ്ടാം നിലയിലെ ബാൽക്കണി
+2765	17	80	781	489	a block of buildings	കെട്ടിടങ്ങളുടെ ഒരു ബ്ലോക്ക്
+2853	238	215	121	97	a bunch of books on book stand	ബുക്ക് സ്റ്റാൻഡിലെ ഒരു കൂട്ടം പുസ്തകങ്ങൾ
+2941	395	287	137	153	Many stairs up to a second story.	രണ്ടാമത്തെ സ്റ്റോറി വരെ നിരവധി പടികൾ.
+2966	339	182	101	252	second paper notice in a row	തുടർച്ചയായി രണ്ടാമത്തെ പേപ്പർ അറിയിപ്പ്
+3014	190	212	61	104	second floor balcony	രണ്ടാം നിലയിലെ ബാൽക്കണി
+3028	399	297	41	56	Bag on the cement block	സിമൻറ് ബ്ലോക്കിലെ ബാഗ്
+3037	38	241	44	71	the door of second floor is brown	രണ്ടാം നിലയുടെ വാതിൽ തവിട്ടുനിറമാണ്
+3188	46	429	504	161	Curved stairs on the approach to the court yard	മുറ്റത്തിനു സമീപത്ത് വളഞ്ഞ പടികൾ
+3510	234	288	85	78	the cross is black	കുരിശ് കറുത്തതാണ്
+3620	151	363	168	112	grey block in sidewalk	നടപ്പാതയിലെ ചാരനിറത്തിലുള്ള ബ്ലോക്ക്
+3789	367	345	126	70	a large block entrance	ഒരു വലിയ ബ്ലോക്ക് പ്രവേശന കവാടം
+3856	2	275	528	254	a block paved sidewalk	ഒരു ബ്ലോക്ക് നടപ്പാത
+3905	78	172	304	185	people on the second floor	രണ്ടാം നിലയിലെ ആളുകൾ
+3912	260	208	73	109	night stand made of dark brown wood	ഇരുണ്ട തവിട്ടുനിറത്തിലുള്ള മരം കൊണ്ട് നിർമ്മിച്ച രാത്രി സ്റ്റാൻഡ്
+3956	337	177	36	39	the second cushioned seat	തലയണയുള്ള രണ്ടാമത്തെ സീറ്റ്
+4008	17	273	522	177	A net in between the players	കളിക്കാർക്കിടയിൽ ഒരു വല
+4154	0	76	409	155	a line of runway models	റൺ‌വേ മോഡലുകളുടെ ഒരു വരി
+4156	56	278	12	42	wooden cross hanging on a wall	മരം കുരിശ് ചുമരിൽ തൂക്കിയിരിക്കുന്നു
+4189	369	152	62	15	Sandwich on the second shelf.	രണ്ടാമത്തെ തട്ടിൽ സാൻഡ്‌വിച്ച്.
+4212	328	368	47	65	small white rocking chair with mother and child models in it	അമ്മയും കുട്ടിയും മോഡലുള്ള ചെറിയ വെളുത്ത റോക്കിംഗ് കസേര, അതിൽ കളുടെ
+4215	36	31	386	291	this is a fast food place	ഇതൊരു ഫാസ്റ്റ് ഫുഡ് സ്ഥലമാണ്
+4432	401	190	395	164	A cinder block wall.	ഒരു സിൻഡർ ബ്ലോക്ക് മതിൽ.
+4455	9	448	791	199	red painted lines on wooden court floor	മരം കോർട്ട് തറയിൽ ചുവന്ന ചായം പൂശിയ വരകൾ
+4503	143	563	22	32	the small cross on top of the headstone	ഹെഡ്‌സ്റ്റോണിന് മുകളിലുള്ള ചെറിയ കുരിശ്
+4574	118	242	252	95	a manual press machine	ഒരു മാനുവൽ പ്രസ്സ് മെഷീൻ
+4581	429	289	130	108	People looking to cross the road.	റോഡ് മുറിച്ചുകടക്കാൻ നോക്കുന്ന ആളുകൾ.
+4635	4	288	150	124	A black entertainment stand on wheels	ചക്രങ്ങളിൽ ഒരു കറുത്ത വിനോദം
+4641	283	247	131	90	A big tv on a stand	ഒരു സ്റ്റാൻഡിൽ ഒരു വലിയ ടിവി
+4657	222	134	14	130	The body of the stand up lamp.	സ്റ്റാൻഡ് അപ്പ് വിളക്കിന്റെ ബോഡി
+4714	92	58	59	32	three windows on the second floor	രണ്ടാം നിലയിലെ മൂന്ന് വിൻഡോകൾ
+4726	267	83	25	36	The window on the right on the second floor.	രണ്ടാം നിലയിലെ വലതുവശത്തുളള വിൻഡോ.
+61514	595	122	36	24	bolt on cross walk sign	ക്രോസ് വാക്ക് ചിഹ്നത്തിൽ ബോൾട്ട്
+61525	13	488	1003	159	tennis court floor	ടെന്നീസ് കോർട്ട് ഫ്ലോർ
+61533	271	26	498	286	A girl on the tennis court is preparing to hit the ball	ടെന്നീസ് കോർട്ടിലുള്ള ഒരു പെൺകുട്ടി പന്ത് തട്ടാൻ ഒരുങ്ങുകയാണ്
+107903	601	168	80	105	Wooden railing on second level	രണ്ടാമത്തെ ലെവലിൽ മരം റെയിലിംഗ്
+107932	583	356	90	83	blue television on stand	സ്റ്റാൻഡിലിരിക്കുന്ന നീല ടെലിവിഷൻ
+107937	185	357	213	244	A metal and stone column holding a bell and cross.	മണിയും കുരിശും പിടിച്ചിരിക്കുന്ന ഒരു ലോഹവും കല്ലും.
+150277	7	639	267	124	White letters and numbers, indicating date and photographer.	തീയതിയും ഫോട്ടോഗ്രാഫറും സൂചിപ്പിക്കുന്ന വെളുത്ത അക്ഷരങ്ങളും അക്കങ്ങളും.
+150293	557	342	207	169	Propellers too fast to see.	പ്രൊപ്പല്ലറുകൾ കാണാൻ വളരെ വേഗത്തിലാണ്.
+150307	16	23	413	345	line of trees to the left of the court	കോർട്ടിന്റെ ഇടതുവശത്തുള്ള മരങ്ങളുടെ വരി
+150310	2	498	116	258	tv on a stand	ടിവി ഒരു സ്റ്റാൻഡിൽ
+150368	0	151	1022	333	green tennis court with white lines	വെള്ള വരകളുള്ള ഗ്രീൻ ടെന്നീസ് കോർട്ട്
+150390	678	245	174	215	street sign advising of penalty	പെനാൽറ്റി ഉപദേശിക്കുന്ന തെരുവ് ചിഹ്നം
+150476	6	196	981	446	Several forms of public transportation	പൊതുഗതാഗതത്തിന്റെ നിരവധി രൂപങ്ങൾ
+150530	242	542	172	105	kick stand on motorcycle	മോട്ടോർ സൈക്കിളിന്റെ കിക്ക് സ്റ്റാൻഡ്
+285602	367	63	646	617	the tennis court	ടെന്നീസ് കോർട്ട്
+285618	428	9	318	105	fence in back of the court	കോർട്ടിന്റെ പുറകിലെ വേലി
+285649	246	587	164	326	Silver french press coffee maker	സിൽവർ ഫ്രഞ്ച് പ്രസ്സ് കോഫി മേക്കർ
+285660	606	439	76	31	a railing on a second story balcony	രണ്ടാമത്തെ നിലയിലെ ബാൽക്കണിയിൽ ഒരു ഇരുമ്പഴി
+285844	313	149	471	517	Red T-shirt with white cross patch	വെളുത്ത ക്രോസ്സ് പാച്ചുള്ള ചുവന്ന ടി-ഷർട്ട്
+285872	195	145	509	368	a fine meal on a plate	ഒരു പാത്രത്തിൽ നല്ല ഭക്ഷണം
+285873	496	497	200	102	white characters on the street	തെരുവിലെ വെളുത്ത പ്രതീകങ്ങൾ
+285883	313	498	36	46	cross next to the clock tower	ക്ലോക്ക് ടവറിന് അടുത്തായി കുരിശ്
+285938	39	394	386	273	person playing tennis on the court	കോർട്ടിൽ ടെന്നീസ് കളിക്കുന്ന വ്യക്തി
+285971	251	200	190	452	a man in the armed forces	സായുധ സേനയിലെ ഒരാൾ
+497960	389	223	138	121	Black tv on top of brown stand.	കറുത്ത നിറത്തിലെ ടീവി ചാര നിറത്തിലുള്ള സ്റ്റാൻഡിനു മുകളിരുന്നു
+497998	778	264	109	89	a black cross on a vertical stabilizer	വെർട്ടിക്കൽ സ്റ്റെബിലൈസറിൽ ഒരു കറുത്ത ക്രോസ്
+498061	68	341	334	160	a dark blue sedan moving fast	ഇരുണ്ട നീല സെഡാൻ വേഗത്തിൽ നീങ്ങുന്നു
+498221	27	486	90	20	A block of brown stones.	തവിട്ടുനിറത്തിലുള്ള കല്ലുകളുടെ ഒരു ബ്ലോക്ക്.
+498225	912	434	81	108	A person standing at the food stand.	ഫുഡ് സ്റ്റാൻഡിൽ നിൽക്കുന്ന ഒരാൾ.
+498231	47	42	127	229	Security officer making sure everyone is safe at the fair	മേളയിൽ എല്ലാവരും സുരക്ഷിതരാണെന്ന് സുരക്ഷാ ഉദ്യോഗസ്ഥൻ ഉറപ്പാക്കുന്നു
+498256	496	393	124	42	yellow time and date stamp	മഞ്ഞ സമയവും തീയതി സ്റ്റാമ്പും
+498277	556	82	314	644	boy standing on tennis court	പയ്യൻ ടെന്നീസ് കോർട്ടിൽ നിൽക്കുന്നു
+498286	777	421	32	35	orange "do not cross" sign	"ഓറഞ്ച് ""കടക്കരുത്"" ചിഹ്നം"
+498294	422	168	406	392	the players are moving	കളിക്കാർ നീങ്ങുന്നു
+498316	563	534	103	156	Kick stand on a motorcycle.	ഒരു മോട്ടോർ സൈക്കിളിലെ ലിവർ
+498354	0	452	815	570	They both are playing on a tennis court.	ഇരുവരും ടെന്നീസ് കോർട്ടിൽ കളിക്കുന്നു.
+713113	882	99	140	560	woman cross her arms	കൈ കെട്ടി നില്ക്കുന്ന സ്ത്രീ
+713178	381	866	113	105	The boy has a orange stamp on his hand.	ആൺകുട്ടിയുടെ കയ്യിൽ ഓറഞ്ച് സ്റ്റാമ്പ് ഉണ്ട്.
+713193	351	91	78	57	sign above the people at the fair	മേളയിൽ ആളുകൾക്ക് മുകളിൽ ഉള്ള ചിഹ്നം
+713408	397	117	223	156	picture hanging in the wall with anime characters	ചുമരിൽ തൂക്കിയിട്ടിരിക്കുന്ന ചിത്രത്തിൽ ആനിമേഷൻ പ്രതീകങ്ങളുണ്ട്
+713415	378	22	235	254	a net divides the court	ഒരു വല കോർട്ടിനെ വിഭജിക്കുന്നു
+713527	347	300	62	105	Two butcher block knive sets.	രണ്ട് കശാപ്പ് ബ്ലോക്ക് കത്തി സെറ്റുകൾ.
+713613	437	126	55	82	cross made of stone	കല്ലുകൊണ്ട് നിർമ്മിച്ച കുരിശ്
+713626	264	38	646	93	second story seating area	രണ്ടാമത്തെ സ്റ്റോറി സീറ്റിംഗ് ഏരിയ
+713660	105	55	48	62	english letter is white	ഇംഗ്ലീഷ് അക്ഷരം വെളുത്തതാണ്
+713684	352	405	77	33	the second bus has a blue sign	രണ്ടാമത്തെ ബസിന് നീല ചിഹ്നമുണ്ട്
+713739	742	312	43	122	Yellow and black pole with a yellow cross.	മഞ്ഞ ക്രോസ്സ് ഉള്ള മഞ്ഞയും, കറുത്തയും പോൾ
+713795	335	3	314	131	the sign has asian characters	ചിഹ്നത്തിൽ ഏഷ്യൻ പ്രതീകങ്ങളുണ്ട്
+713885	903	306	118	74	press box on tennis court	ടെന്നീസ് കോർട്ടിലെ പ്രസ്സ് ബോക്സ്
+1159262	8	540	1010	140	the sidewalk in front of the produce stand	ഉൽ‌പന്നങ്ങളുടെ മുന്നിലുള്ള നടപ്പാത
+1159278	460	86	43	80	The top white cross.	മുകളിൽ വെളുത്ത കുരിശ്.
+1159352	663	250	355	254	a small black entertainment stand	ഒരു ചെറിയ കറുത്ത വിനോദ സ്റ്റാൻഡ്
+1159354	479	266	138	117	microphones are lined up on stand	മൈക്രോഫോണുകൾ സ്റ്റാൻഡിൽ അണിനിരനിരിക്കുന്നു
+1159593	413	416	108	217	Woman getting ready to cross street	തെരുവ് മുറിച്ചുകടക്കാൻ ഒരുങ്ങുന്ന സ്ത്രീ
+1159682	428	592	383	87	white lines painted on court	കോർട്ടിൽ വരച്ച വെളുത്ത വരകൾ
+1159721	501	563	162	167	A pot is fitted in a stand.	ഒരു സ്റ്റാൻഡിൽ ഒരു കലം ഘടിപ്പിച്ചിരിക്കുന്നു.
+1159924	236	543	133	108	white graffiti on a stand	ഒരു സ്റ്റാന്റിൽ വെളുത്ത ഗ്രാഫിറ്റി
+1159982	433	493	266	153	Man cross country skiing.	ക്രോസ് കൺട്രി സ്കീയിംഗ് ചെയ്യുന്ന മനുഷ്യൻ
+1160010	436	340	43	63	pendent on a fine chain	നേർത്ത ചെയിനിൽ പെൻഡന്റ്
+1591782	140	255	379	122	blue tennis court	നീല ടെന്നീസ് കോർട്ട്
+1591836	390	167	96	84	The right front window on the second level of the bus.	ബസിന്റെ രണ്ടാം ലെവലിൽ വലത് മുൻവശത്തെ വിൻഡോ.
+1591886	280	125	76	116	large silver juice press	വലിയ സിൽവർ ജ്യൂസ് പ്രസ്സ്
+1591900	9	59	192	168	Brown block and white house with pitched black roof.	കറുത്ത മേൽക്കൂരയുള്ള ബ്രൗൺ ബ്ലോക്കും വൈറ്റ് ഹൗസും
+1591980	80	532	111	161	man cross country skiing during race	ഓട്ടത്തിനിടയിൽ ക്രോസ് കൺട്രി സ്കീയിംഗ് ചെയ്യുന്ന മനുഷ്യൻ
+1592015	509	132	29	36	cross on top of steeple	സ്റ്റീപ്പിളിന് മുകളിൽ ഉള്ള ക്രോസ്സ്
+1592132	104	317	218	544	second man skiing in snow	രണ്ടാമത്തെ മനുഷ്യൻ മഞ്ഞിൽ സ്കീയിംഗ് ചെയ്യുന്നു
+1592386	232	375	172	133	the green sign with red and yellow characters	പച്ച ചിഹ്നത്തോടൊപ്പം ചുവപ്പ്, മഞ്ഞ പ്രതീകങ്ങൾ
+1592594	312	326	297	280	a stone block train platform	ഒരു സ്റ്റോൺ ബ്ലോക്ക് ട്രെയിൻ പ്ലാറ്റ്ഫോം
+1592639	460	138	118	243	Woman wearing a cross on her neck	കഴുത്തിൽ കുരിശ് ധരിച്ച സ്ത്രീ
+1592702	236	446	57	234	A person waiting to cross the street	തെരുവ് മുറിച്ചുകടക്കാൻ കാത്തിരിക്കുന്ന ഒരാൾ
+1592953	864	226	38	92	second traffic light on pole	ധ്രുവത്തിലെ രണ്ടാമത്തെ ട്രാഫിക് ലൈറ്റ്
+1593160	294	333	13	25	Grey cross on a green dome top.	പച്ച താഴികക്കുടത്തിന്റെ മുകളിൽ ഗ്രേ ക്രോസ്സ്.
+1593198	266	77	92	152	beige table lamp on stand	ബീജ് ടേബിൾ ലാമ്പ് സ്റ്റാൻഡിൽ
+1593200	375	271	48	30	armed forces identifying patch for US Army	യുഎസ് ആർമിക്ക് പാച്ച് തിരിച്ചറിയുന്ന സായുധ സേന
+2315526	436	274	62	60	Large models in the park field	പാർക്ക് ഫീൽഡിലെ വലിയ മോഡലുകൾ
+2315716	82	101	376	74	This is some type of a fair.	ഇത് ഒരു തരം മേളയാണ്.
+2315814	65	175	430	181	five wheels on the court	കോർട്ടിൽ അഞ്ച് ചക്രങ്ങൾ
+2315846	8	286	489	70	a fast flowing river	വേഗത്തിൽ ഒഴുകുന്ന നദി
+2315850	136	289	178	83	the block of hay	പുല്ലിന്റെ ബ്ലോക്ക്
+2315901	73	7	30	149	a glass block window	ഒരു ഗ്ലാസ് ബ്ലോക്ക് വിൻഡോ
+2315902	25	347	100	79	a grill press	ഒരു ഗ്രിൽ പ്രസ്സ്
+2315994	410	0	86	330	block wall behind giraffe head	ജിറാഫിന്റെ തലയ്ക്ക് പിന്നിൽ തടി കൊണ്ടുള്ള മതിൽ
+2316165	10	3	455	289	man stand on skateboard	മനുഷ്യൻ സ്കേറ്റ്ബോർഡിൽ നിൽക്കുന്നു
+2316200	290	4	92	76	players' names in black on yellow background	മഞ്ഞ പശ്ചാത്തലത്തിൽ കളിക്കാരുടെ പേരുകൾ കറുപ്പിൽ
+2316318	341	280	144	92	a block defining the space for the bench	ബെഞ്ചിനുള്ള ഇടം നിർവചിക്കുന്ന ഒരു ബ്ലോക്ക്
+2316543	401	116	94	132	chairs and tables on the side of the court	കോർട്ടിന്റെ വശത്ത് കസേരകളും മേശകളും
+2316660	101	24	242	235	soccer players in a light blue uniforms	ഇളം നീല നിറത്തിലുള്ള യൂണിഫോമിൽ സോക്കർ കളിക്കാർ
+2316786	395	335	27	22	The word AUG in the date	തീയതിയിലെ ഓഗ് എന്ന വാക്ക്
+2316826	0	448	330	51	Top of net on tennis court	ടെന്നീസ് കോർട്ടിൽ വലയുടെ മുകൾഭാഗം
+2316930	346	319	87	33	date of the recording	റെക്കോർഡിംഗ് തീയതി
+2317023	0	143	497	230	tennis court being used in a match	ഒരു മത്സരത്തിൽ ടെന്നീസ് കോർട്ട് ഉപയോഗിക്കുന്നു
+2317109	367	315	114	30	A time date stamp in the corner	മൂലയിൽ ഒരു സമയ തീയതി സ്റ്റാമ്പ്
+2317119	86	102	409	161	The players wear uniforms.	കളിക്കാർ യൂണിഫോം ധരിച്ചിരിക്കുന്നു.
+2317296	2	2	497	130	the fair sky	മനോഹരമായ ആകാശം
+2317376	17	89	228	220	a black fine tooth comb	കറുത്ത നേർത്ത പല്ലുള്ള ചീപ്പ്
+2317421	236	283	27	29	the black fast forward arrow	കറുത്ത ഫാസ്റ്റ് ഫോർ‌വേഡ് അമ്പടയാളം
+2317625	8	18	481	57	long single block in row	നീളമുള്ള ഒറ്റ ബ്ലോക്ക് വരിയിൽ
+2317638	51	157	112	270	two players wearing white shorts	വെളുത്ത ഷോർട്ട്സ് ധരിച്ച രണ്ട് കളിക്കാർ
+2317733	158	130	222	129	fast food on white plate	വൈറ്റ് പ്ലേറ്റിലെ ഫാസ്റ്റ് ഫുഡ്
+2317741	140	77	105	260	Woman standing on tennis court	ടെന്നീസ് കോർട്ടിൽ നിൽക്കുന്ന സ്ത്രീ
+2317765	412	308	35	25	Copy right date 2010	പകർപ്പവകാശ തീയതി 2010
+2317891	233	254	34	44	letter on the wood block	വുഡൻ ബ്ലോക്കിലെ അക്ഷരം
+2318157	225	285	40	72	Turnstyle entrance to court	കളിസ്ഥലത്തേക്കുള്ള പ്രവേശന കവാടം
+2318170	12	245	376	127	yellowish green grass over fine tan sand	നേർത്ത ടാൻ മണലിന് മുകളിൽ മഞ്ഞകലർന്ന പച്ച പുല്ല്
+2318187	371	319	90	15	The date 02/10/2009.	തീയതി 02/10/2009.
+2318204	209	281	7	37	the shin guard on the players leg	കളിക്കാരുടെ കാലിലെ ഷിൻ ഗാർഡ്
+2318426	173	100	127	127	the springs on the motorcycle	മോട്ടോർ സൈക്കിളിലെ സ്പ്രിങ്ങുകൾ
+2318516	11	343	159	25	signature of artist and date	ആർട്ടിസ്റ്റിന്റെ ഒപ്പും തീയതിയും
+2318582	275	233	69	97	Orange color night lamp with wooden stand	തടി സ്റ്റാൻഡുള്ള ഓറഞ്ച് കളർ നൈറ്റ് ലാമ്പ്
+2318616	78	222	85	74	items for sale in stand	വിൽ‌പനയ്‌ക്കുള്ള ഇനങ്ങൾ‌ സ്റ്റാന്റിൽ
+2318632	322	17	52	144	yellow fair pole on fence	വേലിയിലെ മഞ്ഞ പോൾ
+2319060	99	210	37	23	the toys are on the stand	കളിപ്പാട്ടങ്ങൾ സ്റ്റാന്റിൽ ഇരിക്കുന്നു
+2319130	205	154	24	56	small table lamp on the night stand	ചെറിയ മേശയിൽ ചെറിയ മേശ വിളക്ക്
+2319209	6	155	478	185	playing on green and blue court	പച്ചയും, നീലയും ഉള്ള കോർട്ടിൽ കളിക്കുന്നു
+2319267	258	144	78	37	black chinese characters n white sign	കറുത്ത ചൈനീസ് പ്രതീകങ്ങളും വെളുത്ത അടയാളവും
+2319514	218	248	124	73	an english taxi cab is on the bridge	ഒരു ഇംഗ്ലീഷ് ടാക്സി ക്യാബ് പാലത്തിൽ ഉണ്ട്
+2319678	2	172	158	97	Landscape shrub models on display	ലാൻഡ്‌സ്‌കേപ്പ് കുറ്റിച്ചെടി മോഡലുകൾ പ്രദർശിപ്പിച്ചിരിക്കുന്നു
+2319737	174	70	56	55	Cartoon characters on top of the building.	കെട്ടിടത്തിന്റെ മുകളിലുള്ള കാർട്ടൂൺ പ്രതീകങ്ങൾ.
+2319746	350	326	91	35	date stamp on photo is 8/23/08	ഫോട്ടോയിലെ സ്റ്റാമ്പിലെ തീയതി 8/23/08
+2320039	343	366	124	33	date in the corner	മൂലയിൽ തീയതി
+2320232	72	65	25	77	second wooden vertical slat from left	ഇടത് വശത്ത് നിന്ന് രണ്ടാമത്തെ വുഡൻ വെർട്ടിക്കൽ സ്ലാറ്റ്
+2320317	20	97	478	220	colorful bus parked next to a stand and umbrella	വർണ്ണാഭമായ ബസ് ഒരു സ്റ്റാൻഡിനും കുടയ്ക്കും സമീപം നിർത്തി ഇട്ടിരിക്കുന്നു
+2320345	205	133	81	105	The cat is looking at the second cat.	പൂച്ച രണ്ടാമത്തെ പൂച്ചയെ നോക്കുന്നു.
+2320374	240	335	17	73	There is some fine sand here	കുറച്ച് നല്ല മണൽ ഇവിടെയുണ്ട്
+2320398	0	203	302	115	Net across the tennis court	ടെന്നീസ് കോർട്ടിന് കുറുകെ ഉള്ള വല
+2320526	185	76	224	185	there are english and Chinese characters	ഇംഗ്ലീഷ്, ചൈനീസ് പ്രതീകങ്ങൾ ഉണ്ട്
+2320559	376	151	103	65	sign laying on the second set of red apples	ചുവന്ന ആപ്പിളിന്റെ രണ്ടാമത്തെ സെറ്റിൽ ഇടുക
+2320665	52	68	405	235	this is a press conference	ഇതൊരു പത്രസമ്മേളനമാണ്
+2320861	215	211	25	70	woman wearing dress about to cross street	തെരുവ് മുറിച്ചുകടക്കാൻ പോകുന്ന വസ്ത്രം ധരിച്ച സ്ത്രീ
+2320969	3	200	77	144	A paper towel roll on a stand	ഒരു സ്റ്റാൻഡിൽ ഒരു പേപ്പർ ടവൽ റോൾ
+2321047	321	273	17	32	The bolt underneath the springs.	സ്പ്രിങ്ങുകൾക്ക് താഴെയുള്ള ബോൾട്ട്.
+2321177	268	259	22	26	two red metal springs	രണ്ട് ചുവന്ന ലോഹ സ്പ്രിങ്ങുകൾ
+2321307	373	315	104	22	A time stamp on a video.	ഒരു വീഡിയോയിൽ ഒരു ടൈം സ്റ്റാമ്പ്.
+2321343	58	39	379	285	fast looking yellow motorcycle	വേഗത്തിൽ കാണപ്പെടുന്ന മഞ്ഞ മോട്ടോർസൈക്കിൾ
+2321399	331	270	30	22	cross walk lines on street	തെരുവിലെ ക്രോസ്സ് വാക്ക് ലൈനുകൾ
+2321405	8	14	469	102	A display of different phone models	വ്യത്യസ്ത ഫോൺ മോഡലുകളുടെ പ്രദർശനം
+2321462	1	119	112	191	large crack in tennis court	ടെന്നീസ് കോർട്ടിൽ വലിയ വിള്ളൽ
+2321472	413	291	52	80	this is a concrete yellow block	ഇതൊരു കോൺക്രീറ്റ് മഞ്ഞ ബ്ലോക്കാണ്
+2321507	326	320	170	35	Picture stamped date 8/10/2013.	ചിത്രം സ്റ്റാമ്പ് ചെയ്ത തീയതി 8/10/2013.
+2321520	238	346	44	43	flower on ice block	ഐസ് ബ്ലോക്കിലെ പുഷ്പം
+2321584	152	224	50	42	some watery plant forms	ചില ജലസസ്യങ്ങൾ
+2321608	0	20	454	310	a man photographs two baseball players	ഒരാൾ രണ്ട് ബേസ്ബോൾ കളിക്കാരുടെ ഫോട്ടോ എടുക്കുന്നു
+2321727	401	329	94	30	the date on the photo	ഫോട്ടോയുടെ ഉള്ളിലെ തീയതി
+2321955	395	300	104	70	Two toasted English muffins on a plate.	ഒരു പ്ലേറ്റിൽ രണ്ട് ടോസ്റ്റ്ട് ഇംഗ്ലീഷ് മഫിനുകൾ.
+2322139	380	87	20	35	sticker is blue+white and i think written in English+kanji	സ്റ്റിക്കർ നീലയും വെള്ളയുമാണ്, ഇംഗ്ലീഷുംകാഞ്ചിയിലും എഴുതിയതാണെന്ന് ഞാൻ കരുതുന്നു
+2322150	277	419	30	17	this license plate has non-english characters	ഈ ലൈസൻസ് പ്ലേറ്റിൽ ഇംഗ്ലീഷ് അല്ലാത്ത പ്രതീകങ്ങളുണ്ട്
+2322173	68	146	112	33	white block on the street	തെരുവിലെ വൈറ്റ് ബ്ലോക്ക്
+2322235	0	142	495	231	many glorious forms of opportunistic weeds	അവസരവാദ കളകളുടെ മഹത്തായ പല രൂപങ്ങൾ
+2322321	25	0	467	331	Signs on signpost naming streets and block numbers	സൈൻ‌പോസ്റ്റിൽ തെരുവ് നാമവും ബ്ലോക്ക് നമ്പറുകളിലും ഉള്ള അടയാളങ്ങൾ
+2322499	5	90	494	408	Brown plastic fast food table	തവിട്ട് പ്ലാസ്റ്റിക് ഫാസ്റ്റ് ഫുഡ് ടേബിൾ
+2322755	219	9	40	45	A backwards baseball hat on the players head.	കളിക്കാരന്റെ തലയിൽ പിന്നിലേ ക്ക്ഒരു ബേസ്ബോൾ തൊപ്പി.
+2322945	8	97	120	196	a metal orange juice press	ഒരു മെറ്റൽ ഓറഞ്ച് ജ്യൂസ് പ്രസ്സ്
+2323129	3	2	489	329	the trains are toy models	ട്രെയിനുകൾ കളിപ്പാട്ട മോഡലുകളാണ്
+2323131	0	192	497	165	the net between the two players	രണ്ട് കളിക്കാർ ക്ക് ഇടയിലുളള വല
+2323211	37	81	436	205	two guys in the background are observing the movements of the players	പശ്ചാത്തലത്തിലുള്ള രണ്ട് ആളുകൾ കളിക്കാരുടെ ചലനങ്ങൾ നിരീക്ഷിക്കുന്നു
+2323255	343	297	19	32	yellow cross on a tie	ടൈയിലെ മഞ്ഞ ക്രോസ്
+2323274	4	105	493	206	blue tennis court area	നീല ടെന്നീസ് കോർട്ട് ഏരിയ
+2323353	10	20	481	281	A tennis court has snow on the surface	ഒരു ടെന്നീസ് കോർട്ടിന്റെ ഉപരിതലത്തിൽ മഞ്ഞ് ഉണ്ട്
+2323571	71	127	33	35	The military plane has a cross on the tail.	സൈനിക വിമാനത്തിന് വാലിൽ ഒരു കുരിശുണ്ട്.
+2323607	58	127	159	182	cement block facade on a building	ഒരു കെട്ടിടത്തിന്റെ സിമൻറ് ബ്ലോക്ക് മുൻഭാഗം
+2323712	304	361	43	19	crosswalk for pedestrians to cross	കാൽ‌നടയാത്രക്കാർ‌ക്ക് മുറിച്ചുകടക്കാൻ‌ ക്രോസ്സ് വാക്ക്
+2323764	360	329	95	22	The time stamp is red.	ടൈം സ്റ്റാമ്പ് ചുവപ്പാണ്.
+2324022	147	109	87	165	an umbrella standing in a tennis court	ഒരു ടെന്നീസ് കോർട്ടിൽ നിൽക്കുന്ന കുട
+2324038	132	231	20	41	The traffic light has a red cross.	ട്രാഫിക് ലൈറ്റിന് ചുവന്ന ക്രോസ് ഉണ്ട്.
+2324137	40	63	106	290	proprietor of the mobile lemonade stand	മൊബൈൽ നാരങ്ങാവെള്ളം വിൽക്കുന്ന ഉടമസ്ഥൻ
+2324167	100	93	60	61	a clock on a glass stand	ഒരു ഗ്ലാസ് സ്റ്റാൻഡിൽ ഒരു ഘടികാരം
+2324174	1	2	97	63	medium brown wood fine grained table	ഇടത്തരം തവിട്ട് നിറത്തിലുള്ള സുന്ദരമായ തടി മേശ
+2324295	336	87	10	10	Shades of the second biker	രണ്ടാമത്തെ ബൈക്കറിന്റെ ഷേഡുകൾ
+2324379	3	297	292	54	baseball players sitting in dugout	ഡഗഔട്ടിൽ ഇരിക്കുന്ന ബേസ്ബോൾ കളിക്കാർ
+2324417	255	168	159	145	Long forks and springs	നീളമുള്ള ഫോർക്കുകളും സ്പ്രിങ്ങുകളും
+2324514	83	147	27	39	ink stamp in the pencil box	പെൻസിൽ ബോക്സിൽ മഷി സ്റ്റാമ്പ്
+2324545	377	327	103	19	An orange time stamp	ഒരു ഓറഞ്ച് സമയ സ്റ്റാമ്പ്
+2324562	227	86	54	84	a orange bottle in stand	സ്റ്റാന്റിലെ ഒരു ഓറഞ്ച് കുപ്പി
+2324578	185	73	312	121	grey fine toothed comb	ചാരനിറത്തിൽ പല്ലുള്ള ചീപ്പ്
+2324756	156	264	52	47	Front wheel on second white truck.	രണ്ടാമത്തെ വൈറ്റ് ട്രക്കിലെ മുൻ ചക്രം.
+2324781	103	23	15	91	A sign in not english	ഒരു ചിഹ്നം ഇംഗ്ലീഷിൽ അല്ല
+2324839	268	426	92	72	a fine bristled retractable brush	ഉള്ളിലോട്ടു മടക്കിവെക്കാവുന്ന ബ്രഷ്
+2324905	164	378	118	50	A fine white sand	നല്ല വെളുത്ത മണൽ
+2324993	7	39	331	429	two english spaniels standing near a person	ഒരു വ്യക്തിയുടെ അടുത്ത് നിൽക്കുന്ന രണ്ട് ഇംഗ്ലീഷ് സ്പാനിയലുകൾ
+2325034	170	155	52	87	this is a coffee press	ഇതൊരു കോഫി പ്രസ്സാണ്
+2325094	129	297	129	37	the person has fair skin	വ്യക്തിക്ക് നല്ല ചർമ്മമുണ്ട്
+2325168	69	160	124	117	a green chair on a tennis court	ഒരു ടെന്നീസ് കോർട്ടിൽ പച്ച കസേര
+2325259	3	5	487	395	a professional tennis court	ഒരു പ്രൊഫഷണൽ ടെന്നീസ് കോർട്ട്
+2325267	151	25	89	150	cross on a building	ഒരു കെട്ടിടത്തിന്റെ മുകളിലുള്ള കുരിശ്
+2325296	5	105	92	241	Sis car models on top of each other	സിസ് കാർ മോഡലുകൾ പരസ്പരം മുകളിൽ
+2325307	31	48	447	238	Street sign on a pole in english and chinese	ഇംഗ്ലീഷിലും ചൈനീസിലും ഒരു ധ്രുവത്തിൽ തെരുവ് ചിഹ്നം
+2325421	286	38	37	29	cross nailed to a wall	ചുവരിൽ ആണി അടിച്ചുറപ്പിച്ച കുരിശ്
+2325449	247	127	57	110	man in the middle of tennis court	ടെന്നീസ് കോർട്ടിന് നടുവിലുള്ള മനുഷ്യൻ
+2325480	0	13	393	194	train moving fast blurring image	തീവണ്ടി വേഗത്തിൽ നീങ്ങുമ്പോൾ മങ്ങുന്ന ചിത്രം
+2325563	160	113	42	68	a stamp in the wood	വുഡിൽ ഒരു സ്റ്റാമ്പ്
+2325870	275	118	11	9	black band on players wrist	കളിക്കാരന്റെ കൈത്തണ്ടയിൽ കറുത്ത ബാൻഡ്
+2325984	46	115	209	189	the hand is going to press a button	കൈ ഒരു ബട്ടൺ അമർത്താൻ പോകുന്നു
+2326107	0	105	306	71	a fast moving train	വേഗത്തിൽ നീങ്ങുന്ന ട്രെയിൻ
+2326422	186	359	40	23	block of cheese on plate	പ്ലേറ്റിൽ ചീസ് ബ്ലോക്ക്
+2326572	107	242	247	110	the tv stand is blacjk incolor	ടിവി സ്റ്റാൻഡ് ബ്ലാക്ക് കളർ ആണ്
+2326682	108	203	30	23	black cap on players head	കളിക്കാരുടെ തലയിൽ കറുത്ത തൊപ്പി
+2326776	189	40	31	78	cross on tower steeple	ടവർ സ്റ്റീപ്പിൾ കുരിശ്
+2327005	222	152	47	42	this is the cross	ഇത് ഒരു കുരിശ് ആണ്
+2327020	1	360	332	137	The tennis court is two different colors.	രണ്ട് വ്യത്യസ്ത നിറങ്ങളാണ് ടെന്നീസ് കോർട്ടിന്.
+2327036	276	233	97	32	red bags behind players feet	കളിക്കാരുടെ പാദങ്ങൾക്ക് പിന്നിൽ ചുവന്ന ബാഗുകൾ
+2327138	366	335	105	17	yellow time date stamp	മഞ്ഞ സമയ തീയതി സ്റ്റാമ്പ്
+2327197	0	312	392	41	Silhouette of tennis player on court.	കോർട്ടിൽ ടെന്നീസ് കളിക്കാരൻ സിലൗറ്റ്.
+2327228	128	222	80	53	computer monitor on the stand	സ്റ്റാൻഡിലെ കമ്പ്യൂട്ടർ മോണിറ്റർ
+2327324	207	62	287	270	a woman on the opposite team trying to block the frisbee	എതിർ ടീമിലെ ഒരു സ്ത്രീ ഫ്രിസ്‌ബിയെ തടയാൻ ശ്രമിക്കുന്നു
+2327351	0	304	332	195	The line on the tennis court is white.	ടെന്നീസ് കോർട്ടിലെ ലൈൻ വെളുത്തതാണ്.
+2327391	6	1	97	67	cone of plane appears dark, shiny and fast	വിമാനത്തിന്റെ കോൺ ഇരുണ്ടതും തിളക്കമുള്ളതും വേഗതയുള്ളതുമായി കാണുന്നു
+2327413	237	137	53	47	blue cross on front of car	കാറിന് മുന്നിൽ നീല കുരിശ്
+2327548	3	104	495	57	a metal cross beam	ഒരു മെറ്റൽ ക്രോസ്സ് ബീം
+2327556	57	37	259	460	a young girl with a fair complexion	നല്ല നിറമുള്ള ഒരു പെൺകുട്ടി
+2327715	19	111	125	220	the line that shows foul or fair	മോശം അല്ലെങ്കിൽ ന്യായമായത് കാണിക്കുന്ന വരി
+2327740	178	292	234	19	White striped pedestrian cross-walk painted on street.	തെരുവിൽ വരച്ച വെളുത്ത വരയുള്ള നടപ്പാത
+2327886	338	267	35	101	A stand mixer	ഒരു സ്റ്റാൻഡ് മിക്സർ
+2327911	63	12	116	41	the balcony on the second floor	രണ്ടാം നിലയിലെ ബാൽക്കണി
+2328080	412	77	51	92	leg of the second person	രണ്ടാമത്തെ വ്യക്തിയുടെ കാല്
+2328197	257	185	25	32	person doing a hand stand	ഹാൻഡ് സ്റ്റാൻഡ് ചെയ്യുന്ന വ്യക്തി
+2328248	21	163	279	325	A train is going very fast	ട്രെയിൻ വളരെ വേഗത്തിൽ പോകുന്നു
+2328394	1	2	497	372	child forces straws into a a can	കുട്ടി സ്ട്രോ കാനിലേക്ക് തള്ളി വെക്കുന്നു
+2328447	9	278	434	62	blue box on tennis court	ടെന്നീസ് കോർട്ടിലെ നീല ബോക്സ്
+2328476	220	253	91	52	a red tennis shoe on players foot	കളിക്കാരുടെ കാലിൽ ചുവന്ന ടെന്നീസ് ഷൂ
+2328509	103	97	207	298	an apple cider press	ഒരു ആപ്പിൾ ജ്യൂസ്‌ എടുക്കുന്ന യന്ത്രം
+2328578	227	10	272	265	black Samsung tv on the tv stand	ടിവി സ്റ്റാൻഡിലെ കറുത്ത സാംസങ് ടിവി
+2328622	30	49	467	320	the models are red and black	മോഡലുകൾ ചുവപ്പും കറുപ്പും ആണ്
+2328772	226	44	272	174	chainlink fencing forms a field exit	ചെയിൻലിങ്ക് ഫെൻസിംഗ് ഒരു ഫീൽഡ് എക്സിറ്റ് ഉണ്ടാക്കുന്നു
+2328854	137	98	112	248	Red tie with Peanuts characters	പീനട്ട് പ്രതീകങ്ങളുള്ള ചുവന്ന ടൈ
+2328874	441	324	47	45	white springs under bed	കട്ടിലിനടിയിലെ വെള്ള സ്രോതസ്സ്
+2328963	315	434	46	62	a metal stand under the seat of a bench	ഒരു ബെഞ്ചിന്റെ സീറ്റിനടിയിൽ മെറ്റൽ സ്റ്റാൻഡ് ഉണ്ട്
+2329004	3	4	79	494	this wall forms a stall	ഈ മതിൽ ഒരു സ്റ്റാളായി മാറുന്നു
+2329009	135	33	58	79	green grass behind players	കളിക്കാർക്ക് പിന്നിൽ പച്ച പുല്ല്
+2329041	99	382	175	95	Grate over a concrete block	ഒരു കോൺക്രീറ്റ് ബ്ലോക്കിന് മുകളിൽ ഗ്രേറ്റ്
+2329080	227	183	119	47	the Asian characters are red	ഏഷ്യൻ പ്രതീകങ്ങൾ ചുവപ്പാണ്
+2329236	271	192	225	194	an english muffin sandwich	ഒരു ഇംഗ്ലീഷ് മഫിൻ സാൻഡ്‌വിച്ച്
+2329276	70	90	240	139	players in dirt circle	അഴുക്ക് സർക്കിളിലെ കളിക്കാർ
+2329457	1	255	124	47	the wall is cement block	മതിൽ സിമന്റ് ബ്ലോക്കാണ്
+2329518	132	242	92	63	a layer of fine sweet chocolate	മനോഹരമായ മധുരമുള്ള ചോക്ലേറ്റ് പാളി
+2329549	7	195	99	45	rapid in fast water	വേഗത്തിലുള്ള വെള്ളം ദ്രുതഗതിയിൽ
+2329619	368	313	112	32	date when taken in yellow	മഞ്ഞനിറത്തിൽ എടുത്ത തീയതി
+2329623	378	112	95	50	block of snow on a hill	ഒരു കുന്നിലെ മഞ്ഞിന്റെ ബ്ലോക്ക്
+2329859	126	137	42	18	The time stamp display window on the meter on the left.	ഇടതുവശത്തുള്ള മീറ്ററിലെ ടൈം സ്റ്റാമ്പ് ഡിസ്പ്ലേ വിൻഡോ.
+2329919	0	1	499	322	blue net around tennis court	ടെന്നീസ് കോർട്ടിന് ചുറ്റും നീല വല
+2330075	184	98	312	132	fast train moving along track	വേഗത്തിലുള്ള ട്രെയിൻ ട്രാക്കിലൂടെ നീങ്ങുന്നു
+2330166	39	252	390	121	box springs under a bed	ഒരു കട്ടിലിനടിയിൽ സ്പ്രിങ്ങുകൾ
+2330355	200	142	97	132	Large tv on black stand.	കറുത്ത സ്റ്റാൻഡിൽ വലിയ ടിവി.
+2330421	365	332	128	41	date stamp in the corner	മൂലയിലെ തീയതി സ്റ്റാമ്പ്
+2330491	135	239	244	37	fading on the court	കോർട്ടിലെ മങ്ങൽ
+2330502	2	20	102	185	concrete or cinder block walls	കോൺക്രീറ്റ് അല്ലെങ്കിൽ സിൻഡർ ബ്ലോക്ക് മതിലുകൾ
+2330753	64	104	18	34	person in black with a camera at the side of the court	കളിസ്ഥലത്തിന്റെ ഒരു വശത്ത് ക്യാമറയുള്ള കറുത്ത വ്യക്തി
+2330833	1	101	481	205	Some traffic is moving very fast	ചില ട്രാഫിക് വളരെ വേഗത്തിൽ നീങ്ങുന്നു
+2330959	92	7	286	277	Two men on a tennis court playing tennis	ടെന്നീസ് കോർട്ടിൽ രണ്ടുപേർ ടെന്നീസ് കളിക്കുന്നു
+2330960	86	429	74	25	poles that block entrance by large vehicles	വലിയ വാഹനങ്ങളുടെ പ്രവേശനം തടയുന്ന പോളുകൾ
+2331276	149	10	41	38	The stand in the background with products the color white.	ഉൽപ്പന്നങ്ങളുടെ വർണ്ണത്തിന്റെ പശ്ചാത്തലത്തിലുള്ള സ്റ്റാൻഡ്
+2331370	148	301	32	27	unfinished wood block under freezer	ഫ്രീസറിനു കീഴിലുള്ള പൂർത്തിയാകാത്ത മരം ബ്ലോക്ക്
+2331392	391	310	88	22	a date stamp for 2010/02/07	2010/02/07 ലെ തീയതി സ്റ്റാമ്പ്
+2331693	162	96	104	163	the banana hanging from the stand	വാഴപ്പഴം സ്റ്റാൻഡിൽ തൂക്കിയിരിക്കുന്നു
+2331722	146	27	285	215	People on the court playing tennis.	കോർട്ടിൽ ആളുകൾ ടെന്നീസ് കളിക്കുന്നു.
+2331747	85	51	410	266	three baseball players standing in a row	മൂന്ന് ബേസ്ബോൾ കളിക്കാർ വരിയിൽ നിൽക്കുന്നു
+2331852	391	343	94	18	the date stamp in the corner of the pic	ചിത്രത്തിന്റെ കോണിലുള്ള തീയതി സ്റ്റാമ്പ്
+2331903	10	7	237	150	the fence covered in netting at the end of the court	കോർട്ടിന്റെ അവസാനം വലയിൽ പൊതിഞ്ഞ വേലി
+2331963	342	198	24	25	a very fast baseball	വളരെ വേഗതയുള്ള ബേസ്ബോൾ
+2332004	214	399	136	98	big hairy fair laps	വലിയ രോമമുള്ള ഫെയർ ലാപ്‌സ്
+2332205	270	185	18	37	Knives in a wooden block on the countertop.	കൗണ്ടർ‌ടോപ്പിലെ ഒരു വുഡൻ ബ്ലോക്കിലെ കത്തികൾ.
+2332490	40	397	181	101	an off white set of box springs	വെളുത്ത നിറത്തിലുള്ള ബോക്സ്
+2332621	266	96	20	52	a knife block on the shelf	അലമാരയിലെ ഒരു കത്തി ബ്ലോക്ക്
+2332878	132	310	38	113	a business man waiting to cross the street	തെരുവ് മുറിച്ചുകടക്കാൻ കാത്തിരിക്കുന്ന ഒരു ബിസ്സിനസ്സുകാരൻ
+2333175	106	220	232	104	blue plastic hot dog stand	നീല പ്ലാസ്റ്റിക് ഹോട്ട് ഡോഗ് സ്റ്റാൻഡ്
+2333188	0	74	497	258	large green and purple tennis court	വലിയ പച്ചയും, പർപ്പിളും ഉള്ള ടെന്നീസ് കോർട്ട്
+2333209	172	345	131	84	ink stamp print	മഷി സ്റ്റാമ്പ് പ്രിന്റ്
+2333256	1	318	116	60	chain-linked fence behind players	കളിക്കാർക്ക് പിന്നിൽ ചങ്ങല വേലി
+2333262	255	77	196	255	A clock with cartoon characters on	കാർട്ടൂൺ പ്രതീകങ്ങളുള്ള ഒരു ക്ലോക്ക്
+2333371	233	141	55	81	Dirt is on the baseball players outfit	ബേസ്ബോൾ കളിക്കാരുടെ വസ്ത്രത്തിലാണ് അഴുക്ക്
+2333421	212	129	42	23	grey characters on a sign	ഒരു ചിഹ്നത്തിലെ ചാരനിറത്തിലുള്ള പ്രതീകങ്ങൾ
+2333433	94	69	287	119	players are playing baseball.	കളിക്കാർ ബേസ്ബോൾ കളിക്കുന്നു.
+2333602	18	280	120	47	block for bench feet	ബെഞ്ച് ഫീറ്റിനായുള്ള ബ്ലോക്കുകൾ
+2333627	343	351	57	22	cross structures for bridge support	ബ്രിഡ്ജ് പിന്തുണയ്ക്കുള്ള ക്രോസ്സ് സ്ട്രക്ചറുകൾ
+2333664	13	141	220	15	A small wave forms on the water.	ഒരു ചെറിയ തരംഗം വെള്ളത്തിൽ രൂപം കൊള്ളുന്നു.
+2333697	171	335	131	37	white forms on a keyboard	ഒരു കീബോർഡിൽ വെളുത്ത ഫോമുകൾ
+2333725	138	140	77	27	knife on the chopping block	ചോപ്പിംഗ് ബ്ലോക്കിലെ കത്തി
+2333863	8	92	27	13	Black block with number on it	നമ്പറുള്ള കറുത്ത ബ്ലോക്ക്
+2333896	24	334	64	48	Two press buttons of the sweater	സ്വെറ്ററിന്റെ രണ്ട് പ്രസ്സ് ബട്ടണുകൾ
+2333924	148	150	49	27	Screen of second laptop on desk	ഡെസ്‌കിലെ രണ്ടാമത്തെ ലാപ്‌ടോപ്പിന്റെ സ്‌ക്രീൻ
+2334056	329	43	18	93	date in red letters and numerals	ചുവന്ന അക്ഷരങ്ങളിലും അക്കങ്ങളിലും ഉള്ള തീയതി
+2334153	74	53	158	284	a block, yellow, and white baseball uniform	ഒരു ബ്ലോക്ക്, മഞ്ഞ, വെള്ള ബേസ്ബോൾ യൂണിഫോം
+2334195	35	355	140	141	A tin container decorated with Star Wars characters and themes	സ്റ്റാർ വാർസ് പ്രതീകങ്ങളും തീമുകളും കൊണ്ട് അലങ്കരിച്ച ഒരു ടിൻ കണ്ടെയ്നർ
+2334275	418	57	45	22	characters are posted in Chinese	പ്രതീകങ്ങൾ ചൈനീസ് ഭാഷയിൽ പോസ്റ്റുചെയ്‌തു
+2334284	146	5	112	197	woman in back of a court	ഒരു കോർട്ടിന്റെ പിന്നിലുള്ള സ്ത്രീ
+2334324	43	46	438	275	a romantic date night	ഒരു റൊമാന്റിക് ഡേറ്റ് രാത്രി
+2334396	199	99	295	232	A skier going down fast on a slope	ഒരു ചരി വിൽ വേഗത്തിൽ താഴേക്ക് പോകുന്ന ഒരു സ്കയർ
+2334411	145	95	202	278	Two tennis players standing together	രണ്ട് ടെന്നീസ് കളിക്കാർ ഒരുമിച്ച് നിൽക്കുന്നു
+2334424	222	76	145	250	One person on the court	കളിസ്ഥലത്തു ഒരാൾ
+2334436	1	236	497	96	Brown tennis court with white lines.	വെളുത്ത വരകളുള്ള ബ്രൗണ് ടെന്നീസ് കോർട്ട്.
+2334619	137	163	80	55	two players in orange and white sitting on sidelines	ഓറഞ്ച്, വൈറ്റ് നിറങ്ങളിലുള്ള രണ്ട് കളിക്കാർ വശങ്ങളിലായി ഇരിക്കുന്നു
+2334650	292	474	39	24	A person below the date	തീയതിക്ക് താഴെയുള്ള ഒരു വ്യക്തി
+2334693	273	95	200	165	english muffin with egg and hollandaise	മുട്ടയും ഹോളണ്ടൈസും ഉള്ള ഇംഗ്ലീഷ് മഫിൻ
+2334717	43	205	107	138	silver and black French press coffee pot	വെള്ളിയും, കറുപ്പും ഫ്രഞ്ച് പ്രസ്സ് കോഫി പോട്ട്
+2334905	61	246	72	55	a motorcycle side stand	ഒരു മോട്ടോർസൈക്കിൾ സൈഡ് സ്റ്റാൻഡ്
+2334926	127	101	48	106	wood cross	മരം കുരിശ്
+2334967	218	25	52	235	a blue and white cross walk sign	നീലയും വെള്ളയും ക്രോസ് വാക്ക് ചിഹ്നം
+2334985	235	184	244	82	section of fine gray sand	ചാരനിറത്തിലുള്ള മണലിന്റെ ഭാഗം
+2335046	30	3	130	116	a wooden block of knives	കത്തികളുടെ തടി
+2335061	79	143	320	175	fast food chicken patty	ഫാസ്റ്റ് ഫുഡ് ചിക്കൻ പാറ്റി
+2335170	224	13	86	207	A motorcyclist driving very fast	ഒരു മോട്ടോർ സൈക്കിൾ യാത്രക്കാരൻ വളരെ വേഗത്തിൽ ഓടിക്കുന്നു
+2335242	0	0	148	343	stone block building side	കല്ല് കൊണ്ട് നിർമിതമായ കെട്ടിടം
+2335249	233	1	73	50	Number of court on the wall.	ചുമരിലെ കോർട്ടിന്റെ എണ്ണം.
+2335250	266	66	17	7	logo stamp on the door	വാതിലിലെ ലോഗോ സ്റ്റാമ്പ്
+2335320	240	82	258	200	tennis court in bounds area for doubles play	ടെന്നീസ് കോർട്ടിലെ ഡബിൾസ് കളിക്കാനായിട്ടുള്ള ബൌഡറി ഏരിയ
+2335347	318	102	127	58	fine white spray against nose of craft	കരകൗശലത്തിന്റെ മൂക്കിന് നേരെ വെളുത്ത സ്പ്രേ
+2335357	295	258	140	67	box springs with flower print	പുഷ്പ പ്രിന്റുള്ള ബോക്സ് സ്പ്രിങ്ങുകൾ
+2335387	0	109	478	316	White boundary lines on the tennis court.	ടെന്നീസ് കോർട്ടിൽ വെളുത്ത അതിർത്തി ലൈനുകൾ.
+2335470	210	218	103	81	block behind the woman	സ്ത്രീയുടെ പിന്നിൽ ബ്ലോക്ക്
+2335579	0	99	294	63	A grey rock wall forms a boundary of the enclosure	ചാരനിറത്തിലുള്ള ഒരു പാറ മതിൽ ചുറ്റുമതിലിന്റെ അതിർത്തിയായി മാറുന്നു
+2335630	138	38	195	70	the sign has white characters	ചിഹ്നത്തിൽ വെളുത്ത പ്രതീകങ്ങളുണ്ട്
+2335671	210	3	117	214	a white line a cross the field	ഫീൽഡിനു കുറുകെ ഒരു വെളുത്ത വര
+2335830	8	98	53	98	the judge's chair by the court	കളിസ്ഥലത്തു വിധികർത്താവിന്റെ കസേര
+2336018	173	171	58	27	An electronic display showing the date	തീയതി കാണിക്കുന്ന ഒരു ഇലക്ട്രോണിക് ഡിസ്പ്ലേ
+2336140	242	150	18	16	window planters outside second story	രണ്ടാമത്തെ നിലക്ക് പുറത്തുള്ള ജനാല ഉദ്യാനം
+2336221	326	250	16	15	Windows logo stamp on laptop.	ലാപ്‌ടോപ്പിൽ വിൻഡോസ് ലോഗോ സ്റ്റാമ്പ്.
+2336320	194	212	11	12	The characters 9F on the side of a plane	ഒരു വിമാനത്തിന്റെ വശത്തുള്ള 9 എഫ് പ്രതീകങ്ങൾ
+2336375	198	24	91	104	A second sandwich on a wrapper.	ഒരു റാപ്പറിൽ രണ്ടാമത്തെ സാൻഡ്‌വിച്ച്.
+2336399	1	299	65	75	tennis court marked with white color	വെളുത്ത നിറത്തിൽ അടയാളപ്പെടുത്തിയ ടെന്നീസ് കോർട്ട്
+2336491	86	80	341	239	women waiting to cross	കടക്കാൻ കാത്തിരിക്കുന്ന സ്ത്രീകൾ
+2336626	170	79	159	119	fast food in the backgrond	ബാക്ക്ഗ്രൗണ്ടിലെ ഫാസ്റ്റ് ഫുഡ്
+2336627	181	171	90	36	foreign characters on the vehicle's side	വാഹനത്തിന്റെ വശത്തുള്ള വിദേശ പ്രതീകങ്ങൾ
+2336635	337	214	44	58	Blue garbage can on second floor.	രണ്ടാം നിലയിൽ നീല ചവറ്റുകുട്ട.
+2336854	2	246	371	252	large patch of grass next to fast food restaurant	ഫാസ്റ്റ്ഫുഡ് റെസ്റ്റോറന്റിന് അടുത്തുള്ള വലിയ പറമ്പ്
+2337001	272	278	70	53	white Asian language characters painted on middle of street	തെരുവിന്റെ മധ്യത്തിൽ വരച്ച വെളുത്ത ഏഷ്യൻ ഭാഷാ പ്രതീകങ്ങൾ
+2337100	95	170	279	328	brown wooden stairs leading to second floor	രണ്ടാം നിലയിലേക്ക് നയിക്കുന്ന തവിട്ട് തടി പടികൾ
+2337165	0	113	499	72	a green part of a tennis court.	ടെന്നീസ് കോർട്ടിന്റെ ഒരു പച്ച ഭാഗം.
+2337212	347	165	74	180	A man stand next to a jeep.	ഒരാൾ ജീപ്പിന്റെ അരികിൽ നിൽക്കുന്നു.
+2337220	170	36	65	73	ginger with fair skin, orange hair, billions of freckles, and glasses	ചുണയുള്ള വെളുത്ത നിറം, ഓറഞ്ച് മുടി, നിറയെ കാക്കപ്പുള്ളികലും കണ്ണാടിയും
+2337228	384	135	115	184	black metal cross-walk light	കറുത്ത മെറ്റൽ ക്രോസ്സ്-വാക്ക് ലൈറ്റ്
+2337400	63	75	375	215	Oranges on a fruit stand	ഫ്രൂട്ട് സ്റ്റാൻഡിലെ ഓറഞ്ച്
+2337440	49	36	319	440	a man in front of a produce stand	ഒരു മനുഷ്യൻ കടയുടെ മുന്നിൽ നിൽക്കുന്നു
+2337450	206	391	91	87	a green Christmas tree stand	ഒരു പച്ച ക്രിസ്മസ് ട്രീ സ്റ്റാൻഡ്
+2337697	286	32	87	339	books in a black stand	കറുത്ത സ്റ്റാന്റിലെ പുസ്തകങ്ങൾ
+2337884	17	15	170	146	Red and white Stop sign with characters in a non-English language	ഇംഗ്ലീഷ് ഇതര ഭാഷയിൽ ചുവപ്പും വെള്ളയും നിർത്തുക പ്രതീകങ്ങളുള്ള അടയാളം
+2337964	0	177	330	135	a block lower half of a wall	ഒരു മതിലിന്റെ താഴത്തെ പകുതി
+2337980	346	318	134	35	date and time of picture	ചിത്രത്തിന്റെ തീയതിയും സമയവും
+2338113	2	7	485	331	power lines cross in the air	വൈദ്യുതി ലൈനുകൾ വായുവിൽ കടന്നുപോകുന്നു
+2338149	350	45	149	92	The items on the top shelf have painted characters on them	മുകളിലെ ഷെൽഫിലെ ഇനങ്ങളിൾ പ്രതീകങ്ങൾ വരച്ചിട്ടുണ്ട്
+2338246	404	169	45	44	microphone on the court	കോർട്ടിൽ മൈക്രോഫോൺ
+2338281	94	178	102	75	second man looking over first's shoulder	ആദ്യ മനുഷ്യന്റെ തോളിൽ നോക്കുന്ന രണ്ടാമത്തെ മനുഷ്യൻ
+2338288	166	312	137	57	thumb press into a doughnut	ഒരു ഡോണറ്റിലേക്ക് തള്ളവിരൽ അമർത്തിയത്
+2338298	336	341	152	33	name and date in the corner	മൂലയിലുള്ള പേരും തീയതിയും
+2338340	128	255	112	154	a colorful display lighted characters	വർണ്ണാഭമായ ഡിസ്‌പ്ലേ ലൈറ്റ് ചെയ്ത പ്രതീകങ്ങൾ
+2338395	366	2	113	367	a block wall behind the man	മനുഷ്യന്റെ പുറകിൽ ഒരു മതിൽ
+2338424	291	183	35	56	The speaker on the stand	സ്‌പീക്കർ സ്റ്റാൻഡിൽ നിൽക്കുന്നു
+2338811	441	306	55	22	the time stamp sitting in the corner	മൂലയിൽ ഇരിക്കുന്ന ടൈം സ്റ്റാമ്പ്
+2338873	24	12	98	92	guy's hand trying to block the camera	ക്യാമറ തടയാൻ ശ്രമിക്കുന്ന ആളുടെ കൈ
+2339052	275	85	26	42	a cross sign on top of the tower	ഗോപുരത്തിന് മുകളിൽ ഒരു ക്രോസ് ചിഹ്നം
+2339107	7	98	440	58	train going by fast	വേഗത്തിൽ പോകുന്ന ട്രെയിൻ
+2339494	1	79	497	295	The white ice models in the room.	മുറിയിലെ വെളുത്ത ഐസ് മോഡലുകൾ.
+2339732	413	184	32	40	black remote on the tv stand	ടിവി സ്റ്റാൻഡിലെ കറുത്ത റിമോട്ട്
+2339794	247	38	30	39	second hand on clock	ക്ലോക്കിലെ മിനിറ്റ് സൂചി
+2340196	83	271	35	27	a red sign advertising a fun fair	രസകരമായ മേള പരസ്യം ചെയ്യുന്ന ചുവന്ന ചിഹ്നം
+2340254	112	116	47	61	top glass block in wall	മതിലിലെ ടോപ്പ് ഗ്ലാസ് ബ്ലോക്ക്
+2340476	0	0	497	330	green baseball field with players on it	പച്ച ബേസ്ബോൾ ഫീൽഡിൽ കളിക്കാർ
+2340477	48	1	31	97	A large pipe extending from the wall of the court.	കോർട്ടിന്റെ മതിലിൽ നിന്ന് നീളുന്ന ഒരു വലിയ പൈപ്പ്.
+2340497	108	237	112	47	a fine skateboard	ഒരു ഫൈൻ സ്കേറ്റ്ബോർഡ്
+2340502	244	234	64	82	french press coffee maker on the table	ഫ്രഞ്ച് പ്രസ്സ് കോഫി നിർമാതാവ് മേശപ്പുറത്ത്
+2340616	65	256	37	25	fast moving ball towards home plate	ഹോം പ്ലേറ്റിലേക്ക് വേഗത്തിൽ നീങ്ങുന്ന പന്ത്
+2340632	399	110	86	177	A stand with devices on it and wires behind it.	അതിൽ ഉപകരണങ്ങളും പിന്നിൽ വയറുകളുമുള്ള ഒരു തട്ട്
+2340633	167	20	34	20	a a block in a wall	ആ ഒരു ബ്ലോക്ക് ഉള്ള മതിൽ
+2340682	72	113	350	202	fine china plate with gold rim	സ്വർണ്ണ വരയുള്ള ചൈന പ്ലേറ്റ്
+2340791	155	97	146	132	the combs are fine	നല്ല ചീപ്പുകൾ
+2340794	394	91	104	71	two players watching the batter	രണ്ട് കളിക്കാർ ബാറ്റർ കാണുന്നു
+2341047	50	235	147	27	Yellow criss cross on the street by train.	ട്രെയിനിൽ നിന്ന് തെരുവിലേക്ക് മഞ്ഞ ക്രിസ്സ് ക്രോസ്.
+2341425	395	297	95	25	time and date stamp on the photograph	ഫോട്ടോയിലെ സമയവും തീയതിയും സ്റ്റാമ്പ്
+2341429	413	81	60	133	black iron gate with white cross	വെളുത്ത കുരിശുള്ള കറുത്ത ഇരുമ്പ് ഗേറ്റ്
+2341591	352	121	66	61	the white cross on the flag	പതാകയിലെ വെളുത്ത കുരിശ്
+2341674	275	191	41	140	a pole of a lamp stand	വിളക്ക് സ്റ്റാന്റിന്റെ ഒരു പോൾ
+2341687	186	57	220	120	neutral makeup on both rain models	രണ്ട് മോഡലുകളിലും ന്യൂട്രൽ മേക്കപ്പ്
+2341751	18	70	59	95	large green bench press on the table	വലിയ പച്ച ബെഞ്ച് പ്രസ്സ് മേശപ്പുറത്ത്
+2341826	55	461	6	5	a red cross on the paper	കടലാസിലെ ഒരു ചുവന്ന കുരിശ്
+2341866	10	325	36	19	cartoon characters on the bottle	കുപ്പിയിലെ കാർട്ടൂൺ പ്രതീകങ്ങൾ
+2342056	120	202	54	170	ridged metal pole stand to a large clock	വരമ്പുകൾ ഉള്ള മെറ്റൽ പോൾ ഒരു വലിയ ക്ലോക്കിലേക്ക് നിൽക്കുന്നു
+2342149	396	123	26	24	the second hand on the clock	ക്ലോക്കിന്റെ രണ്ടാമത്തെ കൈ
+2342217	15	225	27	34	red ground of a tennis court	ഒരു ടെന്നീസ് കോർട്ടിന്റെ ചുവന്ന നിലം
+2342392	296	63	202	85	the players lean on the fence	കളിക്കാർ വേലിയിൽ ചാഞ്ഞു നില്ക്കുന്നു
+2342478	308	445	39	24	A small grey block on the median	മീഡിയനിലെ ഒരു ചെറിയ ചാരനിറത്തിലുള്ള ബ്ലോക്ക്
+2342568	413	2	35	153	pole behind second baseman	രണ്ടാമത്തെ ബേസ്മാന്റെ പിന്നിലുള്ള പോൾ
+2342816	220	141	138	138	a plate with white characters	വെളുത്ത പ്രതീകങ്ങളുള്ള ഒരു പ്ലേറ്റ്
+2343091	302	163	67	65	cross section of a broccoli stem	ഒരു ബ്രൊക്കോളി തണ്ടിന്റെ ക്രോസ്സ് സെക്ഷൻ
+2343122	366	105	114	105	large date palm in the distance	ദൂരത്തുള്ള വലിയ ഈന്തപ്പന
+2343275	43	21	394	442	Three baseball players at first base	ആദ്യ അടിത്തട്ടിൽ മൂന്ന് ബേസ്ബോൾ കളിക്കാർ
+2343362	128	267	102	57	hairy arm with fair pale skin	രോമമുള്ള നേർത്ത ഇളം ചർമ്മο
+2343638	357	348	141	26	Time and date stamp in corner	കോണിലുള്ള സമയവും തീയതിയും സ്റ്റാമ്പ്
+2343663	106	150	243	267	stop sign in english and farsi	ഇംഗ്ലീഷിലും ഫാർസിയിലും സ്റ്റോപ്പ് ചിഹ്നം
+2343669	91	1	200	60	second story of house	വീടിന്റെ രണ്ടാമത്തെ സ്റ്റോറി
+2343784	89	165	140	31	The stand of the t.v.	ടിവിയുടെ സ്റ്റാന്റ്
+2343822	209	87	28	18	bird second in line	രണ്ടാം വരിയിലെ പക്ഷി
+2343883	130	29	194	215	this couple is on a date	ഈ ദമ്പതികൾ ഒരു ഡേറ്റിലാണ്
+2343928	295	180	60	60	base ball opponent players	ബേസ് ബോൾ കളിക്കുന്ന എതിരാളി
+2343947	23	156	175	167	Laptop on a stand	ഒരു സ്റ്റാന്റിൽ ലാപ്‌ടോപ്പ്
+2344140	40	110	29	28	Knives in a wooden block behind the stove.	സ്റ്റവ്വിന് പിന്നിലെ ഒരു വുഡൻ ബ്ലോക്കിലെ കത്തികൾ.
+2344256	152	38	180	159	the bird is stand on a tree branch	പക്ഷി ഒരു മരക്കൊമ്പിൽ നിൽക്കുന്നു
+2344357	28	369	20	86	A sideways rendered date stamp	ഒരു വശത്ത് റെൻഡർ ചെയ്ത തീയതി സ്റ്റാമ്പ്
+2344409	292	165	36	88	fast pass tickets on bus window	ബസ്സ് വിൻഡോയിൽ ഫാസ്റ്റ് പാസ് ടിക്കറ്റുകൾ
+2344429	131	361	26	23	stamp on boy's left hand	ആൺകുട്ടിയുടെ ഇടതു കൈയിലെ സ്റ്റാമ്പ്
+2344553	265	152	70	68	a weed growing up from the tennis court	ടെന്നീസ് കോർട്ടിൽ വളരുന്ന ഒരു കള
+2344608	127	107	94	39	Chinese characters on the window	വിൻഡോയിലെ ചൈനീസ് പ്രതീകങ്ങൾ
+2344870	46	217	269	28	long net across the court	കോർട്ടിന് കുറുകെ നീളമുള്ള വല
+2344888	44	254	34	20	a block on the ground	നിലത്ത് ഒരു ബ്ലോക്ക്
+2344933	245	158	63	72	Man getting ready for a penalty kick	മനുഷ്യൻ ഒരു പെനാൽറ്റി കിക്കിന് തയ്യാറാകുന്നു
+2344981	4	89	489	150	base ball diamond with players	കളിക്കാർക്കൊപ്പം ബേസ് ബോൾ ഡയമണ്ട്
+2345063	136	222	125	152	two long and narrow panes below cross bar	ക്രോസ് ബാറിന് താഴെ നീളമുള്ളതും ഇടുങ്ങിയതുമായ രണ്ട് പാളികൾ
+2345109	262	41	29	23	Oriole on front of players hat	കളിക്കാരന്റെ തൊപ്പിക്ക് മുന്നിൽ ഓറിയോൾ
+2345137	305	213	19	10	a red cross decal	ഒരു ചുവന്ന ക്രോസ് ഡെക്കൽ
+2345168	327	319	137	26	time and date stamp on the picture	ചിത്രത്തിലെ സമയവും തീയതിയും ഉള്ള സ്റ്റാമ്പ്
+2345211	104	158	342	91	a green fence at a tennis court	ഒരു ടെന്നീസ് കോർട്ടിലെ പച്ച വേലി
+2345376	202	105	67	75	yellow sticker with asian characters	ഏഷ്യൻ പ്രതീകങ്ങളുള്ള മഞ്ഞ സ്റ്റിക്കർ
+2345452	279	109	53	116	A large screen with information about the players.	കളിക്കാരെക്കുറിച്ചുള്ള വിവരങ്ങളുള്ള ഒരു വലിയ സ്ക്രീൻ.
+2345681	1	30	409	302	baseball players dressed in gray and orange	ഗ്രേ, ഓറഞ്ച് നിറത്തിലുള്ള ഡ്രസ്സ് ധരിച്ച ബേസ്ബോൾ കളിക്കാർ
+2345878	100	298	287	35	sydney written in white letters on court	മൈതാനത്തു വെളുത്ത അക്ഷരങ്ങളിൽ എഴുതിയ സിഡ്നി
+2346061	178	70	41	58	A white stand mixer	ഒരു വൈറ്റ് സ്റ്റാൻഡ് മിക്സർ
+2346238	284	76	75	129	charger stand on a desk	ചാർജർ സ്റ്റാന്റ് ഒരു മേശപ്പുറത്ത്
+2346417	383	186	115	93	Another stand and its owner	മറ്റൊരു തട്ടും അതിന്റെ ഉടമയും
+2346424	377	139	36	82	White lamp shade on tall stand	ഉയരമുള്ള സ്റ്റാൻഡിൽ വെളുത്ത വിളക്കിന്റെ നിഴൽ
+2346510	123	144	142	187	Child sitting cross-legged on the floor	കുട്ടി തറയിൽ ചമ്രം പടഞ്ഞിരിക്കുന്നു
+2346832	62	11	398	368	the wave moves fast	തിരമാല അതിവേഗം നീങ്ങുന്നു
+2346968	149	71	75	15	red characters on top of blue building	നീല കെട്ടിടത്തിന്റെ മുകളിൽ ചുവന്ന പ്രതീകങ്ങൾ
+2347018	2	0	285	288	stand of bamboo	മുളയുടെ കൂട്ടം
+2347025	5	2	493	370	a purple umbrella with little cartoon characters	ചെറിയ കാർട്ടൂൺ പ്രതീകങ്ങളുള്ള പർപ്പിൾ കുട
+2347206	259	209	75	73	the players glove is black	കളിക്കാരുടെ കയ്യുറ കറുത്തതാണ്
+2347230	5	355	13	28	The water bottle on the side of the court.	കോർട്ടിന്റെ വശത്തുള്ള വാട്ടർ ബോട്ടിൽ.
+2347268	0	0	173	241	fine metal safety netting	മികച്ച മെറ്റൽ സുരക്ഷാ നെറ്റിംഗ്
+2347389	9	65	262	145	two lemons together on a block	ഒരു ബ്ലോക്കിൽ രണ്ട് നാരങ്ങകൾ
+2347418	10	255	438	114	ground where bike stand	ബൈക്ക് നിൽക്കുന്ന സ്ഥലം
+2347557	51	60	95	249	black lamp with floor stand	ഫ്ലോർ സ്റ്റാൻഡുള്ള കറുത്ത വിളക്ക്
+2347705	29	230	54	45	this shop sells fine ales	ഈ ഷോപ്പ് ഫൈൻ എൻസ് വിൽക്കുന്നു
+2347753	338	107	78	105	empire near second base	രണ്ടാമത്തെ അടിത്തറയ്ക്ക് സമീപമുള്ള എംപയർ
+2347856	0	187	115	36	players watch from the dugout	ഡഗ ഔട്ടിൽ നിന്ന് കളിക്കാർ കാണുന്നു
+2347861	276	80	51	230	second animal in the back	പിന്നിലെ രണ്ടാമത്തെ മൃഗം
+2347963	226	388	128	111	Cement block outdoor flooring.	സിമന്റ് ബ്ലോക്ക് ഔട്ട്‌ഡോർ ഫ്ലോറിംഗ്.
+2348099	280	73	12	52	The yellow vase on the second shelf on the right.	വലതുവശത്തെ രണ്ടാമത്തെ അലമാരയിലെ മഞ്ഞ അലങ്കാരപാത്രം
+2348151	7	293	490	34	dirt ground elephants stand on	അഴുക്ക് നിലത്തു ആനകൾ നിൽക്കുന്നു
+2348154	37	178	48	20	the players in the dugout	ഡഗഔട്ടിലെ കളിക്കാർ
+2348313	245	46	92	257	adult on a tennis court	മുതിർന്നയാൾ ഒരു ടെന്നീസ് കോർട്ടിൽ
+2348363	368	314	119	33	date stamp on the photo	ഫോട്ടോയിലെ തീയതി സ്റ്റാമ്പ്
+2348551	326	180	95	149	the second young lady is wearing capri-style jeans	രണ്ടാമത്തെ യുവതി കാപ്രി-സ്റ്റൈൽ ജീൻസ് ധരിക്കുന്നു
+2348567	8	10	480	115	cross section of fans at baseball game	ബേസ്ബോൾ ഗെയിമിൽ ആരാധകരുടെ ക്രോസ്സ് സെക്ഷൻ
+2348688	361	330	92	20	Photo's date stamp.	ഫോട്ടോയുടെ തീയതി സ്റ്റാമ്പ്.
+2348705	70	446	32	37	person has fair colored skin	വ്യക്തിക്ക് നല്ല നിറമുള്ള ചർമ്മമുണ്ട്
+2348912	17	116	463	216	the players are on a field	കളിക്കാർ ഒരു കളത്തിലാണ്
+2348915	51	148	190	135	baseball players white pants	ബേസ്ബോൾ കളിക്കാരന്റെ വൈറ്റ് പാന്റ്സ്
+2349183	241	210	21	54	fast food soda cups	ഫാസ്റ്റ് ഫുഡ് സോഡ കപ്പുകൾ
+2349328	221	383	29	14	coca cola international logo, written in english, probably repeated below	കൊക്കകോള ഇന്റർനാഷണൽ ലോഗോ, ഇംഗ്ലീഷിൽ എഴുതിയിരിക്കുന്നു, ഒരുപക്ഷേ ചുവടെ ആവർത്തിക്കുന്നു
+2349336	219	22	110	211	gate/door to fence surrounding court	കോർട്ടിന് ചുറ്റുമുള്ള വേലിയിലേക്കുള്ള വാതിൽ / വാതിൽ
+2349361	75	128	38	31	characters on the sign	ചിഹ്നത്തിലെ പ്രതീകങ്ങൾ
+2349393	9	32	390	166	toy models of buses	ബസ്സുകളുടെ കളിപ്പാട്ട മോഡലുകൾ
+2349490	210	1	288	100	second story of building holds two balconies	കെട്ടിടത്തിന്റെ രണ്ടാമത്തെ സ്റ്റോറിയിൽ രണ്ട് ബാൽക്കണി ഉണ്ട്
+2349640	152	255	44	14	the players tennis shoes are white	കളിക്കാരുടെ ടെന്നീസ് ഷൂസ് വെളുത്തതാണ്
+2349738	110	102	265	240	players playing base ball on field	കളിക്കാർ ബേസ് ബാൾ കളിക്കുന്നു
+2349819	9	192	339	295	Cars moving at a very fast speed	വളരെ വേഗതത്തിൽ സഞ്ചരിക്കുന്ന കാറുകൾ
+2350025	400	34	99	185	Television set on wooden stand	തടി സ്റ്റാൻഡിലെ ടെലിവിഷൻ സെറ്റ്
+2350121	181	178	9	12	Helmet on the second horse rider.	രണ്ടാമത്തെ കുതിര സവാരിക്കാരന്റെ ഹെൽമെറ്റ്.
+2350151	107	174	115	199	walking so fast person is captured as a blur	വളരെ വേഗത്തിൽ നടക്കുന്നത് ഒരു മങ്ങലായി പിടിക്കപ്പെട്ടു
+2350200	130	368	28	24	A white pot on the stand	സ്റ്റാൻഡിലെ ഒരു വെളുത്ത കലം
+2350247	219	244	52	33	a white stand on road	റോഡിൽ ഒരു വെളുത്ത സ്റ്റാൻഡ്
+2350348	157	201	340	170	a sign in a zoo, written in catalan - spanish – english	മൃഗശാലയിലെ ഒരു അടയാളം, കറ്റാലൻ - സ്പാനിഷ് - ഇംഗ്ലീഷിൽ എഴുതിയിരിക്കുന്നു
+2350390	87	121	71	62	small food press on stove	സ്റ്റോവിൽ ചെറിയ ആഹാരം ഉണ്ടാക്കുന്ന അച്ച്
+2350406	335	192	80	106	French coffee press	ഫ്രഞ്ച് കോഫി പ്രസ്സ്
+2350475	21	100	145	228	mass sheep and woolcraft fair ribbon	കൂട്ട ആടുകളും കമ്പിളി ഫെയർ റിബണും
+2350626	7	189	45	115	White paper on a black stand	കറുത്ത സ്റ്റാൻഡിൽ വെള്ള പേപ്പർ
+2350744	50	160	82	40	curves of forms worn over shoes on snowboard	സ്നോബോർഡിൽ ഷൂസിന് മുകളിൽ ധരിക്കുന്ന ഫോമുകളുടെ കർവുകൾ
+2350812	395	70	40	54	judge on side of court on blue platform	നീല പ്ലാറ്റ്ഫോമിലെ കളിസ്ഥലത്തിന്റെ അരികെ വിധികർത്താവ്
+2350911	9	98	490	190	part of the ball field with players getting ready to play	കളിക്കാർ കളിക്കാൻ തയ്യാറാകുന്ന ബോൾ ഫീൽഡിന്റെ ഒരു ഭാഗം
+2350921	68	93	148	236	a cross street sign	ഒരു ക്രോസ്സ് സ്ട്രീറ്റ് ചിഹ്നം
+2350981	406	58	65	30	grass grows next to the block	ബ്ലോക്കിന് അടുത്തായി പുല്ല് വളരുന്നു
+2350984	247	145	120	43	english flag printed umbrella	ഇംഗ്ലീഷ് പതാക അച്ചടിച്ച കുട
+2350987	365	42	31	62	Blue cross window on second floor	രണ്ടാം നിലയിലെ നീല ക്രോസ്സ് വിൻഡോ
+2351014	383	150	47	83	second set of closed umbrellas	അടച്ച കുടകളുടെ രണ്ടാമത്തെ കൂട്ടം
+2351040	465	63	17	6	second base found directly behind the pitcher	പിച്ചറിന് പിന്നിൽ നേരിട്ട് കണ്ടെത്തിയ രണ്ടാമത്തെ അടിത്തറ
+2351059	5	169	486	165	green field next to players	കളിക്കാർക്ക് അടുത്തുള്ള പച്ച ഫീൽഡ്
+2351091	0	450	230	42	white stripes in road is a pedestrian cross walk	റോഡിലെ വെളുത്ത വരകൾ കാൽനടയാത്രക്കാരുടെ ക്രോസ് വാക്ക് ആണ്
+2351176	55	21	112	62	white frisbee in players hands	കളിക്കാരുടെ കൈയിൽ വെളുത്ത ഫ്രിസ്ബീ
+2351234	260	88	85	135	block tower on top of hill	കുന്നിൻ മുകളിലെ ബ്ലോക്ക് ടവർ
+2351277	0	381	327	110	Brown stand holding bananas.	വാഴപ്പഴം പിടിച്ചിരിക്കുന്ന ബ്രൗൺ സ്റ്റാൻഡ്.
+2351454	4	181	369	318	a clock on a wooden block	തടിക്കഷണത്തിലെ ഘടികാരം
+2351584	7	118	77	35	Soccer players sitting on a bench	ഒരു ബെഞ്ചിലിരിക്കുന്ന കാല്പന്ത് കളിക്കാർ
+2351588	417	114	55	38	book of forms on desk	ഫോമുകളുടെ പുസ്തകം മേശപ്പുറത്ത്
+2351910	432	88	65	165	A dirty white dish towel with red cross stripes	ചുവന്ന ക്രോസ് വരകളുള്ള വൃത്തികെട്ട വെളുത്ത ഡിഷ് ടൌവൽ
+2351980	284	195	26	29	Dirt on the players pants.	കളിക്കാരന്റെ പാന്റിലെ അഴുക്ക്.
+2352131	196	44	75	79	white engraved cross	വെളുത്ത കൊത്തുപണി ചെയ്ത കുരിശ്
+2352278	150	112	167	325	man on a tennis court on a sunny day	ഒരു സണ്ണി ദിവസം ടെന്നീസ് കോർട്ടിൽ ഉള്ള മനുഷ്യൻ
+2352371	172	240	129	40	wood platform for bird to stand on	പക്ഷിക്ക് നിൽക്കാൻ വുഡൻ പ്ലാറ്റ്ഫോം
+2352428	0	0	498	297	White second story porch	വെളുത്ത രണ്ടാമത്തെ സ്റ്റോറി പോർച്ച്
+2352507	73	86	98	60	person setting in second seat of bus	ബസ്സിന്റെ രണ്ടാം സീറ്റിൽ വ്യക്തി ഇരിക്കുന്നു
+2352539	69	68	50	15	The second train car	രണ്ടാമത്തെ ട്രെയിൻ കാർ
+2352554	458	32	32	68	a red newspaper stand	ഒരു ചുവന്ന പത്ര സ്റ്റാന്റ്
+2352599	54	91	53	61	grill press	ഗ്രിൽ പ്രസ്സ്
+2352697	398	28	63	141	Calendar has star wars characters on it	കലണ്ടറിൽ സ്റ്റാർ വാർസ് പ്രതീകങ്ങളുണ്ട്
+2352701	23	14	474	305	The car is moving fast.	കാർ അതിവേഗം നീങ്ങുന്നു.
+2352715	325	108	64	81	blue wall of the court	കളിസ്ഥലത്തെ നീല മതിൽ
+2352855	373	326	92	17	orange date print	ഓറഞ്ച് തീയതി പ്രിന്റ്
+2353095	267	29	43	69	front of military plane is pointed and fast	സൈനിക വിമാനത്തിന്റെ മുൻവശം കൂർത്തതും വേഗതയുള്ളതുമാണ്
+2353204	46	353	320	20	very fine fabric and material	വളരെ മികച്ച തുണിത്തരങ്ങളും മെറ്റീരിയലും
+2353234	3	0	164	92	railed porch on the second floor of a home	ഒരു വീടിന്റെ രണ്ടാം നിലയിലെ പൂമുഖം
+2353367	138	98	87	89	soccer players red shirt	സോക്കർ കളിക്കാരുടെ ചുവന്ന ഷർട്ട്
+2353370	2	0	496	332	tennis match in progress on outdoor court	വെളിയിലുള്ള ടെന്നീസ് മൈതാനത്തു ടെന്നീസ് മത്സരം പുരോഗമിക്കുന്നു
+2353410	124	80	374	275	waves forms behind the boat	ബോട്ടിന് പിന്നിൽ തിരമാലകൾ രൂപം കൊള്ളുന്നു
+2353452	183	128	152	41	hedge bush growing outside of the tennis court	ടെന്നീസ് കോർട്ടിന് പുറത്ത് വളരുന്ന ഹെഡ്ജ് ബുഷ്
+2353464	0	172	314	158	Gated street fair	ഗേറ്റ് ഉള്ള തെരുവ് മേള
+2353573	216	74	78	300	man standing in a tennis court	ഒരു ടെന്നീസ് കോർട്ടിൽ നിൽക്കുന്ന മനുഷ്യൻ
+2353698	0	207	494	165	tennis court floor is blue	ടെന്നീസ് കോർട്ട് തറ നീലയാണ്
+2353768	83	294	188	128	The second sign says 4 way.	രണ്ടാമത്തെ ചിഹ്നം നാല് വഴി പറയുന്നു.
+2353864	21	224	52	117	a man trying to cross	കടക്കാൻ ശ്രമിക്കുന്ന ഒരാൾ
+2353885	0	0	225	61	a fast moving hand	വേഗത്തിൽ ചലിക്കുന്ന കൈ
+2354508	223	36	132	144	computer monitor on stand	സ്റ്റാൻഡിലിരിക്കുന്ന കമ്പ്യൂട്ടർ മോണിറ്റർ
+2354514	7	63	170	266	A man taking a picture of the players.	കളിക്കാരുടെ ചിത്രം എടുക്കുന്ന ഒരാൾ.
+2354532	139	34	347	259	two players in ground	മൈതാനത്ത് രണ്ട് കളിക്കാർ
+2354643	18	12	334	358	Thick white wooden cross.	കട്ടിയുള്ള വെളുത്ത തടി കുരിശ്.
+2354663	1	0	495	217	a group of game officials at the corner of tennis court	ഒരു കൂട്ടം ഗെയിം ഓഫീസർമാർ ടെന്നീസ് കോർട്ടിന്റെ മൂലയിൽ
+2354724	225	215	237	117	a red dirt tennis court	ചുവന്ന അഴുക്ക് ഉള്ള ടെന്നീസ് കോർട്ട്
+2354747	287	15	55	72	brick building on a city block	ഒരു സിറ്റി ബ്ലോക്കിലെ ഇഷ്ടിക കെട്ടിടം
+2354924	277	211	18	24	gloves are in the players back pocket	കയ്യുറകൾ കളിക്കാരുടെ പിന്നിലെ പോക്കറ്റിൽ ആണ്
+2355117	229	372	60	60	bicycle stamp on road	റോഡിൽ സൈക്കിൾ സ്റ്റാമ്പ്
+2355160	24	112	220	137	The cave the wave forms.	ഗുഹ തരംഗമായി മാറുന്നു.
+2355303	302	59	196	45	awning for food stand	ഭക്ഷണ സ്റ്റാൻറുകൾ
+2355317	247	49	28	30	White second hand on the clock.	ക്ലോക്കിൽ വെളുത്ത സെക്കന്റ്‌ സൂചി
+2355369	450	37	10	12	Knob above knife block	കത്തി ബ്ലോക്കിന് മുകളിൽ കൈപ്പിടി
+2355397	129	27	74	95	a lava lamp on stand	സ്റ്റാൻഡിൽ ഒരു ലാവ വിളക്ക്
+2355453	298	125	53	50	a non english sign	ഇംഗ്ലീഷ് അല്ലാത്ത ചിഹ്നം
+2355492	47	217	224	263	a motorcycle going fast	ഒരു മോട്ടോർ സൈക്കിൾ വേഗത്തിൽ പോകുന്നു
+2355568	10	37	468	335	Some people are at the county fair	ചില ആളുകൾ കൗണ്ടി മേളയിൽ ഉണ്ട്
+2355649	79	177	102	95	Gray television on stand	ഗ്രേ ടെലിവിഷൻ സ്റ്റാൻഡിൽ
+2355674	166	208	80	35	a small dark brown night stand	ഒരു ചെറിയ ഇരുണ്ട തവിട്ടുനിറത്തിലുള്ള രാത്രി സ്റ്റാൻഡ്
+2355690	118	37	380	315	An audience witnessing a press conference	പത്രസമ്മേളനത്തിന് സാക്ഷിയായ പ്രേക്ഷകർ
+2356054	456	11	33	488	stand for trays	ട്രേകൾക്കായുള്ള തട്ട്
+2356081	205	0	285	367	The train is traveling in fair weather	നല്ല കാലാവസ്ഥയിൽ യാത്ര ചെയ്യുന്ന ട്രെയിൻ
+2356097	318	174	22	33	a large concrete block	ഒരു വലിയ കോൺക്രീറ്റ് ബ്ലോക്ക്
+2356165	0	122	420	35	a second story railing	രണ്ടാമത്തെ സ്റ്റോറി റെയിലിംഗ്
+2356398	27	4	84	204	wood block of knives	കത്തികൾ വെച്ചിട്ടുള്ള തടികട്ട
+2356413	103	195	45	75	The water bottle on the stand	സ്റ്റാൻഡിലെ വാട്ടർ ബോട്ടിൽ
+2356436	12	149	21	75	lamp stand light	വിളക്ക് സ്റ്റാന്റിലെ ലൈറ്റ്
+2356479	92	297	20	20	chinese characters on a red vehicle	ചുവന്ന വാഹനത്തിലെ ചൈനീസ് പ്രതീകങ്ങൾ
+2356632	0	124	359	371	green grass as tennis court	പച്ച പുല്ല് ടെന്നീസ് കോർട്ടായി
+2356820	351	150	36	66	ball on a tennis court	ഒരു ടെന്നീസ് കോർട്ടിൽ പന്ത്
+2356947	368	64	125	119	red white and blue truck is at the fair	ചുവപ്പ് വെള്ള, നീല ട്രക്ക് മേളയിൽ ഉണ്ട്
+2357012	275	173	224	55	the players are wearing cleats on their shoes	കളിക്കാർ അവരുടെ ഷൂസിൽ ക്ലീറ്റുകൾ ധരിച്ചിരിക്കുന്നുക്കുന്നു
+2357120	250	183	27	53	Small French coffee press.	ചെറിയ ഫ്രഞ്ച് കോഫി പ്രസ്സ്.
+2357300	239	185	56	22	Green stand in the snow.	മഞ്ഞു വീണ പച്ച സ്റ്റാന്റ്.
+2357383	29	12	255	266	Tall date palm	ഉയരമുള്ള ഈന്തപ്പന
+2357408	316	180	63	56	two people stand next to the boat	രണ്ടുപേർ ബോട്ടിന്റെ അരികിൽ നിൽക്കുന്നു
+2357480	200	150	126	82	Road block submerged by water	റോഡ് ബ്ലോക്ക് വെള്ളത്തിൽ മുങ്ങി
+2357970	103	362	135	76	fine china with flower design	പുഷ്പ രൂപകൽപ്പനയുള്ള ഫൈൻ ചൈന
+2357981	56	92	15	27	a cross on the top of the building	കെട്ടിടത്തിന്റെ മുകളിൽ ഒരു കുരിശ്
+2358061	185	363	54	35	The man's black shadow on the court	മൈതാനത്തു പുരുഷന്റെ കറുത്ത നിഴൽ
+2358080	174	158	100	175	Award for state fair pears	സബർജൻ മേളക്കുള്ള സംസ്ഥാന അവാർഡ്
+2358208	50	27	85	111	Baseball player stealing second base	രണ്ടാം ബേസ് മോഷ്ടിക്കുന്ന ബേസ്ബോൾ കളിക്കാരൻ
+2358292	0	370	372	124	Brown tennis court floor	ബ്രൗൺ ടെന്നീസ് കോർട്ട് ഫ്ലോർ
+2358542	256	119	242	237	stuffed disney characters	സ്റ്റഫ് ചെയ്ത ഡിസ്നി പ്രതീകങ്ങൾ
+2358720	77	20	35	52	a fence between the field and players	മൈതാനവും കളിക്കാരും തമ്മിലുള്ള വേലി
+2358735	68	305	107	69	white TV stand on floor	വെളുത്ത ടിവി സ്റ്റാൻഡ് തറയിൽ
+2358802	304	123	65	84	trunk of elephant forms a C	ആനയുടെ തുമ്പിക്കൈ ഒരു സി പോലിരിക്കുന്നു
+2358825	20	37	457	275	The birds are flying fast	പക്ഷികൾ വേഗത്തിൽ പറക്കുന്നു
+2358860	0	8	185	132	blue wood life guard stand	നീല വുഡ് ലൈഫ് ഗാർഡ് സ്റ്റാൻഡ്
+2358904	337	302	89	69	white springs under mattress	കട്ടിൽ കീഴിൽ വെള്ള സ്പ്രിങ്ങുകൾ
+2358957	292	155	16	119	Candle on glass candle stand	ഗ്ലാസ് മെഴുകുതിരി സ്റ്റാൻഡിൽ മെഴുകുതിരി
+2358988	298	353	195	20	date and time of photo	ഫോട്ടോയുടെ തീയതിയും സമയവും
+2359087	163	183	37	47	white paper with pictures on stand on the table	മേശപ്പുറത്ത് നിൽക്കുന്ന ചിത്രങ്ങളുള്ള വെളുത്ത പേപ്പർ
+2359275	201	225	30	57	concrete block near street.	തെരുവിനടുത്തുള്ള കോൺക്രീറ്റ് ബ്ലോക്ക്.
+2359703	21	342	57	16	Date stamp of photograph	ഫോട്ടോയുടെ തീയതി സ്റ്റാമ്പ്
+2359817	12	10	25	166	line where block fit together	ബ്ലോക്ക് ഒന്നിച്ച് യോജിക്കുന്ന ലൈൻ
+2359829	1	188	240	141	A crack on the court	കോർട്ടിൽ ഒരു വിള്ളൽ
+2359855	309	36	20	14	red cross with a white background	വെളുത്ത പശ്ചാത്തലമുള്ള ചുവന്ന ക്രോസ്
+2359939	366	145	42	60	court attendant sitting in chair	കോർട്ട് അറ്റൻഡന്റ് കസേരയിൽ ഇരിക്കുന്നു
+2359943	224	46	210	200	TV on the stand.	സ്റ്റാൻഡിൽ ടിവി.
+2360033	0	1	372	493	kids at a fair eating	കുട്ടികൾ മേളയിൽ ഭക്ഷണം കഴിക്കുന്നു
+2360111	344	70	51	34	fence around the court.	കളിസ്ഥലത്തിനു ചുറ്റും വേലി.
+2360190	55	69	138	177	series of curved forms around body	ശരീരത്തിന് ചുറ്റുമുള്ള വളഞ്ഞ രൂപങ്ങളുടെ ശ്രേണി
+2360436	207	11	46	95	White door on second floor	രണ്ടാം നിലയിലെ വെളുത്ത വാതിൽ
+2360514	399	324	77	17	yellow numbers showing the date	തീയതി കാണിക്കുന്ന മഞ്ഞ നമ്പറുകൾ
+2360566	23	95	85	84	Three women soccer players sitting on a bench.	മൂന്ന് വനിതാ സോക്കർ കളിക്കാർ ബെഞ്ചിലിരിക്കുന്നു
+2360705	1	1	331	420	Grey block wall behind woman	സ്ത്രീക്ക് പിന്നിൽ ഗ്രേ ബ്ലോക്ക് മതിൽ
+2360903	280	120	40	25	raised cross on top of remote control	റിമോട്ട് നിയന്ത്രണത്തിന് മുകളിൽ ഉയർത്തിയ ക്രോസ്
+2360952	32	7	460	29	seats in the stand	സ്റ്റാൻഡിലെ സീറ്റുകൾ
+2361073	0	91	128	181	Opponent Reaching Out to block	തടയാൻ എതിരാളി എത്തിച്ചേരുന്നു
+2361123	335	157	65	52	Dark colored stand a tv is on.	ഇരുണ്ട നിറമുള്ള സ്റ്റാൻഡിൽ ഒരു ടീവി ഉണ്ട്
+2361124	3	322	328	171	Single white line drawn on tennis court	ടെന്നീസ് കോർട്ടിൽ വരച്ച ഒറ്റ വെളുത്ത വര
+2361127	0	50	330	45	large orange and green sign giving name and date	പേരും തീയതിയും നൽകുന്ന വലിയ ഓറഞ്ച്, പച്ച ചിഹ്നങ്ങൾ
+2361138	182	257	151	42	black shadow on baseball field beneath baseball players feet	ബേസ്ബോൾ കളിക്കാരുടെ കാലുകൾക്ക് താഴെയുള്ള ബേസ്ബോൾ മൈതാനത്തെ കറുത്ത നിഴൽ
+2361227	267	182	29	34	Baseball glove on players left hand	കളിക്കാരുടെ ഇടത് കൈയിലെ ബേസ്ബോൾ കയ്യുറ
+2361309	413	227	61	35	rocky and rectangular block with openings on dirt	പാറയും ചതുരാകൃതിയിലുള്ളതുമായ ബ്ലോക്ക് അഴുക്കുചാലിലേക്ക് തുറക്കുന്നു
+2361310	5	231	326	97	green surface surrounding tennis court	ടെന്നീസ് കോർട്ടിന് ചുറ്റുമുള്ള പച്ച ഉപരിതലം
+2361390	0	102	435	103	The motorcycles are going fast	മോട്ടോർ സൈക്കിളുകൾ അതിവേഗം പോകുന്നു
+2361566	374	271	100	35	photo date on right	ഫോട്ടോ തീയതി വലതുവശത്ത്
+2361659	91	163	12	10	Right ear of the second cat	രണ്ടാമത്തെ പൂച്ചയുടെ വലത് ചെവി
+2361661	12	80	218	236	two tennis players wearing black shorts	കറുത്ത ഷോർട്ട്സ് ധരിച്ച രണ്ട് ടെന്നീസ് കളിക്കാർ
+2361707	433	207	16	40	Back right foot of the second goat	രണ്ടാമത്തെ ആടിന്റെ വലതു കാൽ
+2361710	237	78	88	21	logo on the tennis court	ടെന്നീസ് കോർട്ടിലെ ലോഗോ
+2361820	314	73	162	41	the second engine of the train	ട്രെയിനിന്റെ രണ്ടാമത്തെ എഞ്ചിൻ
+2361868	289	199	95	53	the stand is stable	തട്ട് സുസ്ഥിരമാണ്
+2361900	104	168	120	156	a horse with an english saddle	ഒരു ഇംഗ്ലീഷ് സാഡിലുമായി ഒരു കുതിര
+2361959	12	3	404	259	a green court	ഒരു പച്ച കോർട്ട്
+2361960	51	180	30	8	the yellow block in the parking stall	പാർക്കിംഗ് സ്റ്റാളിലെ മഞ്ഞ ബ്ലോക്ക്
+2362078	18	53	477	441	A table full of fine china.	ഫൈൻ ചൈന നിറഞ്ഞ ഒരു മേശ.
+2362144	371	179	93	56	Cube-like cement block out-building with large square door	വലിയ ചതുര വാതിലുള്ള ക്യൂബ് പോലുള്ള സിമന്റ് ബ്ലോക്ക് ഔട്ട്-ബിൽഡിംഗ്
+2362255	192	94	39	21	date on the screen	സ്ക്രീനിൽ തീയതി
+2362291	370	217	113	129	the stand under the tv	ടിവിയുടെ കീഴിലുള്ള സ്റ്റാന്റ്
+2362403	263	119	150	162	child's soft fine brown hair	കുട്ടിയുടെ മൃദുവായ നേർത്ത തവിട്ട് നിറമുള്ള മുടി
+2362549	353	302	110	25	date the photo was taken	ഫോട്ടോ എടുത്ത തീയതി
+2362896	65	35	211	138	characters apart on stage set	സ്റ്റേജ് സെറ്റിലെ പ്രതീകങ്ങൾ
+2362923	438	34	60	276	A ball girl at the back of a tennis court	ഒരു ടെന്നീസ് കോർട്ടിന്റെ പിൻഭാഗത്തുള്ള ഒരു ബോൾ പെൺകുട്ടി
+2362942	322	123	175	78	wave is moving fast	തിരമാല അതിവേഗം നീങ്ങുന്നു
+2363198	30	148	456	226	woman is behind the white line of a tennis court	ഒരു ടെന്നീസ് കോർട്ടിന്റെ വെളുത്ത വരയ്ക്ക് പിന്നിലാണ് സ്ത്രീ
+2363270	191	221	216	111	security forces vehicle with open windows	തുറന്ന ജാലകങ്ങളുള്ള സുരക്ഷാ സേനാ വാഹനം
+2363395	57	202	110	85	characters on the edge of the plate	പ്ലേറ്റിന്റെ അരികിലുള്ള പ്രതീകങ്ങൾ
+2363432	36	80	181	42	ad on the wall of the court	കോർട്ടിന്റെ ചുമരിൽ പരസ്യം
+2363712	1	369	331	128	a white line cross walk.	ഒരു വൈറ്റ് ലൈൻ ക്രോസ് വാക്ക്.
+2363824	12	138	66	68	dirty concrete wall behind players	കളിക്കാർക്ക് പിന്നിൽ വൃത്തികെട്ട കോൺക്രീറ്റ് മതിൽ
+2363887	416	66	80	25	press board table top	പ്രസ്സ് ബോർഡ് ടേബിൾ ടോപ്പ്
+2363896	88	186	42	69	The canvas sits on the stand	ക്യാൻവാസ് സ്റ്റാൻഡിൽ ഇരിക്കുന്നു
+2363931	36	75	432	139	people eating fast food	ആളുകൾ ഫാസ്റ്റ് ഫുഡ് കഴിക്കുന്നു
+2363968	85	268	6	14	cross on the church roof	പള്ളി മേൽക്കൂരയിൽ കുരിശ്
+2364060	53	149	381	82	the english muffins are toasted	ടോസ്റ്റുചെയ്ത ഇംഗ്ലീഷ് മഫിനുകൾ
+2364139	126	245	51	43	the second level of the bus	ബസിന്റെ രണ്ടാം ലെവൽ
+2364149	338	70	117	72	making a very fast turn	വളരെ വേഗത്തിൽ തിരിയുന്നു
+2364176	292	321	167	31	time and date stamp	സമയവും തീയതിയും സ്റ്റാമ്പ്
+2364340	132	171	127	95	second place is wearing yellow	രണ്ടാം സ്ഥാനം മഞ്ഞയാണ് ധരിച്ചിരിക്കുന്നത്
+2364500	398	113	20	75	White candle on a stand	ഒരു സ്റ്റാൻഡിൽ വെളുത്ത മെഴുകുതിരി
+2364518	279	120	45	37	a black second hand	ഒരു കറുത്ത സെക്കൻഡ് ഹാൻഡ്
+2364579	93	127	100	29	sign denoting 2900 block	2900 ബ്ലോക്കിനെ സൂചിപ്പിക്കുന്ന ചിഹ്നം
+2364607	224	23	273	158	white fast logo in corner	മൂലയിലെ വെളുത്ത ഫാസ്റ്റ് ലോഗോ
+2364685	330	177	99	71	second bird on right	വലതുവശത്ത് രണ്ടാമത്തെ പക്ഷി
+2364969	206	264	170	85	Dollar amount of the penalty.	പിഴയുടെ ഡോളർ തുക.
+2365083	115	26	273	318	player running on court	കളിക്കാരൻ കോർട്ടിൽ ഓടുന്നു
+2365122	130	131	45	31	the fine is 350 usd	പിഴ മൂന്നൂറ്റി അമ്പത് യുഎസ്ഡി
+2365162	205	391	71	45	long fine hairs on chin	താടിയിൽ നീളമുള്ള നേർത്ത രോമങ്ങൾ
+2365213	446	253	50	115	Television in the tv stand.	ടിവി സ്റ്റാൻഡിലെ ടെലിവിഷൻ.
+2365377	366	157	131	49	A brick wall separating players and spectators.	കളിക്കാരെയും കാണികളെയും വേർതിരിക്കുന്ന ഒരു ഇഷ്ടിക മതിൽ.
+2365476	126	58	45	8	a cross is on the tower	ഗോപുരത്തിൽ ഒരു കുരിശുണ്ട്
+2365509	441	55	22	25	score card being held by a man on tennis court	സ്‌കോർ കാർഡ് ടെന്നീസ് കോർട്ടിൽ ഒരാൾ കൈവശം വച്ചിരിക്കുന്നു
+2365585	0	160	266	43	Land forms in the distance	ദൂരത്തുള്ള ഭൂമി രൂപങ്ങൾ
+2365717	60	175	82	87	really fast moving hand	ശരിക്കും വേഗത്തിൽ നീങ്ങുന്ന കൈ
+2365942	28	150	95	134	An old wooden stand shade	ഒരു പഴയ തടി സ്റ്റാൻഡ് ഷേഡ്
+2366005	77	85	104	75	this court is green	ഈ കോർട്ട് പച്ചയാണ്
+2366109	180	96	25	22	Black hat with a red cross	ചുവന്ന കുരിശുള്ള കറുത്ത തൊപ്പി
+2366228	324	458	67	40	Blue characters on a white background	വെളുത്ത പശ്ചാത്തലത്തിൽ നീല പ്രതീകങ്ങൾ
+2366308	124	59	146	78	oranges and pears on the second layer of a fruit tree rack	ഒരു ഫ്രൂട്ട് ട്രീ റാക്കിന്റെ രണ്ടാമത്തെ തട്ടിൽ ഓറഞ്ചും പിയറും
+2366322	184	484	146	15	Shadow of the man on the tennis court	ടെന്നീസ് കോർട്ടിലെ മനുഷ്യന്റെ നിഴൽ
+2366445	208	48	62	121	the second base coach watches the play	രണ്ടാമത്തെ അടിസ്ഥാന പരിശീലകൻ കളി കാണുന്നു
+2366554	7	184	145	147	brown mane on neck of second giraffe	രണ്ടാമത്തെ ജിറാഫിന്റെ കഴുത്തിൽ തവിട്ട് നിറമുള്ള കുഞ്ചിരോമം
+2366615	0	307	260	45	name and website of photographer and Chinese characters	ഫോട്ടോഗ്രാഫറുടെയും ചൈനീസ് പ്രതീകങ്ങളുടെയും പേരും വെബ്‌സൈറ്റും
+2366619	1	116	284	43	A fruit stand on the sidewalk	ഫുട്പാത്തിൽ ഒരു ഫ്രൂട്ട് സ്റ്റാന്റ്
+2366739	351	108	40	24	cap on players head	കളിക്കാരന്റെ തലയിലെ തൊപ്പി
+2366868	200	241	42	57	The black baseball mit on the players hand	കളിക്കാരുടെ കൈയിലുള്ള കറുത്ത ബേസ്ബോൾ മിറ്റ്
+2367009	209	213	58	132	a music stand on a curb	ഒരു സംഗീത സ്റ്റാൻഡ്
+2367027	418	66	73	93	A window on a second story shop.	രണ്ടാമത്തെ സ്റ്റോറി ഷോപ്പിലെ ഒരു വിൻഡോ.
+2367064	104	115	240	211	Woman on a tennis court	ഒരു ടെന്നീസ് കോർട്ടിൽ സ്ത്രീ
+2367219	249	120	92	115	The players are giving a high five	കളിക്കാർ ഹൈ ഫൈവ് നൽകുന്നു
+2367265	22	361	29	80	red time stamp on the photo	ഫോട്ടോയിലെ ചുവന്ന സമയ സ്റ്റാമ്പ്
+2367389	264	5	173	99	A light reflecting on a tie press.	ടൈ പ്രസ്സിൽ പ്രതിഫലിക്കുന്ന ഒരു പ്രകാശം.
+2367390	483	148	15	113	yellow front of second train	രണ്ടാമത്തെ ട്രെയിനിന്റെ മഞ്ഞ ഫ്രണ്ട്
+2367452	44	373	297	126	shadows of players on court	കോർട്ടിലെ കളിക്കാരുടെ നിഴലുകൾ
+2367503	225	253	97	30	banana on the stand	സ്റ്റാന്റിലെ വാഴപ്പഴം
+2367507	3	268	92	79	The sole of a second green shoe.	രണ്ടാമത്തെ പച്ച ഷൂവിന്റെ അടിഭാഗം
+2367585	316	60	36	111	window on second level	രണ്ടാം ലെവലിൽ വിൻഡോ
+2367750	22	273	329	221	the tennis court is made of grass	ടെന്നീസ് കോർട്ട് പുല്ലുകൊണ്ട് നിർമ്മിച്ചതാണ്
+2367875	261	140	238	83	this sign is not in english	ഈ അടയാളം ഇംഗ്ലീഷിലില്ല
+2367895	136	89	22	39	a cross on the front of a church	ഒരു പള്ളിയുടെ മുൻവശത്ത് ഉള്ള ഒരു കുരിശ്
+2367933	105	261	208	236	ovan kept in the stand	ഓവൻ സ്റ്റാൻഡിൽ വെച്ചിരിക്കുന്നു
+2367954	191	247	30	84	Electrical wire stand	ഇലക്ട്രിക്കൽ വയർ സ്റ്റാൻഡ്
+2367959	155	230	200	70	A red cross forms on the floor.	തറയിൽ ഒരു ചുവന്ന കുരിശ് രൂപം കൊള്ളുന്നു
+2368085	23	153	210	117	This part of the court is blue	കോർട്ടിന്റെ ഈ ഭാഗം നീലയാണ്
+2368090	125	0	128	72	Angels overlooking the cross	ഉയരത്തിൽ നിന്ന് കുരിശിനെ നോക്കുന്ന മാലാഖാമാർ
+2368264	7	106	237	164	surfboard forms a splash of water	സർഫ്ബോർഡ് വെള്ളം തെറിപ്പിക്കുന്നു
+2368291	393	163	92	121	light stand beside bed	കട്ടിലിന് സമീപം ലൈറ്റ് സ്റ്റാൻഡ്
+2368389	10	101	110	208	black metal fence behind a tennis court	ഒരു ടെന്നീസ് കോർട്ടിന് പിന്നിൽ കറുത്ത മെറ്റൽ വേലി
+2368444	7	83	67	28	A stand of trees.	മരങ്ങളുടെ സ്റ്റാന്റ്.
+2368538	228	468	99	24	information stamp on image	ചിത്രത്തിലെ വിവര സ്റ്റാമ്പ്
+2368544	472	38	27	160	white sign with blue asian characters on it	നീല ഏഷ്യൻ പ്രതീകങ്ങളുള്ള വെളുത്ത ചിഹ്നം
+2368566	1	244	326	248	fine grey gravel under players' legs	കളിക്കാരുടെ കാലുകൾക്ക് കീഴിലുള്ള ചാരനിറത്തിലുള്ള ചരൽ
+2368709	21	290	276	87	second suitcase on bottom is orange	ചുവടെയുള്ള രണ്ടാമത്തെ സ്യൂട്ട്കേസ് ഓറഞ്ച് ആണ്
+2368864	7	5	465	187	plants behind toy models	കളിപ്പാട്ട മോഡലുകൾക്ക് പിന്നിലുള്ള സസ്യങ്ങൾ
+2368869	253	186	68	108	older dude on bicycle in a country where spanish/english are the official languages	സ്പാനിഷ് / ഇംഗ്ലീഷ് ഔദ്യോഗിക ഭാഷകളുള്ള രാജ്യത്ത് സൈക്കിളിൽ പഴയ സുഹൃത്ത്
+2368900	1	112	490	130	the weather is fair	കാലാവസ്ഥ നല്ലതാണ്
+2369077	371	204	127	71	tail fine view of a red plane	ചുവന്ന വിമാനത്തിന്റെ ലംബമായ വാൽഘടനയുടെ ഭാഗമായ ഒരു സ്റ്റെബിലൈസർ
+2369128	297	96	88	200	zebras stand close together to watch for predators	വേട്ടക്കാരെ നിരീക്ഷിക്കാൻ സീബ്രകൾ ഒരുമിച്ച് നിൽക്കുന്നു
+2369177	243	189	217	120	Black stand with microphone	മൈക്രോഫോണുള്ള കറുത്ത സ്റ്റാൻഡ്
+2369263	65	290	290	59	The second highest rail of the jump	ചാടാനുള്ള രണ്ടാമത്തെ ഉയർന്ന റെയിൽ
+2369344	305	296	64	81	Old english writing on board	ബോർഡിലെ പഴയ ഇംഗ്ലീഷ് എഴുത്ത്
+2369348	219	334	24	37	black armed forces name on wing	കറുത്ത സായുധ സേനയുടെ പേര് ചിറകിൽ
+2369378	0	13	499	125	a sign showing cross streets	ക്രോസ് സ്ട്രീറ്റുകൾ കാണിക്കുന്ന ഒരു അടയാളം
+2369469	0	0	497	119	a stand of snow covered trees	മഞ്ഞുമൂടിയ മരങ്ങളുടെ ഒരു സ്റ്റാന്റ്
+2369533	184	183	70	62	Silver cross necklace	സിൽവർ ക്രോസ്സ് നെക്ലേസ്
+2369570	379	330	90	29	Date stamp 6/30/2013	തീയതി സ്റ്റാമ്പ് 6/30/2013
+2369623	233	342	66	48	blue court on the ground	നിലത്ത് നീല കോർട്ട്
+2369722	129	30	270	297	The sign is in arabic and english	ചിഹ്നം അറബിയിലും ഇംഗ്ലീഷിലും ആണ്
+2369744	1	75	28	152	open door of a second bus	രണ്ടാമത്തെ ബസിന്റെ തുറന്ന വാതിൽ
+2370018	247	458	84	40	the date and time indicating the time of picture	ചിത്രത്തിന്റെ സമയം സൂചിപ്പിക്കുന്ന തീയതിയും സമയവും
+2370045	98	369	35	31	the angel is holding a cross shield	മാലാഖ ഒരു ക്രോസ് ഷീൽഡ് പിടിച്ചിരിക്കുന്നു
+2370205	168	150	32	27	Baseball travelling fast in the air	ബേസ്ബോൾ വായുവിൽ വേഗത്തിൽ സഞ്ചരിക്കുന്നു
+2370289	372	327	92	25	date stamp that reads 12/04/2010	12/04/2010 കാണുന്ന തീയതി സ്റ്റാമ്പ്
+2370324	84	111	222	56	Safety railing on second story of building	കെട്ടിടത്തിന്റെ രണ്ടാം നിലയിലെ സുരക്ഷാ റെയിലിംഗ്
+2370406	160	180	81	23	Chinese characters on the back of the truck	ട്രക്കിന്റെ പുറകിലുള്ള ചൈനീസ് പ്രതീകങ്ങൾ
+2370530	180	177	205	36	chinese characters on the side of a bus	ഒരു ബസ്സിന്റെ വശത്തുള്ള ചൈനീസ് പ്രതീകങ്ങൾ
+2370603	356	82	83	85	tail of elephant forms a circle	ആനയുടെ വാൽ ഒരു വൃത്തമായി മാറുന്നു
+2370668	87	381	209	91	cross country ski racers skiing up a hill.	ക്രോസ് കൺട്രി സ്കൈ റേസർമാർ ഒരു കുന്നിൻ മുകളിലേക്ക് സ്കീയിംഗ് നടത്തുന്നു.
+2370736	176	17	37	45	Tall lights at the court	കോർട്ടിലെ ഉയരമുള്ള ലൈറ്റുകൾ
+2370743	12	212	74	92	block of black butcher knives	കറുത്ത കശാപ്പ് കത്തികളുടെ ബ്ലോക്ക്
+2370945	130	120	95	117	man sitting in fruit stand	ഫ്രൂട്ട് സ്റ്റാൻഡിൽ ഇരിക്കുന്ന മനുഷ്യൻ
+2370952	215	152	38	60	Cartoon characters on his shirt	അവന്റെ ഷർട്ടിൽ കാർട്ടൂൺ കഥാപാത്രങ്ങൾ
+2370994	261	380	108	117	a stand next to the sink	സിങ്കിനടുത്തുള്ള ഒരു തട്ട്
+2371001	1	0	251	67	a second meal plate.	രണ്ടാമത്തെ ഭക്ഷണ പ്ലേറ്റ്.
+2371083	182	17	222	288	five baseball players	അഞ്ച് ബേസ്ബോൾ കളിക്കാർ
+2371095	289	40	182	61	an unfinished block of wood	പണി പൂർത്തിയാകാത്ത തടിക്കഷ്ണം
+2371360	68	130	103	284	antique golf clubs and stand	പുരാതന ഗോൾഫ് ക്ലബ്ബുകളും സ്റ്റാൻഡും
+2371371	174	231	37	45	A motorcycle kick stand.	ഒരു മോട്ടോർസൈക്കിളിന്റെ കിക്ക് സ്റ്റാൻഡ്.
+2371402	344	212	33	19	Curled metal legs on a candle stand	ഒരു ചുരുണ്ട ലോഹ കാലുകൾ ഉള്ള മെഴുകുതിരി സ്റ്റാന്റ്
+2371498	175	80	93	140	Woman in an english style saddle	ഇംഗ്ലീഷ് ശൈലിയിലുള്ള സാഡിലിൽ സ്ത്രീ
+2371596	27	4	466	363	pizza on a butcher block table	ഒരു കശാപ്പ് ബ്ലോക്ക് ടേബിളിൽ പിസ്സ
+2371656	213	306	56	46	A wooden block holding up the boat	ബോട്ട് ഉയർത്തിപ്പിടിക്കുന്ന ഒരു വുഡൻ ബ്ലോക്ക്
+2371720	327	114	91	159	A tennis player standing in the court	ഒരു ടെന്നീസ് കളിക്കാരൻ കോർട്ടിൽ നിൽക്കുന്നു
+2371728	284	56	51	87	Silver metal monitor stand	സിൽവർ മെറ്റൽ ഉള്ള മോണിറ്റർ സ്റ്റാൻഡ്
+2371732	0	5	490	486	fast motion image of woman walking in rain	മഴയിൽ നടക്കുന്ന സ്ത്രീയുടെ ഫാസ്റ്റ് മോഷൻ ചിത്രം
+2371762	17	305	149	23	a watermark and date	ഒരു വാട്ടർമാർക്കും തീയതിയും
+2371811	395	336	102	35	date and time stamp	തീയതി, സമയ സ്റ്റാമ്പ്
+2372058	246	30	72	117	fine inscriptions on item	ഇനത്തിലെ മികച്ച ലിഖിതങ്ങൾ
+2372098	71	0	425	277	The fast moving subway train	വേഗത്തിൽ നീങ്ങുന്ന സബ്‌വേ ട്രെയിൻ
+2372170	219	339	153	96	rusty springs beneath 'schwinn'	'ഷ്വിന്നി'ന് ചുവടെയുള്ള തുരുമ്പിച്ച സ്പ്രിങ്ങുകൾ
+2372171	316	12	174	142	This is a picture of Chinese characters	ചൈനീസ് പ്രതീകങ്ങളുടെ ചിത്രമാണിത്
+2372199	41	101	235	168	a couple of elephants photoshopped to stand out	വേറിട്ടുനിൽക്കുന്ന ആനകളുടെ ഫോട്ടോഷോപ്പ്
+2372313	4	1	493	370	Paper forms on the table.	ടേബിളിൽ പേപ്പർ ഫോമുകൾ.
+2372431	355	79	124	132	white Arabic characters on sign	ചിഹ്നത്തിൽ വെളുത്ത അറബി ചിഹ്നം
+2372447	141	118	105	98	block on the pole	തടിക്കട്ടയിലെ ധ്രുവം
+2372500	33	249	314	70	fork under english muffin	ഇംഗ്ലീഷ് മഫിന് കീഴിലുള്ള ഫോർക്ക്
+2372527	29	24	403	339	two young softball players sitting on the bench	രണ്ട് യുവ സോഫ്റ്റ്ബോൾ കളിക്കാർ ബെഞ്ചിൽ ഇരിക്കുന്നു
+2372648	4	0	392	361	fence on a baseball court	ഒരു ബേസ്ബോൾ കോർട്ടിലെ വേലി
+2372700	227	110	12	17	a cross on the top of the church	പള്ളിയുടെ മുകളിൽ ഒരു കുരിശ്
+2372713	270	0	193	222	Bird models suspended in shopping mall.	ഷോപ്പിംഗ് മാളിൽ പക്ഷിയുടെ മോഡലുകൾ തൂക്കി ഇട്ടിരിക്കുന്ന
+2372733	26	107	152	218	the tennis court is made up of sand and dirt	ടെന്നീസ് കോർട്ട് മണലും അഴുക്കും ചേർന്നതാണ്
+2372762	221	29	82	25	characters on the billboard	പരസ്യബോർഡിലെ പ്രതീകങ്ങൾ
+2372779	185	118	180	10	date book with plastic cover	പ്ലാസ്റ്റിക് കവറുള്ള തീയതി പുസ്തകം
+2372792	38	120	226	103	Three players are wearing helmet.	മൂന്ന് കളിക്കാർ ഹെൽമെറ്റ് ധരിച്ചിരിക്കുന്നു
+2372859	457	203	42	63	Wooden butcher block on kitchen sink.	അടുക്കള സിങ്കിൽ കശാപ്പ് ചെയ്യുന്ന തടിക്കട്ട
+2372924	196	79	243	91	a fair weather cloud	നല്ല കാലാവസ്ഥാ മേഘം
+2372940	176	178	17	10	a metal stand for the flowers	പൂക്കൾക്ക് ഒരു മെറ്റൽ സ്റ്റാൻഡ്
+2372982	37	314	101	25	Date stamp of March 16th, 2008	2008 മാർച്ച് 16 ലെ തീയതി സ്റ്റാമ്പ്
+2372991	1	45	497	145	A block wall is behind the skate park	സ്കേറ്റ് പാർക്കിന് പിന്നിൽ ഒരു ബ്ലോക്ക് മതിൽ ഉണ്ട്
+2373028	291	247	159	63	wheels of train with springs	സ്പ്രിങ്ങുകൾ ഉള്ള ട്രെയിനിന്റെ ചക്രങ്ങൾ
+2373155	60	55	425	305	dog forms splashes in the water	നായ വെള്ളം തെറിപ്പിക്കുന്നു
+2373185	227	189	103	139	Booths at a street fair.	ഒരു തെരുവ് മേളയിലെ ബൂത്തുകൾ.
+2373225	190	83	303	267	a cross country skier bending low	ഒരു ക്രോസ് കൺട്രി സ്കീയർ വളയുന്നു
+2373473	25	22	173	318	There is a book stand that is filled with books.	പുസ്തകങ്ങളാൽ നിറഞ്ഞ ഒരു പുസ്തക സ്റ്റാൻഡുണ്ട്.
+2373489	72	89	37	30	A TV stand sitting under TV	ടിവിയുടെ കീഴിൽ ഇരിക്കുന്ന ഒരു ടിവി സ്റ്റാൻഡ്
+2373497	257	163	82	59	short tan entertainment stand	ചെറിയ ടാൻ വിനോദ സ്റ്റാന്റ്
+2373554	168	43	135	227	small child cross country skiing	ചെറിയ കുട്ടി ക്രോസ് കൺട്രി സ്കീയിംഗ്
+2373657	9	268	133	116	a man stand on dock	ഒരാൾ കപ്പലിൽ നിൽക്കുന്നു
+2373674	90	118	239	212	a fast food ordering bar	ഒരു ഫാസ്റ്റ് ഫുഡ് ഓർഡറിംഗ് ബാർ
+2373836	46	0	452	112	a blue wall beside tennis court	ടെന്നീസ് കോർട്ടിന് സമീപം ഒരു നീല മതിൽ
+2373973	194	68	159	150	a cross in a church	ഒരു പള്ളിയിലെ ഒരു കുരിശ്
+2374062	416	0	41	175	an American flag in the background of a press conference	പത്രസമ്മേളനത്തിന്റെ പശ്ചാത്തലത്തിൽ ഒരു അമേരിക്കൻ പതാക
+2374090	104	240	288	175	models of airplanes on the tables	ടേബിലിലെ വിമാനങ്ങളുടെ മോഡലുകൾ
+2374149	410	278	89	95	sharp knife on the chopping block	ചോപ്പിംഗ് ബ്ലോക്കിലെ മൂർച്ചയുള്ള കത്തി
+2374204	447	206	45	65	A small food stand on wheels.	ചക്രങ്ങളിൽ ഒരു ചെറിയ ഭക്ഷണ സ്റ്റാൻഡ്.
+2374284	88	2	45	131	man in a white hat on the tennis court	ടെന്നീസ് കോർട്ടിൽ വെളുത്ത തൊപ്പി ധരിച്ച മനുഷ്യൻ
+2374290	74	25	282	65	White potted flowers on the tennis court	ടെന്നീസ് കോർട്ടിൽ വെളുത്ത പൂക്കൾ ഉള്ള ചെടിച്ചട്ടി
+2374570	230	266	65	47	fine stitching on leash	തോൽവാറിലെ മികച്ച തുന്നൽ
+2374718	378	301	78	18	yellow stamp date near bottom	മഞ്ഞ സ്റ്റാമ്പിലെ തീയതി ചുവടെ
+2374867	221	126	257	81	pelican forms ripples with legs	പെലിക്കൻ കാലുകൾ ഉപയോഗിച്ച് അലകൾ ഉണ്ടാക്കുന്നു
+2375004	5	55	470	190	The bench the players are sitting on.	കളിക്കാർ ഇരിക്കുന്ന ബെഞ്ച്.
+2375013	16	387	37	36	egg shaped object on a stand	സ്റ്റാന്റിലെ മുട്ടയുടെ ആകൃതിയിലുള്ള വസ്തു
+2375132	275	95	219	196	pair of hands typing fast on keyboard	കീബോർഡിൽ വേഗത്തിൽ ടൈപ്പുചെയ്യുന്ന രണ്ടു കൈകൾ
+2375139	41	14	237	231	Baby fine light brown hair.	ബേബിയുടെ നേർത്ത ഇളം തവിട്ട് നിറമുള്ള മുടി.
+2375246	326	291	75	35	A bed plastic stamp	ഒരു ബെഡ് പ്ലാസ്റ്റിക് സ്റ്റാമ്പ്
+2375440	162	347	103	141	a stand with information	വിവരങ്ങളുള്ള ഒരു സ്റ്റാന്റ്
+2375544	345	282	120	97	man working at stand	സ്റ്റാന്റിൽ ജോലി ചെയ്യുന്ന മനുഷ്യൻ
+2375545	125	136	65	65	springs of the seat	ഇരിപ്പിടത്തിന്റെ സ്പ്രിങ്ങുകൾ
+2375546	423	155	46	57	black TV stand with flat screen	ഫ്ലാറ്റ് സ്ക്രീനുള്ള കറുത്ത ടിവി സ്റ്റാൻഡ്
+2375568	334	112	82	95	second seat on motorcycle	മോട്ടോർ സൈക്കിളിൽ രണ്ടാമത്തെ സീറ്റ്
+2375576	385	316	95	29	12/22/2006 date stamp	12/22/2006 തീയതി സ്റ്റാമ്പ്
+2375684	82	238	186	83	Concrete forms in pavement	നടപ്പാതയിൽ കോൺക്രീറ്റ് രൂപങ്ങൾ
+2375701	378	326	103	28	time stamp on the picture	ചിത്രത്തിലെ ടൈം സ്റ്റാമ്പ്
+2375722	165	48	59	81	the cross on the top of the building structure	കെട്ടിട ഘടനയുടെ മുകളിലുള്ള കുരിശ്
+2375800	230	111	19	12	sunglasses of second rider	രണ്ടാമത്തെ റൈഡറിന്റെ സൺഗ്ലാസുകൾ
+2375928	43	323	97	65	A block in the wall.	ചുമരിൽ ഒരു ബ്ലോക്ക്.
+2375981	171	349	171	132	A round concert block	ഒരു റൗണ്ട് കൺസേർട്ട് ബ്ലോക്ക്
+2376052	32	148	31	38	cross that sits atop the column on the left side	ഇടതുവശത്തുള്ള നിരയുടെ മുകളിൽ ഇരിക്കുന്ന ക്രോസ്സ്
+2376237	16	56	47	172	location characters are white	ലൊക്കേഷൻ പ്രതീകങ്ങൾ വെളുത്തതാണ്
+2376266	146	47	72	84	black utensils in a wooden block	ഒരു വുഡൻ ബ്ലോക്കിലെ കറുത്ത പാത്രങ്ങൾ
+2376298	6	5	490	352	People at a fair.	ഒരു മേളയിൽ ആളുകൾ.
+2376639	113	122	112	46	a brown horse with an english saddle	ഒരു തവിട്ടുനിറത്തിലുള്ള കുതിരയും കുതിരച്ചേണയും
+2376654	168	479	164	19	photographers watermark and date	ഫോട്ടോഗ്രാഫരുടെ വാട്ടർമാർക്കും തീയതിയും
+2376708	42	193	49	70	a person cross country skiing in the background	പശ്ചാത്തലത്തിൽ ഒരു വ്യക്തി ക്രോസ്സ് കൺട്രി സ്കീയിംഗ് ചെയ്യുന്നു
+2376716	79	289	30	14	date 2008 printed on the label	തീയതി 2008 ലേബലിൽ അച്ചടിച്ചു
+2376740	110	216	154	107	Tray of white rice and english muffins	വെളുത്ത അരിയുടെയും ഗോതമ്പപ്പത്തിന്റെയും ട്രേ
+2376815	434	5	24	160	Red and silver sign with Asian characters	ചുവപ്പും വെള്ളിയും അടയാളം ഉള്ളഏഷ്യൻ പ്രതീകങ്ങൾ
+2376928	330	78	95	200	person forces cow to ramble over rocks for unknown reason	അജ്ഞാതമായ കാരണത്താൽ പശുവിനെ പാറകളിൽ ഇടിക്കാൻ വ്യക്തി നിർബന്ധിക്കുന്നു
+2376954	89	253	88	87	The white bins on the second shelf of the fridge.	ഫ്രിഡ്ജിലെ രണ്ടാമത്തെ തട്ടിലെ വെളുത്ത കൊട്ടകൾ
+2377001	21	185	29	27	a player on second base	രണ്ടാമത്തെ അടിത്തറയിലുള്ള കളിക്കാരൻ
+2377017	305	120	32	17	air forces flag	വ്യോമസേനയുടെ പതാക
+2377265	3	139	177	128	the penalty box is white lined	പെനാൽറ്റി ബോക്സ് വെളുത്ത വരയാണ്
+2377343	28	110	426	207	yellow plane with characters	പ്രതീകങ്ങളുള്ള മഞ്ഞ തലം
+2377445	152	180	27	14	block sneakers with green laces	പച്ച ലെയ്സുകളുള്ള ഷൂ
+2377607	0	0	75	37	White copyright stamp	വെളുത്ത പകർപ്പവകാശ സ്റ്റാമ്പ്
+2377750	161	444	148	37	The tennis player's shadow is on the tennis court.	ടെന്നീസ് കളിക്കാരന്റെ നിഴൽ ടെന്നീസ് കോർട്ടിലാണ്.
+2377773	313	234	44	45	case with cross on it also has red trim	കുരിശുള്ള ഉള്ള കേസിൽ ചുവന്ന ട്രിം ഉണ്ട്
+2377804	27	33	254	463	Two baseball players talking to each other	രണ്ട് ബേസ്ബോൾ കളിക്കാർ പരസ്പരം സംസാരിക്കുന്നു
+2377930	25	0	471	225	fair large legion of anti-climate change, 350.org, kites with tails in the overcast sky	കാലാവസ്ഥാ വ്യതിയാനത്തിന്റെ ന്യായമായ വലിയ ലെജിയൻ, മൂന്നൂറ്റി അമ്പത്.ഒർജി, മൂടിക്കെട്ടിയ ആകാശത്ത് വാലുള്ള കൈറ്റ്സ്
+2378024	3	2	310	317	white cement block wall	വെളുത്ത സിമൻറ് ബ്ലോക്ക് മതിൽ
+2378217	27	43	403	330	four female soccer players on a grassy field	പുൽമേടിൽ നാല് വനിതാ കാല്പന്ത് കളിക്കാർ
+2378224	54	86	410	202	models posing on motorcycle	മോട്ടോർ സൈക്കിളിൽ പോസ് ചെയ്യുന്ന മോഡലുകൾ
+2378228	47	16	368	249	bird characters on top of a brown cake	ഒരു തവിട്ട് കേക്കിന് മുകളിലുള്ള പക്ഷി പ്രതീകങ്ങൾ
+2378238	35	293	15	158	orange time and date stamp	ഓറഞ്ച് സമയവും തീയതി സ്റ്റാമ്പും
+2378339	223	333	32	23	black mit in players hand	കളിക്കാരുടെ കൈയിൽ കറുത്ത മിറ്റ്
+2378365	3	3	490	370	girl showing cow at fair	പെൺകുട്ടി പശുവിനെ മേളയിൽ കാണിക്കുന്നു
+2378390	124	472	102	21	the watermark is a block font	വാട്ടർമാർക്ക് ഒരു ബ്ലോക്ക് ഫോണ്ടാണ്
+2378449	0	0	300	371	tennis player on the green colored section of a court	ഒരു കോർട്ടിന്റെ പച്ച നിറത്തിലുള്ള വിഭാഗത്തിൽ ടെന്നീസ് കളിക്കാരൻ
+2378498	121	243	68	183	the chinese characters on the vase	പൂത്തട്ടത്തിലെ ചൈനീസ് പ്രതീകങ്ങൾ
+2378756	207	174	140	33	chinese characters are in the sign	ചൈനീസ് പ്രതീകങ്ങൾ അടയാളത്തിലാണ്
+2378828	221	92	54	42	fine thin red hair	നേർത്ത ചുവന്ന മുടി
+2378831	320	242	57	25	Yellow ball on the court.	കോർട്ടിൽ മഞ്ഞ പന്ത്.
+2378839	68	23	431	222	a team of good soccor players.	നല്ല സോക്കർ കളിക്കാരുടെ ഒരു ടീം.
+2378871	338	341	142	16	yellow date and time stamp	മഞ്ഞ തീയതിയും സമയ സ്റ്റാമ്പും
+2378877	325	241	70	57	A postage stamp.	ഒരു തപാൽ സ്റ്റാമ്പ്.
+2379057	13	2	113	85	The light forms a rainbow	ആ വെളിച്ചം ഒരു മഴവില്ലായി മാറുന്നു
+2379063	188	99	85	174	surfer stand a surfboard	സർഫർ ഒരു സർഫ്ബോർഡിൽ നിൽക്കുന്നു
+2379069	125	69	127	29	english breakfast tea text	ഇംഗ്ലീഷ് പ്രഭാതഭക്ഷണ ചായ വാചകം
+2379175	215	76	117	423	a hard true tennis court	ഹാർഡ് ട്രൂ ടെന്നീസ് കോർട്ട്
+2379258	151	202	16	34	Buttons for pedestrians to cross the street	കാൽനടയാത്രക്കാർക്ക് തെരുവ് മുറിച്ചുകടക്കുന്നതിനുള്ള ബട്ടണുകൾ
+2379342	231	244	110	86	box springs on bottom of bed	കിടക്കയുടെ അടിയിൽ ബോക്സ് സ്പ്രിങ്ങുകൾ
+2379358	390	307	85	40	The picture has a date stamp	ചിത്രത്തിന് ഒരു തീയതി സ്റ്റാമ്പ് ഉണ്ട്
+2379431	1	273	227	100	a train stop block	ഒരു ട്രെയിൻ നിർത്തുന്ന ബ്ലോക്ക്
+2379450	345	158	62	38	the springs are silver	സ്പ്രിങ്ങുകൾ വെള്ളിയാണ്
+2379558	110	449	38	27	orange line on court	കോർട്ടിൽ ഓറഞ്ച് ലൈൻ
+2379586	88	1	410	119	a iron stand on back	പുറകിൽ ഒരു ഇരുമ്പ് സ്റ്റാൻഡ്
+2379599	0	319	332	124	green shrubbery that forms a circle around the pedestal	പച്ച കുറ്റിച്ചെടി, അത് പീഠത്തിന് ചുറ്റും വൃ ത്താകൃതിയിൽ നിൽക്കുന്നു.
+2379722	255	315	34	75	A white box with a red cross.	ചുവന്ന കുരിശുള്ള ഒരു വെളുത്ത പെട്ടി.
+2380053	165	55	174	276	a triangle forms on brick	ഇഷ്ടികയിലെ ഒരു ത്രികോണ രൂപം
+2380221	86	100	401	227	fast food	ഫാസ്റ്റ് ഫുഡ്
+2380291	28	137	47	89	person has a stamp on her hand	വ്യക്തിയുടെ കൈയിൽ ഒരു സ്റ്റാമ്പ് ഉണ്ട്
+2380366	351	312	144	37	Photo date stamp	ഫോട്ടോയുടെ തീയതി സ്റ്റാമ്പ്
+2380412	185	45	312	102	snow on the trees at a cross-country ski race	ഒരു ക്രോസ്-കൺട്രി സ്കൈ മൽസരത്തിൽ മരങ്ങളിൽ മഞ്ഞ്
+2380507	174	2	170	371	little girl standing on a tennis court	ഒരു ചെറിയ പെൺകുട്ടി ടെന്നീസ് കോർട്ടിൽ നിൽക്കുന്നു
+2380515	148	40	82	183	woman sitting on a stone block	ഒരു കല്ലിൽ ഇരിക്കുന്ന സ്ത്രീ
+2380619	68	64	422	268	four men on court	മൈതാനത്തു നാലുപേര്
+2380646	453	131	21	42	postage stamp with liberty bell	സ്വാതന്ത്ര്യമണി ഉള്ള തപാൽ സ്റ്റാമ്പ്
+2380657	19	276	47	33	The block for the post	പോസ്റ്റിനായുള്ള ബ്ലോക്ക്
+2380912	30	53	465	262	yellow tennis balls on court	കോർട്ടിലെ മഞ്ഞ ടെന്നീസ് പന്തുകൾ
+2380962	239	75	257	154	the players hanging out in the dugout	ഡഗ് ഔട്ടിൽ ഇരിക്കുന്ന കളിക്കാർ
+2381057	223	70	70	80	a man sitting cross legged in the grass	പുല്ലിൽ ചമ്രം പടഞ്ഞിരിക്കുന്ന ആൾ
+2381214	351	65	147	82	advertisement on tennis court	ടെന്നീസ് കോർട്ടിൽ പരസ്യം
+2381330	17	228	110	17	White marking on the court	കോർട്ടിലെ വെളുത്ത അടയാളം
+2381356	18	24	412	225	four shadowy forms of giraffes seemingly looking forward	മുന്നിലേക്ക് നീങ്ങുന്ന ജിറാഫുകളുടെ നിഴൽ നിറഞ്ഞ നാല് രൂപങ്ങൾ
+2381359	128	318	121	13	date and hotel that the photo was taken	ഫോട്ടോ എടുത്ത തീയതിയും ഹോട്ടലും
+2381574	183	142	42	101	front springs of motocross motorcycle	മോട്ടോക്രോസ്സ് മോട്ടോർസൈക്കിളിന്റെ മുൻപിലുള്ള സ്പ്രിങ്ങുകൾ
+2381615	71	191	97	117	bat stand in middle of bats	ബാറ്റ്സ് നടുവിൽ ഉള്ള ബാറ്റ് സ്റ്റാൻഡ്
+2381698	95	7	155	171	there is a building behind the court	കോർട്ടിന് പിന്നിൽ ഒരു കെട്ടിടമുണ്ട്
+2381845	91	199	74	37	bed pillow with cartoon characters on it	ബെഡ് തലയിണയിൽ കാർട്ടൂൺ പ്രതീകങ്ങൾ
+2381902	9	36	215	209	food on english muffin with yellow sauce	മഞ്ഞ സോസ് ഉപയോഗിച്ച് ഇംഗ്ലീഷ് മഫിനിലെ ഭക്ഷണം
+2381914	337	178	158	40	a bench along a tennis court	ഒരു ടെന്നീസ് കോർട്ടിലെ ഒരു ബെഞ്ച്
+2381949	54	8	88	37	Baseball cap to block sun	സൂര്യനെ തടയാനുള്ള ബേസ്ബോൾ തൊപ്പി
+2381993	262	416	69	83	a golden stand for the tub	സ്നാനതൊട്ടിക്കായി സ്വർണ്ണ നിറത്തിലുള്ള ഒരു സ്റ്റാൻഡ്
+2382182	305	443	62	56	area next to pot stand	പോട്ട് സ്റ്റാൻഡിന് അടുത്തുള്ള പ്രദേശം
+2382215	0	111	391	50	Three baseball players wearing white uniforms are in the background.	വെളുത്ത യൂണിഫോം ധരിച്ച മൂന്ന് ബേസ്ബോൾ കളിക്കാർ പശ്ചാത്തലത്തിൽ
+2382842	250	176	21	21	The players shoes are black.	കളിക്കാരന്റെ ഷൂസ് കറുത്തതാണ്.
+2383151	217	232	45	21	fine whiskers on animal's chin	മനോഹരമായ താടിരോമം
+2383271	79	203	210	259	two horses stand on hill	രണ്ട് കുതിരകൾ കുന്നിൻ മുകളിൽ നിൽക്കുന്നു
+2383301	0	271	41	214	chair is decorated with Disney characters	കസേര ഡിസ്നി പ്രതീകങ്ങളാൽ അലങ്കരിച്ചിരിക്കുന്നു
+2383332	356	292	119	36	the date is orange	തീയതി ഓറഞ്ച് നിറത്തിൽ ആണ്
+2383599	267	199	74	65	batter being poured into a waffle press	മാവ് കേക്കിന്റെ അച്ചിലേക്ക് ഒഴിക്കുക
+2383779	60	46	285	356	This could be at a science fair.	ഇത് ഒരു ശാസ്ത്രമേളയിൽ ആകാം.
+2383937	4	245	192	57	fine toothed blade of knife	ഫൈൻ പല്ലുള്ള കത്തിയുടെ ബ്ലേഡ്
+2383964	2	361	330	42	Shadow running across a tennis court	ഒരു ടെന്നീസ് കോർട്ടിലുടനീളം ഷാഡോ
+2383990	347	38	25	50	the blue handle of a french press	ഒരു ഫ്രഞ്ച് അച്ചിന്റെ നീല ഹാൻഡിൽ
+2384018	88	132	272	367	A dark wooden cross with a small sign attached	ഒരു ചെറിയ ചിഹ്നമുള്ള ഇരുണ്ട തടി കുരിശ്
+2384037	85	59	310	240	Man trying to block the throwing of a frisbee	ഫ്രിസ്‌ബീ എറിയുന്നത് തടയാൻ ഒരു മനുഷ്യൻ ശ്രമിക്കുന്നു
+2384140	284	398	133	62	top of tennis court	ടെന്നീസ് കോർട്ടിന് മുകളിൽ
+2384145	340	308	97	40	The date stamp on the photo.	ഫോട്ടോയിലെ തീയതി സ്റ്റാമ്പ്.
+2384152	119	386	213	25	tan letters on the tennis court	ടെന്നീസ് കോർട്ടിലെ ടാൻ അക്ഷരങ്ങൾ
+2384192	288	219	207	59	boat forms ripples	ബോട്ട് അലകൾ ഉണ്ടാക്കുന്നു
+2384333	281	150	108	83	a sign in a language that isn't English	ഇംഗ്ലീഷ് അല്ലാത്ത ഭാഷയിലെ ഒരു അടയാളം
+2384429	198	403	44	67	a round wooden block	ഒരു വൃത്താകൃതിയിലുള്ള മരം
+2384550	20	330	161	135	A fast boat with people in it	ആളുകളുള്ള ഒരു അതിവേഗ ബോട്ട്
+2384572	45	97	195	199	White clock face with brown characters	തവിട്ട് പ്രതീകങ്ങളുള്ള വെളുത്ത ക്ലോക്ക് മുഖം
+2384579	20	128	121	62	blue tennis court with painted white boundary lines	വെളള അതിർത്തി വരകളുള്ള നീല ടെന്നീസ് കോർട്ട്
+2384586	187	128	215	179	the woman on the court	കോർട്ടിലെ സ്ത്രീ
+2384592	211	3	87	320	a white surfboard stand next to yellow one	മഞ്ഞ സർഫ്ബോര്ഡിനു അടുത്തായി ഒരു വെളുത്ത സർഫ്ബോർഡ് നിൽക്കുന്നു
+2384595	307	484	62	14	the date of the picture	ചിത്രത്തിന്റെ തീയതി
+2384671	381	117	97	50	small models boats on TV	ടിവിയിൽ ചെറിയ ബോട്ടിന്റെ മോഡലുകൾ
+2384672	63	118	27	17	man taking pictures of players	മനുഷ്യൻ കളിക്കാരുടെ ചിത്രങ്ങൾ എടുക്കുന്നു
+2384688	41	193	434	63	buildings are behind the road block	റോഡ് ബ്ലോക്കിന് പിന്നിലാണ് കെട്ടിടങ്ങൾ
+2384757	0	373	331	39	small patch of grass beside a tennis court	ഒരു ടെന്നീസ് കോർട്ടിനടുത്തുള്ള ചെറിയ പുല്ലിന്റെ ശകലം
+2384783	228	141	170	47	Coolers in front of the players.	കളിക്കാർക്ക് മുന്നിൽ കൂളറുകൾ.
+2384788	7	78	485	179	some kind of festival or fair	ഒരുതരം ഉത്സവം അല്ലെങ്കിൽ മേള
+2384810	138	13	230	311	Two soccer players	രണ്ട് കാല്പന്ത് കളിക്കാർ
+2384823	265	19	162	180	decaying amazing building that looks like something between an aztec and buddhist shrine in the english countryside	ഇംഗ്ലീഷ് നാട്ടിൻപുറത്തെ ഒരു ആസ്‌ടെക് + ബുദ്ധക്ഷേത്രത്തിനിടയിലെ എന്തോ ഒന്ന് പോലെ കാണപ്പെടുന്ന അതിശയകരമായ ഒരു കെട്ടിടം
+2384824	257	205	35	20	A blue fine on the surf board.	സർഫ് ബോർഡിൽ ഒരു നീല ഫൈൻ
+2384893	180	235	64	34	a missing cider block opening to the outside	പുറത്തേക്ക് തുറക്കുന്ന ഒരു കാണാതായ സൈഡർ ബ്ലോക്ക്
+2384961	180	244	53	100	the date is probably somehow, somewhat primitively digitally conveyed	തീയതി ഒരുപക്ഷേ എങ്ങനെയെങ്കിലും, പ്രാഥമികമായി ഡിജിറ്റലായി അറിയിക്കുന്നു
+2385100	80	155	135	50	pointing sign in english and chinese	ഇംഗ്ലീഷിലും ചൈനീസിലും പോയിന്റിംഗ് ചിഹ്നം
+2385263	12	41	80	169	The players uniform is white	കളിക്കാരുടെ യൂണിഫോം വെളുത്തതാണ്
+2385344	301	139	155	164	one side is in english	ഒരു വശം ഇംഗ്ലീഷിലാണ്
+2385398	92	108	391	333	A fence at a tennis court	ടെന്നീസ് കോർട്ടിന്റെ വേലി
+2385469	310	145	42	54	lifeguard stand is blue and white	ലൈഫ് ഗാർഡ് സ്റ്റാൻഡ് നീലയും വെള്ളയുമാണ്
+2385797	102	80	270	65	sign written in english and foreign language	ഇംഗ്ലീഷ്, വിദേശ ഭാഷകളിൽ എഴുതിയ ചിഹ്നം
+2385924	300	233	72	20	gray color on court	കോർട്ടിൽ ചാരനിറം
+2386185	382	285	77	38	fine brown dirt	നേർത്ത തവിട്ട് അഴുക്ക്
+2386199	438	227	60	48	round light gray large cement block	വൃത്താകൃതിയിലുള്ള ഇളം ചാരനിറത്തിലുള്ള വലിയ സിമന്റ് ബ്ലോക്ക്
+2386240	264	87	22	22	red hat on baseball players head	ബേസ്ബോൾ കളിക്കാരുടെ തലയിൽ ചുവന്ന തൊപ്പി
+2386241	130	146	368	43	second airplane leaves smoke trail	രണ്ടാമത്തെ വിമാനം പുക പാത ഉണ്ടാക്കുന്നു
+2386515	252	445	84	19	date 01/05/2011	തീയതി 01/05/2011
+2386724	118	265	98	178	A skateboard with asian characters painted on the underside	ചുവടെയുള്ള ഏഷ്യൻ പ്രതീകങ്ങളുള്ള ഒരു സ്കേറ്റ്ബോർഡ്
+2386725	412	141	85	138	Baseball catcher watching players	കളിക്കാരെ നോക്കുന്ന ബേസ്ബോൾ ക്യാച്ചർ
+2386781	266	279	171	47	Skid foot marks on a tennis court	ഒരു ടെന്നീസ് കോർട്ടിൽ കാൽ തെന്നിയ അടയാളങ്ങൾ ഉണ്ട്
+2386819	445	200	12	21	yellow poles by the cross sign	ക്രോസ് ചിഹ്നത്തിനു സമീപത്തുളള മഞ്ഞ ധ്രുവങ്ങൾ
+2386860	36	70	87	130	The TV and stand in the living room	ടിവിയും സ്റ്റാൻഡും സ്വീകരണമുറിയിൽ നിൽക്കുന്നു
+2386870	184	160	23	17	The front wheel of the second bus.	രണ്ടാമത്തെ ബസ്സിന്റെ മുൻ ചക്രം.
+2386894	129	363	148	57	tan grey fine sand	ചാരനിറത്തിലുള്ള നേർത്ത മണൽ
+2387064	387	193	74	97	boy sitting cross legged	ചമ്രം പടഞ്ഞിരിക്കുന്ന ആൺകുട്ടി
+2387075	5	5	30	50	Wall design of people characters.	ആളുകളുടെ പ്രതീകങ്ങളുള്ള മതിലിലെ രൂപകൽപ്പന.
+2387150	301	176	67	121	Baseball in players right hand	കളിക്കാരന്റെ വലതു കൈയിലെ ബേസ്ബോൾ
+2387291	159	96	78	80	the second car in the train	ട്രെയിനിലെ രണ്ടാമത്തെ കാർ
+2387443	338	86	160	240	an english style toilet	ഒരു ഇംഗ്ലീഷ് ശൈലിയിലുള്ള ടോയ്‌ലറ്റ്
+2387464	51	23	412	325	Two baseball players at the plate	പ്ലേറ്റിൽ രണ്ട് ബേസ്ബോൾ കളിക്കാർ
+2387495	3	4	462	44	The sky is fair.	ആകാശം മനോഹരമാണ്.
+2387743	24	266	199	207	This open-air stand takes place in Jamaica	ഈ ഓപ്പൺ എയർ സ്റ്റാൻഡ് ജമൈക്കയിലാണ് നടക്കുന്നത്
+2387768	17	143	234	306	Man playing tennis on purple and green tennis court.	പർപ്പിൾ, ഗ്രീൻ ടെന്നീസ് കോർട്ടിൽ മനുഷ്യൻ ടെന്നീസ് കളിക്കുന്നു.
+2387786	353	161	60	71	tail of cat forms a C	പൂച്ചയുടെ വാൽ ഒരു സി ഉണ്ടാക്കുന്നു
+2387873	207	246	44	123	Two fine drinking glasses	രണ്ട് കുടിവെള്ള ഗ്ലാസുകൾ
+2387901	101	104	132	269	the second gold horse	രണ്ടാമത്തെ സ്വർണ്ണ കുതിര
+2388068	111	175	46	45	a few people about to cross the road	റോഡ് മുറിച്ചുകടക്കാൻ പോകുന്ന കുറച്ച് ആളുകൾ
+2388082	400	146	68	121	Cell phone is in stand.	സെൽ‌ഫോൺ‌ സ്റ്റാന്റിൽ ഇരിക്കുന്നു
+2388097	84	309	75	22	the word front on the sign in the english section	ഇംഗ്ലീഷ് വിഭാഗത്തിലെ അടയാളത്തിലെ ഫ്രണ്ട് എന്ന വാക്ക്
+2388118	363	108	92	55	Grass growing on the grass tennis court.	ഗ്രാസ് ടെന്നീസ് കോർട്ടിൽ പുല്ല് വളരുന്നു.
+2388199	384	161	54	51	green and white concession stand near umbrella	പച്ചയും വെള്ളയും കൺസ്സശൻ സ്റ്റാന്റ് കുടയ്ക്കടുത്ത്
+2388208	325	210	145	39	glass top on night stand	രാത്രി സ്റ്റാൻഡിലെ ഗ്ലാസ് ടോപ്പ്
+2388311	264	6	210	102	spectator seats at a tennis court	ഒരു ടെന്നീസ് കോർട്ടിലെ കാണികളുടെ സീറ്റുകൾ
+2388360	11	0	487	229	Chain-link enclosure for tennis court	ടെന്നീസ് കോർട്ടിനായുള്ള ചെയിൻ-ലിങ്ക് എൻ‌ക്ലോസർ
+2388362	23	53	78	61	english word in green	ഇംഗ്ലീഷ് പദം പച്ചയിൽ
+2388365	6	195	116	69	Cluttered night stand	അലങ്കോലപ്പെട്ട രാത്രി സ്റ്റാൻഡ്
+2388644	316	275	32	20	edge of a stamp	ഒരു സ്റ്റാമ്പിന്റെ അഗ്രം
+2388688	86	3	371	493	the lady appears to be going cross country skiing	ലേഡി ക്രോസ് കണ്ട്രി സ്കീയിംഗിന് പോകുന്നതായി തോന്നുന്നു
+2388714	95	56	63	76	a man standing on court	കോർട്ടിൽ നിൽക്കുന്ന ഒരാൾ
+2388831	53	104	164	242	red bananas at a fruit stand	ഫ്രൂട്ട് സ്റ്റാൻഡിലെ ചുവന്ന വാഴപ്പഴം
+2388969	291	162	204	211	a toasted english muffin	ഒരു ടോസ്റ്റഡ് ഇംഗ്ലീഷ് മഫിൻ
+2388979	53	290	82	27	The sign that says Alice springs	ആ അടയാളം ആലീസ് ഉറവകൾ എന്ന് പറയപ്പെടുന്നു
+2389028	108	253	149	43	the second hand of the clock	ക്ലോക്കിന്റെ സെക്കന്റ്‌ സൂചി
+2389173	2	470	204	28	black and white tennis court netting	ബ്ലാക്ക് ആൻഡ് വൈറ്റ് ടെന്നീസ് കോർട്ട് നെറ്റിംഗ്
+2389176	94	413	65	35	black bicycle seat with supporting springs	പിന്തുണയ്ക്കുന്ന സ്പ്രിങ്ങുകൾ ഉള്ള കറുത്ത സൈക്കിൾ സീറ്റ്
+2389255	75	12	108	129	The comb is fine toothed.	ചീപ്പ് പല്ലുള്ളതാണ്.
+2389320	149	10	216	315	red double decker bus with Chinese characters and number 8	ചൈനീസ് പ്രതീകങ്ങളും എട്ടാം നമ്പറും ഉള്ള റെഡ് ഡബിൾ ഡെക്കർ ബസ്
+2389368	217	149	95	181	players uniform is black and gold	കളിക്കാരുടെ യൂണിഫോം കറുപ്പും സ്വർണ്ണവുമാണ്
+2389441	180	377	157	52	facial expression, particularly mouth that says, 'yeah, i'm fine w/ being a corporate drone	മുഖഭാവം, പ്രത്യേകിച്ച് വായ പറയുന്നു , 'അതെ, ഞാൻ ഒരു കോർപ്പറേറ്റ് ഡ്രോൺ ആയിരിക്കുന്നു
+2389473	266	156	67	24	asian characters in red	ചുവപ്പ് നിറത്തിലുള്ള ഏഷ്യൻ പ്രതീകങ്ങൾ
+2389540	14	243	30	22	Starps on the stand.	സ്റ്റാൻഡിൽ സ്റ്റാർപ്പുകൾ.
+2389613	57	10	435	302	two man standing on a tennis court	രണ്ടുപേർ ടെന്നീസ് കോർട്ടിൽ നിൽക്കുന്നു
+2389698	264	15	161	125	a cross railway sign	ഒരു ക്രോസ് റെയിൽ‌വേ ചിഹ്നം
+2389704	150	90	95	95	fondant characters on cake	കേക്കിലെ ഫോണ്ടന്റ് പ്രതീകങ്ങൾ
+2389878	0	1	497	278	a museum containing models of airplanes	വിമാനങ്ങളുടെ മാതൃകകൾ ഉൾക്കൊള്ളുന്ന ഒരു മ്യൂസിയം
+2390020	333	208	15	115	blue umbrella pole held fast by sand	നീല കുടയുടെ ദണ്ഡ് മണലിൽ നിൽക്കുന്നു
+2390051	236	14	227	61	five glass vases on the stand	സ്റ്റാൻഡിൽ അഞ്ച് ഗ്ലാസ് പാത്രങ്ങൾ
+2390363	170	320	30	26	Blue section of tennis court	ടെന്നീസ് കോർട്ടിന്റെ നീല വിഭാഗം
+2390396	33	258	30	112	A black barrier stand.	ഒരു കറുത്ത ബാരിയർ സ്റ്റാൻഡ്.
+2390413	359	307	130	45	orange date stamp on photo	ഫോട്ടോയിലെ ഓറഞ്ച് തീയതി സ്റ്റാമ്പ്
+2390414	373	239	61	63	green bench on court	കോർട്ടിൽ ഗ്രീൻ ബെഞ്ച്
+2390438	0	230	175	260	Lid of glass cake stand	ഗ്ലാസ് കേക്ക് സ്റ്റാൻഡിന്റെ അടപ്പ്
+2390521	172	225	220	122	low grey wall behind players	കളിക്കാർക്ക് പിന്നിൽ ചെറിയ ചാരനിറത്തിലുള്ള മതിൽ
+2390628	208	275	62	46	orange springs on the bottom of train	ട്രെയിനിന്റെ അടിയിൽ ഓറഞ്ച് സ്പ്രിങ്ങുകൾ
+2390698	84	15	104	65	Straight fine black hair	നേരായുള കറുത്ത മുടി
+2390707	120	35	215	180	this players is shirtless	ഈ കളിക്കാരൻ ഷർട്ട് ഇട്ടിട്ടില്ല
+2390885	278	23	210	302	tan colored brick block wall	ടാൻ നിറമുള്ള ഇഷ്ടികയുള്ള ബ്ലോക്ക് മതിൽ
+2391133	267	96	35	103	the trees in the tennis court	ടെന്നീസ് കോർട്ടിലെ മരങ്ങൾ
+2391265	203	106	70	54	fence next to players	കളിക്കാരുടെ അടുത്തുള്ള വേലി
+2391408	383	224	51	51	a sign that forms an X	ഒരു എക്സ് രൂപപ്പെടുന്ന ഒരു അടയാളം
+2391590	9	258	194	128	lots of kick+grab marks on white wall below blurry words of graffiti [likely not in english]	ഗ്രാഫിറ്റിയുടെ മങ്ങിയ വാക്കുകൾക്ക് ചുവടെ വെളുത്ത ചുമരിൽ ധാരാളം കിക്ക് + ഗ്രാഫ് അടയാളങ്ങൾ [മിക്കവാറും ഇംഗ്ലീഷിൽ അല്ലാത്തത്.]
+2391614	120	166	162	189	a woman in a fair isle sweater	മനോഹരമായ ഐൽ സ്വെറ്റർ ധരിച്ചിരിക്കുന്ന ഒരു സ്ത്രീ
+2391622	1	187	496	139	Net separating a tennis	ഒരു ടെന്നീസ് കോർട്ടിനെ വേർതിരിക്കുന്നു നെറ്റ്
+2391652	220	287	15	22	Double red doors on second floor	രണ്ടാം നിലയിലെ ഇരട്ട ചുവന്ന വാതിലുകൾ
+2391695	184	145	61	107	Mcdonald's advertisement in a language other than english	ഇംഗ്ലീഷ് ഒഴികെയുള്ള ഭാഷയിൽ മക്ഡൊണാൾഡിന്റെ പരസ്യം
+2391709	53	91	285	408	a brown cat is stand	ഒരു തവിട്ട് പൂച്ച സ്റ്റാൻഡ് ആണ്
+2391752	240	80	55	100	Statue honoring members of the armed forces	സായുധ സേനയിലെ അംഗങ്ങളോടുള്ള ബഹുമാന സൂചകമായ പ്രതിമ
+2391762	0	50	218	87	a group of ball players practicing	ഒരു കൂട്ടം ബോൾ കളിക്കാർ പരിശീലിക്കുന്നു
+2391776	222	374	30	47	This person is waiting to cross the street	ഈ വ്യക്തി തെരുവ് മുറിച്ചുകടക്കാൻ കാത്തിരിക്കുകയാണ്
+2391914	128	103	23	60	knife set in a wooden block	ഒരു വുഡൻ ബ്ലോക്കിലെ കത്തികളുടെ കൂട്ടം
+2391997	221	198	36	62	players shoes are black, red, and white	കളിക്കാരുടെ ഷൂസ് കറുപ്പ്, ചുവപ്പ്, വെള്ള എന്നിവയാണ്
+2392445	354	189	145	52	long fine whiskers on a cat	പൂച്ചയുടെ നീളമുള്ള നേർത്ത രോമങ്ങൾ
+2392523	179	117	185	212	Man skiing fast	വേഗത്തിൽ സ്കീയിംഗ് ചെയ്യുന്ന മനുഷ്യൻ
+2392536	222	156	57	32	colored springs on truck	ട്രക്കിലെ നിറമുള്ള യന്ത്ര സ്പ്രിംഗ്‌
+2392570	31	354	281	121	large cement block	വലിയ സിമൻറ് ബ്ലോക്ക്
+2392859	103	202	101	36	The tv stand is made of wood	ടിവി സ്റ്റാൻഡ് മരം കൊണ്ടാണ് നിർമ്മിച്ചിരിക്കുന്നത്
+2392898	0	158	388	70	second skateboard in picture	ചിത്രത്തിലെ രണ്ടാമത്തെ സ്കേറ്റ്ബോർഡ്
+2393060	305	181	44	165	black lamb second from right	കറുത്ത ആട്ടിൻകുട്ടി വലത്ത് നിന്ന് രണ്ടാമത്
+2393138	334	58	85	121	Look of concentration on game players face	ഗെയിം കളിക്കാരുടെ മുഖത്തെ ഏകാഗ്രത കാണുക
+2393439	46	1	352	179	white marking on tennis court	ടെന്നീസ് കോർട്ടിലെ വൈറ്റ് മാർക്കിംഗ്
+2393604	155	275	10	7	tennis ball shadow on the court	കോർട്ടിലെ ടെന്നീസ് ബോൾ ഷാഡോ
+2393665	157	169	50	22	paper triangle stand	ത്രികോണ പേപ്പർ നില
+2393683	7	309	317	138	Blue square on tennis court	ടെന്നീസ് കോർട്ടിലെ നീല ചതുരം
+2393786	384	378	111	32	Cinder block base for fence	വേലിക്ക് സിൻഡർ ബ്ലോക്ക് ബേസ്
+2393790	0	2	328	274	a fence behind the players	കളിക്കാർക്ക് പിന്നിൽ ഒരു വേലി
+2393902	108	52	117	177	jelly jar on top of a chopping block	ഒരു ചോപ്പിംഗ് ബ്ലോക്കിന് മുകളിൽ ജെല്ലി പാത്രം
+2393927	76	195	65	110	Back of court is green.	മൈതാനത്തിന്റെ പിൻഭാഗം പച്ചയാണ്.
+2394193	23	18	230	210	many wires criss-cross overhead	കുരിശ്‌അടയാളത്തിലുള്ള പല വയറുകൾ ഉയരത്തിൽ നിൽക്കുന്നു
+2394220	16	199	43	62	People waiting to cross street	തെരുവ് മുറിച്ചുകടക്കാൻ കാത്തിരിക്കുന്ന ആളുകൾ
+2394267	5	31	292	124	crumbly english muffin bread	ക്രംബിലി ഇംഗ്ലീഷ് മഫിൻ ബ്രെഡ്
+2394518	12	159	90	326	tennis court with white stripes	വെളുത്ത വരകളുള്ള ടെന്നീസ് കോർട്ട്
+2394670	0	0	430	285	a daytime picture of a couple cross country skiing	ക്രോസ് കൺട്രി സ്കീയിംഗിങ്ങ് ചെയ്യുന്ന ദമ്പതികളുടെ ഒരു പകൽ ചിത്രം
+2394909	241	3	30	124	a white sign with black Asian characters going vertically	വെളുത്ത ചിഹ്നം ഉള്ള കറുത്ത ഏഷ്യൻ പ്രതീകങ്ങൾ കുറുകെ പോകുന്നു
+2394996	38	49	26	106	Asian characters written on a sign	ഒരു ചിഹ്നത്തിൽ എഴുതിയ ഏഷ്യൻ പ്രതീകങ്ങൾ
+2395014	58	196	124	177	the blue painted do not cross line on the train platform	നീല നിറം തീവണ്ടി പ്ലാറ്റഫോംമിൽ വര കടന്നു പോകരുത്
+2395103	95	287	151	152	a fine silver pocket watch	മികച്ച സിൽവർ പോക്കറ്റ് വാച്ച്
+2395107	284	256	52	51	Blue scooter kick stand	ബ്ലൂ സ്കൂട്ടർ കിക്ക് സ്റ്റാൻഡ്
+2395199	96	452	151	45	marked pedestrian cross walk	അടയാളപ്പെടുത്തിയ കാൽനട ക്രോസ് വാക്ക്
+2395280	16	115	125	87	block of green water in front of surfer	സർഫറിന് മുന്നിലൂടെ പച്ചവെള്ളത്തിന്റെ ബ്ലോക്ക്
+2395361	286	192	29	22	a rounded edged wood block	വൃത്താകൃതിയിലുള്ള മരം ബ്ലോക്ക്
+2395414	19	51	479	298	sheep running really fast	ആടുകൾ വളരെ വേഗത്തിൽ ഓടുന്നു
+2395527	97	130	204	317	the necktie has a circle cross motif	നെക്റ്റിക്ക് ഒരു സർക്കിൾ ക്രോസ് മോട്ടിഫ് ഉണ്ട്
+2395618	180	156	45	29	the blue 28 on the back of the players shirt	കളിക്കാരന്റെ ഷർട്ടിന്റെ പുറകിലുള്ള നീല 28
+2395626	0	0	496	330	large tennis court	വലിയ ടെന്നീസ് കോർട്ട്
+2395627	80	67	157	287	a celtic cross stone monument	ഒരു കെൽറ്റിക് ക്രോസ് സ്റ്റോൺ സ്മാരകം
+2395657	340	167	71	75	A TV stand	ഒരു ടിവി സ്റ്റാൻഡ്
+2395967	11	91	425	187	this is a blue court	ഇതൊരു നീല കളിസ്ഥലമാണ്
+2396024	17	15	462	463	hind leg forms one quadrant	പിൻ‌കാലുകൾ‌ ഒരു ക്വാഡ്രൻറ് രൂപപ്പെടുത്തുന്നു
+2396082	274	9	37	133	the steeple has a cross on top	സ്റ്റീപ്പിളിന് മുകളിൽ ഒരു കുരിശുണ്ട്
+2396106	63	0	200	332	baseball players signing autographs	ഓട്ടോഗ്രാഫ് ഒപ്പിടുന്ന ബേസ്ബോൾ കളിക്കാർ
+2396230	285	139	27	17	the date says 7-1	തീയതി 7-1 പറയുന്നു
+2396237	205	61	267	246	A women skiing fast.	വേഗത്തിൽ സ്കീയിംഗ് ചെയ്യുന്ന സ്ത്രീ
+2396663	304	297	67	30	the players shoes have spikes	കളിക്കാരന്റെ ഷൂസിന് സ്പൈക്കുകളുണ്ട്
+2396773	373	350	30	20	2010 date in black	2010 തീയതി കറുപ്പിൽ
+2396935	59	371	96	34	littleyiye photographers stamp	ലിറ്റിൽയിയി ഫോട്ടോഗ്രാഫർമാർ സ്റ്റാമ്പ്
+2396952	147	82	181	232	the sport is cross country	ക്രോസ്സ് കൺട്രി ഒരു കായികമാണ്
+2396989	16	91	281	99	A black and brown dog fast asleep on the couch.	കറുത്തതും തവിട്ടുനിറമുള്ളതുമായ ഒരു നായ കട്ടിലിൽ വേഗത്തിൽ ഉറങ്ങുന്നു.
+2397033	300	35	30	52	silver and black french coffee press on shelf	ഷെൽഫിലെ വെള്ളിയും, കറുപ്പും ഫ്രഞ്ച് കോഫി പ്രസ്സ്
+2397052	4	242	492	87	Green grass forms the ground.	പച്ച പുല്ല് ഗ്രൗണ്ടിൽ രൂപാന്തരപ്പെടുന്നു
+2397222	298	172	124	69	a advertisement for highland springs	ഹൈലാൻഡ് സ്പ്രിങ്ങ്സ് പരസ്യം
+2397504	1	253	362	246	Red table with fast food above it	ചുവന്ന മേശയുടെ മുകളിലുള്ള ഫാസ്റ്റ്ഫുഡ്
+2397557	1	138	497	113	yellow safety tape at a tennis court	ഒരു ടെന്നീസ് കോർട്ടിലെ മഞ്ഞ സുരക്ഷാ ടേപ്പ്
+2397593	312	131	30	146	Silver springs on the side of bike.	ബൈക്കിന്റെ വശത്ത് വെള്ളി നിറത്തിലെ സ്പ്രിംഗ്‌
+2397603	139	66	359	150	Three baseball players on baseball field.	ബേസ്ബോൾ മൈതാനത്ത് മൂന്ന് ബേസ്ബോൾ കളിക്കാർ.
+2397646	216	383	114	29	leaves on tennis court	ടെന്നീസ് കോർട്ടിൽ ഇലകൾ
+2397773	237	5	218	304	a skate boarder going fast	ഒരു സ്കേറ്റ് ബോർഡർ വേഗത്തിൽ പോകുന്നു
+2397815	70	141	69	58	The night stand is wooden.	നൈറ്റ് സ്റ്റാൻഡ് വുഡൻ ആണ്
+2397888	1	131	493	105	Light green tennis court	ഇളം പച്ച ടെന്നീസ് കോർട്ട്
+2398023	214	144	22	61	a mirror on a stand	ഒരു സ്റ്റാന്റിൽ ഒരു കണ്ണാടി
+2398026	430	296	67	22	Name and date on the bottom right corner.	ചുവടെ വലത് കോണിലുള്ള പേരും തീയതിയും.
+2398066	125	115	105	39	players name on his shirt	കളിക്കാരുടെ പേര് അവന്റെ ഷർട്ടിൽ
+2398241	277	375	122	61	a cross walk across street white pattern	റോഡിലെ വെളുത്ത വരയ്ക്ക് കുറുകെ സീബ്ര ക്രോസ്സ് ലൈൻ
+2398389	66	73	374	182	4 players on the court	കോർട്ടിൽ നാല് കളിക്കാർ
+2398507	124	88	41	59	the second street light	രണ്ടാമത്തെ തെരുവ് വെളിച്ചം
+2398517	450	180	35	47	a group of people watching the baseball players	ഒരു കൂട്ടം ആളുകൾ ബേസ്ബോൾ കളിക്കാരെ കാണുന്നു
+2398695	170	15	71	22	an attraction for a fair	ഒരു മേളയ്ക്കുള്ള ആകർഷണം
+2398929	126	77	238	170	a butcher block with knives	കത്തികളുള്ള ഒരു കശാപ്പ് ബ്ലോക്ക്
+2398971	122	201	71	33	the models perky lips	മോഡലിന്റെ പെർകി ചുണ്ടുകൾ
+2399123	128	19	16	25	gold religious cross on top of golden ball	സ്വർണ്ണ പന്തിന്റെ മുകളിൽ സ്വർണ്ണ മത കുരിശ്
+2399143	171	234	19	37	yellow stand	മഞ്ഞ തട്ട്
+2399251	303	147	36	30	two bicyclists waiting to cross intersection	കവല മുറിച്ചുകടക്കാൻ കാത്തിരിക്കുന്ന രണ്ട് സൈക്കിൾ യാത്രക്കാർ
+2399408	173	118	28	82	Young woman in grey sweatshirt hoping to block frisbee.	ചാരനിറത്തിലുള്ള സ്‌വറ്റ്ഷർട്ടിലുള്ള യുവതി ഫ്രിസ്‌ബിയെ തടയുമെന്ന് പ്രതീക്ഷിക്കുന്നു.
+2399442	18	29	91	62	second level of building	കെട്ടിടത്തിന്റെ രണ്ടാം നില
+2399636	86	26	280	322	Coming fast around the bend	വളവിന് ചുറ്റും വേഗത്തിൽ വരുന്നു
+2399680	195	118	50	17	gold Chinese characters on a red flag	ചുവന്ന പതാകയിൽ സ്വർണ്ണ ചൈനീസ് പ്രതീകങ്ങൾ
+2399725	98	155	275	343	Two female tennis players shaking hands	രണ്ട് വനിതാ ടെന്നീസ് കളിക്കാർ കൈ കുലുക്കുന്നു
+2399813	26	52	245	322	young female date wearing a purple rhinestone sleeveless gown	ഒരു പർപ്പിൾ റിൻ‌സ്റ്റോൺ സ്ലീവ്‌ലെസ് ഗൗൺ ധരിച്ച യുവതി
+2400082	12	165	235	162	easel stand for painting	പെയിന്റിംഗിനുള്ള ഈസൽ സ്റ്റാന്റ്
+2400087	0	0	112	170	stand full of baseball fans	ബേസ്ബോൾ ആരാധകർ നിറഞ്ഞ സ്റ്റാന്റ്
+2400160	187	280	96	118	two motor cycle springs	രണ്ട് മോട്ടോർ സൈക്കിൾ സ്പ്രിങ്ങുകൾ
+2400226	185	105	43	57	Chinese characters on the sign	ചിഹ്നത്തിലെ ചൈനീസ് പ്രതീകങ്ങൾ
+2400227	238	195	62	24	the players socks are blue	കളിക്കാരുടെ സോക്സ് നീലയാണ്
+2400231	387	70	42	120	the button to press for the light is below the signal	ലൈറ്റ് സിഗ്നലിനായി അമർത്തേണ്ട ബട്ടൺ താഴെയാണ്
+2400237	370	2	57	248	a woman walking throw a trade fair	വ്യാപാര മേളയിലൂടെ നടക്കുന്ന ഒരു സ്ത്രീ
+2400274	308	26	148	347	grey concrete cross by the building	കെട്ടിടത്തിൽ ചാരനിറത്തിലുള്ള കോൺക്രീറ്റ് ക്രോസ്
+2400442	243	465	78	32	Yellow time and date stamp	മഞ്ഞ സമയവും തീയതിയും ഉള്ള സ്റ്റാമ്പും
+2400459	141	37	27	67	baseball bat in players hands	കളിക്കാരുടെ കൈകളിലെ ബേസ്ബോൾ ബാറ്റ്
+2400482	408	58	60	63	do not block intersection sign is above the right lane must turn right sign	കവല ചിഹ്നം വലത് പാതയ്ക്ക് മുകളിലായി തടയരുത് വലത് ചിഹ്നം തിരിക്കണം
+2400592	9	157	128	204	Dresser with dinosaur models on top	മുകളിൽ ദിനോസർ മോഡലുകളുള്ള ഡ്രെസ്സർ
+2400669	11	256	42	20	the side of the second train	രണ്ടാമത്തെ ട്രെയിനിന്റെ വശം
+2400722	60	95	229	347	Man helping child stand on snowboard	സ്നോബോർഡിൽ നിൽക്കാൻ കുട്ടിയെ സഹായിക്കുന്ന മനുഷ്യൻ
+2400763	288	81	187	174	a second statue of a cow	പശുവിന്റെ രണ്ടാമത്തെ പ്രതിമ
+2400829	186	27	50	74	Man stand in crane	ക്രെയിനിൽ നിൽക്കുന്നു മനുഷ്യൻ
+2400846	9	163	224	97	green wall on tennis court	ടെന്നീസ് കോർട്ടിന്റെ പച്ച മതിൽ
+2400991	40	154	425	344	a man sitting on a cement block	സിമൻറ് ബ്ലോക്കിൽ ഇരിക്കുന്ന ഒരാൾ
+2401219	164	155	96	89	players shorts are red	കളിക്കാരുടെ ഷോർട്ട്സ് ചുവപ്പാണ്
+2401240	348	4	66	124	Man standing on a tennis court	ഒരു ടെന്നീസ് കോർട്ടിൽ നിൽക്കുന്ന മനുഷ്യൻ
+2401317	8	176	316	194	The traffic lights stand out a lot.	ട്രാഫിക് ലൈറ്റുകൾ വളരെയധികം വേറിട്ടുനിൽക്കുന്നു.
+2401413	243	68	50	38	green floor next to court	മൈതാനത്തിന്അടുത്തുള്ള പച്ച തറ
+2401602	291	256	28	38	The man's hand forms a fist	ആ മനുഷ്യൻ മുഷ്ടി ചുരുട്ടി പിടിക്കുന്നു
+2401621	29	35	227	431	horse running fast with cowboy on the back	കുതിര സവാരിക്കാരനുമായി കുതിര വേഗത്തിൽ ഓടുന്നു
+2401623	425	150	62	71	second car attached to train engine	ട്രെയിൻ എഞ്ചിനിൽ ഘടിപ്പിച്ചിരിക്കുന്ന രണ്ടാമത്തെ കാർ
+2401677	81	226	21	22	a red don't cross signal.	ഒരു ചുവപ്പ് സിഗ്നൽ ക്രോസ് ചെയ്യരുത്.
+2401690	134	178	32	11	three black Japanese characters	മൂന്ന് കറുത്ത ജാപ്പനീസ് പ്രതീകങ്ങൾ
+2401886	9	353	162	124	White cross walk in road	റോഡിലെ വൈറ്റ് ക്രോസ് വാക്ക്
+2401899	375	149	83	60	mini hi-fi on small stand	ചെറിയ സ്റ്റാൻഡിലെ മിനി ഹൈ-ഫൈ
+2401911	41	30	423	314	car moving incredibly fast	അവിശ്വസനീയമാംവിധം വേഗത്തിൽ നീങ്ങുന്നു കാർ
+2402005	87	76	266	213	extremely fast bullet train	വളരെ വേഗതയുള്ള ബുള്ളറ്റ് ട്രെയിൻ
+2402111	5	80	494	90	Blue border around tennis court	ടെന്നീസ് കോർട്ടിന് ചുറ്റും നീല അതിർത്തി
+2402151	5	215	235	127	a table filled with assorted models and tools	വിവിധ തരം മോഡലുകളും ഉപകരണങ്ങളും നിറഞ്ഞ ഒരു ടേബിൾ
+2402166	152	74	137	81	A date underneath a clock face	ഒരു ക്ലോക്ക് മുഖത്തിന് ചുവടെയുള്ള തീയതി
+2402228	69	107	175	222	group of cross country skiers	തുറസ്സായ മഞ്ഞു പ്രതലത്തിലൂടെ തെന്നിപ്പായുന്ന ഒരു കൂട്ടം
+2402229	233	1	235	163	several baseball players in the dugout	ഡഗൗട്ടിൽ നിരവധി ബേസ്ബോൾ കളിക്കാർ
+2402258	281	114	209	91	baseball players dressed in red and gray	ചുവപ്പും ചാരനിറവും ധരിച്ച ബേസ്ബോൾ കളിക്കാർ
+2402319	5	125	102	105	The net on a tennis court	ഒരു ടെന്നീസ് കോർട്ടിലെ വല
+2402386	407	52	84	105	People with umbrellas waiting to cross the street.	തെരുവ് മുറിച്ചുകടക്കാൻ കാത്തിരിക്കുന്ന കുടകളുള്ള ആളുകൾ.
+2402523	3	255	30	205	A wooden stand	ഒരു വുഡൻ സ്റ്റാന്റ്
+2402536	85	7	232	317	couple guys walking on tennis court	ടെന്നീസ് കോർട്ടിൽ നടക്കുന്ന കപ്പിൾസ്
+2402548	126	113	37	82	metal stand for ropes	കയറുകൾക്കുള്ള മെറ്റൽ സ്റ്റാൻഡ്
+2402553	250	436	47	62	Big springs on the bottom of train.	ട്രെയിനിന്റെ അടിയിൽ വലിയ സ്പ്രിങ്ങുകൾ .
+2402640	203	203	37	25	press type electric cooking grill	ഇലക്ട്രിക് പാചക ഗ്രിൽ അച്ച്
+2402752	0	375	232	123	dark wooden wash stand	ഇരുണ്ട തടി വാഷ് സ്റ്റാൻഡ്
+2402845	224	77	39	29	umbrella to block sun	സൂര്യനെ തടയാനുള്ള കുട
+2402914	368	34	54	127	teal sign with white asian characters	വെളുത്ത ഏഷ്യൻ പ്രതീകങ്ങളുള്ള ടീൽ ചിഹ്നം
+2403021	276	50	92	71	microphone on angled stand	ആംഗിൾ സ്റ്റാൻഡിലെ മൈക്രോഫോൺ
+2403093	94	76	199	109	Bread dough cross hatched design	ക്രോസ് ഹാച്ചിട് ഡിസൈൻ ഉള്ള ബ്രെഡിന്റെ മാവ്
+2403138	127	0	115	187	soccer players connect chin and forehead	സോക്കർ കളിക്കാർ താടിയും നെറ്റിയും കൂട്ടിമുട്ടിക്കുന്നു
+2403172	203	20	295	118	players waiting in dugout	ഡഗഔട്ടിൽ കാത്തിരിക്കുന്ന കളിക്കാർ
+2403186	132	365	161	42	tennis players shadow on court	കോർട്ടിൽ ടെന്നീസ് കളിക്കാരിയുടെ നിഴൽ
+2403194	438	126	38	101	a door on the side of the court	കോർട്ടിന്റെ വശത്ത് ഒരു വാതിൽ
+2403222	27	109	243	252	The players are male.	കളിക്കാർ പുരുഷന്മാരാണ്.
+2403247	84	0	240	72	Baseball team players in the dugout	ഒറ്റത്തടി വള്ളത്തിൽ ബേസ്ബോൾ ടീം കളിക്കാർ
+2403257	222	276	91	45	shadow on tennis court.	ടെന്നീസ് കോർട്ടിൽ നിഴൽ.
+2403331	391	284	70	22	date stamp of photo	ഫോട്ടോയുടെ തീയതി സ്റ്റാമ്പ്
+2403343	47	100	437	230	a wooden block sitting on the table	മേശപ്പുറത്ത് ഇരിക്കുന്ന ഒരു മരം ബ്ലോക്ക്
+2403403	51	219	302	261	a fruit stand with lots of fruits and vegetables	ധാരാളം പഴങ്ങളും പച്ചക്കറികളും ഉള്ള ഒരു ഫ്രൂട്ട് സ്റ്റാൻഡ്
+2403417	112	404	24	14	spikes on a players shoe	കളിക്കാരുടെ ഷൂവിൽ സ്പൈക്കുകൾ
+2403426	138	226	97	122	doilee stand is silver	ഡോയിലീ സ്റ്റാന്റ് വെള്ളിയാണ്
+2403623	32	102	430	225	Three baseball players are in the field.	മൂന്ന് ബേസ്ബോൾ കളിക്കാർ കളത്തിലുണ്ട്.
+2403633	441	267	30	72	block of white text	വെളുത്ത വാചകത്തിന്റെ ബ്ലോക്ക്
+2403695	93	6	85	135	Man sits floor cross legged	മനുഷ്യൻ ഫ്ലോറിൽ കാല് ക്രോസ്സ് ചെയ്ത് ഇരിക്കുന്നു
+2403723	3	226	362	263	grass tennis court	പുൽ ടെന്നീസ് മൈതാനം
+2403736	290	150	44	35	second red and blue train	രണ്ടാമത്തെ ചുവപ്പ്, നീല ട്രെയിൻ
+2403804	177	204	84	81	Cather's mit for hand protection against fast pitches.	ഫാസ്റ്റ് പിച്ചുകളിൽ നിന്ന് കൈ സംരക്ഷണത്തിനായി കാതേർസ് മിറ്റ്.
+2403908	15	268	19	60	man is waiting to cross	മനുഷ്യൻ കടക്കാൻ കാത്തിരിക്കുന്നു
+2403974	322	300	175	70	a time and date stamp	ഒരു സമയ, തീയതി സ്റ്റാമ്പ്
+2403980	257	26	206	80	people enjoying themselves at the fair	മേളയിൽ ആളുകൾ സ്വയം ആസ്വദിക്കുന്നു
+2404051	106	163	370	155	A sign for the 550 west block of Bliss Ct.	ബ്ലിസ് സിടിയുടെ അഞ്ഞൂറ്റി അമ്പത് പടിഞ്ഞാറൻ ബ്ലോക്കിലേക്കുളള ഒരു അടയാളം.
+2404092	72	195	306	110	The water is flowing fast	വെള്ളം അതിവേഗത്തിൽ ഒഴുകുന്നു
+2404131	352	302	145	21	Watermark, showing copyright date.	വാട്ടർമാർക്ക്, പകർപ്പവകാശ തീയതി കാണിക്കുന്നു.
+2404210	11	351	99	129	Part of the tennis court is green.	ടെന്നീസ് കോർട്ടിന്റെ ഭാഗം പച്ചയാണ്.
+2404215	164	311	61	34	Green and red tennis court	പച്ചയും, ചുവപ്പും ടെന്നീസ് കോർട്ട്
+2404221	48	140	447	180	A indoor tennis court.	ഇൻഡോർ ടെന്നീസ് കോർട്ട്.
+2404278	40	280	92	165	A bed of steel springs	ഉരുക്ക് സ്പ്രിങ്ങുകൾ ഉള്ള ഒരു കിടക്ക
+2404377	0	41	198	148	display models of cell phones	സെൽ‌ഫോണുകളുടെ മോഡലുകൾ‌ പ്രദർശിപ്പിച്ചിരിക്കുന്നു
+2404456	160	100	29	31	a lone spectator behind the tennis players	ടെന്നീസ് കളിക്കാർക്ക് പിന്നിൽ ഒരു കാഴ്ചക്കാരൻ
+2404526	16	12	467	84	Cement forms sticking out of ground.	സിമൻറ് രൂപങ്ങൾ നിലത്തു നിന്ന് പുറത്തുകടക്കുന്നു.
+2404535	345	326	127	21	A time stamp	ഒരു ടൈം സ്റ്റാമ്പ്
+2404539	6	4	351	301	fast food hot dogs and onion rings	ഫാസ്റ്റ് ഫുഡ് ഹോട്ട് ഡോഗുകളും ഒണിയൻ റിങ്സുo
+2404557	5	4	101	90	owners manual for a panini press	പാനിനി പ്രസ്സിനായി ഉടമകളുടെ മാനുവൽ
+2404680	428	50	62	61	Asian characters on side of building	കെട്ടിടത്തിന്റെ വശത്തുള്ള ഏഷ്യൻ പ്രതീകങ്ങൾ
+2404682	95	34	26	141	an orange sign with written characters	ഒരു ഓറഞ്ച് ചിഹ്നത്തിൽ എഴുതിയ പ്രതീകങ്ങൾ ഉണ്ട്
+2404753	380	253	90	37	truck has two white Chinese characters	ട്രക്കിന് രണ്ട് വെളുത്ത ചൈനീസ് പ്രതീകങ്ങളുണ്ട്
+2404836	265	303	68	70	a copy of vanity fair is displayed	വാനിറ്റി മേളയുടെ ഒരു പകർപ്പ് പ്രദർശിച്ചിട്ടുണ്ട്
+2404846	283	71	34	48	a baseball players bat	ഒരു ബേസ്ബോൾ കളിക്കാരൻ ബാറ്റ് ചെയ്യുന്നു
+2404847	112	134	252	240	advertising to the state fair is mounted on the lamp post	സംസ്ഥാന മേളയിലേക്കുള്ള പരസ്യം വിളക്ക് പോസ്റ്റിൽ സ്ഥാപിച്ചിരിക്കുന്നു
+2404974	3	34	393	61	A stand of trees along the edge of the lake	തടാകത്തിന്റെ അരികിലുള്ള മരങ്ങളുടെ ഒരു കൂട്ടം
+2405015	211	165	94	29	The tennis players arm extended.	ടെന്നീസ് കളിക്കാരന്റെ കൈ നീട്ടിയിരിക്കുന്നു.
+2405046	417	118	80	39	a hand moving too fast for the camera	ക്യാമറ വളരെ വേഗത്തിൽ ചലിക്കുന്നു
+2405064	138	61	349	270	Four baseball players on field.	മൈതാനത്ത് നാല് ബേസ്ബോൾ കളിക്കാർ.
+2405155	319	31	39	39	A cross on a tower.	ഗോപുരത്തിന്റെ മുകളിൽ ഒരു കുരിശ്.
+2405318	1	393	156	93	White writing on a blue court.	നീല കോർട്ടിൽ വെളുത്ത എഴുത്ത്.
+2405347	131	41	41	23	Shadow on the ground of the second racket from the left	ഇടതുവശത്ത് നിന്നുള്ള രണ്ടാമത്തെ റാക്കറ്റിന്റെ നിലത്ത് നിഴൽ
+2405459	83	210	94	69	a wood night stand.	തടി മേശ
+2405494	144	267	181	97	Snow covered cross walk	മഞ്ഞ് മൂടിയ ക്രോസ്സ് വാക്ക്
+2405647	465	242	30	73	green grass by tennis court	പച്ച പുല്ല് ഉള്ള ടെന്നീസ് കോർട്ട്
+2405652	137	0	102	85	The brick wall behind the court	കോർട്ടിന് പിന്നിലെ ഇഷ്ടിക മതിൽ
+2405721	23	32	475	265	a railing forms a corner sitting area	ഒരു റെയിലിംഗ് ഒരു കോണിൽ ഇരിക്കുന്ന സ്ഥലമായി മാറുന്നു
+2405817	22	0	156	392	Banana shaped yellow banana stand	വാഴപ്പഴത്തിന്റെ ആകൃതിയിലുള്ള മഞ്ഞ വാഴ സ്റ്റാൻഡ്
+2405852	7	280	142	52	Green part of a tennis court.	ഒരു ടെന്നീസ് കോർട്ടിന്റെ പച്ച ഭാഗം.
+2405882	102	318	118	48	Box springs of bed.	കിടക്കയിലെ ബോക്സ് സ്പ്രിങ്ങ്സ്.
+2405987	12	345	226	43	Small section of baseline on a tennis court	ഒരു ടെന്നീസ് കോർട്ടിലെ ബേസ്‌ലൈനിന്റെ ചെറിയ വിഭാഗം
+2406006	258	221	16	42	Large cross outside of a church.	ഒരു പള്ളിക്ക് പുറത്ത് വലിയ കുരിശ്.
+2406039	53	234	104	35	two white chairs on tennis court	ടെന്നീസ് കോർട്ടിലെ രണ്ട് വെളുത്ത കസേരകൾ
+2406074	95	126	71	25	white edge of white tennis court	വൈറ്റ് ടെന്നീസ് കോർട്ടിന്റെ വെളുത്ത അഗ്രം
+2406443	166	288	113	62	Brown box is on the tennis court	ബ്രൗൺ ബോക്സ് ടെന്നീസ് കോർട്ടിലാണ്
+2406490	124	60	162	70	a sponsors name on the tennis court wall	ടെന്നീസ് കോർട്ട് ചുമരിൽ ഒരു സ്പോൺസർ നാമം
+2406706	68	7	239	317	the date is shown on the outter portion	തീയതി ബാഹ്യ ഭാഗത്ത് കാണിച്ചിരിക്കുന്നു
+2406837	115	134	120	130	exte stamp on yellow metal	മഞ്ഞ ലോഹത്തിൽ എക്സ്റ്റെ സ്റ്റാമ്പ്
+2406912	149	48	71	142	Bright red semi-gloss block wall	തിളക്കമുള്ള ചുവന്ന പകുതി മിനുക്കമുള്ള മതിൽ
+2406955	301	13	83	10	Name and date stamp on picture	ചിത്രത്തിലെ പേരും തീയതി സ്റ്റാമ്പും
+2406956	291	232	56	60	fine texture of feathers	തൂവലുകളുടെ മികച്ച ഘടന
+2406960	98	388	82	65	clock face on wall date	മതിൽ തീയതിയിലെ ക്ലോക്ക് മുഖം
+2406969	0	459	138	39	Brown painted signature and date.	ബ്രൗൺ പെയിന്റിൽ എഴുതിയ ഒപ്പും തീയതിയും.
+2407061	8	216	132	17	Neon green time and date stamp	നിയോൺ പച്ച സമയവും തീയതി സ്റ്റാമ്പും
+2407073	175	71	50	30	white teeth-like forms on top of wing	ചിറകിന്റെ മുകളിൽ വെളുത്ത പല്ലുകൾ പോലുള്ള രൂപങ്ങൾ
+2407111	342	75	17	37	Headpiece of the second rider from the right	വലതുവശത്ത് നിന്നുള്ള രണ്ടാമത്തെ റൈഡറിന്റെ ഹെഡ്‌പീസ്
+2407138	192	182	58	38	The items of the second rack	രണ്ടാമത്തെ റാക്കിലെ ഇനങ്ങൾ
+2407154	28	369	11	52	a cross on the top of a spire	ഒരു സ്പൈറിന്റെ മുകളിൽ ഉള്ള ഒരു കുരിശ്
+2407185	45	27	453	131	the characters are chinese	പ്രതീകങ്ങൾ ചൈനീസ് ആണ്
+2407279	40	210	210	115	tree root jutting out in jagged forms	ട്രീ റൂട്ട് മുല്ലപ്പൂ രൂപത്തിൽ പുറത്തേക്ക് തളളി നില്ക്കുന്നു
+2407357	260	127	183	170	bicycles in stand	സൈക്കിളുകൾ സ്റ്റാന്റിൽ
+2407415	80	15	336	115	second floor windows	രണ്ടാം നിലയിലെ വിൻഡോകൾ
+2407547	79	61	319	265	there are two players in the court	കോർട്ടിൽ രണ്ട് കളിക്കാരുണ്ട്
+2407554	117	141	25	74	Partial view of second bus	രണ്ടാമത്തെ ബസിന്റെ ഭാഗിക കാഴ്ച
+2407591	123	217	255	53	Chinese characters on sign	ചിഹ്നത്തിലുള്ള ചൈനീസ് പ്രതീകങ്ങൾ
+2407642	320	41	61	147	large soft drink cup from a fast food restaurant or store	ഒരു ഫാസ്റ്റ്ഫുഡ് റെസ്റ്റോറന്റിൽ നിന്നോ സ്റ്റോറിൽ നിന്നോ ഉള്ള വലിയ ശീതള പാനപാത്രം
+2407657	2	2	487	97	Baseball players are in the background	ബേസ്ബോൾ കളിക്കാർ ബാക്ക് ഗൗണ്ടിൽ ഉണ്ട്
+2407885	158	182	70	58	rolls of towels on stand	തൂവാലകളുടെ റോളുകൾ സ്റ്റാന്റിൽ
+2407919	205	15	248	112	a cement block wall	ഒരു സിമന്റ് ബ്ലോക്ക് മതിൽ
+2407939	50	405	100	84	People waiting to cross street.	തെരുവ് മുറിച്ചുകടക്കാൻ കാത്തിരിക്കുന്ന ആളുകൾ.
+2408063	245	238	166	87	Mud forms along the edge of the watering hole	നനവ് ദ്വാരത്തിന്റെ അരികിൽ ചെളി രൂപം കൊള്ളുന്നു
+2408076	28	29	326	386	bananas and oranges on fruit stand	ഫ്രൂട്ട് സ്റ്റാൻഡിൽ വാഴപ്പഴവും ഓറഞ്ചും
+2408156	87	88	212	192	Cows laying down in the hay at a county fair	ഒരു കൗണ്ടി മേളയിൽ പശുക്കൾ പുല്ലിൽ കിടക്കുന്നു
+2408350	256	18	135	95	players standing behind chain link fence	ചെയിൻ ലിങ്ക് വേലിക്ക് പിന്നിൽ നിൽക്കുന്ന കളിക്കാർ
+2408358	78	357	17	58	Knives in wood block	തടിക്കഷണത്തിൽ കത്തികൾ
+2408497	2	10	293	315	College baseball players on the field.	മൈതാനത്ത് കോളേജ് ബേസ്ബോൾ കളിക്കാർ.
+2408617	1	331	324	167	The blue tennis court	നീല ടെന്നീസ് കോർട്ട്
+2408661	121	28	110	153	poster with cartoon characters	കാർട്ടൂൺ പ്രതീകങ്ങളുള്ള പോസ്റ്റർ
+2408783	245	396	70	38	boundary lines on court	കോർട്ടിലെ അതിർത്തി രേഖകൾ
+2408797	271	112	36	62	a church tower with a cross on the roof	മേൽക്കൂരയിൽ കുരിശുള്ള പള്ളി ഗോപുരം
+2408839	317	312	181	19	a photographers stamp on the photo	ഒരു ഫോട്ടോയിലെ ഫോട്ടോഗ്രാഫറുടെ സ്റ്റാമ്പ്
+2408991	2	156	400	285	a bunch of baseball players waiting for their turn	ഒരു കൂട്ടം ബേസ്ബോൾ കളിക്കാർ അവരുടെ അവസരത്തിനായി കാത്തിരിക്കുന്നു
+2409043	438	288	57	43	time stamp with red number	ചുവന്ന നമ്പറുള്ള ടൈം സ്റ്റാമ്പ്
+2409284	215	200	130	125	orange street block	ഓറഞ്ച് സ്ട്രീറ്റ് ബ്ലോക്ക്
+2409288	11	9	474	355	picture taken at drive up fast food chain	ഡ്രൈവ് അപ്പ് ഫാസ്റ്റ്ഫുഡ് ചെയിനിൽ എടുത്ത ചിത്രം
+2409295	179	310	110	104	foul lines marking the court	കളിസ്ഥലത്തു അടയാളപ്പെടുത്തിയ തെറ്റായ വരികൾ
+2409328	38	142	231	33	second green sign from the top	മുകളിൽ നിന്ന് രണ്ടാമത്തെ പച്ച ചിഹ്നം
+2409341	246	196	33	46	second leaf from left	ഇടത് വശത്ത് നിന്ന് രണ്ടാമത്തെ ഇല
+2409384	418	15	69	14	the picture has a date stamp	ചിത്രത്തിന് ഒരു തീയതി സ്റ്റാമ്പ് ഉണ്ട്
+2409393	3	101	491	60	the tennis court net divides the court in the middle	ടെന്നീസ് കോർട്ട് നെറ്റ് കോർട്ടിനെ മധ്യഭാഗത്ത് വിഭജിക്കുന്നു
+2409479	79	205	102	87	this stand is yellow in color	ഈ സ്റ്റാന്റ് മഞ്ഞ നിറത്തിലാണ്
+2409512	164	100	310	249	Soccer players on field.	മൈതാനത്ത് സംഘ പന്തുകളിക്കാർ.
+2409566	61	3	279	49	players in team dugout	ഡഗ്ഔട്ടിൽ കളിക്കാർ
+2409622	15	5	480	96	different plane models are seen.	വ്യത്യസ്ത തരം മോഡലുകൾ കാണാം.
+2409743	20	56	461	242	baseball players on field	മൈതാനത്ത് ബേസ്ബോൾ കളിക്കാർ
+2409866	0	0	250	71	a red and white county fair tent	ചുവപ്പും വെള്ളയും ഉള്ള കൗണ്ടി മേള കൂടാരം
+2410046	385	315	90	50	time stamp in corner of image	ചിത്രത്തിന്റെ മൂലയിൽ ടൈം സ്റ്റാമ്പ്
+2410079	4	189	370	112	green colored material separating the court	മൈതാനത്തെ വേർതിരിക്കുന്ന പച്ച നിറമുള്ള മെറ്റീരിയൽ
+2410106	13	20	470	342	farmer's market stand	കർഷകന്റെ വിപണി സ്റ്റാന്റ്
+2410111	132	202	89	80	a tree on a city block	സിറ്റി ബ്ലോക്കിലെ ഒരു മരം
+2410125	3	1	494	360	aqua press wall with white advertising signs	വെളുത്ത പരസ്യ ചിഹ്നങ്ങളുള്ള അക്വാ പ്രസ്സ് മതിൽ
+2410127	61	77	195	279	man using a hand press to make juice	ജ്യൂസ് ഉണ്ടാക്കാൻ ഹാൻഡ് പ്രസ്സ് ഉപയോഗിക്കുന്ന മനുഷ്യൻ
+2410138	86	92	389	128	the train is a fast speed train	ട്രെയിൻ അതിവേഗ ട്രെയിനാണ്
+2410158	145	50	145	101	Two characters on the television	ടെലിവിഷനിൽ രണ്ട് കഥാപാത്രങ്ങൾ
+2410253	2	44	163	124	men of forces wearing the dress uniforms	യൂണിഫോം ധരിച്ച സേനാംഗങ്ങൾ
+2410316	50	165	138	60	red second hand on top of other hands	മറ്റ് സൂചികളുടെ മുകളിലാണ് ചുവന്ന സെക്കന്റ്‌ സൂചി
+2410318	136	300	60	25	a cats closed eye forms a slit	പൂച്ച അടച്ച കണ്ണ് ഒരു വിടവ് ഉണ്ടാക്കുന്നു
+2410557	49	48	143	230	the two male players are after the ball	രണ്ട് പുരുഷ കളിക്കാർ പന്തിന് പുറകേയാണ്
+2410578	291	239	81	35	Glass safety rail on second floor.	രണ്ടാം നിലയിലെ ഗ്ലാസ് സുരക്ഷാ റെയിൽ.
+2410588	10	12	331	463	Soccer players in action	സോക്കർ കളിക്കുന്ന കളിക്കാർ
+2410637	173	317	33	19	a book is on the night stand	രാത്രി സ്റ്റാൻഡിൽ ഒരു പുസ്തകം ഉണ്ട്
+2410670	265	46	75	52	Black bike seat with silver springs.	വെള്ളി സ്പ്രിങ്ങുകൾ ഉള്ള കറുത്ത ബൈക്ക് സീറ്റ്.
+2410706	223	43	75	175	a baseball players uniform	ഒരു ബേസ്ബോൾ കളിക്കാരന്റെ യൂണിഫോം
+2410773	323	12	86	43	the seat of the second motorcycle	രണ്ടാമത്തെ മോട്ടോർസൈക്കിളിന്റെ സീറ്റ്
+2410780	278	124	54	33	pattern on side of second giraffe	രണ്ടാമത്തെ ജിറാഫിന്റെ വശത്തുള്ള പാറ്റേൺ
+2410836	434	43	59	281	A red metal frame forms the half pipe	ഒരു ചുവന്ന മെറ്റൽ ഫ്രെയിം പകുതി പൈപ്പ് ഉണ്ടാക്കുന്നു
+2410877	36	33	312	264	fast blue and white train	വേഗത്തിലുള്ള നീലയും വെള്ളയും ട്രെയിൻ
+2410913	298	152	111	17	red second hand	ചുവന്ന സെക്കൻഡ് ഹാൻഡ്
+2410979	296	197	19	10	red on players sleeve	കളിക്കാരുടെ സ്ലീവിൽ ചുവപ്പ്
+2411002	328	42	149	285	Luggage sign in english and spanish	ലഗ്ഗേജ് ചിഹ്നം ഇംഗ്ലീഷിലും സ്പാനിഷിലും
+2411149	356	160	142	75	net of the tennis court	ടെന്നീസ് കോർട്ടിലെ വല
+2411180	91	210	403	130	The tracks cross here	ട്രാക്കുകൾ ഇവിടെ കടക്കുന്നു
+2411200	96	223	27	156	Blue, yellow and white stripes on players uniform.	കളിക്കാരുടെ യൂണിഫോമിൽ നീല, മഞ്ഞ, വെള്ള വരകൾ.
+2411228	178	146	321	66	the net across their court	അവരുടെ കോർട്ടിന് കുറുകെ ഉള്ള വല
+2411389	351	137	72	77	part of a tennis court	ഒരു ടെന്നീസ് കോർട്ടിന്റെ ഭാഗം
+2411495	64	421	135	32	the copyright and date stamp of the photographer	ഫോട്ടോഗ്രാഫറുടെ പകർപ്പവകാശവും തീയതി സ്റ്റാമ്പും
+2411545	31	10	452	362	fast food items on plates	പ്ലേറ്റുകളിലെ ഫാസ്റ്റ്ഫുഡ് ഇനങ്ങൾ
+2411641	284	37	76	323	member of opposing team trying to block the shooter's shot	ഷൂട്ടറുടെ ഷോട്ട് തടയാൻ ശ്രമിക്കുന്ന എതിർ ടീമിലെ അംഗം
+2411694	1	32	374	137	white trail that can only be made by incredibly fast planes	അവിശ്വസനീയമാംവിധം വേഗത്തിലുള്ള വിമാനങ്ങൾക്ക് മാത്രമേ വെള്ള വര നിർമ്മിക്കാൻ കഴിയൂ
+2411787	325	148	36	35	Monitor stand below monitor	മോണിറ്ററിന് താഴെയുള്ള മോണിറ്റർ സ്റ്റാന്റ്
+2411887	415	150	30	16	Red circle with white cross under right wing	വലത് ചിറകിന് താഴെ വെളുത്ത കുരിശുള്ള ചുവന്ന വൃത്തം
+2412017	13	47	297	181	tennis players shaking hands	ടെന്നീസ് കളിക്കാർ കൈ കുലുക്കുന്നു
+2412156	343	307	155	14	Time date stamp is bottom right	സമയ തീയതി സ്റ്റാമ്പിന്റെ താഴെ വലതുവശത്താണ്
+2412236	122	235	171	264	the players uniform is green and white	കളിക്കാരന്റെ യൂണിഫോം പച്ചയും വെള്ളയുമാണ്
+2412254	2	63	495	45	Tarp on the side of the court	കോർട്ടിന്റെ വശത്ത് ടാർപ്പ
+2412365	340	413	78	74	a man in a yellow t-shirt sitting cross-legged	മഞ്ഞ ടി-ഷർട്ട് ധരിച്ച ഒരാൾ കാല് ക്രോസ്സ് ചെയ്ത് ഇരിക്കുന്നു
+2412470	421	190	53	108	long black pipe on display stand	ഡിസ്പ്ലേ സ്റ്റാൻഡിലെ നീളമുള്ള കറുത്ത പൈപ്പ്
+2412491	22	6	304	492	cement block siding on church	പള്ളിയിൽ സിമന്റ് ബ്ലോക്ക് സൈഡിംഗ്
+2412544	203	449	126	49	fine, pale sand	നേർത്ത, ഇളം മണൽ
+2412647	107	102	92	95	propeller is moving fast	പ്രൊപ്പല്ലർ അതിവേഗം നീങ്ങുന്നു
+2412679	55	335	290	127	players wearing knee-high socks	ക്‌നീ ഹൈ സോക്സ് ധരിച്ച കളിക്കാർ
+2412741	12	184	146	141	second bird is standing on car	രണ്ടാമത്തെ പക്ഷി കാറിൽ നിൽക്കുന്നു
+2412756	46	85	182	228	clear stand for controller	കൺട്രോളറിനുള്ള വ്യക്തമായ സ്റ്റാന്റ്
+2412842	348	342	117	15	date and time stamp in corner	കോണിലുള്ള തീയതിയും സമയ സ്റ്റാമ്പും
+2412900	32	72	445	281	Woman going fast downhill.	വേഗത്തിൽ താഴേക്ക് പോകുന്ന സ്ത്രീ.
+2412947	148	412	81	26	baseball players shoe	ബേസ്ബോൾ കളിക്കാരന്റെ ഷൂ
+2412966	97	100	225	137	the collar decoration of a fair isle type sweater	നല്ല ഐസ്ൽ തരം സ്വെറ്ററിന്റെ കോളർ ഡെക്കറേഷൻ
+2412983	221	13	82	200	a juice press	ഒരു ജ്യൂസ് പ്രസ്സ്
+2413037	232	110	64	71	little white english car with vertical oblong taillights	ലംബമായ ദീർഘചതുരത്തിൽ പിൻദീപമുള്ള ചെറിയ വെളുത്ത നിരത്തിലെ ഇംഗ്ലീഷ് കാർ
+2413116	243	110	70	117	male cross country skier	പുരുഷ ക്രോസ് കൺട്രി സ്കയർ
+2413169	283	248	52	53	press here sticker on paw	കൈയിൽ പ്രസ്സ് ഹിയർ സ്റ്റിക്കർ
+2413194	5	7	327	491	a green tennis court	ഒരു പച്ച ടെന്നീസ് കോർട്ട്
+2413216	136	229	26	11	Base of the yellow umbrella second from the left	ഇടത് വശത്ത് നിന്ന് മഞ്ഞ കുടയുടെ അടിസ്ഥാനം
+2413245	308	213	162	57	white asphalt with fine lines	നേർത്ത വരകളുള്ള വെളുത്ത അസ്ഫാൽറ്റ്
+2413284	294	142	205	65	loose sediment forms on the rocks	പാറകളിൽ അയഞ്ഞ അവശിഷ്ട രൂപങ്ങൾ
+2413494	237	210	168	47	wooden slat that forms back of bench.	ഒരു വുഡൻ സ്ലാറ്റ് ബെഞ്ചിന്റെ പുറകിൽ രൂപം കൊള്ളുന്നു.
+2413506	87	70	331	160	fast super jet hovers in the sky	ഫാസ്റ്റ് സൂപ്പർ ജെറ്റ് ആകാശത്ത് സഞ്ചരിക്കുന്നു
+2413537	418	4	80	294	People buying food on fast food store	ഫാസ്റ്റ്ഫുഡ് സ്റ്റോറിൽ ഭക്ഷണം വാങ്ങുന്ന ആളുകൾ
+2413599	59	189	228	60	geyer springs street sign	ഗിയർ സ്പ്രിംഗ്സ് സ്ട്രീറ്റ് ചിഹ്നം
+2413611	424	314	57	12	copyright and date	പകർപ്പവകാശവും തീയതിയും
+2413616	145	95	71	59	the players arm is ready to throw	കളിക്കാരുടെ കൈ എറിയാൻ തയ്യാറാണ്
+2413620	25	0	303	78	the baby has very fine hair	കുഞ്ഞിന് വളരെ നേർത്ത മുടിയുണ്ട്
+2413752	156	50	27	49	Top window pane in the left corner of the second story window	രണ്ടാമത്തെ സ്റ്റോറി വിൻഡോയുടെ ഇടത് കോണിലുള്ള മുകളിലെ വിൻഡോ പാളി
+2413967	59	258	286	223	a fast food meal served on a white plate	ഒരു വെളുത്ത പാത്രത്തിൽ വിളമ്പിയിരിക്കുന്ന ഒരു ഫാസ്റ്റ് ഫുഡ് ഭക്ഷണം
+2413969	12	82	272	237	three baseball players playing a game	മൂന്ന് ബേസ്ബോൾ കളിക്കാർ ഒരു ഗെയിം കളിക്കുന്നു
+2414098	26	156	44	29	expiration date in black ink	കാലഹരണപ്പെടുന്ന തീയതി കറുത്ത മഷിയിൽ
+2414143	445	110	52	76	Sponsor signs hanging on the walls of the tennis court.	ടെന്നീസ് കോർട്ടിന്റെ ചുമരുകളിൽ സ്പോൺസറിന്റെ പേര് തൂക്കിയിരിക്കുന്നു
+2414183	1	178	111	117	players in the dugout.	ഡഗഔട്ടിലെ കളിക്കാർ.
+2414300	138	272	134	124	a tea set on a wooden stand	ഒരു വുഡൻ സ്റ്റാൻഡിൽ ഒരു ചായ സെറ്റ്
+2414441	3	485	118	12	the copyright stamp on the photo	ഫോട്ടോയിലെ പകർപ്പവകാശ സ്റ്റാമ്പ്
+2414566	336	314	140	40	date and time stamp on a picture	ഒരു ചിത്രത്തിലെ തീയതിയും സമയ സ്റ്റാമ്പും
+2414612	311	242	142	35	5 cars of varying models parked on the street	വ്യത്യസ്ത മോഡലു ൾ ഉള്ള അഞ്ച് കാറുകൾ തെരുവിൽ പാർക്ക് ചെയ്തിരിക്കുന്നു
+2414689	66	188	215	78	Red dragon fruit on a fruit stand.	ഫ്രൂട്ട് സ്റ്റാൻഡിൽ ഒരു ചുവന്ന ഡ്രാഗൺ ഫ്രൂട്ട്.
+2414795	212	138	32	19	baseball players helmet	ബേസ്ബോൾ കളിക്കാരുടെ ഹെൽമെറ്റ്
+2414804	112	263	100	82	a white sign not in English	ഇംഗ്ലീഷിൽ അല്ലാത്ത ഒരു വെളുത്ത ചിഹ്നം
+2414841	118	222	81	109	boy sitting cross-legged on ground	കുട്ടി നിലത്ത് ക്രോസ്സ്-ലെഗ്ഡ് ആയി ഇരിക്കുന്നു
+2414888	4	0	140	31	a white paper not in english	ഇംഗ്ലീഷിലില്ലാത്ത ഒരു വെളുത്ത പത്രം
+2414956	4	53	465	267	baseball players posing together in an old photograph	ഒരു പഴയ ഫോട്ടോഗ്രാഫിൽ ബേസ്ബോൾ കളിക്കാർ ഒരുമിച്ച് പോസ് ചെയ്യുന്നു
+2415000	325	205	111	90	black springs	കറുത്ത സ്പ്രിങ്ങുകൾ
+2415032	1	109	33	71	red and white cross on man's shoulder	മനുഷ്യന്റെ തോളിൽ ചുവപ്പും വെള്ളയും കുരിശ്
+2415158	35	76	320	106	Three different cellphone models	മൂന്ന് വ്യത്യസ്ത സെൽഫോൺ മോഡലുകൾ
+2415210	255	179	37	69	The second clock showing on the tower.	ടവറിൽ കാണുന്ന രണ്ടാമത്തെ ക്ലോക്ക്.
+2415211	283	203	91	105	cross walk at intersection	കവലയിൽ സീബ്ര ക്രോസ്സ് വര
+2415354	77	217	262	78	white springs boxes and gears below train engine	ട്രെയിൻ എഞ്ചിന് താഴെ വൈറ്റ് സ്പ്രിംഗ് ബോക്സുകളും ഗിയറുകളും
+2415725	401	320	95	41	the court is dark blue	കോർട്ട് ഇരുണ്ട നീല നിറമാണ്
+2415736	448	245	51	18	A crowd of people standing at the fair.	മേളയിൽ ഒരു കൂട്ടം ആളുകൾ നിൽക്കുന്നു.
+2415809	180	67	144	101	cross centered in curved panels	വളഞ്ഞ പാനലുകളിൽ കേന്ദ്രീകരിച്ചിരിക്കുന്നു ക്രോസ്
+2415867	5	54	245	42	Net across tennis court	ടെന്നീസ് കോർട്ടിൽ കുറുകെ കുറുകെ വല
+2415934	314	89	87	190	man standing next to fruit stand	ഫ്രൂട്ട് സ്റ്റാൻഡിന് സമീപം നിൽക്കുന്ന മനുഷ്യൻ
+2416262	8	9	491	358	Several models hanging in the air in the exhibit	എക്സിബിറ്റിൽ നിരവധി മോഡലുകൾ വായുവിൽ തൂങ്ങിക്കിടക്കുന്നു
+2416274	2	53	371	445	A white plate with english muffins	ഇംഗ്ലീഷ് മഫിനുകളുള്ള ഒരു വെളുത്ത പ്ലേറ്റ്
+2416323	231	52	68	69	Large blue flag above the entire fair	മുഴുവൻ മേളയ്ക്കും മുകളിൽ വലിയ നീല പതാക
+2416409	415	340	61	19	yellow date taken stamp	മഞ്ഞ തീയതിയുള്ള സ്റ്റാമ്പ്
+2416779	58	253	316	128	cross walk area painted on the street	തെരുവിൽ വരച്ച ക്രോസ് വാക്ക് സ്ഥലം
+2416863	21	343	199	153	floral box springs under mattress	കട്ടിൽ കീഴിലുള്ള പുഷ്പ ബോക്സ് സ്പ്രിങ്ങ്സ്
+2417016	359	345	20	17	person on the court wearing black shirt	കറുത്ത ഷർട്ട് ധരിച്ച കോർട്ടിൽ ഒരാൾ
+2417025	112	10	297	342	a sandwich on a block	ഒരു ബ്ലോക്കിലെ സാൻഡ്‌വിച്ച്
+2417029	401	271	98	51	a platter of fine china	ഫൈൻ ചൈനയുടെ ഒരു തളിക
+2417112	2	116	495	210	Four players standing on a tennis court	നാല് കളിക്കാർ ഒരു ടെന്നീസ് കോർട്ടിൽ നിൽക്കുന്നു
+2417191	14	231	21	45	A large brown block.	ഒരു വലിയ തവിട്ട് ബ്ലോക്ക്.
+2417491	211	119	29	16	wooden sign with white letters on second bus	രണ്ടാമത്തെ ബസ്സിൽ വെളുത്ത അക്ഷരങ്ങളുള്ള തടി ചിഹ്നം
+2417557	47	430	436	62	lighted signs for different forms of public transportation	വിവിധ തരത്തിലുള്ള പൊതുഗതാഗതത്തിനായി പ്രകാശമുള്ള അടയാളങ്ങൾ
+2417690	135	152	183	333	Woman dressed as a maiden at the fair	മേളയിൽ കന്യകയായി വേഷം ധരിച്ച സ്ത്രീ
+2417756	12	156	65	67	March 7th is the date on the calendar	മാർച്ച് 7 കലണ്ടറിലെ തീയതിയാണ്
+2417822	10	9	252	275	person holding a block of ice	ഐസ് ബ്ലോക്ക് കൈവശമുള്ള വ്യക്തി
+2417918	90	98	301	238	English city bus on the road	റോഡിൽ ഇംഗ്ലീഷ് സിറ്റി ബസ്

@@ -1,0 +1,1400 @@
+2853	238	215	121	97	a bunch of books on book stand	বইয়ের স্ট্যান্ডে একগুচ্ছ বই
+2399123	128	19	16	25	gold religious cross on top of golden ball	সোনার বলের উপরে সোনার ধর্মীয় ক্রস
+2358957	292	155	16	119	Candle on glass candle stand	গ্লাস মোমবাতি স্ট্যান্ডে মোমবাতি
+2373836	46	0	452	112	a blue wall beside tennis court	টেনিস কোর্টের পাশে একটি নীল প্রাচীর
+2378828	221	92	54	42	fine thin red hair	সূক্ষ্ম পাতলা লাল চুল
+2381574	183	142	42	101	front springs of motocross motorcycle	মোটরক্রস মোটরসাইকেলের সামনের স্প্রিংস
+2372733	26	107	152	218	the tennis court is made up of sand and dirt	টেনিস কোর্ট বালু এবং ময়লা দিয়ে গঠিত
+2359939	366	145	42	60	court attendant sitting in chair	চেয়ারে বসে কোর্ট অ্যাটেন্ডেন্ট
+2407154	28	369	11	52	a cross on the top of a spire	একটি বীর্যের শীর্ষে একটি ক্রস
+3510	234	288	85	78	the cross is black	ক্রস কালো হয়
+713885	903	306	118	74	press box on tennis court	টেনিস কোর্টে প্রেস বক্স
+2407185	45	27	453	131	the characters are chinese	চরিত্রগুলি চীনা
+2358988	298	353	195	20	date and time of photo	তারিখ এবং ছবির সময়
+2411002	328	42	149	285	Luggage sign in english and spanish	লাগেজ সাইন ইন ইংলিশ এবং স্প্যানিশ
+2379342	231	244	110	86	box springs on bottom of bed	বিছানার নীচে বক্স স্প্রিংস
+2335357	295	258	140	67	box springs with flower print	ফুলের মুদ্রণ সহ বক্স স্প্রিংস
+2372500	33	249	314	70	fork under english muffin	ইংরেজি মাফিনের নীচে কাঁটাচামচ
+2407547	79	61	319	265	there are two players in the court	কোর্টে দুজন খেলোয়াড় আছেন
+2353864	21	224	52	117	a man trying to cross	একজন লোক ক্রস করার চেষ্টা করছে
+1239	167	446	37	46	people on the second level	দ্বিতীয় স্তরের লোকেরা
+2406955	301	13	83	10	Name and date stamp on picture	ছবিতে নাম এবং তারিখের স্ট্যাম্প
+2368444	7	83	67	28	A stand of trees.	গাছের একটি স্ট্যান্ড।
+2402845	224	77	39	29	umbrella to block sun	ছাতা রোদে ব্লক করতে
+772	70	322	45	100	the woman is waiting to cross the street	মহিলা রাস্তায় পারাপারের জন্য অপেক্ষা করছেন
+2388688	86	3	371	493	the lady appears to be going cross country skiing	ভদ্রমহিলা মনে হয় ক্রস কান্ট্রি স্কিইং যাচ্ছেন
+2364500	398	113	20	75	White candle on a stand	একটি স্ট্যান্ডে সাদা মোমবাতি
+2335579	0	99	294	63	A grey rock wall forms a boundary of the enclosure	একটি ধূসর শিলা প্রাচীর ঘেরের সীমানা গঠন করে
+3789	367	345	126	70	a large block entrance	একটি বড় ব্লক প্রবেশদ্বার
+2329619	368	313	112	32	date when taken in yellow	তারিখ যখন হলুদ নেওয়া হয়
+2387786	353	161	60	71	tail of cat forms a C	বিড়ালের লেজ একটি সি গঠন করে
+107903	601	168	80	105	Wooden railing on second level	দ্বিতীয় স্তরে কাঠের রেলিং
+2415354	77	217	262	78	white springs boxes and gears below train engine	ট্রেন ইঞ্জিনের নীচে সাদা স্প্রিংস বক্স এবং গিয়ার
+2341425	395	297	95	25	time and date stamp on the photograph	ছবিতে সময় এবং তারিখের স্ট্যাম্প
+2318632	322	17	52	144	yellow fair pole on fence	বেড়া উপর হলুদ ফর্সা খুঁটি
+2345681	1	30	409	302	baseball players dressed in gray and orange	বেসবল প্লেয়াররা ধূসর এবং কমলা রঙের পোশাক পরা
+2402914	368	34	54	127	teal sign with white asian characters	সাদা এশিয়ান অক্ষরগুলির সাথে টিল সাইন
+2388360	11	0	487	229	Chain-link enclosure for tennis court	টেনিস কোর্টের জন্য চেইন-লিংক ঘের
+1700	470	183	110	406	stand in the room	রুমে দাঁড়ানো
+4726	267	83	25	36	The window on the right on the second floor.	দ্বিতীয় তলায় ডানদিকে উইন্ডো।
+2359703	21	342	57	16	Date stamp of photograph	ফটোগ্রাফের তারিখ স্ট্যাম্প
+1591886	280	125	76	116	large silver juice press	বড় রূপোর জুস প্রেস
+2348154	37	178	48	20	the players in the dugout	খেলোয়াড়দের ডাগআউট
+2350200	130	368	28	24	A white pot on the stand	স্ট্যান্ডে একটি সাদা পাত্র
+2348688	361	330	92	20	Photo's date stamp.	ছবির তারিখ স্ট্যাম্প।
+2396024	17	15	462	463	hind leg forms one quadrant	পেছনের লেগ এক চতুর্ভুজ গঠন
+2397888	1	131	493	105	Light green tennis court	হালকা সবুজ টেনিস কোর্ট
+2353367	138	98	87	89	soccer players red shirt	ফুটবল খেলোয়াড়রা লাল শার্ট
+2355649	79	177	102	95	Gray television on stand	স্ট্যান্ড ধূসর টেলিভিশন
+2371001	1	0	251	67	a second meal plate.	দ্বিতীয় খাবারের প্লেট
+2402752	0	375	232	123	dark wooden wash stand	গাঢ় কাঠের ওয়াশ স্ট্যান্ড
+2362144	371	179	93	56	Cube-like cement block out-building with large square door	বড় স্কোয়ারের দরজা সহ কিউব-জাতীয় সিমেন্ট ব্লক আউট বিল্ডিং
+2356479	92	297	20	20	chinese characters on a red vehicle	একটি লাল গাড়িতে চীনা অক্ষর
+2323274	4	105	493	206	blue tennis court area	নীল টেনিস কোর্ট অঞ্চল
+2347963	226	388	128	111	Cement block outdoor flooring.	সিমেন্ট ব্লক আউটডোর মেঝে
+713795	335	3	314	131	the sign has asian characters	সাইন এশিয়ান অক্ষর আছে
+2339052	275	85	26	42	a cross sign on top of the tower	টাওয়ারের উপরে একটি ক্রস চিহ্ন
+2403908	15	268	19	60	man is waiting to cross	মানুষ ক্রস করার জন্য অপেক্ষা করছে
+2403417	112	404	24	14	spikes on a players shoe	একটি প্লেয়ার জুতো উপর কাঁটা
+2389878	0	1	497	278	a museum containing models of airplanes	বিমানগুলির মডেল সমন্বিত একটি যাদুঘর
+2414566	336	314	140	40	date and time stamp on a picture	একটি ছবিতে তারিখ এবং সময় স্ট্যাম্প
+2407591	123	217	255	53	Chinese characters on sign	সাইন ইন চীনা অক্ষর
+2404682	95	34	26	141	an orange sign with written characters	লিখিত অক্ষরের সাথে একটি কমলা চিহ্ন
+2407657	2	2	487	97	Baseball players are in the background	বেসবল প্লেয়াররা পটভূমিতে রয়েছে
+1651	665	319	114	99	Newspaper stand on the grass	খবরের কাগজ ঘাসে দাঁড়িয়ে আছে
+2399813	26	52	245	322	young female date wearing a purple rhinestone sleeveless gown	বেগুনি কাঁচের কাঁচের স্লিভলেস গাউন পরা তরুণ মহিলা তারিখ 
+2325	444	265	276	308	two people waiting to cross	দুই জন ক্রস করার জন্য অপেক্ষা করছে
+2400669	11	256	42	20	the side of the second train	দ্বিতীয় ট্রেনের পাশ
+2344256	152	38	180	159	the bird is stand on a tree branch	পাখি গাছের ডালে দাঁড়িয়ে আছে
+497998	778	264	109	89	a black cross on a vertical stabilizer	একটি উল্লম্ব স্ট্যাবিলাইজারের উপর একটি কালো ক্রস
+2413194	5	7	327	491	a green tennis court	একটি সবুজ টেনিস কোর্ট
+2341687	186	57	220	120	neutral makeup on both rain models	উভয় বৃষ্টি মডেল নিরপেক্ষ মেকআপ
+713684	352	405	77	33	the second bus has a blue sign	দ্বিতীয় বাসটিতে একটি নীল চিহ্ন রয়েছে
+2315716	82	101	376	74	This is some type of a fair.	এটি মেলার এক প্রকার।
+2321405	8	14	469	102	A display of different phone models	বিভিন্ন ফোনের মডেলগুলির প্রদর্শন
+2338246	404	169	45	44	microphone on the court	কোর্টে মাইক্রোফোন
+2328197	257	185	25	32	person doing a hand stand	ব্যক্তি একটি হাত স্ট্যান্ড করছেন
+2375545	125	136	65	65	springs of the seat	আসন স্প্রিংস
+2340477	48	1	31	97	A large pipe extending from the wall of the court.	কোর্টের দেয়াল থেকে প্রসারিত একটি বৃহত পাইপ।
+2329549	7	195	99	45	rapid in fast water	দ্রুত জলে দ্রুত
+1592594	312	326	297	280	a stone block train platform	একটি পাথর ব্লক ট্রেন প্ল্যাটফর্ম
+2410637	173	317	33	19	a book is on the night stand	একটি বই নাইট স্ট্যান্ডে আছে
+2390628	208	275	62	46	orange springs on the bottom of train	ট্রেনের নীচে কমলা ফোয়ারা
+2315846	8	286	489	70	a fast flowing river	একটি দ্রুত প্রবাহিত নদী
+2417557	47	430	436	62	lighted signs for different forms of public transportation	জনসাধারণের যাতায়াত বিভিন্ন ধরণের জন্য আলোকিত লক্ষণ
+4714	92	58	59	32	three windows on the second floor	দ্বিতীয় তলায় তিনটি জানালা
+498061	68	341	334	160	a dark blue sedan moving fast	গাঢ় নীল রঙের সেডান দ্রুত গতিতে চলছে
+2369128	297	96	88	200	zebras stand close together to watch for predators	শিকারীরা দেখার জন্য জেব্রা একসাথে দাঁড়িয়ে আছে
+2353464	0	172	314	158	Gated street fair	গেটেড স্ট্রিট মেলা
+2368264	7	106	237	164	surfboard forms a splash of water	সার্ফবোর্ড জল স্প্ল্যাশ গঠন
+2393665	157	169	50	22	paper triangle stand	কাগজের ত্রিভুজ স্ট্যান্ড
+2403974	322	300	175	70	a time and date stamp	একটি সময় এবং তারিখ স্ট্যাম্প
+713660	105	55	48	62	english letter is white	ইংরেজি বর্ণ সাদা
+2406443	166	288	113	62	Brown box is on the tennis court	ব্রাউন বক্স টেনিস কোর্টে রয়েছে
+2365476	126	58	45	8	a cross is on the tower	একটি ক্রুশ টাওয়ারের উপরে রয়েছে
+2329276	70	90	240	139	players in dirt circle	ময়লা বৃত্তের খেলোয়াড়
+245	0	406	67	47	beige stair way going to second level	বেইজ সিঁড়ি উপায় দ্বিতীয় স্তরে যাচ্ছে
+2400274	308	26	148	347	grey concrete cross by the building	বিল্ডিং দ্বারা ধূসর কংক্রিট ক্রস
+2333602	18	280	120	47	block for bench feet	বেঞ্চ ফুট জন্য ব্লক
+2376237	16	56	47	172	location characters are white	অবস্থানের অক্ষরগুলি সাদা
+2322499	5	90	494	408	Brown plastic fast food table	ব্রাউন প্লাস্টিকের ফাস্ট ফুড টেবিল
+2386860	36	70	87	130	The TV and stand in the living room	বসার ঘরে টিভি এবং স্ট্যান্ড
+2337100	95	170	279	328	brown wooden stairs leading to second floor	বাদামি কাঠের সিঁড়ি দিয়ে দোতলা যাওয়া যায়
+2353204	46	353	320	20	very fine fabric and material	খুব সূক্ষ্ম বুনন এবং কাপড়
+2400482	408	58	60	63	do not block intersection sign is above the right lane must turn right sign	ছেদটি অবরোধ করবেন না সাইনটি ডান দিকেই যান সাইন এর উপরে আছে
+2361390	0	102	435	103	The motorcycles are going fast	মোটর সাইকেলগুলো দ্রুত চলছে
+2393790	0	2	328	274	a fence behind the players	খেলোয়াড়দের পিছনে একটি বেড়া
+2321727	401	329	94	30	the date on the photo	ফটোর উপরে তারিখ
+2377265	3	139	177	128	the penalty box is white lined	পেনাল্টি বক্সটি সাদা রেখা দ্বারা চিহ্নিত
+1592386	232	375	172	133	the green sign with red and yellow characters	সবুজ সাইন এর মধ্যে লাল এবং হলুদ হরফ
+2410836	434	43	59	281	A red metal frame forms the half pipe	একটি লাল ধাতব ফ্রেম দিয়ে অর্ধেক পাইপ টি তৈরী 
+2367452	44	373	297	126	shadows of players on court	কোর্টে খেলোয়াড়দের ছায়া
+2328476	220	253	91	52	a red tennis shoe on players foot	খেলোয়াড় এর পায়ে একটি লাল টেনিস জুতো
+2406960	98	388	82	65	clock face on wall date	দেয়াল এর ঘড়িতে তারিখ 
+2398517	450	180	35	47	a group of people watching the baseball players	বেসবল খেলোয়াড়দের দেখছেন একদল লোক
+2327324	207	62	287	270	a woman on the opposite team trying to block the frisbee	বিপক্ষ দলের এক মহিলা ফ্রিসবি আটকানোর চেষ্টা করছেন 
+2350247	219	244	52	33	a white stand on road	রাস্তায় একটি সাদা স্ট্যান্ড
+2375684	82	238	186	83	Concrete forms in pavement	ফুটপাতে কংক্রিট ফর্ম
+2415934	314	89	87	190	man standing next to fruit stand	মানুষটি ফল স্ট্যান্ড এর পাশে দাঁড়িয়ে 
+2375246	326	291	75	35	A bed plastic stamp	বিছানাতে প্লাস্টিকের স্ট্যাম্প
+2378365	3	3	490	370	girl showing cow at fair	মেলায় গরু দেখাচ্ছে মেয়ে
+2350812	395	70	40	54	judge on side of court on blue platform	কোর্ট এর এক পাশে নীল প্লাটফর্ম এ বিচারক 
+1159278	460	86	43	80	The top white cross.	শীর্ষ সাদা ক্রস।
+2351980	284	195	26	29	Dirt on the players pants.	খেলোয়াড়দের প্যান্টের উপর ময়লা।
+2333256	1	318	116	60	chain-linked fence behind players	খেলোয়াড়দের পেছনে চেইন-লিঙ্কযুক্ত বেড়া
+2350626	7	189	45	115	White paper on a black stand	একটি কালো স্ট্যান্ড উপর সাদা কাগজ
+2417756	12	156	65	67	March 7th is the date on the calendar	৭ই মার্চ ক্যালেন্ডারে তারিখ
+2376740	110	216	154	107	Tray of white rice and english muffins	সাদা ভাত এবং ইংলিশ মাফিনের ট্রে
+2379586	88	1	410	119	a iron stand on back	পিছনে একটি লোহার স্ট্যান্ড
+2386240	264	87	22	22	red hat on baseball players head	বেসবল খেলোয়াড় এর মাথায় লাল টুপি 
+2389173	2	470	204	28	black and white tennis court netting	টেনিস কোর্ট এর সাদা এবং কালো জালের বুনানি
+2351014	383	150	47	83	second set of closed umbrellas	বন্ধ ছাতার দ্বিতীয় সেট 
+2406912	149	48	71	142	Bright red semi-gloss block wall	উজ্জ্বল আধা মসৃন লাল দেয়াল ব্লক 
+2403623	32	102	430	225	Three baseball players are in the field.	তিনজন বেসবল খেলোয়াড় মাঠে আছেন 
+2372991	1	45	497	145	A block wall is behind the skate park	স্কেট পার্কের পিছনে একটি ব্লক প্রাচীর রয়েছে
+2369077	371	204	127	71	tail fine view of a red plane	একটি লাল বিমানের লেজ সূক্ষ্ম দর্শন
+2391762	0	50	218	87	a group of ball players practicing	একটি বল খেলোয়াড়দের দল অনুশীলন করছে 
+2395103	95	287	151	152	a fine silver pocket watch	একটি সূক্ষ্ম রুপার পকেট ঘড়ি
+2331852	391	343	94	18	the date stamp in the corner of the pic	ছবিটির কোণায় তারিখ স্ট্যাম্প
+2411887	415	150	30	16	Red circle with white cross under right wing	ডান ডানা নীচে সাদা ক্রস সঙ্গে লাল বৃত্ত
+2372940	176	178	17	10	a metal stand for the flowers	ফুলের জন্য একটি ধাতব স্ট্যান্ড
+2367389	264	5	173	99	A light reflecting on a tie press.	একটি টাই প্রেসে আলো প্রতিফলিত হচ্ছে 
+2413284	294	142	205	65	loose sediment forms on the rocks	পাথরের উপর আলগা পলি ফর্ম
+2325984	46	115	209	189	the hand is going to press a button	হাত একটি বোতাম টিপতে যাচ্ছে
+2385797	102	80	270	65	sign written in english and foreign language	ইংরেজি এবং বিদেশী ভাষায় লিখিত সাইন
+2374718	378	301	78	18	yellow stamp date near bottom	নীচে কাছাকাছি হলুদ স্ট্যাম্প তারিখ
+2325307	31	48	447	238	Street sign on a pole in english and chinese	একটি স্ট্যান্ডের উপরে ইংলিশ এবং চীনা ভাষায় একটি রাস্তার সাইন
+2329236	271	192	225	194	an english muffin sandwich	একটি ইংরেজি মাফিন স্যান্ডউইচ
+1450	66	28	731	293	many utility cables cross over the street	অনেক ইউটিলিটি তারগুলি রাস্তায় অতিক্রম করে
+2377445	152	180	27	14	block sneakers with green laces	সবুজ লেইস সঙ্গে স্নিকার ব্লক
+2406969	0	459	138	39	Brown painted signature and date.	বাদামি স্বাক্ষর এবং তারিখ আঁকা।
+2363198	30	148	456	226	woman is behind the white line of a tennis court	টেনিস কোর্টের সাদা লাইনের পিছনে মহিলা রয়েছেন
+2369378	0	13	499	125	a sign showing cross streets	ক্রস রাস্তা দেখানো একটি চিহ্ন
+2410106	13	20	470	342	farmer's market stand	কৃষকের বাজার স্ট্যান্ড
+2367503	225	253	97	30	banana on the stand	স্ট্যান্ডে কলা
+2335250	266	66	17	7	logo stamp on the door	লোগো স্ট্যাম্প দরজা
+2379069	125	69	127	29	english breakfast tea text	ইংরেজী প্রাতঃরাশের চা পাঠ্য
+2410670	265	46	75	52	Black bike seat with silver springs.	সিলভার স্প্রিংস সহ কালো সাইকেলের সিট।
+2368544	472	38	27	160	white sign with blue asian characters on it	এটিতে নীল এশিয়ান অক্ষরগুলির সাথে সাদা চিহ্ন
+2402553	250	436	47	62	Big springs on the bottom of train.	ট্রেনের নীচে বড় স্প্রিংস।
+2357120	250	183	27	53	Small French coffee press.	ছোট ফরাসি কফি প্রেস।
+2151	356	335	66	53	Landline phone on the night stand	নাইট স্ট্যান্ডে ল্যান্ডলাইন ফোন
+2334195	35	355	140	141	A tin container decorated with Star Wars characters and themes	স্টার ওয়ার্সের অক্ষর এবং থিম দিয়ে সজ্জিত একটি টিনের পাত্রে
+2382842	250	176	21	21	The players shoes are black.	খেলোয়াড়দের জুতো কালো।
+2325296	5	105	92	241	Sis car models on top of each other	একে অপরের শীর্ষে সিস কার মডেল
+2316930	346	319	87	33	date of the recording	রেকর্ডিংয়ের তারিখ
+98	308	89	162	118	a second pizza in a pan	একটি প্যানে দ্বিতীয় পিজ্জা
+2321399	331	270	30	22	cross walk lines on street	রাস্তায় ক্রস ওয়াক লাইন
+2389613	57	10	435	302	two man standing on a tennis court	টেনিস কোর্টে দাঁড়িয়ে দুই ব্যক্তি
+2388082	400	146	68	121	Cell phone is in stand.	সেল ফোন দাঁড়িয়ে আছে।
+2390363	170	320	30	26	Blue section of tennis court	টেনিস কোর্টের ব্লু বিভাগ
+2416274	2	53	371	445	A white plate with english muffins	ইংলিশ মাফিনস সহ একটি সাদা প্লেট
+2375928	43	323	97	65	A block in the wall.	দেয়ালে একটি ব্লক।
+2340196	83	271	35	27	a red sign advertising a fun fair	একটি লাল চিহ্ন একটি মজার মেলার বিজ্ঞাপন
+2367895	136	89	22	39	a cross on the front of a church	একটি গির্জার সামনে ক্রস
+2331903	10	7	237	150	the fence covered in netting at the end of the court	কোর্টের শেষে জাল দিয়ে বেড়ানো ঢাকা বেড়া
+2405987	12	345	226	43	Small section of baseline on a tennis court	টেনিস কোর্টে বেসলাইনের ছোট্ট বিভাগ
+2417029	401	271	98	51	a platter of fine china	সূক্ষ্ম চীন একটি থালা
+1593160	294	333	13	25	Grey cross on a green dome top.	সবুজ গম্বুজ শীর্ষে ধূসর ক্রস।
+2330491	135	239	244	37	fading on the court	কোর্টে বিবর্ণ
+1084	469	417	127	27	The date 01/03/2008 in yellow.	হলুদে ০১/০৩/২০০৮ তারিখ।
+2368538	228	468	99	24	information stamp on image	ছবিতে তথ্য স্ট্যাম্প
+2397557	1	138	497	113	yellow safety tape at a tennis court	টেনিস কোর্টে হলুদ সুরক্ষা টেপ
+337	45	194	421	115	Balconies on the second story of the buildings	বিল্ডিংগুলির দ্বিতীয় গল্পের উপর বালকনিগুলি
+2324295	336	87	10	10	Shades of the second biker	দ্বিতীয় বাইকারের ছায়া
+1159352	663	250	355	254	a small black entertainment stand	একটি ছোট কালো বিনোদন স্ট্যান্ড
+2338288	166	312	137	57	thumb press into a doughnut	একটি ডোনাট মধ্যে থাম্ব প্রেস
+2327351	0	304	332	195	The line on the tennis court is white.	টেনিস কোর্টের লাইনটি সাদা।
+2401899	375	149	83	60	mini hi-fi on small stand	ছোট স্ট্যান্ডে মিনি হাই ফাই
+2357408	316	180	63	56	two people stand next to the boat	দু'জন লোক নৌকার পাশে দাঁড়িয়ে
+2319514	218	248	124	73	an english taxi cab is on the bridge	একটি ইংরেজী ট্যাক্সি ক্যাব ব্রিজের উপরে রয়েছে
+2358735	68	305	107	69	white TV stand on floor	ফ্লোরে সাদা টিভি স্ট্যান্ড
+2376052	32	148	31	38	cross that sits atop the column on the left side	বাম দিকে কলামের উপরে বসে যে ক্রস
+2387464	51	23	412	325	Two baseball players at the plate	প্লেটে দুটি বেসবল খেলোয়াড়
+2361566	374	271	100	35	photo date on right	ডানদিকে ছবির তারিখ
+285872	195	145	509	368	a fine meal on a plate	একটি প্লেটে একটি চমৎকার খাবার
+2315901	73	7	30	149	a glass block window	একটি গ্লাস ব্লক উইন্ডো
+2345168	327	319	137	26	time and date stamp on the picture	ছবিতে সময় এবং তারিখের স্ট্যাম্প
+1886	3	0	364	144	sing is written in chinese and latin characters	গান চীনা এবং লাতিন অক্ষরে লেখা হয়
+2412544	203	449	126	49	fine, pale sand	ঠিক আছে, ফ্যাকাশে বালু
+2327391	6	1	97	67	cone of plane appears dark, shiny and fast	সমতল শঙ্কু অন্ধকার, চকচকে এবং দ্রুত প্রদর্শিত হবে
+2386199	438	227	60	48	round light gray large cement block	গোলাকার হালকা ধূসর বড় সিমেন্ট ব্লক
+2330355	200	142	97	132	Large tv on black stand.	কালো স্ট্যান্ডে বড় টিভি।
+2403138	127	0	115	187	soccer players connect chin and forehead	ফুটবল খেলোয়াড়রা চিবুক এবং কপাল সংযোগ করে
+2384429	198	403	44	67	a round wooden block	একটি বৃত্তাকার কাঠের ব্লক
+2412983	221	13	82	200	a juice press	একটি রস প্রেস
+1965	389	188	388	101	Railing on second floor of building	বিল্ডিংয়ের দ্বিতীয় তলায় রেলিং
+2359087	163	183	37	47	white paper with pictures on stand on the table	টেবিলের উপর স্ট্যান্ডে ছবি সহ সাদা কাগজ
+2318616	78	222	85	74	items for sale in stand	স্ট্যান্ড বিক্রয়ের জন্য আইটেম
+2342056	120	202	54	170	ridged metal pole stand to a large clock	উত্তেজিত ধাতব মেরু একটি বড় ঘড়ির জন্য দাঁড়িয়ে
+2371728	284	56	51	87	Silver metal monitor stand	সিলভার মেটাল মনিটর স্ট্যান্ড
+2319678	2	172	158	97	Landscape shrub models on display	ডিসপ্লেতে ল্যান্ডস্কেপ গুল্ম মডেল
+897	58	68	532	284	these are baseball players	এই বেসবল খেলোয়াড়
+2393786	384	378	111	32	Cinder block base for fence	বেড়া জন্য সিন্ডার ব্লক বেস
+4008	17	273	522	177	A net in between the players	খেলোয়াড়দের মধ্যে একটি নেট
+2395618	180	156	45	29	the blue 28 on the back of the players shirt	প্লেয়ারদের শার্টের পিছনে নীল 28
+2364139	126	245	51	43	the second level of the bus	বাসের দ্বিতীয় স্তর
+2372762	221	29	82	25	characters on the billboard	বিলবোর্ডে অক্ষর
+2321047	321	273	17	32	The bolt underneath the springs.	ঝর্ণার নীচে বল্টু।
+2402319	5	125	102	105	The net on a tennis court	টেনিস কোর্টে নেট
+2368869	253	186	68	108	older dude on bicycle in a country where spanish/english are the official languages	এমন দেশে সাইকেলের উপর বয়স্ক ছেলেমেয়েরা স্প্যানিশ / ইংরেজি সরকারী ভাষা
+2416262	8	9	491	358	Several models hanging in the air in the exhibit	প্রদর্শনীতে বাতাসে ঝুলন্ত বেশ কয়েকটি মডেল
+2376266	146	47	72	84	black utensils in a wooden block	একটি কাঠের ব্লক কালো পাত্রে
+2343822	209	87	28	18	bird second in line	লাইনে পাখি দ্বিতীয়
+2350984	247	145	120	43	english flag printed umbrella	ইংরেজি পতাকা ছাতা ছাতা
+2344429	131	361	26	23	stamp on boy's left hand	ছেলের বাম হাতে স্ট্যাম্প
+2417822	10	9	252	275	person holding a block of ice	বরফের ব্লক ধরে থাকা ব্যক্তি
+2333188	0	74	497	258	large green and purple tennis court	বড় সবুজ এবং বেগুনি টেনিস কোর্ট
+2354514	7	63	170	266	A man taking a picture of the players.	খেলোয়াড়দের ছবি তুলছেন এক ব্যক্তি।
+2400442	243	465	78	32	Yellow time and date stamp	হলুদ সময় এবং তারিখ স্ট্যাম্প
+2372924	196	79	243	91	a fair weather cloud	একটি আবহাওয়া মেঘ
+2352855	373	326	92	17	orange date print	কমলা তারিখ মুদ্রণ
+2412017	13	47	297	181	tennis players shaking hands	টেনিস খেলোয়াড়রা হাত কাঁপছেন
+2315850	136	289	178	83	the block of hay	খড়ের ব্লক
+2381698	95	7	155	171	there is a building behind the court	কোর্টের পিছনে একটি বিল্ডিং রয়েছে
+2324137	40	63	106	290	proprietor of the mobile lemonade stand	মোবাইল লেবুনেড স্ট্যান্ডের স্বত্বাধিকারী
+2342568	413	2	35	153	pole behind second baseman	দ্বিতীয় বেসম্যান পিছনে মেরু
+2391622	1	187	496	139	Net separating a tennis	নেট একটি টেনিস পৃথক
+2362078	18	53	477	441	A table full of fine china.	একটি সূক্ষ্ম চীন পূর্ণ টেবিল।
+2338149	350	45	149	92	The items on the top shelf have painted characters on them	উপরের শেল্ফের আইটেমগুলিতে অক্ষরগুলি আঁকিয়েছে
+2692	90	337	96	90	date palms on the grassy field	ঘাসের মাঠে খেজুর
+2347418	10	255	438	114	ground where bike stand	সাইকেল যেখানে দাঁড়িয়ে আছে
+2357012	275	173	224	55	the players are wearing cleats on their shoes	প্লেয়াররা তাদের জুতোতে ক্লিট পরে আছে
+2379599	0	319	332	124	green shrubbery that forms a circle around the pedestal	পাদদেশের চারপাশে একটি বৃত্ত তৈরি করে এমন সবুজ ঝোপঝাড়
+2323712	304	361	43	19	crosswalk for pedestrians to cross	পথচারীদের পারাপারের জন্য ক্রসওয়াক
+2385344	301	139	155	164	one side is in english	এক দিক ইংরেজিতে
+2356413	103	195	45	75	The water bottle on the stand	স্ট্যান্ডে জলের বোতল
+2375132	275	95	219	196	pair of hands typing fast on keyboard	হাত জোড় কীবোর্ডে টাইপ করা
+2399442	18	29	91	62	second level of building	বিল্ডিং দ্বিতীয় স্তর
+2338281	94	178	102	75	second man looking over first's shoulder	দ্বিতীয় ব্যক্তি প্রথম কাঁধের উপর তাকিয়ে
+2358825	20	37	457	275	The birds are flying fast	পাখিরা দ্রুত উড়ছে
+2410046	385	315	90	50	time stamp in corner of image	চিত্র কোণে সময় স্ট্যাম্প
+2368291	393	163	92	121	light stand beside bed	বিছানার পাশে হালকা স্ট্যান্ড
+2386515	252	445	84	19	date 01/05/2011	তারিখ ০১/০৫/২০১১
+2366005	77	85	104	75	this court is green	এই কোর্ট সবুজ
+2402151	5	215	235	127	a table filled with assorted models and tools	বিভিন্ন মডেল এবং সরঞ্জাম দিয়ে ভরা একটি টেবিল
+2355160	24	112	220	137	The cave the wave forms.	গুহাটি তরঙ্গ গঠন করে।
+2414795	212	138	32	19	baseball players helmet	বেসবল খেলোয়াড় হেলমেট
+2406006	258	221	16	42	Large cross outside of a church.	একটি গির্জার বাইরে বড় ক্রস।
+2372648	4	0	392	361	fence on a baseball court	বেসবল কোর্টে বেড়া
+2341751	18	70	59	95	large green bench press on the table	টেবিলের উপর বড় সবুজ বেঞ্চ প্রেস
+2401623	425	150	62	71	second car attached to train engine	ট্রেন ইঞ্জিনের সাথে সংযুক্ত দ্বিতীয় গাড়ি
+2363712	1	369	331	128	a white line cross walk.	একটি সাদা লাইন ক্রস ওয়াক।
+2414098	26	156	44	29	expiration date in black ink	কালো কালি শেষ হওয়ার তারিখ
+2330166	39	252	390	121	box springs under a bed	একটি বিছানার নীচে বক্স স্প্রিংস
+1159924	236	543	133	108	white graffiti on a stand	স্ট্যান্ডে সাদা গ্রাফিটি
+2335470	210	218	103	81	block behind the woman	মহিলার পিছনে ব্লক
+2410578	291	239	81	35	Glass safety rail on second floor.	দ্বিতীয় তলায় গ্লাস সুরক্ষা রেল।
+2381330	17	228	110	17	White marking on the court	কোর্টে সাদা চিহ্ন
+61514	595	122	36	24	bolt on cross walk sign	ক্রস ওয়াক সাইন উপর বল্টু
+2335671	210	3	117	214	a white line a cross the field	একটি সাদা লাইন একটি ক্ষেত্র পেরিয়ে
+2412679	55	335	290	127	players wearing knee-high socks	খেলোয়াড়রা হাঁটু-উচ্চ মোজা পরা
+1592132	104	317	218	544	second man skiing in snow	তুষার দ্বিতীয় স্কিইং
+2388068	111	175	46	45	a few people about to cross the road	কিছু লোক রাস্তা পার হতে চলেছে
+2343663	106	150	243	267	stop sign in english and farsi	ইংরেজি এবং ফারসি সাইন ইন করুন
+2395361	286	192	29	22	a rounded edged wood block	একটি বৃত্তাকার ধারযুক্ত কাঠের ব্লক
+2350025	400	34	99	185	Television set on wooden stand	কাঠের স্ট্যান্ডে টেলিভিশন সেট
+2417112	2	116	495	210	Four players standing on a tennis court	টেনিস কোর্টে দাঁড়িয়ে চারজন খেলোয়াড়
+2326572	107	242	247	110	the tv stand is blacjk incolor	টিভি স্ট্যান্ডটি ব্ল্যাকজক ইনক্লোর
+2378839	68	23	431	222	a team of good soccor players.	ভাল সকার খেলোয়াড়দের একটি দল।
+2370045	98	369	35	31	the angel is holding a cross shield	দেবদূত একটি ক্রস ঢাল ধরে আছে
+2357981	56	92	15	27	a cross on the top of the building	বিল্ডিংয়ের উপরে একটি ক্রস
+2347856	0	187	115	36	players watch from the dugout	খেলোয়াড়রা ডাগআউট থেকে দেখুন
+2400087	0	0	112	170	stand full of baseball fans	বেসবল ভক্তদের পূর্ণ দাঁড়িয়ে
+2320345	205	133	81	105	The cat is looking at the second cat.	বিড়াল দ্বিতীয় বিড়ালের দিকে তাকাচ্ছে।
+2402386	407	52	84	105	People with umbrellas waiting to cross the street.	রাস্তা পার হওয়ার অপেক্ষায় ছাতাওয়ালা লোকেরা।
+2342217	15	225	27	34	red ground of a tennis court	টেনিস কোর্টের লাল গ্রাউন্ড
+2342149	396	123	26	24	the second hand on the clock	ঘড়ির উপর দ্বিতীয় হাত
+4503	143	563	22	32	the small cross on top of the headstone	হেডস্টোন উপরে ছোট ক্রস
+2401886	9	353	162	124	White cross walk in road	রাস্তায় সাদা ক্রস ওয়াক
+2372170	219	339	153	96	rusty springs beneath 'schwinn'	'স্কুইন' এর নীচে মরিচা ঝর্ণা
+2404753	380	253	90	37	truck has two white Chinese characters	ট্রাক দুটি সাদা চীনা অক্ষর আছে
+2408991	2	156	400	285	a bunch of baseball players waiting for their turn	বেসবল খেলোয়াড়দের একগুচ্ছ তাদের পালনের জন্য অপেক্ষা করছে
+2369722	129	30	270	297	The sign is in arabic and english	সাইন আরবী এবং ইংরেজী ভাষায়
+2404836	265	303	68	70	a copy of vanity fair is displayed	ভ্যানিটি মেলার একটি অনুলিপি প্রদর্শিত হয়
+2365122	130	131	45	31	the fine is 350 usd	জরিমানা 350 ইউএসডি হয়
+2364518	279	120	45	37	a black second hand	একটি কালো দ্বিতীয় হাত
+2378877	325	241	70	57	A postage stamp.	একটি ডাকটিকিট
+2381214	351	65	147	82	advertisement on tennis court	টেনিস কোর্টে বিজ্ঞাপন
+2366619	1	116	284	43	A fruit stand on the sidewalk	ফুটপাতে একটি ফল স্ট্যান্ড
+2377930	25	0	471	225	fair large legion of anti-climate change, 350.org, kites with tails in the overcast sky	জলবায়ু পরিবর্তন বিরোধী ন্যায্য বৃহত্তর সৈন্যদল, 350.org, মেঘলা আকাশে লেজযুক্ত ঘুড়ি
+2331693	162	96	104	163	the banana hanging from the stand	স্ট্যান্ড থেকে কলা ঝুলছে
+2408797	271	112	36	62	a church tower with a cross on the roof	ছাদে ক্রস সহ একটি গির্জার টাওয়ার
+2390438	0	230	175	260	Lid of glass cake stand	কাচের কেক স্ট্যান্ডের ঢাকনা 
+2411641	284	37	76	323	member of opposing team trying to block the shooter's shot	বিরোধী দলের সদস্য শ্যুটারের শটটি ব্লক করার চেষ্টা করছেন
+2361868	289	199	95	53	the stand is stable	স্ট্যান্ড স্থিতিশীল
+2383599	267	199	74	65	batter being poured into a waffle press	তরল কাই ওয়াফল প্রেস এ ঢালা হচ্ছে
+2368389	10	101	110	208	black metal fence behind a tennis court	টেনিস কোর্টের পিছনে কালো ধাতব বেড়া
+2363968	85	268	6	14	cross on the church roof	গির্জার ছাদ উপর ক্রস
+2372447	141	118	105	98	clock on the pole	মেরু উপর ঘড়ি
+2348551	326	180	95	149	the second young lady is wearing capri-style jeans	দ্বিতীয় যুবতী ক্যাপরি স্টাইলের জিন্স পরেছেন
+2408617	1	331	324	167	The blue tennis court	নীল টেনিস কোর্ট
+2368090	125	0	128	72	Angels overlooking the cross	দেবদূতরা ক্রসকে অগ্রাহ্য করে
+2328578	227	10	272	265	black Samsung tv on the tv stand	কালো স্ট্যান্ড স্যামসং টিভি
+2407061	8	216	132	17	Neon green time and date stamp	নিয়ন সবুজ সময় এবং তারিখ স্ট্যাম্প
+2383990	347	38	25	50	the blue handle of a french press	একটি ফরাসি প্রেসের নীল হাতল
+1067	52	226	25	12	an alarm clock on the night stand	নাইট স্ট্যান্ডে একটি অ্যালার্ম ঘড়ি
+2361123	335	157	65	52	Dark colored stand a tv is on.	গাঢ় রঙিন স্ট্যান্ড একটি টিভি চালু আছে।
+1592953	864	226	38	92	second traffic light on pole	স্ট্যান্ডে দ্বিতীয় ট্র্যাফিক আলো 
+2369344	305	296	64	81	Old english writing on board	বোর্ডে পুরানো ইংরেজি লেখা
+2325034	170	155	52	87	this is a coffee press	এটি একটি কফি প্রেস
+2397052	4	242	492	87	Green grass forms the ground.	সবুজ ঘাস মাটি গঠন করে।
+2320559	376	151	103	65	sign laying on the second set of red apples	লাল আপেল এর দ্বিতীয় সেট এর উপর সাইন পড়ে আছে 
+2324781	103	23	15	91	A sign in not english	ইংরাজিতে নয় এমন একটি সাইন
+2339732	413	184	32	40	black remote on the tv stand	টিভি স্ট্যান্ড কালো রিমোট
+2336221	326	250	16	15	Windows logo stamp on laptop.	ল্যাপটপে উইন্ডোজ লোগো স্ট্যাম্প।
+2340502	244	234	64	82	french press coffee maker on the table	টেবিলে ফ্রেঞ্চ প্রেস কফি প্রস্তুতকারক 
+2369177	243	189	217	120	Black stand with microphone	মাইক্রোফোন দিয়ে কালো স্ট্যান্ড
+2413037	232	110	64	71	little white english car with vertical oblong taillights	উল্লম্ব বিভাজন টেইলাইট সহ ছোট সাদা ইংলিশ গাড়ি
+2410125	3	1	494	360	aqua press wall with white advertising signs	সাদা বিজ্ঞাপনের লক্ষণ সহ একোয়া প্রেস ওয়াল
+2409512	164	100	310	249	Soccer players on field.	মাঠে সকার খেলোয়াড়রা।
+2316826	0	448	330	51	Top of net on tennis court	টেনিস কোর্টে নেট শীর্ষ
+2399636	86	26	280	322	Coming fast around the bend	বাঁক এর পাশে দ্রুতগতিতে আসছে 
+2402111	5	80	494	90	Blue border around tennis court	টেনিস কোর্টের চারপাশে নীল সীমানা
+2333209	172	345	131	84	ink stamp print	কালি স্ট্যাম্প প্রিন্ট
+2345376	202	105	67	75	yellow sticker with asian characters	এশিয়ান অক্ষরের সাথে হলুদ স্টিকার
+2375568	334	112	82	95	second seat on motorcycle	মোটরসাইকেলের দ্বিতীয় আসন
+2378217	27	43	403	330	four female soccer players on a grassy field	ঘাসের মাঠে চারজন মহিলা ফুটবল খেলোয়াড়
+2376716	79	289	30	14	date 2008 printed on the label	তারিখ 2008 লেবেলে মুদ্রিত
+2403723	3	226	362	263	grass tennis court	গ্রাস টেনিস কোর্ট
+2392536	222	156	57	32	colored springs on truck	ট্রাকে রঙিন স্প্রিং
+2378024	3	2	310	317	white cement block wall	সাদা সিমেন্ট ব্লক প্রাচীর
+2410318	136	300	60	25	a cats closed eye forms a slit	একটি বিড়াল বদ্ধ চোখ একটি চেরা গঠন
+2335830	8	98	53	98	the judge's chair by the court	কোর্ট এর পাশে বিচারক এর চেয়ার
+2384592	211	3	87	320	a white surfboard stand next to yellow one	হলুদ রঙের পাশে একটি সাদা সার্ফবোর্ড
+2329518	132	242	92	63	a layer of fine sweet chocolate	সূক্ষ্ম মিষ্টি চকোলেট একটি স্তর
+2378390	124	472	102	21	the watermark is a block font	ওয়াটারমার্ক একটি ব্লক ফন্ট
+2410316	50	165	138	60	red second hand on top of other hands	অন্য কাঁটার উপর লাল সেকেন্ডের কাঁটা
+2365162	205	391	71	45	long fine hairs on chin	চিবুকের উপর দীর্ঘ সূক্ষ্ম চুল
+2361124	3	322	328	171	Single white line drawn on tennis court	টেনিস কোর্টে টানা একক সাদা লাইন
+2345137	305	213	19	10	a red cross decal	একটি রেড ক্রস ডেসাল
+2336635	337	214	44	58	Blue garbage can on second floor.	নীল আবর্জনা দ্বিতীয় তলায় করতে পারেন।
+2353095	267	29	43	69	front of military plane is pointed and fast	সামরিক বিমানের সামনে পয়েন্ট এবং দ্রুত হয়
+2318516	11	343	159	25	signature of artist and date	শিল্পীর স্বাক্ষর এবং তারিখ
+2351588	417	114	55	38	book of forms on desk	ডেস্কে ফর্ম বই
+285649	246	587	164	326	Silver french press coffee maker	সিলভার ফরাসি প্রেস কফি প্রস্তুতকারক
+2390413	359	307	130	45	orange date stamp on photo	ছবির উপর কমলা তারিখ স্ট্যাম্প
+2334284	146	5	112	197	woman in back of a court	কোর্টের পিছনে মহিলা
+2384595	307	484	62	14	the date of the picture	ছবির তারিখ
+2385924	300	233	72	20	gray color on court	কোর্টে ধূসর রঙ
+2384671	381	117	97	50	small models boats on TV	ছোট মডেল টিভিতে নৌকা
+34	417	32	256	96	glass block privacy wall	কাচ ব্লক গোপনীয়তা প্রাচীর
+4455	9	448	791	199	red painted lines on wooden court floor	কাঠের কোর্ট ফ্লোরে লাল আঁকা লাইন
+2359855	309	36	20	14	red cross with a white background	একটি সাদা পটভূমি সঙ্গে রেড ক্রস
+2316660	101	24	242	235	soccer players in a light blue uniforms	হালকা নীল রঙের ইউনিফর্মে ফুটবল খেলোয়াড়
+2401911	41	30	423	314	car moving incredibly fast	অবিশ্বাস্যভাবে দ্রুত গাড়ী চলমান
+2355674	166	208	80	35	a small dark brown night stand	একটি ছোট গাঢ় বাদামী নাইট স্ট্যান্ড
+2384333	281	150	108	83	a sign in a language that isn't English	ইংরাজী নয় এমন একটি ভাষায় সাইন
+2334717	43	205	107	138	silver and black French press coffee pot	সিলভার এবং কালো ফরাসি প্রেস কফি পাত্র
+2390414	373	239	61	63	green bench on court	কোর্টে সবুজ বেঞ্চ
+1160010	436	340	43	63	pendent on a fine chain	একটি সূক্ষ্ম চেইন উপর দুল
+2372313	4	1	493	370	Paper forms on the table.	টেবিলে কাগজের ফর্মগুলি।
+2362923	438	34	60	276	A ball girl at the back of a tennis court	টেনিস কোর্টের পিছনে একটি বালিকা
+2354643	18	12	334	358	Thick white wooden cross.	ঘন সাদা কাঠের ক্রস।
+3956	337	177	36	39	the second cushioned seat	দ্বিতীয় কুশনযুক্ত আসন
+2390396	33	258	30	112	A black barrier stand.	একটি কালো বাধা স্ট্যান্ড।
+2361310	5	231	326	97	green surface surrounding tennis court	টেনিস কোর্টের চারপাশে সবুজ পৃষ্ঠ
+2327197	0	312	392	41	Silhouette of tennis player on court.	কোর্টে টেনিস খেলোয়াড়ের সিলুয়েট।
+2008	333	427	58	37	black electric clock on night stand	নাইট স্ট্যান্ডে কালো বৈদ্যুতিন ঘড়ি
+2397773	237	5	218	304	a skate boarder going fast	একজন স্কেট বোর্ডার দ্রুত যাচ্ছেন
+2414612	311	242	142	35	5 cars of varying models parked on the street	রাস্তায় পার্কিং বিভিন্ন মডেলের 5 টি গাড়ি
+2322321	25	0	467	331	Signs on signpost naming streets and block numbers	সাইনপোস্ট নামকরণ রাস্তায় এবং ব্লক নম্বরগুলিতে চিহ্ন
+2332004	214	399	136	98	big hairy fair laps	বড় লোমশ ফর্সা কোল
+2406074	95	126	71	25	white edge of white tennis court	সাদা টেনিস কোর্ট সাদা প্রান্ত
+2338298	336	341	152	33	name and date in the corner	কোণে নাম এবং তারিখ
+2318170	12	245	376	127	yellowish green grass over fine tan sand	সূক্ষ্ম ট্যান বালির উপরে হলুদ সবুজ ঘাস
+2373554	168	43	135	227	small child cross country skiing	ছোট শিশু ক্রস কান্ট্রি স্কিইং
+713415	378	22	235	254	a net divides the court	একটি নেট কোর্ট বিভক্ত
+2350151	107	174	115	199	walking so fast person is captured as a blur	এত তাড়াতাড়ি হাঁটলে একজন মানুষকে ঝাপসা হয়ে যায়
+2051	50	336	50	97	the knife block is filled	ছুরির ব্লকটি ভরে গেছে
+2324417	255	168	159	145	Long forks and springs	দীর্ঘ কাঁটাচামচ এবং ঝর্ণা
+2402258	281	114	209	91	baseball players dressed in red and gray	বেসবল খেলোয়াড়রা লাল এবং ধূসর পোশাকে
+2966	339	182	101	252	second paper notice in a row	পরপর দ্বিতীয় কাগজ নোটিশ
+713626	264	38	646	93	second story seating area	দ্বিতীয় গল্পের বসার জায়গা
+2373225	190	83	303	267	a cross country skier bending low	কম ক্রস কান্ট্রি স্কাইয়ার
+2383964	2	361	330	42	Shadow running across a tennis court	টেনিস কোর্ট জুড়ে ছায়া চলছে
+2384783	228	141	170	47	Coolers in front of the players.	খেলোয়াড়দের সামনে কুলার।
+2319737	174	70	56	55	Cartoon characters on top of the building.	বিল্ডিংয়ের উপরে কার্টুন চরিত্রগুলি।
+2347557	51	60	95	249	black lamp with floor stand	মেঝে স্ট্যান্ড সহ কালো বাতি
+498231	47	42	127	229	Security officer making sure everyone is safe at the fair	সুরক্ষার আধিকারিক নিশ্চিত করছেন মেলায় সবাই নিরাপদে আছেন
+2379450	345	158	62	38	the springs are silver	ঝর্ণা রূপা হয়
+2322139	380	87	20	35	sticker is blue+white and i think written in English+kanji	স্টিকারটি নীল + সাদা এবং আমার মনে হয় ইংরেজিতে + কঞ্জি লেখা আছে
+2414804	112	263	100	82	a white sign not in English	একটি সাদা চিহ্ন ইংরাজীতে নয়
+2375544	345	282	120	97	man working at stand	লোক স্ট্যান্ড এ কাজ
+2353573	216	74	78	300	man standing in a tennis court	টেনিস কোর্টে দাঁড়িয়ে লোক
+2325870	275	118	11	9	black band on players wrist	খেলোয়াড়ের কব্জিতে কালো ব্যান্ড
+2398026	430	296	67	22	Name and date on the bottom right corner.	নীচে ডান কোণে নাম এবং তারিখ।
+2410913	298	152	111	17	red second hand	লাল দ্বিতীয় হাত
+2379558	110	449	38	27	orange line on court	কোর্টে কমলা রেখা
+2362255	192	94	39	21	date on the screen	পর্দায় তারিখ
+2381949	54	8	88	37	Baseball cap to block sun	বেসবল ক্যাপ রোদে ব্লক
+2384893	180	235	64	34	a missing cider block opening to the outside	বাইরে থেকে একটি অনুপস্থিত সাইডার ব্লক
+2372700	227	110	12	17	a cross on the top of the church	গির্জার উপরে একটি ক্রস
+2405647	465	242	30	73	green grass by tennis court	টেনিস কোর্ট দ্বারা সবুজ ঘাস
+2330833	1	101	481	205	Some traffic is moving very fast	কিছু ট্র্যাফিক খুব দ্রুত চলছে
+2416323	231	52	68	69	Large blue flag above the entire fair	পুরো মেলার উপরে বড় বড় নীল পতাকা
+2359829	1	188	240	141	A crack on the court	কোর্টে একটি ফাটল
+2405015	211	165	94	29	The tennis players arm extended.	টেনিস খেলোয়াড়দের হাত বাড়ানো।
+2359275	201	225	30	57	concrete block near street.	রাস্তার কাছে কংক্রিট ব্লক
+2335249	233	1	73	50	Number of court on the wall.	দেয়ালে কোর্টের সংখ্যা।
+2417491	211	119	29	16	wooden sign with white letters on second bus	দ্বিতীয় বাসে সাদা বর্ণের সাথে কাঠের চিহ্ন
+2406837	115	134	120	130	exte stamp on yellow metal	হলুদ ধাতু উপর স্ট্যাম্প exte
+2407279	40	210	210	115	tree root jutting out in jagged forms	ঝাঁকুনিযুক্ত ফর্মগুলিতে গাছের শিকড় কাটছে
+1159354	479	266	138	117	microphones are lined up on stand	মাইক্রোফোনগুলি স্ট্যান্ডে রেখাযুক্ত থাকে
+2341591	352	121	66	61	the white cross on the flag	পতাকা সাদা ক্রস
+2361960	51	180	30	8	the yellow block in the parking stall	পার্কিং স্টলে হলুদ ব্লক
+2391408	383	224	51	51	a sign that forms an X	এমন একটি চিহ্ন যা একটি এক্স গঠন করে
+2365585	0	160	266	43	Land forms in the distance	দূরত্বে জমি ফর্ম
+2319209	6	155	478	185	playing on green and blue court	সবুজ এবং নীল কোর্টে বাজানো
+2396952	147	82	181	232	the sport is cross country	খেলাটি ক্রস কান্ট্রি
+2329004	3	4	79	494	this wall forms a stall	এই প্রাচীর একটি স্টল গঠন
+107937	185	357	213	244	A metal and stone column holding a bell and cross.	একটি ধাতু এবং পাথর কলাম একটি ঘন্টা এবং ক্রস ধারণ করে।
+2414300	138	272	134	124	a tea set on a wooden stand	একটি কাঠের স্ট্যান্ডে একটি চা সেট
+2320665	52	68	405	235	this is a press conference	এটি একটি সংবাদ সম্মেলন
+2386241	130	146	368	43	second airplane leaves smoke trail	দ্বিতীয় বিমান ধোঁয়া ট্রেল ছেড়ে
+285873	496	497	200	102	white characters on the street	রাস্তায় সাদা অক্ষর
+2363931	36	75	432	139	people eating fast food	লোকেরা ফাস্টফুড খাচ্ছে
+2320039	343	366	124	33	date in the corner	কোণে তারিখ
+2369533	184	183	70	62	Silver cross necklace	সিলভার ক্রস নেকলেস
+2329623	378	112	95	50	block of snow on a hill	একটি পাহাড়ে তুষার ব্লক
+2409866	0	0	250	71	a red and white county fair tent	একটি লাল এবং সাদা কাউন্টি ফর্সা তাঁবু
+2392445	354	189	145	52	long fine whiskers on a cat	একটি বিড়াল উপর দীর্ঘ সূক্ষ্ম ফিসফিসার
+2374284	88	2	45	131	man in a white hat on the tennis court	টেনিস কোর্টে একটি সাদা টুপি লোক
+2412365	340	413	78	74	a man in a yellow t-shirt sitting cross-legged	হলুদ টি-শার্টের এক লোক ক্রস লেগে বসে আছে
+2317625	8	18	481	57	long single block in row	সারিবদ্ধ দীর্ঘ একক ব্লক
+2387873	207	246	44	123	Two fine drinking glasses	দুটো সূক্ষ্ম মদ্যপান
+2340476	0	0	497	330	green baseball field with players on it	গ্রিন বেসবল মাঠে এটি খেলোয়াড়দের সাথে
+2400829	186	27	50	74	Man stand in crane	মানুষ ক্রেনে দাঁড়িয়ে আছে
+2336320	194	212	11	12	The characters 9F on the side of a plane	একটি বিমানের পাশে 9F অক্ষর
+2417918	90	98	301	238	English city bus on the road	রাস্তায় ইংলিশ সিটি বাস
+2384961	180	244	53	100	the date is probably somehow, somewhat primitively digitally conveyed	তারিখটি সম্ভবত একরকম, কিছুটা প্রাথমিকভাবে ডিজিটালভাবে জানানো হয়েছে
+2333175	106	220	232	104	blue plastic hot dog stand	নীল প্লাস্টিকের হট ডগ স্ট্যান্ড
+2351910	432	88	65	165	A dirty white dish towel with red cross stripes	রেড ক্রস স্ট্রাইপযুক্ত একটি নোংরা সাদা ডিশ তোয়ালে
+2377804	27	33	254	463	Two baseball players talking to each other	দুই বেসবল খেলোয়াড় একে অপরের সাথে কথা বলছে
+2344870	46	217	269	28	long net across the court	কোর্ট জুড়ে দীর্ঘ নেট
+2376708	42	193	49	70	a person cross country skiing in the background	একজন ব্যক্তি পটভূমিতে দেশ স্কিইং ক্রস করে
+2409743	20	56	461	242	baseball players on field	মাঠে বেসবল খেলোয়াড়
+713739	742	312	43	122	Yellow and black pole with a yellow cross.	একটি হলুদ ক্রস সহ হলুদ এবং কালো পোল।
+2379722	255	315	34	75	A white box with a red cross.	একটি লাল ক্রসযুক্ত একটি সাদা বাক্স।
+2403093	94	76	199	109	Bread dough cross hatched design	রুটি ময়দার ক্রস হ্যাচড ডিজাইন
+2335387	0	109	478	316	White boundary lines on the tennis court.	টেনিস কোর্টে সাদা সীমানা লাইন।
+2353410	124	80	374	275	waves forms behind the boat	তরঙ্গ নৌকা পিছনে ফর্ম
+3014	190	212	61	104	second floor balcony	দ্বিতীয় তল বারান্দা
+2404539	6	4	351	301	fast food hot dogs and onion rings	ফাস্ট ফুড হট কুকুর এবং পেঁয়াজ রিং
+2412156	343	307	155	14	Time date stamp is bottom right	সময় তারিখ স্ট্যাম্প নীচে ডান
+2375576	385	316	95	29	12/22/2006 date stamp	12/22/2006 তারিখ স্ট্যাম্প
+2368566	1	244	326	248	fine grey gravel under players' legs	খেলোয়াড়দের পায়ের নীচে জরিমানা ধূসর কঙ্কর
+2356436	12	149	21	75	lamp stand light	বাতি স্ট্যান্ড আলো
+2325259	3	5	487	395	a professional tennis court	একটি পেশাদার টেনিস কোর্ট
+2357383	29	12	255	266	Tall date palm	লম্বা খেজুর
+2400592	9	157	128	204	Dresser with dinosaur models on top	শীর্ষে ডাইনোসর মডেল সহ ড্র্রেসার
+2384140	284	398	133	62	top of tennis court	টেনিস কোর্ট শীর্ষ
+2417690	135	152	183	333	Woman dressed as a maiden at the fair	মেলায় প্রথম মেয়েটির পোশাক পরা মহিলা
+2362896	65	35	211	138	characters apart on stage set	মঞ্চে সেট অক্ষর পৃথক
+2370406	160	180	81	23	Chinese characters on the back of the truck	ট্রাকের পেছনে চীনা অক্ষর
+2410877	36	33	312	264	fast blue and white train	দ্রুত নীল এবং সাদা ট্রেন
+2398066	125	115	105	39	players name on his shirt	তার শার্টে খেলোয়াড়দের নাম
+2408497	2	10	293	315	College baseball players on the field.	মাঠে কলেজ বেসবল খেলোয়াড়।
+2369623	233	342	66	48	blue court on the ground	মাটিতে নীল কোর্ট
+2321955	395	300	104	70	Two toasted English muffins on a plate.	একটি প্লেটে দুটি টোস্টেড ইংলিশ মাফিনস।
+3028	399	297	41	56	Bag on the cement block	সিমেন্ট ব্লকে ব্যাগ
+2321520	238	346	44	43	flower on ice block	আইস ব্লকে ফুল
+2380912	30	53	465	262	yellow tennis balls on court	কোর্টে হলুদ টেনিস বল
+1592702	236	446	57	234	A person waiting to cross the street	রাস্তা পার হওয়ার অপেক্ষায় থাকা এক ব্যক্তি
+2390885	278	23	210	302	tan colored brick block wall	ট্যান রঙিন ইট ব্লক প্রাচীর
+2384018	88	132	272	367	A dark wooden cross with a small sign attached	একটি গাঢ় কাঠের ক্রস যার সাথে একটি ছোট চিহ্ন যুক্ত রয়েছে
+2333262	255	77	196	255	A clock with cartoon characters on	কার্টুন চরিত্রগুলি সহ একটি ঘড়ি
+2361309	413	227	61	35	rocky and rectangular block with openings on dirt	ময়লা উপর খোলার সঙ্গে পাথুরে এবং আয়তক্ষেত্রাকার ব্লক
+2348313	245	46	92	257	adult on a tennis court	টেনিস কোর্টে প্রাপ্তবয়স্ক
+2332205	270	185	18	37	Knives in a wooden block on the countertop.	কাউন্টারটপের একটি কাঠের ব্লকে ছুরিগুলি।
+2328080	412	77	51	92	leg of the second person	দ্বিতীয় ব্যক্তির পা
+2355303	302	59	196	45	awning for food stand	খাদ্য স্ট্যান্ড জন্য সজাগ
+2344140	40	110	29	28	Knives in a wooden block behind the stove.	চুলার পিছনে কাঠের ব্লকে ছুরি।
+2352554	458	32	32	68	a red newspaper stand	একটি লাল সংবাদপত্র স্ট্যান্ড
+1591900	9	59	192	168	Brown block and white house with pitched black roof.	কালো ছাদযুক্ত ব্রাউন ব্লক এবং সাদা ঘর।
+2356081	205	0	285	367	The train is traveling in fair weather	ট্রেনটি ন্যায্য আবহাওয়ায় ভ্রমণ করছে
+2317733	158	130	222	129	fast food on white plate	সাদা প্লেটে ফাস্টফুড
+2377017	305	120	32	17	air forces flag	বিমান বাহিনী পতাকা
+2321584	152	224	50	42	some watery plant forms	কিছু জলযুক্ত উদ্ভিদ ফর্ম
+2350744	50	160	82	40	curves of forms worn over shoes on snowboard	স্নোবোর্ডে জুতো পরে ফর্মের বক্ররেখা
+2380515	148	40	82	183	woman sitting on a stone block	পাথরের ব্লকে বসে মহিলা 
+2393060	305	181	44	165	black lamb second from right	ডান থেকে দ্বিতীয় মেষশাবক
+2352715	325	108	64	81	blue wall of the court	কোর্টের নীল প্রাচীর
+2405459	83	210	94	69	a wood night stand.	একটি কাঠ নাইট স্ট্যান্ড
+2329457	1	255	124	47	the wall is cement block	প্রাচীর সিমেন্ট ব্লক
+2415725	401	320	95	41	the court is dark blue	কোর্ট গাঢ় নীল
+2358061	185	363	54	35	The man's black shadow on the court	কোর্টে লোকটির কালো ছায়া
+2317741	140	77	105	260	Woman standing on tennis court	টেনিস কোর্টে দাঁড়িয়ে মহিলা
+2367009	209	213	58	132	a music stand on a curb	একটি সংকোচনের উপর একটি সঙ্গীত স্ট্যান্ড
+2344553	265	152	70	68	a weed growing up from the tennis court	টেনিস কোর্ট থেকে আগাছা বাড়ছে
+2323571	71	127	33	35	The military plane has a cross on the tail.	সামরিক বিমানের লেজটিতে একটি ক্রস রয়েছে।
+2350390	87	121	71	62	small food press on stove	চুলায় ছোট খাবার প্রেস
+2399251	303	147	36	30	two bicyclists waiting to cross intersection	চৌরাস্তা পার হওয়ার অপেক্ষায় দুজন সাইকেল চালক
+2325421	286	38	37	29	cross nailed to a wall	ক্রস একটি প্রাচীরে গাঁথা
+2372859	457	203	42	63	Wooden butcher block on kitchen sink.	রান্নাঘরের বেসিন এর উপর কাঠের বুচার ব্লক
+2401690	134	178	32	11	three black Japanese characters	তিনটি কালো জাপানি অক্ষর
+2403021	276	50	92	71	microphone on angled stand	কোণযুক্ত স্ট্যান্ডে মাইক্রোফোন
+2393138	334	58	85	121	Look of concentration on game players face	গেম খেলোয়াড়দের মুখের প্রতি একাগ্রতার চেহারা
+2327413	237	137	53	47	blue cross on front of car	গাড়ির সামনে নীল ক্রস
+2395014	58	196	124	177	the blue painted do not cross line on the train platform	নীল রঙে আঁকা ট্রেনের প্ল্যাটফর্মে লাইনটি অতিক্রম করে না
+2353370	2	0	496	332	tennis match in progress on outdoor court	আউটডোর কোর্টে টেনিস ম্যাচ চলছে
+2330959	92	7	286	277	Two men on a tennis court playing tennis	টেনিস খেলতে টেনিস কোর্টে দুজন লোক
+2356398	27	4	84	204	wood block of knives	ছুরির কাঠের ব্লক
+498221	27	486	90	20	A block of brown stones.	বাদামী পাথর একটি ব্লক।
+2316200	290	4	92	76	players' names in black on yellow background	হলুদ পটভূমিতে কালো রঙের প্লেয়ারদের নাম
+2332490	40	397	181	101	an off white set of box springs	বক্স স্প্রিংস একটি সাদা সাদা সেট
+2366228	324	458	67	40	Blue characters on a white background	একটি সাদা পটভূমিতে নীল অক্ষর
+2359943	224	46	210	200	TV on the stand.	স্ট্যান্ডে টিভি।
+2378831	320	242	57	25	Yellow ball on the court.	কোর্টে হলুদ বল।
+2367954	191	247	30	84	Electrical wire stand	বৈদ্যুতিক তারের স্ট্যান্ড
+713613	437	126	55	82	cross made of stone	পাথরের তৈরি ক্রস
+2324038	132	231	20	41	The traffic light has a red cross.	ট্র্যাফিক লাইটের একটি রেড ক্রস রয়েছে।
+2356820	351	150	36	66	ball on a tennis court	টেনিস কোর্টে বল
+2416779	58	253	316	128	cross walk area painted on the street	রাস্তায় আঁকা ক্রস ওয়াক এরিয়া
+2351277	0	381	327	110	Brown stand holding bananas.	কলা বাদামী স্ট্যান্ড।
+2327715	19	111	125	220	the line that shows foul or fair	লাইনটি অশ্লীল বা ফর্সা দেখায়
+2355369	450	37	10	12	Knob above knife block	ছুরি ব্লক উপরে গিঁট
+2321307	373	315	104	22	A time stamp on a video.	একটি ভিডিওতে টাইম স্ট্যাম্প।
+2324167	100	93	60	61	a clock on a glass stand	কাচের স্ট্যান্ডের একটি ঘড়ি
+2334424	222	76	145	250	One person on the court	কোর্টে একজন ব্যক্তি
+2357480	200	150	126	82	Road block submerged by water	জলে নিমজ্জিত রোড ব্লক
+2353698	0	207	494	165	tennis court floor is blue	টেনিস কোর্ট ফ্লোর নীল
+2396106	63	0	200	332	baseball players signing autographs	বেসবল খেলোয়াড় অটোগ্রাফ স্বাক্ষর
+2347268	0	0	173	241	fine metal safety netting	সূক্ষ্ম ধাতু সুরক্ষা জাল
+2355690	118	37	380	315	An audience witnessing a press conference	এক সংবাদ সম্মেলনের সাক্ষী শ্রোতা
+2409566	61	3	279	49	players in team dugout	টীম ডাগআউট এ খেলোয়াড়রা
+2351176	55	21	112	62	white frisbee in players hands	খেলোয়াড়দের হাতে সাদা ফ্রিসবি
+2364176	292	321	167	31	time and date stamp	সময় এবং তারিখ স্ট্যাম্প
+2395657	340	167	71	75	A TV stand	একটি টিভি স্ট্যান্ড
+2329859	126	137	42	18	The time stamp display window on the meter on the left.	বামদিকে মিটারে সময় স্ট্যাম্প প্রদর্শন উইন্ডো।
+2335046	30	3	130	116	a wooden block of knives	ছুরি একটি কাঠের ব্লক
+2356165	0	122	420	35	a second story railing	একটি দ্বিতীয় গল্প রেলিং
+2372171	316	12	174	142	This is a picture of Chinese characters	এটি চাইনিজ চরিত্রগুলির একটি ছবি
+2413506	87	70	331	160	fast super jet hovers in the sky	দ্রুত সুপার জেট আকাশে ঘোরাফেরা করে
+498294	422	168	406	392	the players are moving	খেলোয়াড়রা চলাফেরা করছে
+2323211	37	81	436	205	two guys in the background are observing the movements of the players	পটভূমির দু'জন খেলোয়াড় খেলোয়াড়দের চলন পর্যবেক্ষণ করছে 
+2371402	344	212	33	19	Curled metal legs on a candle stand	একটি মোমবাতি স্ট্যান্ডের উপর কার্ল ধাতব পা
+2340794	394	91	104	71	two players watching the batter	দুই খেলোয়াড় ব্যাটার দেখছেন
+2335347	318	102	127	58	fine white spray against nose of craft	নৈপুণ্যের নাকের বিরুদ্ধে সূক্ষ্ম সাদা স্প্রে
+2358292	0	370	372	124	Brown tennis court floor	ব্রাউন টেনিস কোর্ট ফ্লোর
+1809	10	106	588	564	cross on top of church	গির্জার উপরে ক্রস
+2413611	424	314	57	12	copyright and date	কপিরাইট এবং তারিখ
+2404051	106	163	370	155	A sign for the 550 west block of Bliss Ct.	ব্লিস সিটি-এর 550 পশ্চিম ব্লকের জন্য একটি চিহ্ন।
+2361073	0	91	128	181	Opponent Reaching Out to block	প্রতিপক্ষ ব্লক করতে পৌঁছেছে
+2343947	23	156	175	167	Laptop on a stand	একটি স্ট্যান্ডে ল্যাপটপ
+2403343	47	100	437	230	a wooden block sitting on the table	টেবিলের উপর বসে একটি কাঠের ব্লক
+2404210	11	351	99	129	Part of the tennis court is green.	টেনিস কোর্টের কিছু অংশ সবুজ।
+2334619	137	163	80	55	two players in orange and white sitting on sidelines	কমলা এবং সাদা দুই খেলোয়াড় সাইড লাইনে বসে on
+2403331	391	284	70	22	date stamp of photo	ছবির তারিখ স্ট্যাম্প
+2341674	275	191	41	140	a pole of a lamp stand	একটি বাতি স্ট্যান্ডের একটি খুঁটি
+3037	38	241	44	71	the door of second floor is brown	দ্বিতীয় তলার দরজাটি বাদামী
+2324756	156	264	52	47	Front wheel on second white truck.	দ্বিতীয় সাদা ট্রাকে সম্মুখ চাকা।
+2387901	101	104	132	269	the second gold horse	দ্বিতীয় সোনার ঘোড়া
+2342478	308	445	39	24	A small grey block on the median	মিডিয়ানের উপর একটি ছোট ধূসর ব্লক
+2367064	104	115	240	211	Woman on a tennis court	টেনিস কোর্টে মহিলা
+2346968	149	71	75	15	red characters on top of blue building	নীল ভবনের উপরে লাল অক্ষর
+2412966	97	100	225	137	the collar decoration of a fair isle type sweater	ফেয়ার আইল টাইপের সোয়েটারের কলার সজ্জা
+1592639	460	138	118	243	Woman wearing a cross on her neck	গলায় ক্রস পরা মহিলা
+2338340	128	255	112	154	a colorful display lighted characters	একটি বর্ণময় প্রদর্শন আলোকিত অক্ষর
+2352539	69	68	50	15	The second train car	দ্বিতীয় ট্রেনের গাড়ি
+2413616	145	95	71	59	the players arm is ready to throw	খেলোয়াড়দের হাত ছুঁড়ে ফেলার জন্য প্রস্তুত
+2412842	348	342	117	15	date and time stamp in corner	কোণে তারিখ এবং সময় স্ট্যাম্প
+2410158	145	50	145	101	Two characters on the television	টেলিভিশনে দুটি চরিত্র
+2329919	0	1	499	322	blue net around tennis court	টেনিস কোর্ট কাছাকাছি নীল নেট
+3856	2	275	528	254	a block paved sidewalk	একটি ব্লক প্রশস্ত ফুটপাথ
+2324562	227	86	54	84	a orange bottle in stand	স্ট্যান্ডে কমলা বোতল
+2407138	192	182	58	38	The items of the second rack	দ্বিতীয় রাকের আইটেম
+2386894	129	363	148	57	tan grey fine sand	ট্যান ধূসর সূক্ষ্ম বালি
+285618	428	9	318	105	fence in back of the court	কোর্টের পিছনে বেড়া
+2390051	236	14	227	61	five glass vases on the stand	স্ট্যান্ডে পাঁচটি কাচের ফুলদানি
+2337001	272	278	70	53	white Asian language characters painted on middle of street	রাস্তার মাঝখানে আঁকা সাদা এশিয়ান ভাষার অক্ষর
+2409341	246	196	33	46	second leaf from left	বাম থেকে দ্বিতীয় পাতা
+2364607	224	23	273	158	white fast logo in corner	কোণে সাদা দ্রুত লোগো
+2356097	318	174	22	33	a large concrete block	একটি বড় কংক্রিট ব্লক
+2377001	21	185	29	27	a player on second base	দ্বিতীয় বেস একটি প্লেয়ার
+2389704	150	90	95	95	fondant characters on cake	কেক উপর অনুরাগী চরিত্র
+2333421	212	129	42	23	grey characters on a sign	একটি চিহ্ন উপর ধূসর অক্ষর
+2328854	137	98	112	248	Red tie with Peanuts characters	চিনাবাদামের অক্ষরগুলির সাথে লাল টাই
+2413169	283	248	52	53	press here sticker on paw	পাঞ্জা এখানে স্টিকার প্রেস
+2350348	157	201	340	170	a sign in a zoo, written in catalan - spanish – english	চিড়িয়াখানায় একটি চিহ্ন, নিখুঁত - স্প্যানিশ - ইংরেজি লেখা
+150277	7	639	267	124	White letters and numbers, indicating date and photographer.	শ্বেত অক্ষর এবং সংখ্যা, ইঙ্গিত করে তারিখ এবং ফটোগ্রাফার।
+2367585	316	60	36	111	window on second level	দ্বিতীয় স্তরের উইন্ডো
+2378871	338	341	142	16	yellow date and time stamp	হলুদ তারিখ এবং সময় স্ট্যাম্প
+2349738	110	102	265	240	players playing base ball on field	খেলোয়াড়রা মাঠে বেস বল খেলছেন
+2317376	17	89	228	220	a black fine tooth comb	একটি কালো সূক্ষ্ম দাঁত চিরুনি
+2010	534	426	264	169	a second daybed in room	রুমে একটি দ্বিতীয় দিন
+2391590	9	258	194	128	lots of kick+grab marks on white wall below blurry words of graffiti [likely not in english]	গ্রাফিতির অস্পষ্ট শব্দের নীচে সাদা দেয়ালে প্রচুর কিক + দখল চিহ্ন [সম্ভবত ইংরেজিতে নয়]
+2403980	257	26	206	80	people enjoying themselves at the fair	মানুষ মেলায় নিজেকে উপভোগ করছে
+2408076	28	29	326	386	bananas and oranges on fruit stand	কলা এবং কমলা ফলের স্ট্যান্ডে
+2374204	447	206	45	65	A small food stand on wheels.	চাকা উপর একটি ছোট খাবার স্ট্যান্ড।
+2340682	72	113	350	202	fine china plate with gold rim	সোনার রিম দিয়ে সূক্ষ্ম চীনার প্লেট
+511	610	419	76	61	a white alarm clock is on top of the night stand	নাইট স্ট্যান্ডের উপরে একটি সাদা অ্যালার্ম ঘড়ি রয়েছে
+2324379	3	297	292	54	baseball players sitting in dugout	বেসবল খেলোয়াড় dugout বসে
+2317891	233	254	34	44	letter on the wood block	কাঠের ব্লকে চিঠি
+713527	347	300	62	105	Two butcher block knive sets.	দুটি কসাই ব্লক নাইভ সেট।
+2344357	28	369	20	86	A sideways rendered date stamp	পার্শ্ববর্তী স্থানে তারিখের স্ট্যাম্প রেন্ডার করা
+2352428	0	0	498	297	White second story porch	সাদা দ্বিতীয় গল্প বারান্দা
+2403194	438	126	38	101	a door on the side of the court	দরজার পাশের একটি দরজা
+2316318	341	280	144	92	a block defining the space for the bench	বেঞ্চের জন্য স্থান নির্ধারণকারী একটি ব্লক
+2403633	441	267	30	72	block of white text	সাদা পাঠ্য ব্লক
+2391709	53	91	285	408	a brown cat is stand	একটি বাদামী বিড়াল স্ট্যান্ড হয়
+2328248	21	163	279	325	A train is going very fast	একটি ট্রেন খুব দ্রুত চলছে
+2337884	17	15	170	146	Red and white Stop sign with characters in a non-English language	অ-ইংরাজী ভাষায় অক্ষরগুলির সাথে লাল এবং সাদা স্টপ সাইন
+2318204	209	281	7	37	the shin guard on the players leg	খেলোয়াড়দের পায়ে শিন গার্ড
+2371720	327	114	91	159	A tennis player standing in the court	একটি টেনিস খেলোয়াড় কোর্টে দাঁড়িয়ে
+2336491	86	80	341	239	women waiting to cross	ক্রস করার অপেক্ষায় মহিলারা
+2384579	20	128	121	62	blue tennis court with painted white boundary lines	আঁকা সাদা সীমানা লাইন দিয়ে নীল টেনিস কোর্ট
+2413245	308	213	162	57	white asphalt with fine lines	সূক্ষ্ম লাইনের সাথে সাদা ডামাল
+2362549	353	302	110	25	date the photo was taken	তারিখটি ছবি তোলা হয়েছিল
+2326422	186	359	40	23	block of cheese on plate	প্লেটে পনির ব্লক
+498354	0	452	815	570	They both are playing on a tennis court.	তারা দুজনেই টেনিস কোর্টে খেলছেন।
+2397646	216	383	114	29	leaves on tennis court	টেনিস কোর্ট ছেড়ে
+2350921	68	93	148	236	a cross street sign	একটি ক্রস রাস্তার চিহ্ন
+2411228	178	146	321	66	the net across their court	তাদের কোর্ট জুড়ে নেট
+2413599	59	189	228	60	geyer springs street sign	জিয়ার স্প্রিংস রাস্তার চিহ্ন
+2402536	85	7	232	317	couple guys walking on tennis court	টেনিস কোর্টে হাঁটা দম্পতি
+4156	56	278	12	42	wooden cross hanging on a wall	একটি দেয়ালে ঝুলন্ত কাঠের ক্রস
+2333627	343	351	57	22	cross structures for bridge support	ব্রিজ সমর্থন জন্য ক্রস কাঠামো
+498277	556	82	314	644	boy standing on tennis court	টেনিস কোর্টে দাঁড়িয়ে ছেলে
+2405817	22	0	156	392	Banana shaped yellow banana stand	কলা আকারের হলুদ কলা স্ট্যান্ড
+2334650	292	474	39	24	A person below the date	তারিখের নীচে একজন ব্যক্তি
+150368	0	151	1022	333	green tennis court with white lines	সাদা লাইন সঙ্গে সবুজ টেনিস কোর্ট
+2316165	10	3	455	289	man stand on skateboard	মানুষ স্কেটবোর্ডে দাঁড়িয়ে আছে
+2386870	184	160	23	17	The front wheel of the second bus.	দ্বিতীয় বাসের সামনের চাকা।
+2199	141	325	162	114	Bizarre sculpture on a coffee stand	একটি কফি স্ট্যান্ডে উদ্ভট ভাস্কর্য
+2392570	31	354	281	121	large cement block	বড় সিমেন্ট ব্লক
+2409479	79	205	102	87	this stand is yellow in color	এই স্ট্যান্ডটি হলুদ বর্ণের
+1179	456	414	144	42	date stamp of scene	দৃশ্যের তারিখ স্ট্যাম্প
+150293	557	342	207	169	Propellers too fast to see.	প্রোপেলাররা দেখতে খুব দ্রুত।
+2334153	74	53	158	284	a block, yellow, and white baseball uniform	একটি ব্লক, হলুদ এবং সাদা বেসবল ইউনিফর্ম
+2391997	221	198	36	62	players shoes are black, red, and white	খেলোয়াড়ের জুতা কালো, লাল এবং সাদা
+2367219	249	120	92	115	The players are giving a high five	খেলোয়াড়রা উচ্চ পাঁচজন দিচ্ছেন
+2380291	28	137	47	89	person has a stamp on her hand	ব্যক্তির হাতে একটি স্ট্যাম্প আছে
+2317765	412	308	35	25	Copy right date 2010	সঠিক তারিখ 2010 অনুলিপি করুন
+2390521	172	225	220	122	low grey wall behind players	খেলোয়াড়দের পিছনে কম ধূসর প্রাচীর
+2337165	0	113	499	72	a green part of a tennis court.	টেনিস কোর্টের সবুজ অংশ।
+2398507	124	88	41	59	the second street light	দ্বিতীয় স্ট্রিট লাইট
+2334411	145	95	202	278	Two tennis players standing together	দুই টেনিস খেলোয়াড় একসাথে দাঁড়িয়ে
+2361661	12	80	218	236	two tennis players wearing black shorts	কালো শর্টস পরা দুই টেনিস খেলোয়াড়
+2400227	238	195	62	24	the players socks are blue	প্লেয়ার মোজা নীল হয়
+1891	579	521	158	38	A red date stamp	একটি লাল তারিখ স্ট্যাম্প
+2411787	325	148	36	35	Monitor stand below monitor	মনিটরের মনিটরের নীচে স্ট্যান্ড করুন
+4574	118	242	252	95	a manual press machine	একটি ম্যানুয়াল প্রেস মেশিন
+2412470	421	190	53	108	long black pipe on display stand	ডিসপ্লে স্ট্যান্ডে দীর্ঘ কালো পাইপ
+2413116	243	110	70	117	male cross country skier	পুরুষ ক্রস কান্ট্রি স্কিয়ার
+2374090	104	240	288	175	models of airplanes on the tables	টেবিলগুলিতে বিমানের মডেল
+1159982	433	493	266	153	Man cross country skiing.	ম্যান ক্রস কান্ট্রি স্কিইং।
+2335630	138	38	195	70	the sign has white characters	চিহ্নটিতে সাদা বর্ণ রয়েছে
+2367265	22	361	29	80	red time stamp on the photo	ছবির উপর লাল সময় স্ট্যাম্প
+2380507	174	2	170	371	little girl standing on a tennis court	টেনিস কোর্টে দাঁড়িয়ে ছোট মেয়ে
+1591980	80	532	111	161	man cross country skiing during race	ম্যান ক্রস কান্ট্রি স্কিইং রেসের সময়
+2404526	16	12	467	84	Cement forms sticking out of ground.	সিমেন্ট ফর্ম স্থল থেকে দূরে থাকে।
+4189	369	152	62	15	Sandwich on the second shelf.	দ্বিতীয় বালুচরে স্যান্ডউইচ।
+2364060	53	149	381	82	the english muffins are toasted	ইংলিশ মাফলিন টোস্ট করা হয়
+2367390	483	148	15	113	yellow front of second train	দ্বিতীয় ট্রেনের হলুদ সামনে
+2378224	54	86	410	202	models posing on motorcycle	মডেল মোটরসাইকেলের উপর অঙ্গবিন্যাস
+2387743	24	266	199	207	This open-air stand takes place in Jamaica	এই ওপেন-এয়ার স্ট্যান্ডটি জামাইকাতে স্থান নেয়
+2412756	46	85	182	228	clear stand for controller	নিয়ামক জন্য স্পষ্ট অবস্থান
+2369348	219	334	24	37	black armed forces name on wing	কালো সশস্ত্র বাহিনীর নাম উইংয়ে
+2351040	465	63	17	6	second base found directly behind the pitcher	কলসিটির পিছনে সরাসরি দ্বিতীয় বেস পাওয়া যায়
+2405155	319	31	39	39	A cross on a tower.	একটি টাওয়ারের উপরে একটি ক্রস।
+2409288	11	9	474	355	picture taken at drive up fast food chain	ড্রাইভ আপ ফাস্ট ফুড চেইন ছবি
+2383271	79	203	210	259	two horses stand on hill	দুটি ঘোড়া পাহাড়ে দাঁড়িয়ে আছে
+2415809	180	67	144	101	cross centered in curved panels	বক্র প্যানেল কেন্দ্রিক ক্রস
+2351091	0	450	230	42	white stripes in road is a pedestrian cross walk	রাস্তায় সাদা স্ট্রাইপগুলি একটি পথচারী ক্রস হাঁটা
+2405882	102	318	118	48	Box springs of bed.	বিছানা বক্স স্প্রিংস।
+2347230	5	355	13	28	The water bottle on the side of the court.	কোর্টের পাশে জলের বোতল 
+2333664	13	141	220	15	A small wave forms on the water.	জলের উপর একটি ছোট তরঙ্গ গঠন করে।
+2394670	0	0	430	285	a daytime picture of a couple cross country skiing	একটি দম্পতি ক্রস কান্ট্রি স্কিইংয়ের একটি দিনের চিত্র
+2349819	9	192	339	295	Cars moving at a very fast speed	গাড়িগুলি খুব দ্রুত গতিতে চলেছে
+2410111	132	202	89	80	a tree on a city block	একটি শহরের ব্লকের একটি গাছ
+2407919	205	15	248	112	a cement block wall	একটি সিমেন্ট ব্লক প্রাচীর
+2327228	128	222	80	53	computer monitor on the stand	স্ট্যান্ডে কম্পিউটার মনিটর
+2380412	185	45	312	102	snow on the trees at a cross-country ski race	ক্রস-কান্ট্রি স্কি রেসে গাছগুলিতে তুষার
+2361820	314	73	162	41	the second engine of the train	ট্রেনের দ্বিতীয় ইঞ্জিন
+529	465	185	112	224	a black music stand	একটি কালো সঙ্গীত স্ট্যান্ড
+2316543	401	116	94	132	chairs and tables on the side of the court	কোর্টের পাশে চেয়ার এবং টেবিল
+2370205	168	150	32	27	Baseball travelling fast in the air	বেসবল দ্রুত বাতাসে ভ্রমণ করে
+2349183	241	210	21	54	fast food soda cups	ফাস্ট ফুড সোডা কাপ
+2365942	28	150	95	134	An old wooden stand shade	একটি পুরানো কাঠের স্ট্যান্ড শেড
+2410979	296	197	19	10	red on players sleeve	খেলোয়াড়দের হাতা উপর লাল
+2370994	261	380	108	117	a stand next to the sink	বেসিন এর পাশে একটি স্ট্যান্ড
+2339794	247	38	30	39	second hand on clock	ঘড়ির উপর সেকেন্ডের কাঁটা
+2380619	68	64	422	268	four men on court	কোর্টে চার জন
+2338395	366	2	113	367	a block wall behind the man	লোকটির পিছনে একটি ব্লক প্রাচীর
+2415211	283	203	91	105	cross walk at intersection	চৌরাস্তা ক্রস ওয়াক
+2395626	0	0	496	330	large tennis court	বড় টেনিস কোর্ট
+2346510	123	144	142	187	Child sitting cross-legged on the floor	বাচ্ছাটি মেঝেতে পা ভাঁজ করে বসে আছে 
+2401240	348	4	66	124	Man standing on a tennis court	টেনিস কোর্টে দাঁড়িয়ে মানুষ
+2327138	366	335	105	17	yellow time date stamp	হলুদ সময় তারিখ স্ট্যাম্প
+2318157	225	285	40	72	Turnstyle entrance to court	কোর্টে টার্নস্টাইল প্রবেশ
+2401621	29	35	227	431	horse running fast with cowboy on the back	পেছনে কাউবয় সঙ্গে দ্রুত ঘোড়া
+2390020	333	208	15	115	blue umbrella pole held fast by sand	নীল ছাতা মেরুটি বালি দ্বারা ধরে রাখা
+2358860	0	8	185	132	blue wood life guard stand	নীল কাঠের লাইফ গার্ড স্ট্যান্ড
+2354924	277	211	18	24	gloves are in the players back pocket	গ্লাভস প্লেয়ারদের পিছনে পকেটে রয়েছে
+2360952	32	7	460	29	seats in the stand	স্ট্যান্ডে আসন
+2347206	259	209	75	73	the players glove is black	খেলোয়াড়দের গ্লোভ কালো
+2376639	113	122	112	46	a brown horse with an english saddle	একটি ইংরেজী জিনযুক্ত একটি বাদামী ঘোড়া
+2363896	88	186	42	69	The canvas sits on the stand	ক্যানভাস স্ট্যান্ডে বসে
+1223	181	124	107	121	a camera on a stand	একটি স্ট্যান্ডে একটি ক্যামেরা
+2411149	356	160	142	75	net of the tennis court	টেনিস কোর্ট নেট
+2370945	130	120	95	117	man sitting in fruit stand	মানুষ ফলের স্ট্যান্ডে বসে
+2352599	54	91	53	61	grill press	গ্রিল প্রেস
+2326776	189	40	31	78	cross on tower steeple	টাওয়ার স্টেপল উপর ক্রস
+2324514	83	147	27	39	ink stamp in the pencil box	পেন্সিল বাক্সে কালি স্ট্যাম্প
+2319130	205	154	24	56	small table lamp on the night stand	নাইট স্ট্যান্ডে ছোট টেবিল ল্যাম্প
+2360190	55	69	138	177	series of curved forms around body	শরীরের চারপাশে বাঁকা ফর্ম সিরিজ
+2351454	4	181	369	318	a clock on a wooden block	কাঠের ব্লকের একটি ঘড়ি 
+2388644	316	275	32	20	edge of a stamp	একটি স্ট্যাম্প প্রান্ত
+2381057	223	70	70	80	a man sitting cross legged in the grass	একটি লোক ঘাসে পা ভাঁজ করে বসেছে
+2361659	91	163	12	10	Right ear of the second cat	দ্বিতীয় বিড়ালের ডান কান
+2324839	268	426	92	72	a fine bristled retractable brush	একটি সূক্ষ্ম ব্রিসলেড প্রত্যাহারযোগ্য ব্রাশ
+2335170	224	13	86	207	A motorcyclist driving very fast	একজন মোটরসাইকেল চালক খুব দ্রুত গাড়ি চালাচ্ছেন
+2404846	283	71	34	48	a baseball players bat	একটি বেসবল খেলোয়াড় ব্যাট
+2336375	198	24	91	104	A second sandwich on a wrapper.	একটি মোড়কের উপর একটি দ্বিতীয় স্যান্ডউইচ।
+2377773	313	234	44	45	case with cross on it also has red trim	এটি ক্রস সঙ্গে কেস এছাড়াও লাল ছাঁটাই আছে
+285660	606	439	76	31	a railing on a second story balcony	দ্বিতীয় তলের বারান্দায় একটি রেলিং
+2384810	138	13	230	311	Two soccer players	দুই ফুটবল খেলোয়াড়
+2375722	165	48	59	81	the cross on the top of the building structure	বিল্ডিং কাঠামো শীর্ষে ক্রস
+2394220	16	199	43	62	People waiting to cross street	রাস্তা পার হওয়ার অপেক্ষায় থাকা মানুষ
+2349361	75	128	38	31	characters on the sign	সাইন অক্ষর
+2386724	118	265	98	178	A skateboard with asian characters painted on the underside	আন্ডারসাইডে আঁকা এশিয়ান অক্ষর সহ একটি স্কেটবোর্ড
+2372058	246	30	72	117	fine inscriptions on item	আইটেম উপর সূক্ষ্ম শিলালিপি
+2334275	418	57	45	22	characters are posted in Chinese	অক্ষরগুলি চীনা ভাষায় পোস্ট করা হয়
+2344933	245	158	63	72	Man getting ready for a penalty kick	পেনাল্টি কিকের জন্য প্রস্তুত মানুষ
+2367959	155	230	200	70	A red cross forms on the floor.	মেঝেতে একটি লাল ক্রস গঠন।
+2394193	23	18	230	210	many wires criss-cross overhead	অনেক তারের ক্রাইস-ক্রস ওভারহেড
+2383779	60	46	285	356	This could be at a science fair.	এটি একটি বিজ্ঞান মেলায় হতে পারে।
+2410127	61	77	195	279	man using a hand press to make juice	মানুষ রস তৈরি করতে একটি হাত প্রেস ব্যবহার করে
+2379358	390	307	85	40	The picture has a date stamp	ছবিটিতে একটি তারিখের স্ট্যাম্প রয়েছে
+2402166	152	74	137	81	A date underneath a clock face	একটি ঘড়ির মুখের নীচে একটি তারিখ
+2331370	148	301	32	27	unfinished wood block under freezer	ফ্রিজারের অধীনে অসম্পূর্ণ কাঠের ব্লক
+2330075	184	98	312	132	fast train moving along track	দ্রুত ট্রেন ট্র্যাক বরাবর চলমান
+2382215	0	111	391	50	Three baseball players wearing white uniforms are in the background.	সাদা ইউনিফর্ম পরা তিনটি বেসবল খেলোয়াড় পটভূমিতে রয়েছে।
+2378449	0	0	300	371	tennis player on the green colored section of a court	একটি কোর্টের সবুজ বর্ণের বিভাগে টেনিস খেলোয়াড়
+2364149	338	70	117	72	making a very fast turn	খুব দ্রুত পালা করা
+2409393	3	101	491	60	the tennis court net divides the court in the middle	টেনিস কোর্ট নেট মাঝখানে কোর্ট বিভক্ত
+2398389	66	73	374	182	4 players on the court	কোর্টে ৪ জন খেলোয়াড়
+2378498	121	243	68	183	the chinese characters on the vase	দানি উপর চীনা অক্ষর
+2394267	5	31	292	124	crumbly english muffin bread	ঝুরঝুরে ইংলিশ মাফিন রুটি
+2375440	162	347	103	141	a stand with information	তথ্য সহ একটি স্ট্যান্ড
+2363432	36	80	181	42	ad on the wall of the court	কোর্টের দেয়ালে বিজ্ঞাপন
+1591836	390	167	96	84	The right front window on the second level of the bus.	বাসের দ্বিতীয় স্তরের ডান সামনের জানালা
+2329080	227	183	119	47	the Asian characters are red	এশীয় চরিত্রগুলি লাল
+2351234	260	88	85	135	block tower on top of hill	পাহাড়ের উপরে ব্লক টাওয়ার
+2366868	200	241	42	57	The black baseball mit on the players hand	খেলোয়াড়দের হাতে কালো বেসবল মিট
+2323255	343	297	19	32	yellow cross on a tie	একটি টাই উপর হলুদ ক্রস
+2371083	182	17	222	288	five baseball players	পাঁচ বেসবল খেলোয়াড়
+2343122	366	105	114	105	large date palm in the distance	দূরত্বে বড় খেজুর
+2408156	87	88	212	192	Cows laying down in the hay at a county fair	কাউন্টি মেলায় খড়ের গায়ে শুয়ে গাভী
+1593200	375	271	48	30	armed forces identifying patch for US Army	সশস্ত্র বাহিনী মার্কিন সেনাবাহিনীর জন্য প্যাচ চিহ্নিত করে
+2327020	1	360	332	137	The tennis court is two different colors.	টেনিস কোর্ট দুটি ভিন্ন রঙ।
+2404221	48	140	447	180	A indoor tennis court.	একটি ইনডোর টেনিস কোর্ট।
+2363395	57	202	110	85	characters on the edge of the plate	প্লেটের প্রান্তে অক্ষর
+2403403	51	219	302	261	a fruit stand with lots of fruits and vegetables	প্রচুর ফল এবং সবজি সহ একটি ফল স্ট্যান্ড 
+2356947	368	64	125	119	red white and blue truck is at the fair	লাল সাদা এবং নীল ট্রাক মেলায়
+2416409	415	340	61	19	yellow date taken stamp	হলুদ তারিখ নেওয়া স্ট্যাম্প
+2412254	2	63	495	45	Tarp on the side of the court	কোর্টের পাশে টার্প
+2370736	176	17	37	45	Tall lights at the court	দরবারে লম্বা লাইট
+2408350	256	18	135	95	players standing behind chain link fence	চেইন লিঙ্ক বেড়া পিছনে দাঁড়িয়ে খেলোয়াড়রা
+2330421	365	332	128	41	date stamp in the corner	কোণে তারিখ স্ট্যাম্প
+2373973	194	68	159	150	a cross in a church	একটি গির্জার ক্রস
+2400082	12	165	235	162	easel stand for painting	পেইন্টিং জন্য ইজিল স্ট্যান্ড
+2404557	5	4	101	90	owners manual for a panini press	একটি পানিনি প্রেসের জন্য মালিকদের ম্যানুয়াল
+2373155	60	55	425	305	dog forms splashes in the water	কুকুর জল ছেটাচ্ছে
+2345063	136	222	125	152	two long and narrow panes below cross bar	ক্রস বারের নীচে দুটি দীর্ঘ এবং সরু ফলক
+2391652	220	287	15	22	Double red doors on second floor	দ্বিতীয় তলায় ডাবল লাল দরজা
+2407554	117	141	25	74	Partial view of second bus	দ্বিতীয় বাসের আংশিক দৃশ্য
+2360436	207	11	46	95	White door on second floor	দ্বিতীয় তলায় সাদা দরজা
+2334324	43	46	438	275	a romantic date night	একটি রোমান্টিক তারিখ রাত
+82	140	268	26	68	knife block sitting on counter with knives in it	এটিতে ছুরি নিয়ে কাউন্টারে বসে চাকু ব্লক
+2765	17	80	781	489	a block of buildings	বিল্ডিং একটি ব্লক
+3188	46	429	504	161	Curved stairs on the approach to the court yard	কোর্ট ইয়ার্ডে যাওয়ার জন্য বাঁকানো সিঁড়ি
+2370530	180	177	205	36	chinese characters on the side of a bus	একটি বাসের পাশে চীনা অক্ষর
+1591782	140	255	379	122	blue tennis court	নীল টেনিস কোর্ট
+2391776	222	374	30	47	This person is waiting to cross the street	এই ব্যক্তি রাস্তায় পারাপারের জন্য অপেক্ষা করছেন
+2380657	19	276	47	33	The block for the post	পোস্টের জন্য ব্লক
+2384152	119	386	213	25	tan letters on the tennis court	টেনিস কোর্টে ট্যান চিঠি
+2322150	277	419	30	17	this license plate has non-english characters	এই লাইসেন্স প্লেটে অ-ইংরেজি অক্ষর রয়েছে
+2389368	217	149	95	181	players uniform is black and gold	খেলোয়াড়দের ইউনিফর্মটি কালো এবং সোনার
+2404131	352	302	145	21	Watermark, showing copyright date.	ওয়াটারমার্ক, কপিরাইটের তারিখ দেখাচ্ছে।
+2366615	0	307	260	45	name and website of photographer and Chinese characters	নাম এবং ফটোগ্রাফার এবং চীনা অক্ষর ওয়েবসাইট
+150310	2	498	116	258	tv on a stand	স্ট্যান্ডে টিভি
+2350981	406	58	65	30	grass grows next to the block	ব্লকের পাশে ঘাস জন্মে
+2320969	3	200	77	144	A paper towel roll on a stand	একটি স্ট্যান্ডে একটি কাগজের তোয়ালে রোল
+2358904	337	302	89	69	white springs under mattress	গদিতে সাদা ঝর্ণা
+2405652	137	0	102	85	The brick wall behind the court	কোর্টের পিছনে ইটের দেয়াল
+2375013	16	387	37	36	egg shaped object on a stand	স্ট্যান্ডে ডিমের আকারের বস্তু
+2393604	155	275	10	7	tennis ball shadow on the court	কোর্টে টেনিস বল ছায়া
+2396935	59	371	96	34	littleyiye photographers stamp	ছোট্টই ফটোগ্রাফারদের স্ট্যাম্প
+2321507	326	320	170	35	Picture stamped date 8/10/2013.	ছবি স্ট্যাম্পড তারিখ 8/10/2013।
+2396773	373	350	30	20	2010 date in black	২০১০ তারিখে কালো
+713193	351	91	78	57	sign above the people at the fair	মেলায় লোকদের উপরে সাইন ইন করুন
+2390698	84	15	104	65	Straight fine black hair	সোজা সূক্ষ্ম কালো চুল
+2361900	104	168	120	156	a horse with an english saddle	একটি ইংরেজী জিনযুক্ত একটি ঘোড়া
+2413620	25	0	303	78	the baby has very fine hair	শিশুর খুব সুন্দর চুল রয়েছে has
+2374867	221	126	257	81	pelican forms ripples with legs	পেলিকান পায়ে দিয়ে রিপ্লেস গঠন করে
+2367027	418	66	73	93	A window on a second story shop.	দ্বিতীয় গল্পের দোকানে একটি উইন্ডো।
+2357300	239	185	56	22	Green stand in the snow.	বরফে সবুজ স্ট্যান্ড।
+2404377	0	41	198	148	display models of cell phones	সেল ফোন মডেল প্রদর্শন
+2319267	258	144	78	37	black chinese characters n white sign	কালো চীনা অক্ষর এন হোয়াইট সাইন
+2366322	184	484	146	15	Shadow of the man on the tennis court	টেনিস কোর্টে লোকটির ছায়া
+2393439	46	1	352	179	white marking on tennis court	টেনিস কোর্টে সাদা চিহ্ন
+2375139	41	14	237	231	Baby fine light brown hair.	বাবু সূক্ষ্ম হালকা বাদামী চুল।
+2342392	296	63	202	85	the players lean on the fence	খেলোয়াড়দের বেড়া উপর ঝুঁকুন
+2368709	21	290	276	87	second suitcase on bottom is orange	নীচে দ্বিতীয় স্যুটকেস কমলা হয়
+2400722	60	95	229	347	Man helping child stand on snowboard	শিশু স্নোবোর্ডে দাঁড়াতে সহায়তা করে লোক
+2402005	87	76	266	213	extremely fast bullet train	অত্যন্ত দ্রুত বুলেট ট্রেন
+2345109	262	41	29	23	Oriole on front of players hat	ওরিওল খেলোয়াড়দের সামনে টুপি
+2320398	0	203	302	115	Net across the tennis court	টেনিস কোর্ট জুড়ে নেট
+1836	345	95	112	82	second car parked on the street	দ্বিতীয় গাড়ী রাস্তায় পার্ক
+2403804	177	204	84	81	Cather's mit for hand protection against fast pitches.	দ্রুত পিচের বিরুদ্ধে হাত রক্ষার জন্য ক্যাথার মিট।
+2335061	79	143	320	175	fast food chicken patty	ফাস্ট ফুড মুরগির প্যাটি
+2375800	230	111	19	12	sunglasses of second rider	দ্বিতীয় রাইডারের সানগ্লাস
+2413537	418	4	80	294	People buying food on fast food store	লোকেরা ফাস্টফুড স্টোরে খাবার কিনে থাকে
+2347861	276	80	51	230	second animal in the back	পিছনে দ্বিতীয় প্রাণী
+2362291	370	217	113	129	the stand under the tv	টিভির নীচে স্ট্যান্ড
+2394518	12	159	90	326	tennis court with white stripes	সাদা ফিতে সঙ্গে টেনিস কোর্ট
+150530	242	542	172	105	kick stand on motorcycle	মোটরসাইকেলের উপর কিক স্ট্যান্ড
+2328772	226	44	272	174	chainlink fencing forms a field exit	চেইনলিংক বেড়া একটি ক্ষেত্র প্রস্থান করে
+2387075	5	5	30	50	Wall design of people characters.	মানুষের চরিত্রগুলির ওয়াল ডিজাইন।
+1159262	8	540	1010	140	the sidewalk in front of the produce stand	উত্পাদনের স্ট্যান্ডের সামনের ফুটপাত
+2330502	2	20	102	185	concrete or cinder block walls	কংক্রিট বা সিন্ডার ব্লক দেয়াল
+2392859	103	202	101	36	The tv stand is made of wood	টিভি স্ট্যান্ডটি কাঠের তৈরি
+2398971	122	201	71	33	the models perky lips	মডেল বেহায়া ঠোঁট
+2343275	43	21	394	442	Three baseball players at first base	প্রথম বেসে তিনটি বেসবল খেলোয়াড়
+2370743	12	212	74	92	block of black butcher knives	কালো কসাই ছুরি ব্লক
+2385100	80	155	135	50	pointing sign in english and chinese	ইংরাজী এবং চীনা মধ্যে সাইন ইন
+492	408	135	57	113	Lamp on the night stand to the left of the bed	বিছানার বাম দিকে নাইট স্ট্যান্ডে প্রদীপ
+2372982	37	314	101	25	Date stamp of March 16th, 2008	16 শে মার্চ, 2008 তারিখের ডাকটিকিট
+2349328	221	383	29	14	coca cola international logo, written in english, probably repeated below	কোকা কোলা আন্তর্জাতিক লোগো, ইংরেজিতে লেখা, সম্ভবত নীচে পুনরাবৃত্তি হয়েছে
+2394909	241	3	30	124	a white sign with black Asian characters going vertically	কালো এশিয়ান অক্ষরগুলির সাথে একটি সাদা চিহ্ন 
+2355117	229	372	60	60	bicycle stamp on road	রাস্তায় সাইকেল স্ট্যাম্প
+2411	165	185	45	36	neon sign in a second floor window	দ্বিতীয় তল উইন্ডোতে নিয়ন সাইন
+2343883	130	29	194	215	this couple is on a date	এই দম্পতি একটি তারিখে হয়
+2391695	184	145	61	107	Mcdonald's advertisement in a language other than english	ইংরাজী ছাড়া অন্য ভাষায় ম্যাকডোনাল্ডের বিজ্ঞাপন
+2407885	158	182	70	58	rolls of towels on stand	তোয়ালে রোল স্ট্যান্ডে
+2322235	0	142	495	231	many glorious forms of opportunistic weeds	সুবিধাবাদী আগাছা অনেক গৌরবময় ফর্ম
+2360033	0	1	372	493	kids at a fair eating	বাচ্চাদের ন্যায্য খাওয়ার সময়
+2337964	0	177	330	135	a block lower half of a wall	একটি দেয়ালের নীচে অর্ধেক ব্লক
+2393902	108	52	117	177	jelly jar on top of a chopping block	কাটা ব্লকের উপরে জেলি জার
+2386819	445	200	12	21	yellow poles by the cross sign	ক্রস চিহ্ন দ্বারা হলুদ খুঁটি
+2378238	35	293	15	158	orange time and date stamp	কমলা সময় এবং তারিখ স্ট্যাম্প
+2399725	98	155	275	343	Two female tennis players shaking hands	দুই মহিলা টেনিস খেলোয়াড় হাত কাঁপছেন
+2402523	3	255	30	205	A wooden stand	একটি কাঠের স্ট্যান্ড
+2405064	138	61	349	270	Four baseball players on field.	মাঠে চার বেসবল খেলোয়াড়।
+2374062	416	0	41	175	an American flag in the background of a press conference	একটি সংবাদ সম্মেলনের পটভূমিতে একটি আমেরিকান পতাকা
+2324993	7	39	331	429	two english spaniels standing near a person	একজন ব্যক্তির কাছে দাঁড়িয়ে দুটি ইংলিশ স্প্যানিয়াল দাঁড়িয়ে
+2373473	25	22	173	318	There is a book stand that is filled with books.	বইয়ের স্ট্যান্ড রয়েছে যা বই ভর্তি রয়েছে।
+2384672	63	118	27	17	man taking pictures of players	মানুষ খেলোয়াড়দের ছবি তুলছে
+2366109	180	96	25	22	Black hat with a red cross	একটি লাল ক্রস সঙ্গে কালো টুপি
+2331747	85	51	410	266	three baseball players standing in a row	তিনটি বেসবল খেলোয়াড় একটি সারিতে দাঁড়িয়ে
+2396989	16	91	281	99	A black and brown dog fast asleep on the couch.	একটি কালো এবং বাদামী কুকুর দ্রুত পালঙ্কে ঘুমিয়ে আছে।
+2338811	441	306	55	22	the time stamp sitting in the corner	সময় স্ট্যাম্প কোণে বসে
+2377343	28	110	426	207	yellow plane with characters	অক্ষরের সাথে হলুদ বিমান
+2379258	151	202	16	34	Buttons for pedestrians to cross the street	রাস্তা পার হওয়ার জন্য পথচারীদের জন্য বোতাম t
+2327886	338	267	35	101	A stand mixer	একটি স্ট্যান্ড মিশুক
+2390707	120	35	215	180	this players is shirtless	এই খেলোয়াড়রা শার্ট ছাড়া আছে
+2410780	278	124	54	33	pattern on side of second giraffe	দ্বিতীয় জিরাফ পাশের প্যাটার্ন
+2344888	44	254	34	20	a block on the ground	মাটিতে একটি ব্লক
+2407357	260	127	183	170	bicycles in stand	সাইকেল দাঁড়ানো
+2321608	0	20	454	310	a man photographs two baseball players	একজন লোক দুই বেসবল খেলোয়াড়ের ছবি
+2401677	81	226	21	22	a red don't cross signal.	একটি লাল ক্রস সংকেত না।
+2350406	335	192	80	106	French coffee press	ফ্রেঞ্চ কফি প্রেস
+2389176	94	413	65	35	black bicycle seat with supporting springs	সমর্থনকারী স্প্রিংস সহ কালো সাইকেল আসন
+2412647	107	102	92	95	propeller is moving fast	প্রোপেলার দ্রুত এগিয়ে চলেছে
+2349393	9	32	390	166	toy models of buses	খেলনা মডেল বাস
+2355492	47	217	224	263	a motorcycle going fast	একটি মোটরসাইকেল দ্রুত যাচ্ছে
+912	98	370	179	124	Shadow on the court	কোর্টে ছায়া
+2365377	366	157	131	49	A brick wall separating players and spectators.	খেলোয়াড় এবং দর্শকদের পৃথককারী একটি ইটের প্রাচীর।
+2353885	0	0	225	61	a fast moving hand	একটি দ্রুত চলন্ত হাত
+2397815	70	141	69	58	The night stand is wooden.	নাইট স্ট্যান্ডটি কাঠের।
+2414956	4	53	465	267	baseball players posing together in an old photograph	বেসবল খেলোয়াড়রা পুরানো ছবিতে একসাথে পোজ দিচ্ছেন
+2415867	5	54	245	42	Net across tennis court	টেনিস কোর্ট জুড়ে নেট
+2388208	325	210	145	39	glass top on night stand	নাইট স্ট্যান্ডে গ্লাস টপ
+2360903	280	120	40	25	raised cross on top of remote control	রিমোট কন্ট্রোল শীর্ষে উত্থিত ক্রস
+2388118	363	108	92	55	Grass growing on the grass tennis court.	ঘাস টেনিস কোর্টে বাড়ছে ঘাস।
+2375701	378	326	103	28	time stamp on the picture	ছবিতে সময় স্ট্যাম্প
+2321177	268	259	22	26	two red metal springs	দুটি লাল ধাতুর ঝর্ণা
+2340633	167	20	34	20	a a block in a wall	একটি দেয়ালে একটি ব্লক
+4581	429	289	130	108	People looking to cross the road.	লোকেরা রাস্তা পার হতে দেখছে।
+2317296	2	2	497	130	the fair sky	ফর্সা আকাশ
+1793	94	173	382	345	a motorcycle is parked in front of the road block	একটি মোটরসাইকেল রাস্তা ব্লকের সামনে দাঁড়িয়ে আছে
+2327740	178	292	234	19	White striped pedestrian cross-walk painted on street.	রাস্তায় সাদা স্ট্রিপযুক্ত পথচারী ক্রস-ওয়াক আঁকা।
+2403247	84	0	240	72	Baseball team players in the dugout	ডাগআউটে বেসবল দলের খেলোয়াড়রা
+2387064	387	193	74	97	boy sitting cross legged	ছেলে টি হাঁটু ভাঁজ করে বসে
+2401602	291	256	28	38	The man's hand forms a fist	লোকটির হাত মুঠো হয়েছে
+2347018	2	0	285	288	stand of bamboo	বাঁশের স্ট্যান্ড
+2391752	240	80	55	100	Statue honoring members of the armed forces	সশস্ত্র বাহিনীর সদস্যদের সম্মান জানিয়ে প্রতিমা
+2410253	2	44	163	124	men of forces wearing the dress uniforms	ইউনিফর্ম পোষাক পরা পুরুষদের বাহিনী 
+2346417	383	186	115	93	Another stand and its owner	আরেকটি স্ট্যান্ড এবং এর মালিক
+2337212	347	165	74	180	A man stand next to a jeep.	একটা লোক জিপের পাশে দাঁড়িয়ে আছে।
+2388979	53	290	82	27	The sign that says Alice springs	সাইন এ এলিস স্প্রিংস লেখা
+2417025	112	10	297	342	a sandwich on a block	একটি ব্লকের উপর একটি স্যান্ডউইচ
+2327036	276	233	97	32	red bags behind players feet	খেলোয়াড়দের পায়ের পিছনে লাল ব্যাগ
+2404680	428	50	62	61	Asian characters on side of building	বিল্ডিংয়ের পাশে এশীয় অক্ষর
+2377750	161	444	148	37	The tennis player's shadow is on the tennis court.	টেনিস কোর্টে টেনিস খেলোয়াড়ের ছায়া।
+2321343	58	39	379	285	fast looking yellow motorcycle	দ্রুত গতির মোটর সাইকেল
+2328874	441	324	47	45	white springs under bed	বিছানার নিচে সাদা স্প্রিংগুলো 
+2406490	124	60	162	70	a sponsors name on the tennis court wall	টেনিস কোর্ট প্রাচীর একটি স্পনসর নাম
+2394996	38	49	26	106	Asian characters written on a sign	একটি চিহ্নে লেখা এশীয় অক্ষর
+2370018	247	458	84	40	the date and time indicating the time of picture	তারিখ এবং সময় ছবির সময় নির্দেশ করে
+2379057	13	2	113	85	The light forms a rainbow	আলো একটি রংধনু গঠন করে
+2407111	342	75	17	37	Headpiece of the second rider from the right	ডান থেকে দ্বিতীয় রাইডারের হেডপিস
+2380646	453	131	21	42	postage stamp with liberty bell	ডাকটিকেটে লিবার্টি বেল
+2408063	245	238	166	87	Mud forms along the edge of the watering hole	জলের পাশে কাদা হয়েছে
+2371095	289	40	182	61	an unfinished block of wood	কাঠের একটি অসম্পূর্ণ ব্লক
+2329009	135	33	58	79	green grass behind players	খেলোয়াড়দের পিছনে সবুজ ঘাস
+2366445	208	48	62	121	the second base coach watches the play	দ্বিতীয় বেস কোচ খেলাটি দেখেন
+2362403	263	119	150	162	child's soft fine brown hair	বাচ্চার নরম সূক্ষ্ম বাদামী চুল
+4635	4	288	150	124	A black entertainment stand on wheels	একটি কালো বিনোদন স্ট্যান্ড চাকার উপর দাঁড়িয়ে 
+2371732	0	5	490	486	fast motion image of woman walking in rain	বৃষ্টিতে হাঁটা মহিলার দ্রুত গতির চিত্র
+2349490	210	1	288	100	second story of building holds two balconies	বাড়ির দ্বিতীয় তলায় দুটি বারান্দা 
+2367933	105	261	208	236	ovan kept in the stand	ওভান স্ট্যান্ডে রাখা
+2338424	291	183	35	56	The speaker on the stand	স্ট্যান্ডে স্পিকার
+2337440	49	36	319	440	a man in front of a produce stand	একটি পণ্য উত্পাদন স্ট্যান্ডের সামনে একজন মানুষ
+2326107	0	105	306	71	a fast moving train	একটি দ্রুত চলন্ত ট্রেন
+2403186	132	365	161	42	tennis players shadow on court	কোর্টে টেনিস খেলোয়াড়ের ছায়া 
+2319746	350	326	91	35	date stamp on photo is 8/23/08	ছবিতে তারিখ স্ট্যাম্প 8/23/08 হয়
+2400991	40	154	425	344	a man sitting on a cement block	একজন সিমেন্টের ব্লকে বসে আছেন
+2402229	233	1	235	163	several baseball players in the dugout	ডাগআউটে বেশ কয়েকটি বেসবল খেলোয়াড়
+2324545	377	327	103	19	An orange time stamp	কমলা রঙের তারিখ স্ট্যাম্প 
+2383332	356	292	119	36	the date is orange	তারিখ টি কমলা রঙের 
+2360705	1	1	331	420	Grey block wall behind woman	মহিলার পিছনে ধূসর ব্লক প্রাচীর
+2334693	273	95	200	165	english muffin with egg and hollandaise	ডিম এবং হল্যান্ডাইজের সাথে ইংলিশ মাফিন
+2370603	356	82	83	85	tail of elephant forms a circle	হাতির লেজ একটি বৃত্ত গঠন করে
+2113	0	31	84	315	plant is on a metal stand	ধাতব স্ট্যান্ডের উপর গাছ
+2356054	456	11	33	488	stand for trays	ট্রে এর স্ট্যান্ড 
+2395967	11	91	425	187	this is a blue court	এটি একটি নীল কোর্ট
+2337220	170	36	65	73	ginger with fair skin, orange hair, billions of freckles, and glasses	ফর্সা ত্বক, কমলা চুল, কোটি কোটি ফ্রিকলস এবং চশমাযুক্ত প্রানবন্ত ভাব 
+2389441	180	377	157	52	facial expression, particularly mouth that says, 'yeah, i'm fine w/ being a corporate drone	মুখের অভিব্যক্তি, বিশেষত মুখটি বলে যে 'হ্যাঁ, আমি বড় কোম্পানির কর্মচারী হয়ে ভাল আছি' 
+2322173	68	146	112	33	white block on the street	রাস্তায় সাদা ব্লক
+2384192	288	219	207	59	boat forms ripples	নৌকা লহর ফর্ম
+2328394	1	2	497	372	child forces straws into a a can	বাচ্ছাটি জোর করে ক্যান এর ভেতরে স্ট্র পুশ করে
+2393683	7	309	317	138	Blue square on tennis court	টেনিস কোর্টে ব্লু স্কয়ার
+2349640	152	255	44	14	the players tennis shoes are white	খেলোয়াড়দের টেনিস জুতো সাদা
+2364579	93	127	100	29	sign denoting 2900 block	2900 ব্লকটি চিহ্নিত করুন sign
+2337697	286	32	87	339	books in a black stand	একটি কালো স্ট্যান্ড বই
+2337980	346	318	134	35	date and time of picture	তারিখ এবং ছবির সময়
+2379431	1	273	227	100	a train stop block	একটি ট্রেন স্টপ ব্লক
+2405494	144	267	181	97	Snow covered cross walk	তুষার ঢাকা ক্রস ওয়াক
+2396082	274	9	37	133	the steeple has a cross on top	স্টিপলের উপরে একটি ক্রস রয়েছে
+2410588	10	12	331	463	Soccer players in action	অ্যাকশনে সকার খেলোয়াড়রা
+2335320	240	82	258	200	tennis court in bounds area for doubles play	ডাবল খেলার জন্য সীমান্ত অঞ্চলে টেনিস কোর্ট
+2388362	23	53	78	61	english word in green	সবুজ ইংরেজি শব্দ
+2334436	1	236	497	96	Brown tennis court with white lines.	সাদা লাইনে ব্রাউন ব্র্যান্ডের টেনিস কোর্ট।
+1122	0	106	76	84	A brown stand next to a wall.	একটি দেয়ালের পাশে একটি বাদামী স্ট্যান্ড।
+2341429	413	81	60	133	black iron gate with white cross	সাদা ক্রস সঙ্গে কালো লোহার গেট
+2409043	438	288	57	43	time stamp with red number	লাল নম্বর সহ সময় স্ট্যাম্প
+2037	193	273	51	32	stack of books on bed stand	বিছানা স্ট্যান্ড বইয়ের স্তুপ
+2391914	128	103	23	60	knife set in a wooden block	একটি কাঠের ব্লক মধ্যে ছুরি সেট
+2344981	4	89	489	150	base ball diamond with players	খেলোয়াড়দের নিয়ে বেসবল ডায়মন্ড
+2365213	446	253	50	115	Television in the tv stand.	টিভি স্ট্যান্ডে টেলিভিশন।
+2409328	38	142	231	33	second green sign from the top	উপরে থেকে দ্বিতীয় সবুজ চিহ্ন
+2369570	379	330	90	29	Date stamp 6/30/2013	তারিখ স্ট্যাম্প 6/30/2013
+2361710	237	78	88	21	logo on the tennis court	টেনিস কোর্টে লোগো
+2395527	97	130	204	317	the necktie has a circle cross motif	নেকটি একটি বৃত্ত ক্রস মোটিফ আছে
+2408839	317	312	181	19	a photographers stamp on the photo	ছবির উপর একটি ফটোগ্রাফার স্ট্যাম্প
+2395280	16	115	125	87	block of green water in front of surfer	সার্ফারের সামনে সবুজ জলের ব্লক
+2389473	266	156	67	24	asian characters in red	লাল এশিয়ান অক্ষর
+2324905	164	378	118	50	A fine white sand	একটি সূক্ষ্ম সাদা বালি
+3912	260	208	73	109	night stand made of dark brown wood	গাঢ় বাদামী কাঠের তৈরি নাইট স্ট্যান্ড
+2354532	139	34	347	259	two players in ground	মাটিতে দুই খেলোয়াড়
+2366554	7	184	145	147	brown mane on neck of second giraffe	দ্বিতীয় জিরাফের গলায় বাদামি কেশর
+2352131	196	44	75	79	white engraved cross	সাদা খোদাই করা ক্রস
+2376815	434	5	24	160	Red and silver sign with Asian characters	এশীয় অক্ষরগুলির সাথে লাল এবং রৌপ্য সাইন
+1159593	413	416	108	217	Woman getting ready to cross street	মহিলা রাস্তায় পার হতে প্রস্তুত
+2363887	416	66	80	25	press board table top	টেবিলের উপর প্রেসবোর্ড
+2410138	86	92	389	128	the train is a fast speed train	একটি দ্রুত গতির ট্রেন
+2376298	6	5	490	352	People at a fair.	মেলায় লোকজন।
+2327548	3	104	495	57	a metal cross beam	একটি ধাতব ক্রসবিম
+2333433	94	69	287	119	players are playing baseball.	খেলোয়াড়রা বেসবল খেলছে।
+2353234	3	0	164	92	railed porch on the second floor of a home	একটি বাড়ির দ্বিতীয় তলায় বারান্দা 
+2741	246	258	305	106	Balconies on the second floor	দ্বিতীয় তলায় বালকিনিগুলি
+2342816	220	141	138	138	a plate with white characters	সাদা অক্ষরযুক্ত একটি প্লেট
+2317119	86	102	409	161	The players wear uniforms.	খেলোয়াড়রা ইউনিফর্ম পরে।
+2376654	168	479	164	19	photographers watermark and date	ফটোগ্রাফারদের জলছবি এবং তারিখ
+2397504	1	253	362	246	Red table with fast food above it	এর উপরে ফাস্ট ফুড সহ লাল টেবিল
+713113	882	99	140	560	woman cross her arms	মেয়েটি হাত ভাঁজ করে
+2411180	91	210	403	130	The tracks cross here	ট্র্যাকগুলি এখানে পার হয়
+498286	777	421	32	35	orange "do not cross" sign	কমলা "ক্রস করবেন না" চিহ্ন
+498225	912	434	81	108	A person standing at the food stand.	খাবার স্ট্যান্ডে দাঁড়িয়ে একজন ব্যক্তি।
+2372792	38	120	226	103	Three players are wearing helmet.	তিনজন খেলোয়াড় হেলমেট পরেছেন।
+2355453	298	125	53	50	a non english sign	একটি অ ইংরেজী সাইন
+2365083	115	26	273	318	player running on court	খেলোয়াড় কোর্টে চলছে
+2384586	187	128	215	179	the woman on the court	কোর্টে মহিলা
+2375981	171	349	171	132	A round concert block	একটি বৃত্তাকার কনসার্ট ব্লক
+2411545	31	10	452	362	fast food items on plates	প্লেটগুলিতে ফাস্ট ফুড আইটেম
+2413752	156	50	27	49	Top window pane in the left corner of the second story window	দ্বিতীয় গল্পের উইন্ডোর বাম কোণে শীর্ষ উইন্ডো ফলক
+2408783	245	396	70	38	boundary lines on court	কোর্টে সীমানা লাইন
+2320232	72	65	25	77	second wooden vertical slat from left	বাম থেকে দ্বিতীয় কাঠের উল্লম্ব স্লট
+2404974	3	34	393	61	A stand of trees along the edge of the lake	হ্রদের কিনারায় গাছের স্ট্যান্ড
+2334967	218	25	52	235	a blue and white cross walk sign	একটি নীল এবং সাদা ক্রস ওয়াক সাইন
+2369744	1	75	28	152	open door of a second bus	দ্বিতীয় বাসের দরজা খোলা
+2416863	21	343	199	153	floral box springs under mattress	গদি অধীনে ফুলের বক্স স্প্রিংস
+150390	678	245	174	215	street sign advising of penalty	রাস্তার সাইন জরিমানার পরামর্শ
+2366308	124	59	146	78	oranges and pears on the second layer of a fruit tree rack	একটি ফলের গাছের র্যাকের দ্বিতীয় স্তরে কমলা এবং নাশপাতি
+2334396	199	99	295	232	A skier going down fast on a slope	একজন ierালুতে দ্রুত নেমে একটি স্কাইয়ার
+1291	180	287	131	110	an english saddle above a saddle pad	একটি স্যাডল প্যাডের উপরে একটি ইংরেজী স্যাডল
+2381356	18	24	412	225	four shadowy forms of giraffes seemingly looking forward	জিরাফের চারটি ছায়াময় রূপগুলি আপাতদৃষ্টিতে অপেক্ষা করছে
+2363824	12	138	66	68	dirty concrete wall behind players	খেলোয়াড়দের পিছনে নোংরা কংক্রিট প্রাচীর
+2372199	41	101	235	168	a couple of elephants photoshopped to stand out	বাইরে দাঁড়িয়ে বেশ কয়েকটি হাতির ফটোশপ করলেন
+2372098	71	0	425	277	The fast moving subway train	দ্রুত চলমান সাবওয়ে ট্রেন
+2323131	0	192	497	165	the net between the two players	দুই খেলোয়াড়ের মধ্যে নেট
+2361227	267	182	29	34	Baseball glove on players left hand	খেলোয়াড়দের বাম হাতে বেসবল গ্লোভ
+2397033	300	35	30	52	silver and black french coffee press on shelf	বালুচর উপর সিলভার এবং কালো ফরাসি কফি প্রেস
+3620	151	363	168	112	grey block in sidewalk	ফুটপাতে ধূসর ব্লক
+2373497	257	163	82	59	short tan entertainment stand	সংক্ষিপ্ত ট্যান বিনোদন স্ট্যান্ড
+2371656	213	306	56	46	A wooden block holding up the boat	একটি কাঠের ব্লক যা নৌকাকে চেপে ধরে
+2391265	203	106	70	54	fence next to players	খেলোয়াড়দের পাশে বেড়া
+2337400	63	75	375	215	Oranges on a fruit stand	ফলের স্ট্যান্ডে কমলা
+2398929	126	77	238	170	a butcher block with knives	ছুরি দিয়ে কসাই ব্লক
+2388365	6	195	116	69	Cluttered night stand	বিশৃঙ্খলা নাইট স্ট্যান্ড
+311	294	51	206	235	tan house with lighter colored second floor	হালকা রঙ্গিন দ্বিতীয় তল সঙ্গে ট্যান ঘর
+2406039	53	234	104	35	two white chairs on tennis court	টেনিস কোর্টে দুটি সাদা চেয়ার
+2389698	264	15	161	125	a cross railway sign	একটি ক্রস রেলওয়ে সাইন
+2380053	165	55	174	276	a triangle forms on brick	একটি ত্রিভুজ ইট উপর ফর্ম
+2384550	20	330	161	135	A fast boat with people in it	এতে লোকজনের সাথে একটি দ্রুত নৌকা
+2407939	50	405	100	84	People waiting to cross street.	রাস্তা পার হওয়ার অপেক্ষায় থাকা মানুষ।
+2400231	387	70	42	120	the button to press for the light is below the signal	আলোর জন্য চাপতে বোতামটি সিগন্যালের নীচে
+2348151	7	293	490	34	dirt ground elephants stand on	ময়লা গ্রাউন্ড হাতি দাঁড়িয়ে আছে
+2318426	173	100	127	127	the springs on the motorcycle	মোটরসাইকেলের ঝর্ণা
+2395199	96	452	151	45	marked pedestrian cross walk	পথচারী ক্রস ওয়াক চিহ্নিত
+2404092	72	195	306	110	The water is flowing fast	জল দ্রুত প্রবাহিত হয়
+2316786	395	335	27	22	The word AUG in the date	তারিখের এওজি শব্দটি
+2413494	237	210	168	47	wooden slat that forms back of bench.	কাঠের স্লট যা বেঞ্চের পিছনে গঠন করে।
+2410557	49	48	143	230	the two male players are after the ball	দুই পুরুষ খেলোয়াড় বল পরে আছেন
+2338113	2	7	485	331	power lines cross in the air	শক্তি লাইন বাতাসে অতিক্রম
+2382182	305	443	62	56	area next to pot stand	পট স্ট্যান্ডের পাশের অঞ্চল
+2336626	170	79	159	119	fast food in the backgrond	ব্যাকগ্রাউন্ডে ফাস্টফুড
+2321472	413	291	52	80	this is a concrete yellow block	এটি একটি কংক্রিট হলুদ ব্লক
+2403257	222	276	91	45	shadow on tennis court.	টেনিস কোর্টে ছায়া।
+2336399	1	299	65	75	tennis court marked with white color	টেনিস কোর্ট সাদা রঙের সাথে চিহ্নিত
+2337450	206	391	91	87	a green Christmas tree stand	সবুজ ক্রিসমাস ট্রি স্ট্যান্ড
+2332878	132	310	38	113	a business man waiting to cross the street	একজন ব্যবসায়ী লোক রাস্তা পার হওয়ার অপেক্ষায়
+2346061	178	70	41	58	A white stand mixer	একটি সাদা স্ট্যান্ড মিশুক
+2323764	360	329	95	22	The time stamp is red.	সময় স্ট্যাম্প লাল।
+2343091	302	163	67	65	cross section of a broccoli stem	একটি ব্রোকলি স্টেম ক্রস বিভাগ
+2414183	1	178	111	117	players in the dugout.	খেলোয়াড়
+2345211	104	158	342	91	a green fence at a tennis court	টেনিস কোর্টে সবুজ বেড়া
+285938	39	394	386	273	person playing tennis on the court	ব্যক্তি কোর্টে টেনিস খেলছে
+2384037	85	59	310	240	Man trying to block the throwing of a frisbee	মানুষ একটি ফ্রিসবি নিক্ষেপ করার চেষ্টা করছে
+2327911	63	12	116	41	the balcony on the second floor	দ্বিতীয় তলায় বারান্দা
+2414689	66	188	215	78	Red dragon fruit on a fruit stand.	একটি ফলের স্ট্যান্ডে লাল ড্রাগন ফল।
+2352507	73	86	98	60	person setting in second seat of bus	ব্যক্তি বাসের দ্বিতীয় সিটে বসছে
+4657	222	134	14	130	The body of the stand up lamp.	দেহের স্ট্যান্ড আপ ল্যাম্প।
+2403222	27	109	243	252	The players are male.	খেলোয়াড়রা পুরুষ।
+2385398	92	108	391	333	A fence at a tennis court	টেনিস কোর্টে একটি বেড়া
+2396230	285	139	27	17	the date says 7-1	তারিখটি 7-1 বলে
+713408	397	117	223	156	picture hanging in the wall with anime characters	এনিমে অক্ষরগুলির সাথে দেয়ালে ঝুলন্ত ছবি
+2315902	25	347	100	79	a grill press	একটি গ্রিল প্রেস
+2372713	270	0	193	222	Bird models suspended in shopping mall.	শপিং মলে বার্ড মডেলগুলি স্থগিত করা হয়েছে।
+2400846	9	163	224	97	green wall on tennis court	টেনিস কোর্টে সবুজ প্রাচীর
+2371498	175	80	93	140	Woman in an english style saddle	মহিলা একটি ইংলিশ স্টাইলের স্যাডলে
+2380366	351	312	144	37	Photo date stamp	ছবির তারিখ স্ট্যাম্প
+2411495	64	421	135	32	the copyright and date stamp of the photographer	ফটোগ্রাফারের কপিরাইট এবং তারিখ স্ট্যাম্প
+2373657	9	268	133	116	a man stand on dock	একজন লোক ডকের উপরে দাঁড়িয়ে আছে
+2317638	51	157	112	270	two players wearing white shorts	সাদা শর্টস পরা দুই খেলোয়াড়
+2331722	146	27	285	215	People on the court playing tennis.	টেনিস খেলে কোর্টে লোকেরা।
+2384824	257	205	35	20	A blue fine on the surf board.	সার্ফ বোর্ডে একটি নীল জরিমানা।
+2374290	74	25	282	65	White potted flowers on the tennis court	টেনিস কোর্টে সাদা পাত্র ফুল
+2388969	291	162	204	211	a toasted english muffin	একটি টোস্টড ইংলিশ মাফিন
+2358208	50	27	85	111	Baseball player stealing second base	বেসবল খেলোয়াড় দ্বিতীয় বেস চুরি
+2331392	391	310	88	22	a date stamp for 2010/02/07	2010/02/07 এর জন্য একটি তারিখ স্ট্যাম্প
+2343669	91	1	200	60	second story of house	বাড়ির দ্বিতীয় গল্প
+2350987	365	42	31	62	Blue cross window on second floor	দ্বিতীয় তলায় নীল ক্রস উইন্ডো
+2378228	47	16	368	249	bird characters on top of a brown cake	একটি বাদামী পিষ্টকের উপরে পাখির অক্ষর
+2397222	298	172	124	69	a advertisement for highland springs	পার্বত্য অঞ্চলের ঝর্ণা জন্য একটি বিজ্ঞাপন
+2367750	22	273	329	221	the tennis court is made of grass	টেনিস কোর্ট ঘাস দিয়ে তৈরি
+4154	0	76	409	155	a line of runway models	রানওয়ে মডেলগুলির একটি লাইন
+2360514	399	324	77	17	yellow numbers showing the date	হলুদ সংখ্যা তারিখ দেখাচ্ছে
+2396237	205	61	267	246	A women skiing fast.	একজন মহিলা দ্রুত স্কিইং করছেন।
+2370668	87	381	209	91	cross country ski racers skiing up a hill.	ক্রস কান্ট্রি স্কি রেসাররা একটি পাহাড়ের উপরে স্কিইং করছে।
+2360566	23	95	85	84	Three women soccer players sitting on a bench.	তিনজন মহিলা ফুটবল খেলোয়াড় একটি বেঞ্চে বসে।
+2384823	265	19	162	180	decaying amazing building that looks like something between an aztec and buddhist shrine in the english countryside	ক্ষয়িষ্ণু বিস্ময়কর বিল্ডিং যা দেখতে ইংরাজির পল্লীতে অ্যাজটেক এবং বৌদ্ধবাদী মাজারের মাঝে কিছু মনে হচ্ছে
+1159721	501	563	162	167	A pot is fitted in a stand.	একটি স্ট্যান্ডে একটি পাত্র লাগানো হয়।
+2370324	84	111	222	56	Safety railing on second story of building	বিল্ডিংয়ের দ্বিতীয় গল্পের সুরক্ষা রেলিং
+2403695	93	6	85	135	Man sits floor cross legged	মানুষ মেঝে ক্রস পায়ে বসে
+2405318	1	393	156	93	White writing on a blue court.	নীল দরবারে সাদা লেখা।
+2331963	342	198	24	25	a very fast baseball	খুব দ্রুত বেসবল
+2384572	45	97	195	199	White clock face with brown characters	বাদামী বর্ণের সাথে সাদা ঘড়ির মুখ
+2384688	41	193	434	63	buildings are behind the road block	রোড ব্লকের পিছনে ভবনগুলি
+2399408	173	118	28	82	Young woman in grey sweatshirt hoping to block frisbee.	ফ্রিসবি ব্লক করার আশায় ধূসর সোয়েটশার্টে যুবতী।
+3905	78	172	304	185	people on the second floor	দ্বিতীয় তলায় মানুষ
+2354724	225	215	237	117	a red dirt tennis court	একটি লাল ময়লা টেনিস কোর্ট
+2333863	8	92	27	13	Black block with number on it	এটিতে নম্বর সহ ব্লক ব্লক
+2358542	256	119	242	237	stuffed disney characters	স্টাফ ডিজনি অক্ষর
+2403172	203	20	295	118	players waiting in dugout	খেলোয়াড় dugout মধ্যে অপেক্ষা
+2348915	51	148	190	135	baseball players white pants	বেসবল খেলোয়াড় সাদা প্যান্ট
+2371371	174	231	37	45	A motorcycle kick stand.	একটি মোটরসাইকেলের কিক স্ট্যান্ড।
+2320374	240	335	17	73	There is some fine sand here	এখানে কিছু সূক্ষ্ম বালি আছে
+2322945	8	97	120	196	a metal orange juice press	একটি ধাতব কমলা রস প্রেস
+2410706	223	43	75	175	a baseball players uniform	একটি বেসবল খেলোয়াড় ইউনিফর্ম
+2397603	139	66	359	150	Three baseball players on baseball field.	বেসবল মাঠে তিন বেসবল খেলোয়াড়।
+2373185	227	189	103	139	Booths at a street fair.	রাস্তার মেলায় বুথ।
+2361707	433	207	16	40	Back right foot of the second goat	দ্বিতীয় ছাগলের ডান পা পিছনে
+2383937	4	245	192	57	fine toothed blade of knife	ছুরি জরিমানা দাঁতযুক্ত ফলক
+2338873	24	12	98	92	guy's hand trying to block the camera	লোকটির হাত ক্যামেরাটি ব্লক করার চেষ্টা করছে
+2387150	301	176	67	121	Baseball in players right hand	খেলোয়াড়দের ডান হাতে বেসবল
+2369263	65	290	290	59	The second highest rail of the jump	লাফের দ্বিতীয় সর্বোচ্চ রেল
+2414888	4	0	140	31	a white paper not in english	একটি সাদা কাগজ ইংরেজি না
+2388199	384	161	54	51	green and white concession stand near umbrella	ছাতার কাছাকাছি সবুজ এবং সাদা ছাড়
+2402548	126	113	37	82	metal stand for ropes	দড়ি দড়ি জন্য স্ট্যান্ড
+2324022	147	109	87	165	an umbrella standing in a tennis court	টেনিস কোর্টে একটি ছাতা দাঁড়িয়ে আছে
+2320526	185	76	224	185	there are english and Chinese characters	ইংরেজি এবং চীনা অক্ষর আছে
+2381914	337	178	158	40	a bench along a tennis court	টেনিস কোর্ট বরাবর একটি বেঞ্চ
+2327556	57	37	259	460	a young girl with a fair complexion	একটি ফর্সা বর্ণের সঙ্গে একটি যুবা মেয়ে
+2385263	12	41	80	169	The players uniform is white	খেলোয়াড়দের ইউনিফর্ম সাদা
+2334905	61	246	72	55	a motorcycle side stand	মোটরসাইকেলের সাইড স্ট্যান্ড
+2415210	255	179	37	69	The second clock showing on the tower.	টাওয়ারে দেখানো দ্বিতীয় ঘড়ি।
+61525	13	488	1003	159	tennis court floor	টেনিস কোর্ট ফ্লোর
+1592015	509	132	29	36	cross on top of steeple	স্টেপল উপর ক্রস
+2348912	17	116	463	216	the players are on a field	খেলোয়াড়রা একটি মাঠে আছে
+2387291	159	96	78	80	the second car in the train	ট্রেনের দ্বিতীয় গাড়ি
+2373489	72	89	37	30	A TV stand sitting under TV	টিভির নিচে বসে একটি টিভি স্ট্যান্ড
+2372527	29	24	403	339	two young softball players sitting on the bench	দুই তরুণ সফটবল খেলোয়াড় বেঞ্চে বসে আছেন
+2352278	150	112	167	325	man on a tennis court on a sunny day	টেনিস কোর্টে এক রোদ রোজ মানুষ
+2350475	21	100	145	228	mass sheep and woolcraft fair ribbon	ভর মেষ এবং উলক্রাফট মেলা ফিতা
+2340791	155	97	146	132	the combs are fine	ঝুঁটি ভাল আছে
+2366739	351	108	40	24	cap on players head	খেলোয়াড়দের মাথায় ক্যাপ
+2328622	30	49	467	320	the models are red and black	মডেলগুলি লাল এবং কালো
+2404215	164	311	61	34	Green and red tennis court	সবুজ এবং লাল টেনিস কোর্ট
+2395627	80	67	157	287	a celtic cross stone monument	একটি সেল্টিক ক্রস পাথর স্মৃতিস্তম্ভ
+2368864	7	5	465	187	plants behind toy models	খেলনা মডেল পিছনে গাছপালা
+2362942	322	123	175	78	wave is moving fast	তরঙ্গ দ্রুত গতিতে চলছে
+2389320	149	10	216	315	red double decker bus with Chinese characters and number 8	চীনা অক্ষর এবং 8 নম্বর সহ লাল ডাবল ডেকার বাস
+2347705	29	230	54	45	this shop sells fine ales	এই দোকান জরিমানা বিক্রি করে
+2409284	215	200	130	125	orange street block	কমলা স্ট্রিট ব্লক
+2348567	8	10	480	115	cross section of fans at baseball game	বেসবল খেলায় ভক্তদের ক্রস বিভাগ
+2407642	320	41	61	147	large soft drink cup from a fast food restaurant or store	একটি ফাস্ট ফুড রেস্তোঁরা বা স্টোর থেকে বড় সফট ড্রিঙ্ক কাপ
+2388831	53	104	164	242	red bananas at a fruit stand	একটি ফল স্ট্যান্ডে লাল কলা
+2325480	0	13	393	194	train moving fast blurring image	দ্রুত চলা ট্রেনের ঝাপসা ছবি
+2367875	261	140	238	83	this sign is not in english	এই চিহ্নটি ইংরেজিতে নেই
+2328509	103	97	207	298	an apple cider press	একটি আপেল সিডার প্রেস
+497960	389	223	138	121	Black tv on top of brown stand.	ব্রাউন স্ট্যান্ডের উপরে কালো টিভি।
+2405046	417	118	80	39	a hand moving too fast for the camera	একটি হাত ক্যামেরার জন্য খুব দ্রুত গতিতে চলেছে
+2389540	14	243	30	22	Starps on the stand.	স্ট্যান্ডের উপর স্ট্র্যাপ্গুলো
+2324174	1	2	97	63	medium brown wood fine grained table	মাঝারি বাদামী কাঠ সূক্ষ্ম দানযুক্ত টেবিল
+2393927	76	195	65	110	Back of court is green.	কোর্টের পিছনে সবুজ।
+2411694	1	32	374	137	white trail that can only be made by incredibly fast planes	সাদা ট্রেইল যা কেবল অবিশ্বাস্যভাবে দ্রুত প্লেন দ্বারা তৈরি করা যায়
+2365509	441	55	22	25	score card being held by a man on tennis court	টেনিস কোর্টে একজন লোক দ্বারা স্কোর কার্ড রাখা হচ্ছে
+1140	92	202	101	67	Man seated at food court table	মানুষ ফুড কোর্টের টেবিলে বসে আছে
+2326682	108	203	30	23	black cap on players head	খেলোয়াড়দের মাথায় ব্ল্যাক ক্যাপ
+2345878	100	298	287	35	sydney written in white letters on court	সিডনি কোর্টে সাদা অক্ষরে লেখা
+2383151	217	232	45	21	fine whiskers on animal's chin	পশুর চিবুক উপর সূক্ষ্ম চুল
+2325168	69	160	124	117	a green chair on a tennis court	টেনিস কোর্টে একটি সবুজ চেয়ার
+2364969	206	264	170	85	Dollar amount of the penalty.	জরিমানার ডলার পরিমাণ।
+2386725	412	141	85	138	Baseball catcher watching players	খেলোয়াড়দের দেখছেন বেসবল ক্যাচার
+2372431	355	79	124	132	white Arabic characters on sign	সাইন ইন সাদা আরবী অক্ষর
+2408661	121	28	110	153	poster with cartoon characters	কার্টুন চরিত্রযুক্ত পোস্টার
+2317109	367	315	114	30	A time date stamp in the corner	কোণে একটি সময় তারিখ স্ট্যাম্প
+2336140	242	150	18	16	window planters outside second story	দ্বিতীয় তলের বাইরে উইন্ডো রোপনকারীরা
+2401413	243	68	50	38	green floor next to court	কোর্টের পাশের সবুজ তল
+713178	381	866	113	105	The boy has a orange stamp on his hand.	ছেলেটির হাতে কমলা স্ট্যাম্প রয়েছে।
+2378339	223	333	32	23	black mit in players hand	খেলোয়াড়দের হাতে কালো এমআইটি
+285883	313	498	36	46	cross next to the clock tower	ঘড়ির টাওয়ারের পাশ দিয়ে পার
+2395414	19	51	479	298	sheep running really fast	মেষ সত্যিই দ্রুত চলমান
+2404847	112	134	252	240	advertising to the state fair is mounted on the lamp post	রাষ্ট্র মেলায় বিজ্ঞাপন প্রদীপ পোস্টে লাগানো হয়
+2381845	91	199	74	37	bed pillow with cartoon characters on it	এটিতে কার্টুন চরিত্রগুলি সহ বিছানার বালিশ
+2317023	0	143	497	230	tennis court being used in a match	টেনিস কোর্ট একটি ম্যাচ ব্যবহার করা হচ্ছে
+2408358	78	357	17	58	Knives in wood block	কাঠের ব্লকে ছুরি
+2350911	9	98	490	190	part of the ball field with players getting ready to play	খেলোয়াড়দের খেলতে প্রস্তুত হয়ে বল মাঠের একটি অংশ
+2368900	1	112	490	130	the weather is fair	আবহাওয়া ভাল
+2412491	22	6	304	492	cement block siding on church	গির্জার উপর সিমেন্ট ব্লক সাইডিং
+285971	251	200	190	452	a man in the armed forces	সশস্ত্র বাহিনীর একজন
+2352701	23	14	474	305	The car is moving fast.	গাড়ি দ্রুত এগিয়ে চলেছে।
+2315994	410	0	86	330	block wall behind giraffe head	জিরাফ মাথার পিছনে প্রাচীর ব্লক
+2399143	171	234	19	37	yellow stand	হলুদ স্ট্যান্ড
+2378756	207	174	140	33	chinese characters are in the sign	চীনা অক্ষর চিহ্ন আছে
+2410773	323	12	86	43	the seat of the second motorcycle	দ্বিতীয় মোটরসাইকেলের সিট
+2405852	7	280	142	52	Green part of a tennis court.	টেনিস কোর্টের সবুজ অংশ।
+2346832	62	11	398	368	the wave moves fast	তরঙ্গ দ্রুত চলে আসে
+2355317	247	49	28	30	White second hand on the clock.	ঘড়িতে সাদা সেকেন্ডের কাঁটা
+2410079	4	189	370	112	green colored material separating the court	সবুজ রঙের জিনিস দিয়ে কোর্টটি আলাদা করা আছে
+2401317	8	176	316	194	The traffic lights stand out a lot.	অনেকগুলো ট্রাফিক লাইট
+2374570	230	266	65	47	fine stitching on leash	চেন এর উপর সূক্ষ্ম সেলাই
+498316	563	534	103	156	Kick stand on a motorcycle.	একটি মোটরসাইকেলের কিকস্টান্ড
+2336018	173	171	58	27	An electronic display showing the date	একটি বৈদ্যুতিন প্রদর্শন তারিখটি দেখায়
+2323607	58	127	159	182	cement block facade on a building	একটি বিল্ডিং সিমেন্ট ব্লক সম্মুখের
+2376928	330	78	95	200	person forces cow to ramble over rocks for unknown reason	ব্যক্তি অজানা কারণে গাভীকে পাথরের উপরে চলাফেরা করতে বাধ্য করে
+2398241	277	375	122	61	a cross walk across street white pattern	রাস্তার সাদা প্যাটার্ন জুড়ে ক্রস ওয়াক
+2347389	9	65	262	145	two lemons together on a block	একটি ব্লকে দুটি লেবু একসাথে
+2407073	175	71	50	30	white teeth-like forms on top of wing	ডানা উপরে সাদা দাঁত মত ফর্ম
+2334056	329	43	18	93	date in red letters and numerals	লাল বর্ণ এবং সংখ্যাগুলিতে তারিখ
+2347753	338	107	78	105	empire near second base	দ্বিতীয় বেস কাছাকাছি সাম্রাজ্য
+2364340	132	171	127	95	second place is wearing yellow	দ্বিতীয় স্থান হলুদ পরা হয়
+2325449	247	127	57	110	man in the middle of tennis court	টেনিস কোর্টের মাঝখানে মানুষ
+2353768	83	294	188	128	The second sign says 4 way.	দ্বিতীয় চিহ্নটি 4 উপায় বলে।
+2315814	65	175	430	181	five wheels on the court	কোর্টে পাঁচ চাকা
+285844	313	149	471	517	Red T-shirt with white cross patch	সাদা ক্রস প্যাচ সহ লাল টি-শার্ট
+4212	328	368	47	65	small white rocking chair with mother and child models in it	এতে মা ও শিশুদের মডেল সহ ছোট ছোট দোলের চেয়ার
+2389255	75	12	108	129	The comb is fine toothed.	চিরুনিটি দাঁতযুক্ত is
+2348363	368	314	119	33	date stamp on the photo	ছবির উপর তারিখ স্ট্যাম্প
+2400226	185	105	43	57	Chinese characters on the sign	সাইন ইন চীনা অক্ষর
+2387495	3	4	462	44	The sky is fair.	আকাশটা ফর্সা।
+2361959	12	3	404	259	a green court	সবুজ কোর্ট
+2400237	370	2	57	248	a woman walking throw a trade fair	একজন মহিলা হাঁটছেন একটি বাণিজ্য মেলা
+2415736	448	245	51	18	A crowd of people standing at the fair.	মেলায় দাঁড়িয়ে মানুষের ভিড়।
+2388714	95	56	63	76	a man standing on court	একজন লোক কোর্টে দাঁড়িয়ে
+2325267	151	25	89	150	cross on a building	একটি বিল্ডিং উপর ক্রস
+2396663	304	297	67	30	the players shoes have spikes	প্লেয়ার জুতা স্পাইক আছে
+2417191	14	231	21	45	A large brown block.	একটি বড় বাদামী ব্লক।
+2392523	179	117	185	212	Man skiing fast	ম্যান দ্রুত স্কিইং
+2325094	129	297	129	37	the person has fair skin	ব্যক্তির ফর্সা ত্বক আছে
+2386781	266	279	171	47	Skid foot marks on a tennis court	টেনিস কোর্টে স্কিড পায়ের চিহ্ন
+2391614	120	166	162	189	a woman in a fair isle sweater	ফর্সা আইল সোয়েটারের এক মহিলা
+2405347	131	41	41	23	Shadow on the ground of the second racket from the left	বাম দিক থেকে দ্বিতীয় র‌্যাকেটের মাটিতে ছায়া
+2322755	219	9	40	45	A backwards baseball hat on the players head.	খেলোয়াড়দের মাথার পিছনে একটি বেসবল টুপি।
+2371762	17	305	149	23	a watermark and date	একটি জলছবি এবং তারিখ
+2319060	99	210	37	23	the toys are on the stand	খেলনা স্ট্যান্ডে আছে
+2400763	288	81	187	174	a second statue of a cow	একটি গরুর দ্বিতীয় মূর্তি
+2321462	1	119	112	191	large crack in tennis court	টেনিস কোর্টে বড় ফাটল
+2339494	1	79	497	295	The white ice models in the room.	ঘরে সাদা বরফের মডেল।
+2343362	128	267	102	57	hairy arm with fair pale skin	ফর্সা ফ্যাকাশে ত্বক সঙ্গে লোমশ বাহু
+2029	364	258	75	50	Paper on night stand	নাইট স্ট্যান্ডে কাগজ
+2370289	372	327	92	25	date stamp that reads 12/04/2010	তারিখ স্ট্যাম্প যা 12/04/2010 পড়বে
+2341047	50	235	147	27	Yellow criss cross on the street by train.	ট্রেনে রাস্তায় হলুদ ক্রাইসস অতিক্রম করে।
+2343928	295	180	60	60	base ball opponent players	বেস বল প্রতিপক্ষের খেলোয়াড়
+2413969	12	82	272	237	three baseball players playing a game	তিনটি বেসবল খেলোয়াড় একটি খেলা খেলছে
+2376954	89	253	88	87	The white bins on the second shelf of the fridge.	ফ্রিজের দ্বিতীয় তাকের সাদা পাতাগুলি।
+2406956	291	232	56	60	fine texture of feathers	পালকের সূক্ষ্ম জমিন
+2361127	0	50	330	45	large orange and green sign giving name and date	নাম এবং তারিখ প্রদত্ত বড় কমলা এবং সবুজ চিহ্ন
+2425	650	447	24	73	green cross on top of building	বিল্ডিংয়ের উপরে সবুজ ক্রস
+2320317	20	97	478	220	colorful bus parked next to a stand and umbrella	স্ট্যান্ড এবং ছাতার পাশেই পার্কিং রঙিন বাস
+2347025	5	2	493	370	a purple umbrella with little cartoon characters	ছোট্ট কার্টুন চরিত্র সহ একটি বেগুনি ছাতা
+2406706	68	7	239	317	the date is shown on the outter portion	তারিখটি বহির্মুখী অংশে প্রদর্শিত হয়
+2340616	65	256	37	25	fast moving ball towards home plate	হোম প্লেটের দিকে দ্রুত চলমান বল
+2373674	90	118	239	212	a fast food ordering bar	একটি ফাস্ট ফুড অর্ডার বার
+2318187	371	319	90	15	The date 02/10/2009.	তারিখ 02/10/2009।
+2339107	7	98	440	58	train going by fast	দ্রুত যেতে ট্রেন
+2371811	395	336	102	35	date and time stamp	তারিখ এবং সময় স্ট্যাম্প
+2348705	70	446	32	37	person has fair colored skin	ব্যক্তির ফর্সা বর্ণের ত্বক থাকে
+2414441	3	485	118	12	the copyright stamp on the photo	ছবির কপিরাইট স্ট্যাম্প
+2324578	185	73	312	121	grey fine toothed comb	ধূসর জরিমানা দাঁতযুক্ত ঝুঁটি
+2371596	27	4	466	363	pizza on a butcher block table	কসাই ব্লক টেবিলে পিজ্জা
+2399680	195	118	50	17	gold Chinese characters on a red flag	একটি লাল পতাকায় স্বর্ণের চীনা অক্ষর
+2384145	340	308	97	40	The date stamp on the photo.	ছবির উপর তারিখ স্ট্যাম্প।
+2415032	1	109	33	71	red and white cross on man's shoulder	মানুষের কাঁধে লাল এবং সাদা ক্রস
+2412741	12	184	146	141	second bird is standing on car	দ্বিতীয় পাখি গাড়িতে দাঁড়িয়ে আছে
+1159682	428	592	383	87	white lines painted on court	সাদা লাইন কোর্টে আঁকা
+2323353	10	20	481	281	A tennis court has snow on the surface	একটি টেনিস কোর্টের তলদেশে বরফ রয়েছে
+2328963	315	434	46	62	a metal stand under the seat of a bench	একটি বেঞ্চের সিটের নীচে একটি ধাতব স্ট্যান্ড
+2405721	23	32	475	265	a railing forms a corner sitting area	একটি রেলিং কোণার বসার অঞ্চল গঠন করে
+2414841	118	222	81	109	boy sitting cross-legged on ground	ছেলেটি মাটিতে ক্রস লেগে বসে আছে
+2381359	128	318	121	13	date and hotel that the photo was taken	তারিখ এবং হোটেল যে ছবি তোলা হয়েছিল
+2357970	103	362	135	76	fine china with flower design	ফুলের নকশা সহ সূক্ষ্ম চীন
+2351059	5	169	486	165	green field next to players	খেলোয়াড়দের পাশে সবুজ ক্ষেত্র
+2337228	384	135	115	184	black metal cross-walk light	কালো ধাতব ক্রস ওয়াক আলো
+2404456	160	100	29	31	a lone spectator behind the tennis players	টেনিস খেলোয়াড়দের পিছনে একাকী দর্শক
+2409384	418	15	69	14	the picture has a date stamp	ছবিটিতে একটি তারিখের স্ট্যাম্প রয়েছে
+2352697	398	28	63	141	Calendar has star wars characters on it	ক্যালেন্ডারে এতে তারকা যুদ্ধের অক্ষর রয়েছে
+2388311	264	6	210	102	spectator seats at a tennis court	টেনিস কোর্টে দর্শকের আসন
+2379175	215	76	117	423	a hard true tennis court	একটি কঠিন সত্য টেনিস কোর্ট
+2329041	99	382	175	95	Grate over a concrete block	একটি কংক্রিট ব্লকের উপর কষান
+2336627	181	171	90	36	foreign characters on the vehicle's side	গাড়ির পাশে বিদেশী অক্ষর
+2352371	172	240	129	40	wood platform for bird to stand on	পাখি দাঁড়িয়ে জন্য কাঠের প্ল্যাটফর্ম
+2412900	32	72	445	281	Woman going fast downhill.	মহিলা দ্রুত উতরাইয়ের দিকে যাচ্ছে।
+2407415	80	15	336	115	second floor windows	দ্বিতীয় তলার জানালা
+2403736	290	150	44	35	second red and blue train	দ্বিতীয় লাল এবং নীল ট্রেন
+2346424	377	139	36	82	White lamp shade on tall stand	লম্বা স্ট্যান্ডে সাদা ল্যাম্প শেড
+2344409	292	165	36	88	fast pass tickets on bus window	বাসের জানালায় দ্রুত পাসের টিকিট
+2387443	338	86	160	240	an english style toilet	একটি ইংরেজি স্টাইল টয়লেট
+2315526	436	274	62	60	Large models in the park field	পার্ক মাঠে বড় মডেল
+2383301	0	271	41	214	chair is decorated with Disney characters	চেয়ার ডিজনি অক্ষর সজ্জিত
+2333725	138	140	77	27	knife on the chopping block	কাটা ব্লকের উপর ছুরি
+2404278	40	280	92	165	A bed of steel springs	স্টিলের ঝর্ণার একটি বিছানা
+4215	36	31	386	291	this is a fast food place	এটি একটি ফাস্ট ফুডের জায়গা
+1593198	266	77	92	152	beige table lamp on stand	স্ট্যান্ডে বেইজ টেবিল ল্যাম্প
+285602	367	63	646	617	the tennis court	টেনিস কোর্ট
+2358802	304	123	65	84	trunk of elephant forms a C	হাতির ট্রাঙ্ক একটি সি গঠন করে
+2381902	9	36	215	209	food on english muffin with yellow sauce	হলুদ সসের সাথে ইংলিশ মাফিনে খাবার
+2368085	23	153	210	117	This part of the court is blue	কোর্টের এই অংশটি নীল
+2398695	170	15	71	22	an attraction for a fair	একটি মেলা জন্য আকর্ষণ
+2328447	9	278	434	62	blue box on tennis court	টেনিস কোর্টে ব্লু বক্স
+2115	262	327	77	94	black metal plant stand	কালো ধাতব উদ্ভিদ স্ট্যান্ড
+2380962	239	75	257	154	the players hanging out in the dugout	খেলোয়াড়রা হতাশায় ঝুলছে
+2413216	136	229	26	11	Base of the yellow umbrella second from the left	বাম থেকে দ্বিতীয় হলুদ ছাতা বেস
+2317421	236	283	27	29	the black fast forward arrow	কালো দ্রুত এগিয়ে তীর
+2318582	275	233	69	97	Orange color night lamp with wooden stand	কাঠের স্ট্যান্ড সহ কমলা রঙের নাইট ল্যাম্প
+2359817	12	10	25	166	line where block fit together	ব্লক যেখানে একসাথে ফিট
+2381615	71	191	97	117	bat stand in middle of bats	ব্যাট ব্যাট এর মাঝখানে
+2403426	138	226	97	122	doilee stand is silver	দোয়েলি স্ট্যান্ড সিলভার is
+2417016	359	345	20	17	person on the court wearing black shirt	কোর্টে কালো শার্ট পরা ব্যক্তি
+2409622	15	5	480	96	different plane models are seen.	বিভিন্ন বিমানের মডেল দেখা যায়।
+2333896	24	334	64	48	Two press buttons of the sweater	সোয়েটারের দুটি প্রেস বোতাম
+2343638	357	348	141	26	Time and date stamp in corner	কোণে সময় এবং তারিখ স্ট্যাম্প
+2343784	89	165	140	31	The stand of the t.v.	T.v. এর স্ট্যান্ড
+2374149	410	278	89	95	sharp knife on the chopping block	কাটা ব্লকের উপর ধারালো ছুরি
+2364685	330	177	99	71	second bird on right	ডানদিকে দ্বিতীয় পাখি
+2320861	215	211	25	70	woman wearing dress about to cross street	রাস্তায় পার হওয়ার জন্য পোশাক পরা মহিলা
+2400160	187	280	96	118	two motor cycle springs	দুটি মোটর চক্র স্প্রিংস
+2355397	129	27	74	95	a lava lamp on stand	স্ট্যান্ডে একটি লাভা বাতি
+2415000	325	205	111	90	black springs	কালো ঝর্ণা
+2398023	214	144	22	61	a mirror on a stand	একটি স্ট্যান্ডে একটি আয়না
+2356632	0	124	359	371	green grass as tennis court	টেনিস কোর্ট হিসাবে সবুজ ঘাস
+2371360	68	130	103	284	antique golf clubs and stand	প্রাচীন গল্ফ ক্লাব এবং স্ট্যান্ড
+2373028	291	247	159	63	wheels of train with springs	স্প্রিংস সঙ্গে ট্রেন চাকা
+1234	417	242	24	36	clear plastic French press	পরিষ্কার প্লাস্টিক ফ্রেঞ্চ প্রেস
+2386185	382	285	77	38	fine brown dirt	সূক্ষ্ম বাদামী ময়লা
+2385469	310	145	42	54	lifeguard stand is blue and white	লাইফগার্ড স্ট্যান্ড নীল এবং সাদা
+2380221	86	100	401	227	fast food	ফাস্ট ফুড
+2341826	55	461	6	5	a red cross on the paper	কাগজে একটি রেড ক্রস
+2413967	59	258	286	223	a fast food meal served on a white plate	একটি ফাস্ট প্লেট একটি সাদা প্লেটে পরিবেশন করা
+2333371	233	141	55	81	Dirt is on the baseball players outfit	গ্লাসটি বেসবল খেলোয়াড়দের পোশাকে রয়েছে
+4432	401	190	395	164	A cinder block wall.	একটি সিন্ডার ব্লক প্রাচীর।
+2387768	17	143	234	306	Man playing tennis on purple and green tennis court.	ম্যান বেগুনি এবং সবুজ টেনিস কোর্টে টেনিস খেলছেন।
+2370952	215	152	38	60	Cartoon characters on his shirt	তার শার্টে কার্টুন চরিত্রগুলি
+2375546	423	155	46	57	black TV stand with flat screen	ফ্ল্যাট পর্দা সঙ্গে কালো টিভি স্ট্যান্ড
+2355568	10	37	468	335	Some people are at the county fair	কিছু লোক কাউন্টি মেলায় আছেন
+2346238	284	76	75	129	charger stand on a desk	চার্জার একটি ডেস্ক স্ট্যান্ড
+2363270	191	221	216	111	security forces vehicle with open windows	নিরাপত্তা বাহিনী খোলা জানালা দিয়ে যানবাহন
+1201	62	191	362	294	Staircase leading to the second floor	সিঁড়ি দ্বিতীয় তলায় এগিয়ে
+2369469	0	0	497	119	a stand of snow covered trees	বরফ ঢাকা গাছের একটি স্ট্যান্ড
+2415158	35	76	320	106	Three different cellphone models	তিনটি পৃথক সেলফোন মডেল
+2327005	222	152	47	42	this is the cross	এই ক্রস হয়
+2353452	183	128	152	41	hedge bush growing outside of the tennis court	টেনিস কোর্টের বাইরে হেজ বুশ বাড়ছে
+2340497	108	237	112	47	a fine skateboard	একটি দুর্দান্ত স্কেটবোর্ড
+2391133	267	96	35	103	the trees in the tennis court	টেনিস কোর্টে গাছ
+2334926	127	101	48	106	wood cross	কাঠ ক্রস
+2332621	266	96	20	52	a knife block on the shelf	বালুচর উপর একটি ছুরি ব্লক
+150307	16	23	413	345	line of trees to the left of the court	কোর্টের বামে গাছের লাইন
+2379063	188	99	85	174	surfer stand a surfboard	surfer একটি surfboard স্ট্যান্ড
+2372779	185	118	180	10	date book with plastic cover	প্লাস্টিকের কভার সহ তারিখের বই
+2325563	160	113	42	68	a stamp in the wood	কাঠ একটি স্ট্যাম্প
+498256	496	393	124	42	yellow time and date stamp	হলুদ সময় এবং তারিখ স্ট্যাম্প
+2384788	7	78	485	179	some kind of festival or fair	কোন এক উত্সব বা মেলা
+2349336	219	22	110	211	gate/door to fence surrounding court	দরজার আশেপাশে বেড়া দরজা / দরজা
+2375004	5	55	470	190	The bench the players are sitting on.	খেলোয়াড়রা বসে আছেন বেঞ্চে।
+2350121	181	178	9	12	Helmet on the second horse rider.	দ্বিতীয় ঘোড়সওয়ারে হেলমেট
+2330960	86	429	74	25	poles that block entrance by large vehicles	বড় বড় যানবাহন দিয়ে খুঁটিগুলি প্রবেশ পথ আটকে দেয়
+2361138	182	257	151	42	black shadow on baseball field beneath baseball players feet	বেসবল খেলোয়াড়দের পায়ের নীচে বেসবল মাঠে কালো ছায়া
+2366	340	322	40	131	sign on brass stand	পেতলের স্ট্যান্ড এর উপর সাইন
+2351584	7	118	77	35	Soccer players sitting on a bench	একটি বেঞ্চে বসে সকার খেলোয়াড়রা
+2389028	108	253	149	43	the second hand of the clock	ঘড়ির সেকেন্ডের কাঁটা
+61533	271	26	498	286	A girl on the tennis court is preparing to hit the ball	টেনিস কোর্টের একটি মেয়ে বলটি মারার প্রস্তুতি নিচ্ছে
+2354747	287	15	55	72	brick building on a city block	একটি শহর ব্লকে ইট নির্মাণ
+2409295	179	310	110	104	foul lines marking the court	ফাউল লাইন দিয়ে কোর্টে দাগ টানা
+2345452	279	109	53	116	A large screen with information about the players.	খেলোয়াড়দের সম্পর্কে তথ্য সহ একটি বড় পর্দা।
+2411389	351	137	72	77	part of a tennis court	একটি টেনিস কোর্ট অংশ
+2412947	148	412	81	26	baseball players shoe	বেসবল খেলোয়াড় জুতো
+2381993	262	416	69	83	a golden stand for the tub	টব জন্য একটি সোনার স্ট্যান্ড
+2323129	3	2	489	329	the trains are toy models	ট্রেনগুলি খেলনা মডেল
+2400459	141	37	27	67	baseball bat in players hands	খেলোয়াড়দের হাতে বেসবল ব্যাট
+2330753	64	104	18	34	person in black with a camera at the side of the court	কোর্টের পাশে ক্যামেরা সহ কালো রঙের ব্যক্তি
+2402640	203	203	37	25	press type electric cooking grill	বৈদ্যুতিন রান্না গ্রিল প্রেস
+2358080	174	158	100	175	Award for state fair pears	রাজ্য মেলা নাশপাতি জন্য পুরষ্কার
+2401219	164	155	96	89	players shorts are red	খেলোয়াড়দের হাফপ্যান্টগুলি লাল
+2367507	3	268	92	79	The sole of a second green shoe.	দ্বিতীয় সবুজ জুতা একক।
+2412236	122	235	171	264	the players uniform is green and white	খেলোয়াড়দের ইউনিফর্ম সবুজ এবং সাদা
+2348099	280	73	12	52	The yellow vase on the second shelf on the right.	ডানদিকে দ্বিতীয় তাকের হলুদ দানি।
+2354663	1	0	495	217	a group of game officials at the corner of tennis court	টেনিস কোর্টের এক কোণে গেমের এক আধিকারিক
+2336854	2	246	371	252	large patch of grass next to fast food restaurant	ফাস্ট ফুড রেস্তোরাঁয়ের পাশে ঘাসের বড় প্যাচ
+2397593	312	131	30	146	Silver springs on the side of bike.	সাইকেলের পাশে সিলভার স্প্রিংস।
+2377607	0	0	75	37	White copyright stamp	সাদা কপিরাইট স্ট্যাম্প
+2388097	84	309	75	22	the word front on the sign in the english section	ইংরেজি বিভাগে সাইন ইন শব্দটি সামনে
+2344608	127	107	94	39	Chinese characters on the window	উইন্ডোতে চীনা অক্ষর
+2155	466	168	106	99	wide brown night stand	প্রশস্ত ব্রাউন নাইট স্ট্যান্ড
+2341866	10	325	36	19	cartoon characters on the bottle	বোতল উপর কার্টুন অক্ষর
+2340254	112	116	47	61	top glass block in wall	দেয়ালে শীর্ষ গ্লাস ব্লক
+2340632	399	110	86	177	A stand with devices on it and wires behind it.	এটিতে থাকা ডিভাইস এবং এর পিছনে তারযুক্ত একটি স্ট্যান্ড।
+150476	6	196	981	446	Several forms of public transportation	গণপরিবহন বিভিন্ন ধরণের
+2392898	0	158	388	70	second skateboard in picture	ছবিতে দ্বিতীয় স্কেটবোর্ড
+2365717	60	175	82	87	really fast moving hand	সত্যিই দ্রুত চলন্ত হাত
+107932	583	356	90	83	blue television on stand	স্ট্যান্ড নীল টেলিভিশন
+2331276	149	10	41	38	The stand in the background with products the color white.	সাদা রঙের পণ্যগুলির সাথে পটভূমিতে স্ট্যান্ড।
+4641	283	247	131	90	A big tv on a stand	স্ট্যান্ডে একটি বড় টিভি
+2402228	69	107	175	222	group of cross country skiers	ক্রস কান্ট্রি স্কিয়ার গ্রুপ
+2333924	148	150	49	27	Screen of second laptop on desk	ডেস্কে দ্বিতীয় ল্যাপটপের স্ক্রিন
+2404535	345	326	127	21	A time stamp	একটি সময় স্ট্যাম্প
+2354508	223	36	132	144	computer monitor on stand	স্ট্যান্ডে কম্পিউটার মনিটর
+2333697	171	335	131	37	white forms on a keyboard	একটি কীবোর্ডে সাদা ফর্ম
+1274	173	346	270	147	the court is made of sand	কোর্ট বালু দিয়ে তৈরি
+2335242	0	0	148	343	stone block building side	পাথর ব্লক বিল্ডিং পাশ
+2360111	344	70	51	34	fence around the court.	কোর্টের চারপাশে বেড়া
+2395107	284	256	52	51	Blue scooter kick stand	ব্লু স্কুটার কিক স্ট্যান্ড
+2384757	0	373	331	39	small patch of grass beside a tennis court	টেনিস কোর্টের পাশে ঘাসের ছোট প্যাচ
+2358720	77	20	35	52	a fence between the field and players	মাঠ এবং খেলোয়াড়দের মধ্যে একটি বেড়া
+2414143	445	110	52	76	Sponsor signs hanging on the walls of the tennis court.	টেনিস কোর্টের দেয়ালে ঝুলন্ত স্পনসর লক্ষণ।
+2941	395	287	137	153	Many stairs up to a second story.	অনেকগুলি সিঁড়ি দ্বিতীয় তলা পর্যন্ত।
+2334985	235	184	244	82	section of fine gray sand	সূক্ষ্ম ধূসর বালির বিভাগ
+2411200	96	223	27	156	Blue, yellow and white stripes on players uniform.	খেলোয়াড়দের ইউনিফর্মে নীল, হলুদ এবং সাদা ফিতে।
