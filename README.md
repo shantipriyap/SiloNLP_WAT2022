@@ -2,6 +2,13 @@
 
 The repository contains the code/data for Workshop on Asian Translation (WAT2022).
 
+## Environment Details
+
+* Pytorch
+* sentencepiece
+* sacrebleu
+* transformers
+
 
 ## Multimodal Tasks 
 
