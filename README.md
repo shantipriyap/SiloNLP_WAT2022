@@ -9,6 +9,17 @@ The repository contains the code/data for Workshop on Asian Translation (WAT2022
 * sacrebleu
 * transformers
 
+Note: Based on you environment (e.g. CUDA) select the Pytorch version
+Example: 
+Name: torch
+Version: 1.7.1+cu110
+Name: transformers                          
+Version: 4.6.0
+Name: sentencepiece                         
+Version: 0.1.96
+Name: sacrebleu                             
+Version: 1.5.1
+
 
 ## Multimodal Tasks 
 
