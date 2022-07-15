@@ -61,3 +61,9 @@ $ python finetune_mbart.py hi multimodal ../data/prepared_object_tags/hvg
 $ python finetune_mbart.py bn multimodal ../data/prepared_object_tags/bvg
 $ python finetune_mbart.py ml multimodal ../data/prepared_object_tags/mvg
 ```
+
+Finetune mBART for multimodal translation with concatenated HVG and Flickr data
+
+```
+$ python finetune_mbart.py hi multimodal ../data/$ python finetune_mbart.py hi multimodal ../data/prepared_object_tags_concat_hvg_flickr/hvg
+```
