@@ -1,6 +1,6 @@
-# WAT2022
+# SiloNLP_WAT2022
 
-The repository contains the code/data of team "Silo AI's" participation at the Workshop on Asian Translation (WAT2022) for the below tasks.
+The repository contains the code/data of team "Silo NLP's" participation at the Workshop on Asian Translation (WAT2022) for the below tasks.
 * English->Hindi Multimodal Translation 
 * English->Malayalam Multimodal Translation
 * English->Bengali Multimodal Translation
