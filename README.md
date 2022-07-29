@@ -1,6 +1,22 @@
 # WAT2022
 
-The repository contains the code/data for Workshop on Asian Translation (WAT2022).
+The repository contains the code/data of team "Silo AI's" participation at the Workshop on Asian Translation (WAT2022) for the below tasks.
+* English->Hindi Multimodal Translation 
+* English->Malayalam Multimodal Translation
+* English->Bengali Multimodal Translation
+
+## Assumption
+The object tags were already extracted using Faster-RCNN and added to the repository for multimodal machine translation (MMT).
+
+## Abbreviations Used 
+* Hindi Visual Genome -- HVG
+* Malayalam Visual Genome -- MVG
+* Bengali Visual Genome -- BVG
+* English -- EN
+* Hindi -- HI
+* Malayalam -- ML
+* Bengali -- BN
+
 
 ## Environment Details
 
