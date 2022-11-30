@@ -84,3 +84,21 @@ Finetune mBART for multimodal translation with concatenated HVG and Flickr data
 $ python prepare_hvg_and_flickr_object_tags_appended_data.py
 $ python finetune_mbart.py hi multimodal ../data/prepared_object_tags_concat_hvg_flickr/hvg
 ```
+
+If you are using the code, please cite the associated paper:
+
+@inproceedings{parida-etal-2022-silo,
+    title = "Silo {NLP}{'}s Participation at {WAT}2022",
+    author = {Parida, Shantipriya  and
+      Panda, Subhadarshi  and
+      Gr{\"o}nroos, Stig-Arne  and
+      Granroth-Wilding, Mark  and
+      Koistinen, Mika},
+    booktitle = "Proceedings of the 9th Workshop on Asian Translation",
+    month = oct,
+    year = "2022",
+    address = "Gyeongju, Republic of Korea",
+    publisher = "International Conference on Computational Linguistics",
+    url = "https://aclanthology.org/2022.wat-1.12",
+    pages = "99--105",
+  }
